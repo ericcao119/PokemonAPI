@@ -1,4 +1,4 @@
-from bson.codec_options import TypeRegistry, CodecOptions
+from bson.codec_options import TypeRegistry
 
 from src.utils.codec_helpers import EnumCodecFactory
 from src.utils.codec_helpers import DataclassCodecFactory

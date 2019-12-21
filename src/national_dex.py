@@ -2,16 +2,15 @@
 import bs4
 
 from bs4 import BeautifulSoup
-from pathlib import Path
 from config import NationalDex
 from collections import namedtuple
 
 from src.data.ptype import PType
 
-'''
-TODO Add information about forms since some pokemon like Raticate are missing regional dex numbers, 
-but are still listed due to different typing
-'''
+
+"""TODO Add information about forms since some pokemon like Raticate are missing regional dex numbers,
+but are still listed due to different typing"""
+
 
 DexEntry = namedtuple(
     'DexEntry', ['variant', 'ndex', 'image_url', 'name', 'type1', 'type2'])
@@ -27,12 +26,12 @@ def parse_list():
 
     lines = [tag('tr') for tag in regional_dexes]
 
-    pokemon = {}    
+    pokemon = {}
     for i in range(len(regional_dexes)):
         for j in range(1, len(lines[i])):
             entry = pokemon_from_line(lines[i][j])
-            
-            if not entry.name in pokemon:
+
+            if entry.name not in pokemon:
                 pokemon[entry.name] = entry
     print(list(pokemon.values()))
 

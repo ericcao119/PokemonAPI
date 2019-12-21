@@ -1,7 +1,5 @@
 import enum
 
-from src.utils.codec_helpers import EnumCodecFactory
-
 
 class PType(enum.Enum):
     INVALID = -1,

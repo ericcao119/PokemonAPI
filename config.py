@@ -1,7 +1,6 @@
 import logging
 
 from pathlib import Path
-from collections import namedtuple
 
 from src.data.codec import TYPE_REGISTRY
 from bson.codec_options import CodecOptions
@@ -14,12 +13,10 @@ FormDifferences = CACHE_DIR/'FormDifferences.html'
 AbilityList = CACHE_DIR/'AbilityList.html'
 
 URLS = {
-    NationalDex : 'https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number',
-    FormDifferences : 'https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_with_form_differences',
+    NationalDex: 'https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number',
+    FormDifferences: 'https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_with_form_differences',
     AbilityList: 'https://pokemondb.net/ability',
 }
-
-# headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'}
 
 logging.basicConfig(filename='output.log',
                     filemode='a',

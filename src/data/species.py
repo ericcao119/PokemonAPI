@@ -1,4 +1,3 @@
-import pprint
 from dataclasses import dataclass, asdict, field
 from bson import ObjectId
 from typing import List, Dict, Any
@@ -17,10 +16,11 @@ ItemName = str
 SpeciesName = str
 VariantName = str
 
+
 @dataclass
 class Evolution:
     """Requirements"""
-    _id: ObjectId = field(default_factory=lambda:ObjectId())
+    _id: ObjectId = field(default_factory=lambda: ObjectId())
     evolution_type: EvolutionType = EvolutionType.INVALID
     item_reqr: ItemName = ''
     numeric_reqr: int = -1
@@ -32,6 +32,7 @@ class Evolution:
 
     def asdict(self) -> Dict[str, Any]:
         return asdict(self)
+
 
 @dataclass
 class Species:
@@ -80,20 +81,20 @@ class Species:
 
     regional_dex_nums: List[int] = field(default_factory=lambda: [])
 
-    # The chances of holding the item are 50%, 5% and 1% respectively. 
-    # If all three are the same item, then the chance of holding it is 100% instead. 
+    # The chances of holding the item are 50%, 5% and 1% respectively.
+    # If all three are the same item, then the chance of holding it is 100% instead.
 
     wild_item_common: ItemName = ''
     wild_item_uncommmon: ItemName = ''
     wild_item_rare: ItemName = ''
 
-    BattlerPlayerY : int = 0
+    BattlerPlayerY: int = 0
     BattlerEnemyY: int = 0
     BattlerAltitude: int = 0
 
     evolutions: List[Evolution] = field(default_factory=lambda: [])
 
-    _id: ObjectId = field(default_factory=lambda:ObjectId())
+    _id: ObjectId = field(default_factory=lambda: ObjectId())
 
     def asdict(self) -> Dict[str, Any]:
         return asdict(self)
