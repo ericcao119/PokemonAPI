@@ -1,17 +1,17 @@
 from bs4 import BeautifulSoup
-import config
 import functools
 
 import src.gather_files
 import src.national_dex
 from src.utils.utils import separate_conjuctive
+from config import FormDifferences
 
 
 src.gather_files.populate_cache()
 
 
 def form_differences_list():
-    with config.FormDifferences.open('r') as f:
+    with FormDifferences.open('r') as f:
         html = f.read()
 
     soup = BeautifulSoup(html, 'html.parser')
@@ -49,4 +49,4 @@ def form_differences_list():
 
 
 # form_differences_list()
-src.national_dex.parse_list()
+# src.national_dex.parse_list()

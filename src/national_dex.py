@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from config import NationalDex
 from collections import namedtuple
 
-from src.data.ptype import PType
+from src.data.poke_enums import PType
 
 
 """TODO Add information about forms since some pokemon like Raticate are missing regional dex numbers,
