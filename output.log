@@ -1,0 +1,11 @@
+23516 MainProcess  2019-12-20 20:17:12,172 root INFO Skipping https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number since /home/tfpenguin/CodeProjects/PokemonScraper/cache/NationalDex.html already exists
+23516 MainProcess  2019-12-20 20:17:12,180 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): bulbapedia.bulbagarden.net:443
+23516 MainProcess  2019-12-20 20:17:12,412 urllib3.connectionpool DEBUG https://bulbapedia.bulbagarden.net:443 "GET /wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number HTTP/1.1" 200 None
+23516 MainProcess  2019-12-20 20:17:12,436 root DEBUG Requesting /home/tfpenguin/CodeProjects/PokemonScraper/cache/NationalDex.html from https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number
+23516 MainProcess  2019-12-20 20:17:12,540 root INFO Skipping https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_with_form_differences since /home/tfpenguin/CodeProjects/PokemonScraper/cache/FormDifferences.html already exists
+23516 MainProcess  2019-12-20 20:17:12,541 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): bulbapedia.bulbagarden.net:443
+23516 MainProcess  2019-12-20 20:17:12,851 urllib3.connectionpool DEBUG https://bulbapedia.bulbagarden.net:443 "GET /wiki/List_of_Pok%C3%A9mon_with_form_differences HTTP/1.1" 200 None
+23516 MainProcess  2019-12-20 20:17:12,988 root DEBUG Requesting /home/tfpenguin/CodeProjects/PokemonScraper/cache/FormDifferences.html from https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_with_form_differences
+23516 MainProcess  2019-12-20 20:17:13,107 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): pokemondb.net:443
+23516 MainProcess  2019-12-20 20:17:13,237 urllib3.connectionpool DEBUG https://pokemondb.net:443 "GET /ability HTTP/1.1" 200 None
+23516 MainProcess  2019-12-20 20:17:13,239 root DEBUG Requesting /home/tfpenguin/CodeProjects/PokemonScraper/cache/AbilityList.html from https://pokemondb.net/ability
