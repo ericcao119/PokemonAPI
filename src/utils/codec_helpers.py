@@ -21,7 +21,7 @@ def EnumCodecFactory(enum_class):
             return value.name
 
         def transform_bson(self, value: str):
-            return python_type[value]
+            return EnumCodec.python_type[value]
 
     return EnumCodec()
 
@@ -41,6 +41,6 @@ def DataclassCodecFactory(data_class):
             return asdict(value)
 
         def transform_bson(self, value: dict):
-            return python_type(**value)
+            return DataclassCodec.python_type(**value)
 
     return DataclassCodec()
