@@ -12,8 +12,6 @@ celery==4.4.0rc1
 certifi==2019.11.28
 cffi==1.13.2
 chardet==3.0.4
-conda==4.8.0
-conda-package-handling==1.6.0
 coverage==4.5.4
 cryptography==2.8
 cycler==0.10.0
