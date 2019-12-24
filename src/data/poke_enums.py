@@ -1,4 +1,6 @@
 import enum
+import sys
+import inspect
 
 
 class PType(enum.Enum):
@@ -178,3 +180,29 @@ class EvolutionType(enum.Enum):
 
     def __repr__(self):
         return self.name
+
+
+class Target(enum.Flag):
+    SELECT_TARGET = 0x00
+    NO_TARGET = 0x01
+    SINGLE_OPPOSING_RANDOM = 0x02
+    ALL_OPPOSING = 0x04
+    ALL_OTHER_THAN_USE = 0x08
+    USER = 0x10
+    BOTH_SIDES = 0x20
+    USER_SIDE = 0x40
+    OPPOSING_SIDE = 0x80
+    USER_PARTNER = 0x100
+    SINGLE_USER_SIDE = 0x200
+    SINGLE_OPPOSING = 0x400
+    SINGLE_OPPOSING_DIRECT_OPPOSITE = 0x800
+    INVALID = 0x1000
+
+    def __str__(self):
+        return self.name
+
+    def __repr__(self):
+        return self.name
+
+
+PokeEnums = inspect.getmembers(sys.modules[__name__], inspect.isclass)
