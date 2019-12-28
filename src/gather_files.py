@@ -11,15 +11,15 @@ from typing import ByteString
 
 def request_url(file: Path, url: ByteString, refresh_cache=False):
     if not refresh_cache and file.exists():
-        logging.info(f'Skipping {url} since {file.absolute()} already exists')
+        loguru.info(f'Skipping {url} since {file.absolute()} already exists')
 
     req = requests.get(url=url)
     sleep(10)  # To be nice
 
-    logging.debug(f'Requesting {file.absolute()} from {url}')
+    loguru.debug(f'Requesting {file.absolute()} from {url}')
     if not req.ok:
         # TODO:
-        logging.error(f'Recieved error {req.status_code} from {req.url}')
+        loguru.error(f'Recieved error {req.status_code} from {req.url}')
         return
 
     try:
@@ -27,7 +27,7 @@ def request_url(file: Path, url: ByteString, refresh_cache=False):
         with file.open('w') as dest:
             dest.writelines(req.text)
     except NotADirectoryError:
-        logging.error(f'{file.absolute()} is not a valid filepath')
+        loguru.error(f'{file.absolute()} is not a valid filepath')
 
 
 def populate_cache():
