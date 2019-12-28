@@ -2,7 +2,7 @@ from pathlib import Path
 
 from time import sleep
 import requests
-import logging
+from loguru import logger
 
 from config import URLS
 
