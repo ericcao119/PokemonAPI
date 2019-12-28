@@ -1,5 +1,4 @@
 from dataclasses import dataclass, asdict, field
-from bson import ObjectId
 from typing import List, Dict, Any
 
 """
@@ -20,7 +19,6 @@ VariantName = str
 @dataclass
 class Evolution:
     """Requirements"""
-    _id: ObjectId = field(default_factory=lambda: ObjectId())
     evolution_type: EvolutionType = EvolutionType.INVALID
     item_reqr: ItemName = ''
     numeric_reqr: int = -1
@@ -93,8 +91,6 @@ class Species:
     BattlerAltitude: int = 0
 
     evolutions: List[Evolution] = field(default_factory=lambda: [])
-
-    _id: ObjectId = field(default_factory=lambda: ObjectId())
 
     def asdict(self) -> Dict[str, Any]:
         return asdict(self)

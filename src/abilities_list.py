@@ -18,8 +18,8 @@ def scrape_abilities() -> List[Ability]:
     with open(AbilityList, 'r') as f:
         html = bs4.BeautifulSoup(f.read(), 'html.parser')
 
-    ability_html = [a.parent.parent for a in html.select(
-        'tr > td > a[class="ent-name"]')]
+    ability_html = [a for a in html.select(
+        'tr:has(> td:has(> a[class="ent-name"]))')]
     abilities = [parse_ability(i) for i in ability_html]
     return abilities
 

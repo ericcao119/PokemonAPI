@@ -1,5 +1,4 @@
 from typing import Dict, Any
-from bson import ObjectId
 
 from dataclasses import dataclass, field, asdict
 
@@ -10,7 +9,6 @@ class Ability:
     this class is rather sparse."""
     name: str = None
     description: str = None
-    _id: ObjectId = field(default_factory=lambda: ObjectId())
 
     def asdict(self) -> Dict[str, Any]:
         return asdict(self)
