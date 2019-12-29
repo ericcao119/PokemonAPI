@@ -1,6 +1,6 @@
 import pytest
 
-from src.data.stats import BaseStats, EffortValues
+from src.data.stats import BaseStats
 
 
 def test_base_stats_class():

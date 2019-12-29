@@ -3,6 +3,7 @@ from dataclasses import dataclass, asdict
 
 from src.utils.general import add_slots
 
+
 @add_slots
 @dataclass
 class Ability:

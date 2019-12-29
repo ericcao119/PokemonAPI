@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import functools
 
 import src.gather_files
-import src.national_dex
 from src.utils.general import separate_conjuctive
 from config import FormDifferences
 

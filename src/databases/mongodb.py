@@ -43,7 +43,6 @@ class History:
     changes: List[Diff] = field(default_factory=lambda: [])
 
 
-
 def get_client():
     db = MongoClient()
     return db

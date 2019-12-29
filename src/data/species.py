@@ -28,6 +28,7 @@ class Evolution:
     def asdict(self) -> Dict[str, Any]:
         return asdict(self)
 
+
 @add_slots
 @dataclass
 class Species:
