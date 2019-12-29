@@ -9,6 +9,7 @@ from src.utils.general import add_slots
 @dataclass
 class BaseStats:
     """Stats to represent a pokemon's base stats"""
+
     hp: int
     attack: int
     defense: int
@@ -39,6 +40,7 @@ class BaseStats:
 @dataclass
 class EffortValues:
     """Stats to represent effort values"""
+
     hp: int
     attack: int
     defense: int

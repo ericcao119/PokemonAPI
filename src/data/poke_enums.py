@@ -7,6 +7,7 @@ import inspect
 
 class PType(enum.Enum):
     """Defines the different pokemon types"""
+
     INVALID = -1
     Normal = 0
     Fire = 1
@@ -36,6 +37,7 @@ class PType(enum.Enum):
 
 class LevelingRate(enum.Enum):
     """Levelling rate of pokemon"""
+
     INVALID = -1
     Fast = 0
     Medium = 1
@@ -55,6 +57,7 @@ class LevelingRate(enum.Enum):
 
 class EggGroup(enum.Enum):
     """Categorical variable of pokemon egg groups"""
+
     INVALID = -1
     Monster = 0
     Water1 = 1
@@ -81,6 +84,7 @@ class EggGroup(enum.Enum):
 
 class Color(enum.Enum):
     """Primary color of the pokemon"""
+
     INVALID = -1
     Black = 0
     Blue = 1
@@ -102,6 +106,7 @@ class Color(enum.Enum):
 
 class Shape(enum.Enum):
     """Defines the general shape of the pokemon"""
+
     INVALID = -1
     OnlyHead = 1
     Serpent = 2
@@ -127,6 +132,7 @@ class Shape(enum.Enum):
 
 class Habitat(enum.Enum):
     """Defines the habitat where a pokemon can live"""
+
     INVALID = -1
     Cave = 0
     Forest = 1
@@ -147,6 +153,7 @@ class Habitat(enum.Enum):
 
 class EvolutionType(enum.Enum):
     """Defines the type of evoltion"""
+
     INVALID = -1
     Happiness = 0
     HappinessDay = 1
@@ -193,6 +200,7 @@ class EvolutionType(enum.Enum):
 
 class Target(enum.Flag):
     """Defines the target type for a move"""
+
     SELECT_TARGET = 0x00
     NO_TARGET = 0x01
     SINGLE_OPPOSING_RANDOM = 0x02
@@ -215,5 +223,6 @@ class Target(enum.Flag):
         return self.name
 
 
-POKE_ENUMS = [cls for (_, cls) in inspect.getmembers(
-    sys.modules[__name__], inspect.isclass)]
+POKE_ENUMS = [
+    cls for (_, cls) in inspect.getmembers(sys.modules[__name__], inspect.isclass)
+]

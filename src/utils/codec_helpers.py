@@ -15,8 +15,9 @@ def enum_codec_factory(enum_class):
     if not issubclass(enum_class, enum.Enum):
         raise TypeError(f"Type {enum_class} is not a subclass of Enum")
 
-    class EnumCodec(TypeCodec): # pylint: disable=too-many-ancestors
+    class EnumCodec(TypeCodec):  # pylint: disable=too-many-ancestors
         """Generic class for generating enum codecs"""
+
         python_type = enum_class
         bson_type = str
 
@@ -36,8 +37,9 @@ def dataclass_codec_factory(data_class):
     if not is_dataclass(data_class):
         raise TypeError(f"{data_class} is not a valid data_class")
 
-    class DataclassCodec(TypeCodec): # pylint: disable=too-many-ancestors
+    class DataclassCodec(TypeCodec):  # pylint: disable=too-many-ancestors
         """Generic class for generating dataclass codecs"""
+
         python_type = data_class
         bson_type = dict
 

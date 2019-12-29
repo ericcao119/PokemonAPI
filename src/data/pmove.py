@@ -32,7 +32,7 @@ class PMoveEssentials:
 
     function_code: int = 0
     base_power: int = 0
-    ptype: PType = 0
+    ptype: PType = PType.INVALID
     accuracy: int = 0
     total_pp: int = 0
     additional_effect_chance: int = 0

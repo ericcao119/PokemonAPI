@@ -11,20 +11,20 @@ from bson import ObjectId
 from pymongo import MongoClient
 
 
-Version = namedtuple(
-    'Version', 'version_num creation_date title author body tags')
+Version = namedtuple("Version", "version_num creation_date title author body tags")
 
 
 @dataclass
 class Document:
     """A simple mongodb document"""
+
     _id: ObjectId = field(default_factory=lambda: ObjectId())
     data: Any = None
 
     @classmethod
     def fromdict(cls, mapping, data_type) -> Document:
         """Initialize class from dict"""
-        return Document(_id=mapping['_id'], data=data_type(**mapping['data']))
+        return Document(_id=mapping["_id"], data=data_type(**mapping["data"]))
 
     def _asdict(self) -> Dict[str, Any]:
         """Convert class to dict"""
@@ -34,9 +34,10 @@ class Document:
 @dataclass
 class Diff:
     """Change made to a document"""
+
     version_num: int = 0
     timestamp: datetime = field(default_factory=lambda: datetime.now())
-    author: str = ''
+    author: str = ""
     tags_removed: List[str] = field(default_factory=lambda: [])
     tags_added: List[str] = field(default_factory=lambda: [])
     body_update: Dict[str, Any] = field(default_factory=lambda: {})
@@ -46,6 +47,7 @@ class Diff:
 @dataclass
 class History:
     """Represents history of changes made to a document"""
+
     subject_id: ObjectId
     changes: List[Diff] = field(default_factory=lambda: [])
 
