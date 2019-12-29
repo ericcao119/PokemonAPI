@@ -1,7 +1,7 @@
 """This class is for general purpose helper functions targeted for generic python tasks"""
 
 import dataclasses
-from typing import List
+from typing import List, Generator
 
 
 def chunk_list(lst: List, num: int) -> List[List]:
@@ -10,7 +10,7 @@ def chunk_list(lst: List, num: int) -> List[List]:
     return [lst[i : i + num] for i in range(0, len(lst), num)]
 
 
-def xchunk_list(lst: List, num: int) -> List[List]:
+def xchunk_list(lst: List, num: int) -> Generator[List, None, None]:
     """Chunks a list in a list of chunks each size num.
     The last chunk may not be divisible by num, but all others will be."""
     for i in range(0, len(lst), num):
