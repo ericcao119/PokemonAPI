@@ -9,12 +9,13 @@ from config import URLS
 from typing import ByteString
 
 
-def request_url(file: Path, url: ByteString, refresh_cache=False):
+def request_url(file: Path, url: ByteString, refresh_cache=False) -> None:
     if not refresh_cache and file.exists():
         logger.info(f'Skipping {url} since {file.absolute()} already exists')
+        return
 
     req = requests.get(url=url)
-    sleep(10)  # To be nice
+    sleep(5)  # To be nice
 
     logger.debug(f'Requesting {file.absolute()} from {url}')
     if not req.ok:

@@ -35,3 +35,8 @@
 2019-12-27 22:05:26.520 | INFO     | __main__:index:63 - Client at 127.0.0.1:49918 requested http://127.0.0.1:8000/.
 2019-12-27 22:06:20.355 | INFO     | __main__:index:63 - Client at 127.0.0.1:49978 requested http://127.0.0.1:8000/.
 2019-12-27 22:09:37.204 | INFO     | __main__:index:63 - Client at 127.0.0.1:50040 requested http://127.0.0.1:8000/.
+20444 MainProcess  2019-12-28 02:34:14,542 google.auth.transport.requests DEBUG Making request: POST https://oauth2.googleapis.com/token
+20444 MainProcess  2019-12-28 02:34:14,550 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): oauth2.googleapis.com:443
+20444 MainProcess  2019-12-28 02:34:14,781 urllib3.connectionpool DEBUG https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+22299 MainProcess  2019-12-28 23:28:53,245 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): pokemondb.net:443
+22299 MainProcess  2019-12-28 23:28:53,361 urllib3.connectionpool DEBUG https://pokemondb.net:443 "GET /pokedex/all HTTP/1.1" 200 None

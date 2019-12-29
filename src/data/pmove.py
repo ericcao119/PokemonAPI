@@ -1,8 +1,11 @@
-from dataclasses import dataclass, field, asdict
+from dataclasses import dataclass, asdict
 from typing import Dict, Any
+
 from src.data.poke_enums import PType, Target
+from src.utils.general import add_slots
 
 
+@add_slots
 @dataclass
 class PMove:
     """Description of a move and its effects. """

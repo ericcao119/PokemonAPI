@@ -1,10 +1,10 @@
 from dataclasses import dataclass
 
+from src.utils.general import add_slots
 
+@add_slots
 @dataclass
 class Stats:
-    __slots__ = ['HP', 'Attack', 'Defense', 'Speed',
-                 'Special_Attack', 'Special_Defense']
     HP: int
     Attack: int
     Defense: int
@@ -12,7 +12,7 @@ class Stats:
     Special_Attack: int
     Special_Defense: int
 
-
+@add_slots
 @dataclass
 class BaseStats(Stats):
     __slots__ = []
@@ -37,7 +37,7 @@ class BaseStats(Stats):
     def valid_stat_value(self, value):
         return 0 <= value <= 255
 
-
+@add_slots
 @dataclass
 class EffortValues(Stats):
     __slots__ = []

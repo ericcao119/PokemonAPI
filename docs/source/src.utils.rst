@@ -20,10 +20,10 @@ src.utils.collections\_helper module
    :undoc-members:
    :show-inheritance:
 
-src.utils.utils module
-----------------------
+src.utils.general module
+------------------------
 
-.. automodule:: src.utils.utils
+.. automodule:: src.utils.general
    :members:
    :undoc-members:
    :show-inheritance:

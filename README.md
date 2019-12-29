@@ -8,6 +8,9 @@ This project is meant to be a quick project to experiment with using MongoDB, Sa
 
 ## Mandatory Features
 
+Resource Manager to keep track of files and ownership
+LRU caching to handle evictions
+
 Create API endpoint with flask or sanic
 
 Complete list of pokemon names only no variants
@@ -18,6 +21,9 @@ Complete list of Pokemon with different forms
 Complete list of Pokemon with Mega Forms
 Complete list of Pokemon with Regional Forms
 Complete list of Pokemon with Gigantimax Forms
+
+
+
 
 ## Stretch features
 

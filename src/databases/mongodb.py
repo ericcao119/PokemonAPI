@@ -1,9 +1,10 @@
+from __future__ import annotations
+
 from datetime import datetime
 from pymongo import MongoClient
 from typing import Dict, List, Any
 from dataclasses import dataclass, field, asdict
 from bson import ObjectId
-
 
 from collections import namedtuple
 
@@ -13,8 +14,9 @@ Version = namedtuple(
 
 @dataclass
 class Document:
+    """A simple mongodb document"""
     _id: ObjectId = field(default_factory=lambda: ObjectId())
-    data: Any
+    data: Any = None
 
     @classmethod
     def fromdict(cls, mapping, data_type) -> Document:
@@ -41,4 +43,7 @@ class History:
     changes: List[Diff] = field(default_factory=lambda: [])
 
 
-db = MongoClient()
+
+def get_client():
+    db = MongoClient()
+    return db

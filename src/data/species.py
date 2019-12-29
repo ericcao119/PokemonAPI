@@ -1,14 +1,10 @@
 from dataclasses import dataclass, asdict, field
 from typing import List, Dict, Any
 
-"""
-from PokemonScraper.src.data.ptype import PType
-from PokemonScraper.src.data.base_stats import BaseStats
-"""
-
 from src.data.poke_enums import PType, LevelingRate, EggGroup, Color, Shape, Habitat, EvolutionType
 from src.data.stats import BaseStats, EffortValues
 from src.data.ability import Ability
+from src.utils.general import add_slots
 
 PMoveName = str
 ItemName = str
@@ -16,6 +12,7 @@ SpeciesName = str
 VariantName = str
 
 
+@add_slots
 @dataclass
 class Evolution:
     """Requirements"""
@@ -31,7 +28,7 @@ class Evolution:
     def asdict(self) -> Dict[str, Any]:
         return asdict(self)
 
-
+@add_slots
 @dataclass
 class Species:
     species_name: SpeciesName = ''

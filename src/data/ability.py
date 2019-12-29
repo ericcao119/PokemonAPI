@@ -1,8 +1,9 @@
 from typing import Dict, Any
+from dataclasses import dataclass, asdict
 
-from dataclasses import dataclass, field, asdict
+from src.utils.general import add_slots
 
-
+@add_slots
 @dataclass
 class Ability:
     """This class represents the what an ability is. As most of the function of an ability is described in code,
