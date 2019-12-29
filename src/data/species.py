@@ -1,7 +1,17 @@
+"""Dataclasses for describing a pokemon variant"""
+
 from dataclasses import dataclass, asdict, field
 from typing import List, Dict, Any
 
-from src.data.poke_enums import PType, LevelingRate, EggGroup, Color, Shape, Habitat, EvolutionType
+from src.data.poke_enums import (
+    PType,
+    LevelingRate,
+    EggGroup,
+    Color,
+    Shape,
+    Habitat,
+    EvolutionType,
+)
 from src.data.stats import BaseStats, EffortValues
 from src.data.ability import Ability
 from src.utils.general import add_slots
@@ -15,29 +25,33 @@ VariantName = str
 @add_slots
 @dataclass
 class Evolution:
-    """Requirements"""
+    """Requirements for evolution"""
+
     evolution_type: EvolutionType = EvolutionType.INVALID
-    item_reqr: ItemName = ''
+    item_reqr: ItemName = ""
     numeric_reqr: int = -1
-    species_reqr: SpeciesName = ''
-    location_reqr: str = ''
+    species_reqr: SpeciesName = ""
+    location_reqr: str = ""
 
-    evolution_form: SpeciesName = ''
-    variant_form: VariantName = ''
+    evolution_form: SpeciesName = ""
+    variant_form: VariantName = ""
 
-    def asdict(self) -> Dict[str, Any]:
+    def _asdict(self) -> Dict[str, Any]:
+        """Converts the class to a dict"""
         return asdict(self)
 
 
 @add_slots
 @dataclass
 class Species:
-    species_name: SpeciesName = ''
-    variant_num: int = -1
-    variant_name: VariantName = ''
+    """Defines a "Pokemon species". It actually describes a variant
+    of the species like Mega Salamance."""
 
-    types: List[PType] = field(default_factory=lambda: [
-                               PType.INVALID, PType.INVALID])
+    species_name: SpeciesName = ""
+    variant_num: int = -1
+    variant_name: VariantName = ""
+
+    types: List[PType] = field(default_factory=lambda: [PType.INVALID, PType.INVALID])
     base_stats: BaseStats = BaseStats(0, 0, 0, 0, 0, 0)
     gender_rate: int = 127
     leveling_rate: LevelingRate = LevelingRate.INVALID
@@ -53,8 +67,7 @@ class Species:
     # Learn by level-up
     learned_moves: List[PMoveName] = field(default_factory=lambda: [])
 
-    egg_groups: List[EggGroup] = field(
-        default_factory=lambda: [EggGroup.INVALID])
+    egg_groups: List[EggGroup] = field(default_factory=lambda: [EggGroup.INVALID])
 
     # Hatch Time
     steps_to_hatch_lower: int = -1
@@ -65,8 +78,8 @@ class Species:
     weight: float = -1.0
     color: Color = Color.INVALID
     shape: Shape = Shape.INVALID
-    kind: str = ''
-    flavor_text: str = ''
+    kind: str = ""
+    flavor_text: str = ""
 
     abilities: List[Ability] = field(default_factory=lambda: [])
     hidden_abilities: List[Ability] = field(default_factory=lambda: [])
@@ -80,15 +93,16 @@ class Species:
     # The chances of holding the item are 50%, 5% and 1% respectively.
     # If all three are the same item, then the chance of holding it is 100% instead.
 
-    wild_item_common: ItemName = ''
-    wild_item_uncommmon: ItemName = ''
-    wild_item_rare: ItemName = ''
+    wild_item_common: ItemName = ""
+    wild_item_uncommmon: ItemName = ""
+    wild_item_rare: ItemName = ""
 
-    BattlerPlayerY: int = 0
-    BattlerEnemyY: int = 0
-    BattlerAltitude: int = 0
+    battler_player_y: int = 0
+    battler_enemy_y: int = 0
+    battler_altitude: int = 0
 
     evolutions: List[Evolution] = field(default_factory=lambda: [])
 
-    def asdict(self) -> Dict[str, Any]:
+    def _asdict(self) -> Dict[str, Any]:
+        """Converts the class to a dict"""
         return asdict(self)

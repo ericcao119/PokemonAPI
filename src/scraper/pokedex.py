@@ -1,3 +1,5 @@
+"""Constructs a pokedex from the pokemon db page"""
+
 # from functools import lru_cache
 
 import bs4
@@ -20,8 +22,8 @@ def parse_dex_entry(html):
 
     # This has to explicitly select one class to avoid selecting other html elements
 
-    stat_names = ['HP', 'Attack', 'Defense',
-                  'Special_Attack', 'Special_Defense', 'Speed']
+    stat_names = ['hp', 'attack', 'defense',
+                  'special_attack', 'special_defense', 'speed']
     stats = [int(stat.string) for stat in html.select('td[class="cell-num"]')]
     stats = BaseStats(**dict(zip(stat_names, stats)))
 
@@ -36,5 +38,5 @@ def scrape_pokedex():
     """
 
     html = bs4.BeautifulSoup(Pokedex.read_text(), 'html.parser')
-    variants_html = [item for item in html.select('#pokedex > tbody > tr')]
+    variants_html = html.select('#pokedex > tbody > tr')
     return list(map(parse_dex_entry, variants_html))

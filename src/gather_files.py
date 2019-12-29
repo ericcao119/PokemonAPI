@@ -1,15 +1,18 @@
-from pathlib import Path
+"""Collects files from the config and stores them into the cache"""
+
 
 from time import sleep
+from pathlib import Path
+from typing import ByteString
+
 import requests
 from loguru import logger
 
 from config import URLS
 
-from typing import ByteString
-
 
 def request_url(file: Path, url: ByteString, refresh_cache=False) -> None:
+    """Fetches one url and stores the content in the cache"""
     if not refresh_cache and file.exists():
         logger.info(f'Skipping {url} since {file.absolute()} already exists')
         return
@@ -19,7 +22,7 @@ def request_url(file: Path, url: ByteString, refresh_cache=False) -> None:
 
     logger.debug(f'Requesting {file.absolute()} from {url}')
     if not req.ok:
-        # TODO:
+        # TODO: Gracefully handle this case
         logger.error(f'Recieved error {req.status_code} from {req.url}')
         return
 
@@ -32,4 +35,5 @@ def request_url(file: Path, url: ByteString, refresh_cache=False) -> None:
 
 
 def populate_cache():
+    """Fills the cache with all the items from the URLS defined in the config file"""
     list(map(lambda kv: request_url(kv[0], kv[1]), URLS.items()))

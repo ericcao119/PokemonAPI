@@ -1,12 +1,15 @@
+"""Basic mongodb specific information"""
+
 from __future__ import annotations
 
 from datetime import datetime
-from pymongo import MongoClient
 from typing import Dict, List, Any
-from dataclasses import dataclass, field, asdict
-from bson import ObjectId
-
 from collections import namedtuple
+from dataclasses import dataclass, field, asdict
+
+from bson import ObjectId
+from pymongo import MongoClient
+
 
 Version = namedtuple(
     'Version', 'version_num creation_date title author body tags')
@@ -20,14 +23,17 @@ class Document:
 
     @classmethod
     def fromdict(cls, mapping, data_type) -> Document:
+        """Initialize class from dict"""
         return Document(_id=mapping['_id'], data=data_type(**mapping['data']))
 
-    def asdict(self) -> Dict[str, Any]:
+    def _asdict(self) -> Dict[str, Any]:
+        """Convert class to dict"""
         return asdict(self)
 
 
 @dataclass
 class Diff:
+    """Change made to a document"""
     version_num: int = 0
     timestamp: datetime = field(default_factory=lambda: datetime.now())
     author: str = ''
@@ -39,10 +45,12 @@ class Diff:
 
 @dataclass
 class History:
+    """Represents history of changes made to a document"""
     subject_id: ObjectId
     changes: List[Diff] = field(default_factory=lambda: [])
 
 
-def get_client():
-    db = MongoClient()
-    return db
+def get_client() -> MongoClient:
+    """Gets MongoDb client"""
+    database = MongoClient()
+    return database

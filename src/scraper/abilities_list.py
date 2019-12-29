@@ -1,16 +1,18 @@
-import bs4
-
-import google.cloud.firestore_v1.client
+"""Fetches the ability list from pokemondb"""
 
 from typing import List
+
+import bs4
+import google.cloud.firestore_v1.client
+
 from config import AbilityList
 from src.utils.general import chunk_list
 from src.data.ability import Ability
-from src.databases.firestore import get_client
 
 
 # Scraping
 def parse_ability(html: bs4.BeautifulSoup) -> Ability:
+    """Takes a single list item and turns it into an ability"""
     name = html.select_one('a[class="ent-name"]').text
     descr = html.select_one('td[class="cell-med-text"]').text
 
@@ -18,41 +20,49 @@ def parse_ability(html: bs4.BeautifulSoup) -> Ability:
 
 
 def scrape_abilities() -> List[Ability]:
-    html = bs4.BeautifulSoup(AbilityList.read_text(), 'html.parser')
+    """Scrapes abilities"""
+    html = bs4.BeautifulSoup(AbilityList.read_text(), "html.parser")
 
-    ability_html = [a for a in html.select(
-        'tr:has(> td:has(> a[class="ent-name"]))')]
+    ability_html = html.select('tr:has(> td:has(> a[class="ent-name"]))')
     abilities = [parse_ability(i) for i in ability_html]
     return abilities
+
 
 # Update database
 
 
-def chunk_write(db: google.cloud.firestore_v1.client.Client,
-                collection: str, iterable: List[Ability]) -> None:
-    batch = db.batch()
+def chunk_write(
+    database: google.cloud.firestore_v1.client.Client,
+    collection: str,
+    iterable: List[Ability],
+) -> None:
+    """Executes a single batch write over an iterable
+    TODO: Parameterize the function
+    TODO: Assert on size of iterable
+    """
+    batch = database.batch()
 
     for ability in iterable:
-        ref = db.collection(collection).document(ability.name)
-        batch.set(ref, ability.asdict())
+        ref = database.collection(collection).document(ability.name)
+        batch.set(ref, ability._asdict())
 
     batch.commit()
 
 
-def write_abilties_to_firebase(db: google.cloud.firestore_v1.client.Client):
+def write_abilties_to_firebase(database: google.cloud.firestore_v1.client.Client):
+    """Specific function for writing to firebase. Will batch writes."""
     abilities = scrape_abilities()
 
     chunked_abilities = chunk_list(abilities, 500)
 
     for chunk in chunked_abilities:
-        chunk_write(db, u'abilities', chunk)
+        chunk_write(database, u"abilities", chunk)
 
 
-def write_abilties(db) -> None:
-    """"""
-    if isinstance(db, google.cloud.firestore_v1.client.Client):
+def write_abilties(database) -> None:
+    """Write abilities to the database of choice"""
+    if isinstance(database, google.cloud.firestore_v1.client.Client):
         # dispatch
-        write_abilties_to_firebase(db)
-        pass
+        write_abilties_to_firebase(database)
     else:
-        raise ValueError('Unkown database type')
+        raise ValueError("Unkown database type")

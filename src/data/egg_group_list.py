@@ -1,3 +1,5 @@
+"""Defines an EggGroupList dataclass"""
+
 from dataclasses import dataclass, field, asdict
 from typing import List, Dict, Any
 
@@ -12,5 +14,6 @@ class EggGroupList:
     group: EggGroup = EggGroup.INVALID
     pokemon_list: List[str] = field(default_factory=lambda: '')
 
-    def asdict(self) -> Dict[str, Any]:
+    def _asdict(self) -> Dict[str, Any]:
+        """Converts the class to a dict"""
         return asdict(self)
