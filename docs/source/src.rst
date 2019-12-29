@@ -7,18 +7,12 @@ Subpackages
 .. toctree::
 
    src.data
+   src.databases
+   src.scraper
    src.utils
 
 Submodules
 ----------
-
-src.abilities\_list module
---------------------------
-
-.. automodule:: src.abilities_list
-   :members:
-   :undoc-members:
-   :show-inheritance:
 
 src.form\_differences module
 ----------------------------

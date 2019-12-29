@@ -2,12 +2,11 @@ from bs4 import BeautifulSoup
 import functools
 
 import src.gather_files
-import src.national_dex
-from src.utils.utils import separate_conjuctive
+from src.utils.general import separate_conjuctive
 from config import FormDifferences
 
 
-src.gather_files.populate_cache()
+# src.gather_files.populate_cache()
 
 
 def form_differences_list():

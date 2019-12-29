@@ -205,4 +205,5 @@ class Target(enum.Flag):
         return self.name
 
 
-PokeEnums = inspect.getmembers(sys.modules[__name__], inspect.isclass)
+PokeEnums = [cls for (_, cls) in inspect.getmembers(
+    sys.modules[__name__], inspect.isclass)]

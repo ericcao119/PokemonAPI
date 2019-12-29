@@ -1,18 +1,17 @@
-from dataclasses import dataclass, field, asdict
-from bson import ObjectId
+from dataclasses import dataclass, asdict
 from typing import Dict, Any
+
 from src.data.poke_enums import PType, Target
+from src.utils.general import add_slots
 
 
+@add_slots
 @dataclass
 class PMove:
     """Description of a move and its effects. """
     # TODO: Populate this
     name: str = ''
-
     base_power: int = 0
-
-    _id: ObjectId = field(default_factory=lambda: ObjectId())
 
     def asdict(self) -> Dict[str, Any]:
         return asdict(self)
@@ -69,8 +68,6 @@ class PMoveEssentials:
     # Flags end
 
     description: str = ''
-
-    _id: ObjectId = field(default_factory=lambda: ObjectId())
 
     def asdict(self) -> Dict[str, Any]:
         return asdict(self)

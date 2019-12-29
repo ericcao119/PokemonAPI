@@ -8,6 +8,9 @@ This project is meant to be a quick project to experiment with using MongoDB, Sa
 
 ## Mandatory Features
 
+Resource Manager to keep track of files and ownership
+LRU caching to handle evictions
+
 Create API endpoint with flask or sanic
 
 Complete list of pokemon names only no variants
@@ -19,9 +22,16 @@ Complete list of Pokemon with Mega Forms
 Complete list of Pokemon with Regional Forms
 Complete list of Pokemon with Gigantimax Forms
 
+
+
+
 ## Stretch features
 
 Complete list of Pokemon with stats (with forms - beware of darumaka it has both a regional form and a form change)
 Complete list of Pokemon API with all details (optional variants or separate)
 
 Scrape based on time periods and handle all errors
+
+## Rationale for using Python 3.8
+
+Python 3.8 was used specifically to take advatange of typing.Final and some features from python 3.7 like dict order preservation.
