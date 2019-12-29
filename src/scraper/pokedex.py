@@ -16,9 +16,7 @@ def parse_dex_entry(html):
     variant_name = html.select_one(
         'small').string if html.select_one('small') else species_name
 
-    print(species_name, variant_name)
     typing = [PType[t.string] for t in html.select('td.cell-icon>a')]
-    print(typing)
 
     # This has to explicitly select one class to avoid selecting other html elements
 
@@ -27,7 +25,7 @@ def parse_dex_entry(html):
     stats = [int(stat.string) for stat in html.select('td[class="cell-num"]')]
     stats = BaseStats(**dict(zip(stat_names, stats)))
 
-    return
+    return species_name, variant_name, typing, stats
 
 
 def scrape_pokedex():
@@ -39,7 +37,4 @@ def scrape_pokedex():
 
     html = bs4.BeautifulSoup(Pokedex.read_text(), 'html.parser')
     variants_html = [item for item in html.select('#pokedex > tbody > tr')]
-    parse_dex_entry(variants_html[2])
-    parse_dex_entry(variants_html[3])
-    parse_dex_entry(variants_html[4])
-    parse_dex_entry(variants_html[7])
+    return list(map(parse_dex_entry, variants_html))
