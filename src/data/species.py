@@ -1,19 +1,19 @@
 """Dataclasses for describing a pokemon variant"""
 
-from dataclasses import dataclass, asdict, field
-from typing import List, Dict, Any
+from dataclasses import asdict, dataclass, field
+from typing import Any, Dict, List
 
+from src.data.ability import Ability
 from src.data.poke_enums import (
-    PType,
-    LevelingRate,
-    EggGroup,
     Color,
-    Shape,
-    Habitat,
+    EggGroup,
     EvolutionType,
+    Habitat,
+    LevelingRate,
+    PType,
+    Shape,
 )
 from src.data.stats import BaseStats, EffortValues
-from src.data.ability import Ability
 from src.utils.general import add_slots
 
 PMoveName = str

@@ -1,7 +1,7 @@
 """Defines a pokemon ability"""
 
-from typing import Dict, Any
-from dataclasses import dataclass, asdict, field
+from dataclasses import asdict, dataclass, field
+from typing import Any, Dict
 
 from src.utils.general import add_slots
 

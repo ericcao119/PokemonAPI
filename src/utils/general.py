@@ -1,7 +1,7 @@
 """This class is for general purpose helper functions targeted for generic python tasks"""
 
 import dataclasses
-from typing import List, Generator
+from typing import Generator, List
 
 
 def chunk_list(lst: List, num: int) -> List[List]:

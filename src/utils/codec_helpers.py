@@ -1,7 +1,8 @@
 """Provides some helper functions for defining codecs"""
 
 import enum
-from dataclasses import is_dataclass, asdict
+from dataclasses import asdict, is_dataclass
+
 from bson.codec_options import TypeCodec
 
 

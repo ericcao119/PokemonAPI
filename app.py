@@ -1,23 +1,24 @@
+import argparse
+from asyncio import Event, ensure_future
+from json import dumps as json_string
+
+from jinja2 import Environment, FileSystemLoader
+from loguru import logger
 from sanic import Sanic
 from sanic.exceptions import NotFound, ServerError
 from sanic.request import Request
-from sanic.websocket import WebSocketProtocol, ConnectionClosed
 from sanic.response import html, json
-from asyncio import Event, ensure_future
-from json import dumps as json_string
-from jinja2 import Environment, FileSystemLoader
-from loguru import logger
-
-import argparse
+from sanic.websocket import ConnectionClosed, WebSocketProtocol
 
 # Set up a logfile for the sake of debugging/DDoS forensics/postmortems
 logger.add("output.log", rotation="500 MB")
 
 app = Sanic(configure_logging=False)
 # Use WebSockets to live-update the index page
-app.enable_websocket()
+# app.enable_websocket()
 # Static bindings allow Sanic to serve files from disk
-# These are explicitly named to avoid someone accidentally placing something secret in one of these folders
+# These are explicitly named to avoid someone accidentally placing something secret
+# in one of these folders
 
 # CSS
 app.static(
@@ -53,7 +54,9 @@ app.static("/pokeball.svg", "./res/pokeball.svg")
 app.static("/favicon.ico", "./res/favicon.ico")
 
 
-env = Environment(loader=FileSystemLoader(["./res/templates", "./res/code"]))
+env = Environment(
+    loader=FileSystemLoader(["./res/templates", "./res/code"]), autoescape=True
+)
 
 # Load page templates - it should be easy to change these templates later.
 # These are loaded once at the start of the program, and never again.

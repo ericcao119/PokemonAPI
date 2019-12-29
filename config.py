@@ -1,10 +1,10 @@
 import logging
-
 from pathlib import Path
-from typing import Final, Dict
+from typing import Dict, Final
+
+from bson.codec_options import CodecOptions
 
 from src.data.codec import TYPE_REGISTRY
-from bson.codec_options import CodecOptions
 
 # a = logging.LogRecord()
 # a.msecs

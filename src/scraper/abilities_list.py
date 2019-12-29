@@ -6,8 +6,8 @@ import bs4
 import google.cloud.firestore_v1.client
 
 from config import AbilityList
-from src.utils.general import chunk_list
 from src.data.ability import Ability
+from src.utils.general import chunk_list
 
 
 # Scraping

@@ -1,8 +1,8 @@
 """Defines basic enums for usin in pokemon dataclasses"""
 
 import enum
-import sys
 import inspect
+import sys
 
 
 class PType(enum.Enum):

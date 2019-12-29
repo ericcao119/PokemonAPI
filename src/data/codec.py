@@ -2,19 +2,16 @@
 in database form"""
 
 from typing import Final
+
 from bson.codec_options import TypeRegistry
-
-from src.utils.codec_helpers import enum_codec_factory
-from src.utils.codec_helpers import dataclass_codec_factory
-
-from src.data.poke_enums import POKE_ENUMS
 
 from src.data.ability import Ability
 from src.data.egg_group_list import EggGroupList
-
 from src.data.pmove import PMove
-from src.data.stats import BaseStats, EffortValues
+from src.data.poke_enums import POKE_ENUMS
 from src.data.species import Evolution, Species
+from src.data.stats import BaseStats, EffortValues
+from src.utils.codec_helpers import dataclass_codec_factory, enum_codec_factory
 
 ENUM_CODECS = list(map(enum_codec_factory, POKE_ENUMS))
 

@@ -30,4 +30,4 @@ jobs:
         pip install coverage
         coverage run  -m py.test -v
         coverage report
-        pylint -d C0330 -j4 --reports=y --output-format=colorized --exit-zero src/
+        pylint -d C0330 E203 -j4 --reports=y --output-format=colorized --exit-zero src/

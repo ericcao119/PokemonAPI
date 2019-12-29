@@ -1,7 +1,7 @@
 """Defines what a pokemon moves representatino in the database is"""
 
-from dataclasses import dataclass, asdict
-from typing import Dict, Any
+from dataclasses import asdict, dataclass
+from typing import Any, Dict
 
 from src.data.poke_enums import PType, Target
 from src.utils.general import add_slots

@@ -2,14 +2,13 @@
 
 from __future__ import annotations
 
-from datetime import datetime
-from typing import Dict, List, Any
 from collections import namedtuple
-from dataclasses import dataclass, field, asdict
+from dataclasses import asdict, dataclass, field
+from datetime import datetime
+from typing import Any, Dict, List
 
 from bson import ObjectId
 from pymongo import MongoClient
-
 
 Version = namedtuple("Version", "version_num creation_date title author body tags")
 

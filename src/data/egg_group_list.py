@@ -1,7 +1,7 @@
 """Defines an EggGroupList dataclass"""
 
-from dataclasses import dataclass, field, asdict
-from typing import List, Dict, Any
+from dataclasses import asdict, dataclass, field
+from typing import Any, Dict, List
 
 from src.data.poke_enums import EggGroup
 from src.utils.general import add_slots
