@@ -40,3 +40,4 @@
 20444 MainProcess  2019-12-28 02:34:14,781 urllib3.connectionpool DEBUG https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
 22299 MainProcess  2019-12-28 23:28:53,245 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): pokemondb.net:443
 22299 MainProcess  2019-12-28 23:28:53,361 urllib3.connectionpool DEBUG https://pokemondb.net:443 "GET /pokedex/all HTTP/1.1" 200 None
+2019-12-29 19:44:49.331 | INFO     | __main__:index:70 - Client at 127.0.0.1:57682 requested http://127.0.0.1:8000/.

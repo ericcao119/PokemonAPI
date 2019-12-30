@@ -12,6 +12,22 @@ src.scraper.abilities\_list module
    :undoc-members:
    :show-inheritance:
 
+src.scraper.evolution\_graph module
+-----------------------------------
+
+.. automodule:: src.scraper.evolution_graph
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.scraper.pokedex module
+--------------------------
+
+.. automodule:: src.scraper.pokedex
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 Module contents
 ---------------
