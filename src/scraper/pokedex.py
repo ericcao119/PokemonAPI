@@ -2,15 +2,20 @@
 
 # from functools import lru_cache
 
+from typing import Dict, List
+
 import bs4
 
-from config import Pokedex
+from config import POKEDEX
 from src.data.poke_enums import PType
 from src.data.stats import BaseStats
 
 
 def parse_dex_entry(html):
-    """Parses a single dex entry from the pokemon database"""
+    """Parses a single dex entry from the pokemon database.
+    If the default form of the species has no variant name,
+    the species name will be used as the variant name.
+    """
 
     # print(html)
 
@@ -37,13 +42,30 @@ def parse_dex_entry(html):
     return species_name, variant_name, typing, stats
 
 
+def classify_variants(species: List[str], variants: List[str]) -> Dict[str, List[str]]:
+    """Expects list of species and a list with its corresponding variants and
+    returns a dict with the key being the species and the value being the list of variants"""
+    variants_dict: Dict[str, List] = {key: [] for key in species}
+
+    for s_name, v_name in zip(species, variants):
+        variants_dict[s_name].append(v_name)
+
+    return variants_dict
+
+
 def scrape_pokedex():
     """Scrapes the pokedex for variants, typing, and base stats
 
-    :returns: TODO
+    :returns: A tuple of species, variants, typing, stats.
 
     """
 
-    html = bs4.BeautifulSoup(Pokedex.read_text(), "html.parser")
-    variants_html = html.select("#pokedex > tbody > tr")
-    return list(map(parse_dex_entry, variants_html))
+    # Note: We are using lxml to shave off half a second from the execution time.
+    # This makes parsing of invalid documents more fragile
+    pokedex_html = bs4.BeautifulSoup(POKEDEX.read_text(), "lxml")
+
+    variants_html = pokedex_html.select("#pokedex > tbody > tr")
+    # pokedex_html.find_all('tbody')
+
+    pokedex = [parse_dex_entry(dex_entry) for dex_entry in variants_html]
+    return zip(*pokedex)

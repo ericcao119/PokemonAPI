@@ -11,6 +11,7 @@ This project is meant to be a quick project to experiment with using MongoDB, Sa
 Resource Manager to keep track of files and ownership
 LRU caching to handle evictions
 
+
 Create API endpoint with flask or sanic
 
 Complete list of pokemon names only no variants
@@ -29,6 +30,8 @@ Complete list of Pokemon with Gigantimax Forms
 
 Complete list of Pokemon with stats (with forms - beware of darumaka it has both a regional form and a form change)
 Complete list of Pokemon API with all details (optional variants or separate)
+
+Complete pokemon colors and shapes (Particularly hard since Variants are the same between websites. Minior really messes this up.)
 
 Scrape based on time periods and handle all errors
 

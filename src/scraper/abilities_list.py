@@ -5,7 +5,7 @@ from typing import List
 import bs4
 import google.cloud.firestore_v1.client
 
-from config import AbilityList
+from config import ABILITY_LIST
 from src.data.ability import Ability
 from src.utils.general import chunk_list
 
@@ -21,7 +21,7 @@ def parse_ability(html: bs4.BeautifulSoup) -> Ability:
 
 def scrape_abilities() -> List[Ability]:
     """Scrapes abilities"""
-    html = bs4.BeautifulSoup(AbilityList.read_text(), "html.parser")
+    html = bs4.BeautifulSoup(ABILITY_LIST.read_text(), "html.parser")
 
     ability_html = html.select('tr:has(> td:has(> a[class="ent-name"]))')
     abilities = [parse_ability(i) for i in ability_html]
