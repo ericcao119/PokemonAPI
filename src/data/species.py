@@ -8,10 +8,10 @@ from src.data.poke_enums import (
     Color,
     EggGroup,
     EvolutionType,
-    Habitat,
     LevelingRate,
     PType,
     Shape,
+    # Habitat,
 )
 from src.data.stats import BaseStats, EffortValues
 from src.utils.general import add_slots
@@ -93,7 +93,7 @@ class TrainingComponent:
 @add_slots
 @dataclass
 class BreedingComponent:
-    """Contains information about a breeding a pokemon, including egg cycles 
+    """Contains information about a breeding a pokemon, including egg cycles
     and gender information"""
 
     egg_groups: List[EggGroup] = field(default_factory=lambda: [EggGroup.INVALID])

@@ -17,6 +17,11 @@ class BaseStats:
     special_attack: int
     special_defense: int
 
+    @classmethod
+    def valid_stat_value(cls, value):
+        """Determines if the stat value is valid"""
+        return 0 <= value <= 255
+
     def __setattr__(self, name, value):
         values = {
             "hp",
@@ -26,14 +31,10 @@ class BaseStats:
             "special_attack",
             "special_defense",
         }
-        if name in values and not self.valid_stat_value(value):
+        if name in values and not BaseStats.valid_stat_value(value):
             raise ValueError(f"Base stat {name}={value} not in range [0, 256)")
 
         self.__class__.__dict__[name].__set__(self, value)
-
-    def valid_stat_value(self, value):
-        """Determines if the stat value is valid"""
-        return 0 <= value <= 255
 
 
 @add_slots
@@ -48,6 +49,11 @@ class EffortValues:
     special_attack: int
     special_defense: int
 
+    @classmethod
+    def valid_stat_value(cls, value):
+        """Determines if the stat value is valid"""
+        return 0 <= value <= 3
+
     def __setattr__(self, name, value):
         values = {
             "hp",
@@ -57,11 +63,7 @@ class EffortValues:
             "special_attack",
             "special_defense",
         }
-        if name in values and not self.valid_stat_value(value):
+        if name in values and not EffortValues.valid_stat_value(value):
             raise ValueError(f"Base stat {name}={value} not in range [0, 4)")
 
         self.__class__.__dict__[name].__set__(self, value)
-
-    def valid_stat_value(self, value):
-        """Determines if the stat value is valid"""
-        return 0 <= value <= 3

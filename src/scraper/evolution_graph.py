@@ -1,13 +1,12 @@
 """Constructs the evolution graph"""
 
-from dataclasses import dataclass
 from collections import deque
-from typing import Dict, List, Tuple, Optional
+from dataclasses import dataclass
+from typing import Dict, List, Optional, Tuple
 
 import bs4
 import networkx as nx
 from bs4.element import Tag
-
 
 from config import EVOLUTION_GRAPH
 
@@ -67,22 +66,35 @@ def poke_from_infocard(html_frag: Tag) -> Tuple[str, str]:
 
 @dataclass
 class SplitToken:
+    """Creates a special split token to represent a split in the evolutionary
+    chain. This has to be created to signify the difference between a regular
+    chain and a split."""
+
     children: deque
     html_frag: Tag
 
     @property
     def token_type(self):
+        """Returns the 'token' type"""
         return "Split"
 
     def __repr__(self) -> str:
+        """Gives a more compact representation that is much nicer for printing.
+        TODO: Later move this into a different function"""
         return repr((self.token_type[0], self.children))
+
 
 @dataclass
 class EvoToken:
+    """Represents a variety of tokens extracted from the document.
+    TODO: Split it into many different token classes"""
+
     token_type: str
     html_frag: List[Tag]
 
     def __repr__(self) -> str:
+        """Gives a more compact representation that is much nicer for printing.
+        TODO: Later move this into a different function"""
         if self.token_type == "Variant" or self.token_type == "Combo":
             variants_option = self.pokemon
             variants_name = (
@@ -98,6 +110,7 @@ class EvoToken:
 
     @property
     def pokemon(self) -> Optional[List[Tuple[str, str]]]:
+        """Extracts the pokemon if the token contains a pokemon"""
         if self.token_type == "Variant":
             return [poke_from_infocard(self.html_frag[0])]
 
@@ -111,6 +124,7 @@ class EvoToken:
 
     @property
     def evolution_method(self) -> Optional[str]:
+        """Extracts the evolution method if the token represents an evolution chain"""
         if self.token_type == "Evolution":
             method = self.html_frag[0].select_one("small").text
             return method
@@ -118,31 +132,20 @@ class EvoToken:
         return None
 
 
-def construct_tree(node_list: List):
+# def construct_tree(node_list: List):
+#     """
+#      Possible children
+#      - infocard-list-evo (evolution subtree)
+#      - infocard-evo-split (Fork in chain)
+#      - infocard (Pokemon)
+#      - i.icon-arrow.icon-arrow-e (Evolution)
+#      - i.icon-arrow:contains("+") (Two or more pokemon generated)
+#     """
 
-    """
-     Possible children
-     - infocard-list-evo (evolution subtree)
-     - infocard-evo-split (Fork in chain)
-     - infocard (Pokemon)
-     - i.icon-arrow.icon-arrow-e (Evolution)
-     - i.icon-arrow:contains("+") (Two or more pokemon generated)
-    """
 
-
-def parse_tree_helper(tree_list: List):
-
-    # Functions of the form
-    parsing_table = {
-        # "infocard": parse_info_only,
-        "infocard-evo-split": lambda x: x,
-        "infocard-arrow": lambda x: x,
-    }
-
-    root = tree_list[0]
-    root_type = _representative_class(tree_list[0]["class"])
-    # print(tree_list)
-    return parsing_table[root_type](root)
+# def parse_tree_helper(tree_list: List):
+#     """Currently not used"""
+#     raise NotImplementedError()
 
 
 def _is_infocard(html_frag: Tag):
@@ -151,10 +154,12 @@ def _is_infocard(html_frag: Tag):
 
 
 def _is_evo_connect(html_frag: Tag):
+    """Determines if a Tag represents an evolution"""
     return html_frag.has_attr("class") and "infocard-arrow" in html_frag["class"]
 
 
 def _is_infocard_list(html_frag: Tag):
+    """Determines if a Tag represents a evolution chain."""
     return (
         html_frag.has_attr("class")
         and "infocard-list-evo" in html_frag["class"]
@@ -163,6 +168,7 @@ def _is_infocard_list(html_frag: Tag):
 
 
 def _is_evo_split(html_frag: Tag):
+    """Determines if a Tag represents an evolutionary split"""
     return html_frag.has_attr("class") and "infocard-evo-split" in html_frag["class"]
 
 
@@ -172,7 +178,7 @@ def _matches_combo(html_list: List) -> bool:
     if len(html_list) < 3:
         return False
 
-    card1, operation, card2, *rem_list = html_list
+    card1, operation, card2, *_ = html_list
 
     # if operation.select_one('i.icon-arrow')
     op_valid = operation.name == "span" and (
@@ -186,6 +192,9 @@ def _matches_combo(html_list: List) -> bool:
 
 def tokenize_list(html_list: List) -> deque:
     """
+    Convert this to a fully fledge functional style with pythonic switch-case
+    and split everything off into its own function.
+
      Possible children
      - i.icon-arrow:contains("+") (Two or more pokemon generated) -
      - infocard (Pokemon) -
@@ -193,8 +202,6 @@ def tokenize_list(html_list: List) -> deque:
      - infocard-evo-split (Fork in chain)
      - infocard-list-evo (evolution subtree) -
     """
-    # print([i["class"] for i in html_list])
-    # print([i.text for i in html_list])
 
     if len(html_list) == 0:
         return deque()
@@ -229,9 +236,6 @@ def tokenize_list(html_list: List) -> deque:
         # handle double recursion here
         children = html_list[0].find_all(recursive=False)
 
-        # for i in children:
-        #     print(i)
-        #     print()
         first_level = [i for i in children if i.name == "span"]
 
         if len(children) != len(first_level):
@@ -260,6 +264,8 @@ def tokenize_list(html_list: List) -> deque:
 
 
 def scrape_connections(species_list: Dict[SPECIES, VARIANTS]):
+    """Scrapes connections from pokemondb's evolution webpage and
+    converts them into graphs to be used by networkx."""
     html = bs4.BeautifulSoup(EVOLUTION_GRAPH.read_text(), "lxml")
 
     chain_selector = "hr ~ div.infocard-list-evo"

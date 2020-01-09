@@ -6,7 +6,7 @@ from typing import Generator, List
 
 
 def normalize_unicode(string: str) -> str:
-    """Removed non-ascii characters from a unicode string. Many characters will be 
+    """Removed non-ascii characters from a unicode string. Many characters will be
     converted to their nearest ASCII quivalent."""
     return (
         unicodedata.normalize("NFKD", string).encode("ascii", "ignore").decode("utf-8")

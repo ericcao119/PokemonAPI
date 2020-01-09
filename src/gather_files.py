@@ -3,7 +3,7 @@
 
 from pathlib import Path
 from time import sleep
-from typing import Final, Union
+from typing import Union
 
 import requests
 from loguru import logger
