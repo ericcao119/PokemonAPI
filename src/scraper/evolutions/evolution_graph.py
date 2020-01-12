@@ -1,15 +1,10 @@
 """Constructs the evolution graph"""
 
 import functools
-from collections import deque
-from dataclasses import dataclass
-from pprint import pprint
-from typing import Any, Deque, Dict, List, Optional, Set, Tuple
+from typing import Any, Dict, List, Set, Tuple
 
 import bs4
 import networkx as nx
-from bs4.element import Tag
-from loguru import logger
 
 from config import EVOLUTION_GRAPH
 from src.scraper.evolutions.tokenizer import (
@@ -19,11 +14,12 @@ from src.scraper.evolutions.tokenizer import (
     SplitToken,
     tokenize,
 )
-from src.utils.general import get_components, grouper_discard_uneven, unique
+from src.utils.general import get_components, grouper_discard_uneven
 from src.utils.poke_helpers import add_missing_variants
 
 SPECIES = str
 VARIANTS = str
+
 
 def extract_vertices(token: EvoChainToken) -> Set[Tuple[SPECIES, VARIANTS]]:
     """Extracts vertices from the chain. Currently, pokemon that are combined
@@ -58,6 +54,7 @@ def extract_edges(
     is currently no protection from stack overflow. However, the scraped
     information gets stored in a tree structure, so cycles will not cause
     stack overflows."""
+    # TODO: Refactor this method
     edge_list: List[
         Tuple[List[Tuple[SPECIES, VARIANTS]], List[Tuple[SPECIES, VARIANTS]], Any]
     ] = []

@@ -4,7 +4,7 @@ list operations that are fairly common."""
 
 import dataclasses
 import unicodedata
-from itertools import zip_longest, tee
+from itertools import tee, zip_longest
 from typing import Generator, List
 
 import networkx as nx

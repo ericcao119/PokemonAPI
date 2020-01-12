@@ -1,17 +1,13 @@
 """Constructs the evolution graph"""
 
 import functools
-from abc import ABC, abstractclassmethod, abstractmethod
+from abc import ABC, abstractmethod
 from collections import deque
 from dataclasses import dataclass
-from typing import Deque, Dict, List, Optional, Tuple
+from typing import Deque, List, Optional, Tuple
 
-import bs4
-import networkx as nx
 from bs4.element import Tag
 from loguru import logger
-
-from config import EVOLUTION_GRAPH
 
 
 def poke_from_infocard(html_frag: Tag) -> Tuple[str, str]:
@@ -189,7 +185,7 @@ class Lexeme(ABC):
     @classmethod
     @abstractmethod
     def consume_lexeme(cls, html_list: List[Tag]) -> List[Tag]:
-        """Returns a slice of the html_list without the lexeme. 
+        """Returns a slice of the html_list without the lexeme.
         This assumes that the lexeme begins at the 0th index and is present"""
 
 
@@ -220,7 +216,7 @@ class ComboLex(Lexeme):
 
     @classmethod
     def consume_lexeme(cls, html_list: List[Tag]) -> List[Tag]:
-        """Returns a slice of the html_list without the lexeme. 
+        """Returns a slice of the html_list without the lexeme.
         This assumes that the lexeme begins at the 0th index and is present"""
         return html_list[3:]
 
