@@ -4,7 +4,7 @@ import functools
 from collections import deque
 from dataclasses import dataclass
 from pprint import pprint
-from typing import Deque, Dict, List, Optional, Set, Tuple, Any
+from typing import Any, Deque, Dict, List, Optional, Set, Tuple
 
 import bs4
 import networkx as nx
@@ -12,44 +12,23 @@ from bs4.element import Tag
 from loguru import logger
 
 from config import EVOLUTION_GRAPH
-from src.utils.general import grouper_discard_uneven, unique, get_components
-from src.utils.poke_helpers import add_missing_variants
 from src.scraper.evolutions.tokenizer import (
-    EvoChainToken,
-    SplitToken,
-    PokeToken,
     ComboToken,
+    EvoChainToken,
+    PokeToken,
+    SplitToken,
     tokenize,
 )
-
-# TotalEV_Graph = nx.DiGraph()
-# TotalEV_Graph.add_nodes_from(
-#     {}
-# )
+from src.utils.general import get_components, grouper_discard_uneven, unique
+from src.utils.poke_helpers import add_missing_variants
 
 SPECIES = str
 VARIANTS = str
 
-# def extract_vertices()
-
-
-# def construct_tree(node_list: List):
-#     """
-#      Possible children
-#      - infocard-list-evo (evolution subtree)
-#      - infocard-evo-split (Fork in chain)
-#      - infocard (Pokemon)
-#      - i.icon-arrow.icon-arrow-e (Evolution)
-#      - i.icon-arrow:contains("+") (Two or more pokemon generated)
-#     """
-
-
-# def parse_tree_helper(tree_list: List):
-#     """Currently not used"""
-#     raise NotImplementedError()
-
-
 def extract_vertices(token: EvoChainToken) -> Set[Tuple[SPECIES, VARIANTS]]:
+    """Extracts vertices from the chain. Currently, pokemon that are combined
+    as the result of an evolution are stored separately, but this may need to
+    be changed in the future."""
     pokes: Set[Tuple[SPECIES, VARIANTS]] = set()
 
     for i in token.chain:
@@ -75,7 +54,10 @@ def extract_vertices(token: EvoChainToken) -> Set[Tuple[SPECIES, VARIANTS]]:
 def extract_edges(
     token: EvoChainToken, prev_pokes: List[Tuple[SPECIES, VARIANTS]] = []
 ):
-    """Currently no protection from stack overflow"""
+    """Extracts edges from the chain token, but be warned that there
+    is currently no protection from stack overflow. However, the scraped
+    information gets stored in a tree structure, so cycles will not cause
+    stack overflows."""
     edge_list: List[
         Tuple[List[Tuple[SPECIES, VARIANTS]], List[Tuple[SPECIES, VARIANTS]], Any]
     ] = []

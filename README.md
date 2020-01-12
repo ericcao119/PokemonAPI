@@ -28,9 +28,6 @@ Complete list of Pokemon with Mega Forms
 Complete list of Pokemon with Regional Forms
 Complete list of Pokemon with Gigantimax Forms
 
-
-
-
 ## Stretch features
 
 Complete list of Pokemon with stats (with forms - beware of darumaka it has both a regional form and a form change)

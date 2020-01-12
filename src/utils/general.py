@@ -2,11 +2,10 @@
 This does not mean that they use pure python functions, but instead are things like
 list operations that are fairly common."""
 
-import itertools
 import dataclasses
 import unicodedata
+from itertools import zip_longest, tee
 from typing import Generator, List
-from itertools import zip_longest
 
 import networkx as nx
 
@@ -25,50 +24,50 @@ def get_components(iterable):
     will then return the connected components in the form of a generator
     yeilding sets."""
 
-    def to_graph(l):
-        G = nx.Graph()
-        for part in l:
+    def to_graph(list_graph):
+        graph = nx.Graph()
+        for part in list_graph:
             # each sublist is a bunch of nodes
-            G.add_nodes_from(part)
+            graph.add_nodes_from(part)
             # it also imlies a number of edges:
-            G.add_edges_from(to_edges(part))
-        return G
+            graph.add_edges_from(to_edges(part))
+        return graph
 
-    def to_edges(l):
-        """ 
-        treat `l` as a Graph and returns it's edges 
+    def to_edges(list_graph):
+        """
+        treat `list_graph` as a Graph and returns it's edges
         to_edges(['a','b','c','d']) -> [(a,b), (b,c),(c,d)]
         """
-        it = iter(l)
-        last = next(it)
+        iterator = iter(list_graph)
+        last = next(iterator)
 
-        for current in it:
+        for current in iterator:
             yield last, current
             last = current
 
-    G = to_graph(iterable)
+    graph = to_graph(iterable)
 
-    return nx.connected_components(G)
+    return nx.connected_components(graph)
 
 
 def pairwise(iterable):
-    "s -> (s0,s1), (s1,s2), (s2, s3), ..."
-    a, b = tee(iterable)
-    next(b, None)
-    return zip(a, b)
+    """s -> (s0,s1), (s1,s2), (s2, s3), ..."""
+    elem1, elem2 = tee(iterable)
+    next(elem2, None)
+    return zip(elem1, elem2)
 
 
-def grouper(iterable, n, fillvalue=None):
-    "Collect data into fixed-length chunks or blocks"
+def grouper(iterable, num, fillvalue=None):
+    """Collect data into fixed-length chunks or blocks"""
     # grouper('ABCDEFG', 3, 'x') --> ABC DEF Gxx"
-    args = [iter(iterable)] * n
+    args = [iter(iterable)] * num
     return zip_longest(*args, fillvalue=fillvalue)
 
 
-def grouper_discard_uneven(iterable, n, fillvalue=None):
+def grouper_discard_uneven(iterable, num):
     "Collect data into fixed-length chunks or blocks"
     # grouper('ABCDEFG', 3, 'x') --> ABC DEF Gxx"
-    args = [iter(iterable)] * n
+    args = [iter(iterable)] * num
     return zip(*args)
 
 
