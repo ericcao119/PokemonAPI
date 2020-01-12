@@ -1,36 +1,30 @@
+"""Contains codecs for turning dataclasses into forms representable
+in database form"""
+
 from typing import Final
+
 from bson.codec_options import TypeRegistry
-
-from src.utils.codec_helpers import EnumCodecFactory
-from src.utils.codec_helpers import DataclassCodecFactory
-
-from src.data.poke_enums import PokeEnums
 
 from src.data.ability import Ability
 from src.data.egg_group_list import EggGroupList
-
 from src.data.pmove import PMove
-from src.data.stats import BaseStats, EffortValues
+from src.data.poke_enums import POKE_ENUMS
 from src.data.species import Evolution, Species
+from src.data.stats import BaseStats, EffortValues
+from src.utils.codec_helpers import dataclass_codec_factory, enum_codec_factory
 
-EnumCodecs = list(map(EnumCodecFactory, PokeEnums))
+ENUM_CODECS = list(map(enum_codec_factory, POKE_ENUMS))
 
-AbilityCodec = DataclassCodecFactory(Ability)
-PMoveCodec = DataclassCodecFactory(PMove)
-BaseStatsCodec = DataclassCodecFactory(BaseStats)
-EffortValuesCodec = DataclassCodecFactory(EffortValues)
-EvolutionCodec = DataclassCodecFactory(Evolution)
-SpeciesCodec = DataclassCodecFactory(Species)
-EggGroupListCodec = DataclassCodecFactory(EggGroupList)
-
-codec_list = EnumCodecs + [
-    PMoveCodec,
-    BaseStatsCodec,
-    EffortValuesCodec,
-    EvolutionCodec,
-    SpeciesCodec,
-    EggGroupListCodec,
-    AbilityCodec,
+DATACLASS_CODECS = [
+    dataclass_codec_factory(Ability),
+    dataclass_codec_factory(PMove),
+    dataclass_codec_factory(BaseStats),
+    dataclass_codec_factory(EffortValues),
+    dataclass_codec_factory(Evolution),
+    dataclass_codec_factory(Species),
+    dataclass_codec_factory(EggGroupList),
 ]
 
-TYPE_REGISTRY: Final[TypeRegistry] = TypeRegistry(type_codecs=codec_list)
+CODEC_LIST = ENUM_CODECS + DATACLASS_CODECS
+
+TYPE_REGISTRY: Final[TypeRegistry] = TypeRegistry(type_codecs=CODEC_LIST)

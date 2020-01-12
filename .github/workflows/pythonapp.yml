@@ -28,5 +28,6 @@ jobs:
       run: |
         pip install pytest
         pip install coverage
-        coverage run  -m py.test
+        coverage run  -m py.test -v
         coverage report
+        pylint -d C0330 E203 -j4 --reports=y --output-format=colorized --exit-zero src/

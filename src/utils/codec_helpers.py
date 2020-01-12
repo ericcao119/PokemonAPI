@@ -1,20 +1,24 @@
+"""Provides some helper functions for defining codecs"""
+
 import enum
-from dataclasses import is_dataclass, asdict
+from dataclasses import asdict, is_dataclass
+
 from bson.codec_options import TypeCodec
 
 
-def EnumCodecFactory(enum_class):
+def enum_codec_factory(enum_class):
     """This method creates a TypeCodec for generic enums. The Codec produced will
     convert an enum to its string representation for serialization and convert the
     string representation."""
     if issubclass(enum_class, enum.IntEnum):
-        raise TypeError(
-            "IntEnums cannot be overriden since they subclass from int")
+        raise TypeError("IntEnums cannot be overriden since they subclass from int")
 
     if not issubclass(enum_class, enum.Enum):
         raise TypeError(f"Type {enum_class} is not a subclass of Enum")
 
-    class EnumCodec(TypeCodec):
+    class EnumCodec(TypeCodec):  # pylint: disable=too-many-ancestors
+        """Generic class for generating enum codecs"""
+
         python_type = enum_class
         bson_type = str
 
@@ -27,14 +31,16 @@ def EnumCodecFactory(enum_class):
     return EnumCodec()
 
 
-def DataclassCodecFactory(data_class):
+def dataclass_codec_factory(data_class):
     """This method creates a TypeCodec for generic enums. The Codec produced will
     convert an enum to its string representation for serialization and convert the
     string representation."""
     if not is_dataclass(data_class):
-        raise TypeError(f'{data_class} is not a valid data_class')
+        raise TypeError(f"{data_class} is not a valid data_class")
 
-    class DataclassCodec(TypeCodec):
+    class DataclassCodec(TypeCodec):  # pylint: disable=too-many-ancestors
+        """Generic class for generating dataclass codecs"""
+
         python_type = data_class
         bson_type = dict
 

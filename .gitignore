@@ -128,13 +128,16 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Bandit
+.bandit
+
 # IDE Settings
 .vscode/
 
 # Testing
 .coverage
 
-# Secrets
+# Secrets (Obvious reasons)
 *.secret
 secret/
 secrets/
