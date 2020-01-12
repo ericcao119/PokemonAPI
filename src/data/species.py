@@ -4,15 +4,8 @@ from dataclasses import asdict, dataclass, field
 from typing import Any, Dict, List, Tuple
 
 from src.data.ability import Ability
-from src.data.poke_enums import (
-    Color,
-    EggGroup,
-    EvolutionType,
-    LevelingRate,
-    PType,
-    Shape,
-    # Habitat,
-)
+from src.data.poke_enums import EvolutionType  # Habitat,
+from src.data.poke_enums import Color, EggGroup, LevelingRate, PType, Shape
 from src.data.stats import BaseStats, EffortValues
 from src.utils.general import add_slots
 

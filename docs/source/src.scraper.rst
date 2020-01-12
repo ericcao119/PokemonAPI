@@ -28,6 +28,14 @@ src.scraper.pokedex module
    :undoc-members:
    :show-inheritance:
 
+src.scraper.pokemon module
+--------------------------
+
+.. automodule:: src.scraper.pokemon
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 Module contents
 ---------------
