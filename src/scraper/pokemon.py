@@ -1,21 +1,21 @@
 """Contains basic code for completely defining a speciess/variant in pokemon"""
 
-from enum import IntEnum
 import re
+from enum import IntEnum
 from typing import Any, Dict, Optional, Tuple
 
 import bs4
 from bs4.element import Tag
 from loguru import logger
 
-from src.data.stats import EffortValues
-from src.data.poke_enums import PType, Shape, LevelingRate, EggGroup
+from src.data.poke_enums import EggGroup, LevelingRate, PType, Shape
 from src.data.species import (
+    BreedingComponent,
     DexEntryComponent,
     MoveComponent,
     TrainingComponent,
-    BreedingComponent,
 )
+from src.data.stats import EffortValues
 from src.gather_files import request_pokeurl_pokemondb
 from src.utils.general import normalize_unicode
 
@@ -23,11 +23,28 @@ from src.utils.general import normalize_unicode
 def index_from_tablist(tablist_html: Tag, variant: str) -> int:
     """Determines what index the variant's information is in and returns the id of
     the corresponding internal link
+
+    >>> a = bs4.BeautifulSoup('''<div class="tabs-tab-list">
+    ... <a class="tabs-tab active" href="#tab-basic-244">Entei</a>
+    ... </div>''', 'lxml')
+    >>> index_from_tablist(a, "Entei")
+    '#tab-basic-244'
+    >>> a = bs4.BeautifulSoup('''<div class="tabs-tab-list">
+    ...   <a class="tabs-tab active" href="#tab-basic-3">
+    ...    Venusaur
+    ...   </a>
+    ...   <a class="tabs-tab" href="#tab-basic-11001">
+    ...    Mega Venusaur
+    ...   </a>
+    ...  </div>''', 'lxml')
+    >>> index_from_tablist(a, "Venusaur")
+    '#tab-basic-3'
+    >>> index_from_tablist(a, "Mega Venusaur")
+    '#tab-basic-11001'
     """
-    # TODO: Handle None case gracefully
     tablist = tablist_html.select("a.tabs-tab")
-    variants = [normalize_unicode(i.string).upper() for i in tablist]
-    index = variants.index(normalize_unicode(variant).upper())
+    variants = [normalize_unicode(i.string).strip().upper() for i in tablist]
+    index = variants.index(normalize_unicode(variant.strip()).upper())
     return tablist[index]["href"]
 
 
@@ -45,71 +62,30 @@ def get_variant_basics_html(html: Tag, species: str, variant: Optional[str]) -> 
     return variant_basics
 
 
-# Note: We ignore the type here because mypy currently
-# does not support Enum's funcitonal API
-BasicIndices = IntEnum(  # type: ignore # pylint: disable=C0103
-    "BasicIndices",
-    "national_index typing_index "
-    "kind_index height_index weight_index "
-    "abilities_index local_index",
-    start=0,
-)
-
-# Mapping of
-BODY_STYLE_MAPPING = {
-    Shape.OnlyHead: 0,
-    Shape.HeadLegs: 1,
-    Shape.Fish: 2,
-    Shape.Insectoid: 3,
-    Shape.Quadruped: 4,
-    Shape.WingedInsectoid: 5,
-    Shape.MultipleFusedBodies: 6,
-    Shape.Tentacles_MultipleLegs: 7,
-    Shape.HeadBase: 8,
-    Shape.BipedalTail: 9,
-    Shape.Humanoid: 10,
-    Shape.TwoWings: 11,
-    Shape.Serpent: 12,
-    Shape.HeadArms: 13,
-}
-
-
 def parse_basics(db_dex_html: Tag, flavor_html: Tag) -> DexEntryComponent:
     """Creates a basic DexEntry from the given html"""
     initial_filter = "h2:contains('Pokédex data') + table.vitals-table"
     html_subset = db_dex_html.select_one(initial_filter)
-    rows = html_subset.select("tr")
-
-    national_row = rows[BasicIndices.national_index]  # type: ignore
-    typing_row = rows[BasicIndices.typing_index]  # type: ignore
-    kind_row = rows[BasicIndices.kind_index]  # type: ignore
-    height_row = rows[BasicIndices.height_index]  # type: ignore
-    weight_row = rows[BasicIndices.weight_index]  # type: ignore
-    ability_row = rows[BasicIndices.abilities_index]  # type: ignore
-    local_row = rows[BasicIndices.local_index]  # type: ignore
 
     # Dead simple parsing of html
     dex_params: Dict[str, Any] = {}
 
-    dex_params["national_dex_num"] = int(national_row.select_one("td > strong").string)
-    dex_params["types"] = [PType[i.string] for i in typing_row.select("td > a")]
-    dex_params["kind"] = str(kind_row.select_one("td").string)
-    dex_params["height"] = float(height_row.select_one("td").string.split()[0])
-    dex_params["weight"] = float(weight_row.select_one("td").string.split()[0])
+    dex_params["national_dex_num"] = int(html_subset.select_one("th:contains('National') + td > strong").string)
+    dex_params["types"] = [PType[i.string] for i in html_subset.select("th:contains('Type') + td > a")]
+    dex_params["kind"] = str(html_subset.select_one("th:contains('Species') + td").string)
+    dex_params["height"] = float(html_subset.select_one("th:contains('Height') + td").string.split()[0])
+    dex_params["weight"] = float(html_subset.select_one("th:contains('Weight') +td").string.split()[0])
     dex_params["abilities"] = [
-        str(i.string) for i in ability_row.select("td > span > a")
+        str(i.string) for i in html_subset.select("th:contains('Abilities') + td > span > a")
     ]
     dex_params["hidden_abilities"] = [
-        str(i.string) for i in ability_row.select("small > a")
+        str(i.string) for i in html_subset.select("th:contains('Abilities') + td > small > a")
     ]
 
-    raw_nums = local_row.select_one("td")
+    raw_nums = html_subset.select_one("th:contains('Local') + td")
     NavigableString = bs4.element.NavigableString
     dex_params["regional_dex_nums"] = [
-        i for i in raw_nums if isinstance(i, NavigableString)
-    ]
-    dex_params["regional_dex_nums"] = [
-        int(i.strip()) for i in dex_params["regional_dex_nums"]
+        int(i.strip()) for i in raw_nums if isinstance(i, NavigableString)
     ]
 
     dex_params["flavor_text"] = str(flavor_html.select("tr > td")[-1].string)

@@ -1,6 +1,5 @@
 """Constructs the evolution graph"""
 
-import functools
 from abc import ABC, abstractmethod
 from collections import deque
 from dataclasses import dataclass
@@ -31,7 +30,7 @@ class BaseToken:
     """Base token class"""
 
     @property
-    def token_type(self):
+    def token_type(self) -> str:
         return "Base"
 
     @property
@@ -54,7 +53,7 @@ class EvoChainToken(BaseToken):
     html_frag: Tag
 
     @property
-    def token_type(self):
+    def token_type(self) -> str:
         return "Chain"
 
     def __str__(self):
@@ -74,7 +73,7 @@ class SplitToken(BaseToken):
     html_frag: Tag
 
     @property
-    def token_type(self):
+    def token_type(self) -> str:
         return "Split"
 
     def __str__(self) -> str:
@@ -94,7 +93,7 @@ class PokeToken(BaseToken):
         self._pokemon = [poke_from_infocard(self.html_frag)]
 
     @property
-    def token_type(self):
+    def token_type(self) -> str:
         return "Variant"
 
     @property
@@ -125,7 +124,7 @@ class ComboToken(BaseToken):
         ]
 
     @property
-    def token_type(self):
+    def token_type(self) -> str:
         return "Combo"
 
     @property
@@ -154,7 +153,7 @@ class EvoToken(BaseToken):
         self._evolution = self.html_frag.select_one("small").text
 
     @property
-    def token_type(self):
+    def token_type(self) -> str:
         return "Evolution"
 
     @property
@@ -196,7 +195,8 @@ class ComboLex(Lexeme):
     @classmethod
     def matches(cls, html_list: List[Tag]) -> bool:
         """Determines if the first three elements form a 'combo'
-        where multiple pokemon are grouped together like Shedinja and Ninjask"""
+        where multiple pokemon are grouped together like Shedinja and Ninjask
+        """
         if len(html_list) < 3:
             return False
 
@@ -206,7 +206,6 @@ class ComboLex(Lexeme):
         )
         card1_valid = InfocardLex.matches([card1])
         card2_valid = InfocardLex.matches([card2])
-
         return op_valid and card1_valid and card2_valid
 
     @classmethod
@@ -328,24 +327,20 @@ LEXABLE_HTML_ELEMENTS = [
 ]  # Note: Order matters for lexing reasons
 
 
-VALID_TOKENS = [
+VALID_TOKENS = {
     ComboToken,
     PokeToken,
     EvoToken,
     SplitToken,
-]
+}
 
 
 def subchain_present(evo_token: EvoChainToken) -> bool:
-    return functools.reduce(
-        lambda accum, elem: accum | isinstance(elem, EvoChainToken),
-        evo_token.chain,
-        False,
-    )
+    return any(isinstance(elem, EvoChainToken) for elem in evo_token.chain)
 
 
 def split_valid(evo_token: EvoChainToken) -> bool:
-    """Does a simple validation of the split"""
+    """Performs a simple validation of the split"""
     splits = [i for i in evo_token.chain if isinstance(i, SplitToken)]
 
     if len(splits) == 0:
@@ -448,7 +443,7 @@ def tokenize_list(html_list: List) -> Deque:
      - i.icon-arrow:contains("+") (Two or more pokemon generated) -
      - infocard (Pokemon) -
      - i.icon-arrow.icon-arrow (Evolution) -
-     - infocard-evo-split (Fork in chain)
+     - infocard-evo-split (Fork in chain) -
      - infocard-list-evo (evolution subtree) -
     """
 
@@ -476,7 +471,7 @@ def tokenize(html: Tag) -> EvoChainToken:
      - i.icon-arrow:contains("+") (Two or more pokemon generated) -
      - infocard (Pokemon) -
      - i.icon-arrow.icon-arrow (Evolution) -
-     - infocard-evo-split (Fork in chain)
+     - infocard-evo-split (Fork in chain) -
      - infocard-list-evo (evolution subtree) -
     """
     html_list = html.find_all(recursive=False)

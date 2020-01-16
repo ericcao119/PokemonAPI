@@ -5,7 +5,7 @@ list operations that are fairly common."""
 import dataclasses
 import unicodedata
 from itertools import tee, zip_longest
-from typing import Generator, List, Iterable
+from typing import Generator, Iterable, List
 
 import networkx as nx
 
@@ -33,38 +33,6 @@ def unique_frozen(iterable: Iterable):
     return tuple(dict.fromkeys(iterable))
 
 
-def get_components(iterable):
-    """Expects a iterable of subiterables (representing subgraph vertices).
-    All elements in the subgraph are expected to be hashable vertices. This
-    will then return the connected components in the form of a generator
-    yeilding sets."""
-
-    def to_graph(list_graph):
-        graph = nx.Graph()
-        for part in list_graph:
-            # each sublist is a bunch of nodes
-            graph.add_nodes_from(part)
-            # it also imlies a number of edges:
-            graph.add_edges_from(to_edges(part))
-        return graph
-
-    def to_edges(list_graph):
-        """
-        treat `list_graph` as a Graph and returns it's edges
-        to_edges(['a','b','c','d']) -> [(a,b), (b,c),(c,d)]
-        """
-        iterator = iter(list_graph)
-        last = next(iterator)
-
-        for current in iterator:
-            yield last, current
-            last = current
-
-    graph = to_graph(iterable)
-
-    return nx.connected_components(graph)
-
-
 def pairwise(iterable: Iterable) -> Iterable:
     """s -> (s0,s1), (s1,s2), (s2, s3), ...
     >>> list(pairwise([1, 2, 3, 4]))
@@ -73,6 +41,37 @@ def pairwise(iterable: Iterable) -> Iterable:
     elem1, elem2 = tee(iterable)
     next(elem2, None)
     return zip(elem1, elem2)
+
+
+def get_components(iterable: Iterable[Iterable]):
+    """Expects a iterable of subiterables (representing subgraph vertices).
+    All elements in the subgraph are expected to be hashable vertices. This
+    will then return the connected components in the form of a generator
+    yeilding sets.
+    
+    >>> a = list(get_components([["a", "b", "c"], ["a", "d"], ["e", "f"]]))
+    >>> a.sort(key=lambda x:len(x))
+    >>> for i in a:
+    ...     print(sorted(i))
+    ['e', 'f']
+    ['a', 'b', 'c', 'd']
+    >>> a = list(get_components([]))
+    >>> a
+    []
+    """
+
+    def to_graph(list_graph):
+        graph = nx.Graph()
+        for part in list_graph:
+            # each sublist is a bunch of nodes
+            graph.add_nodes_from(part)
+            # it also imlies a number of edges:
+            graph.add_edges_from(pairwise(part))
+        return graph
+
+    graph = to_graph(iterable)
+
+    return nx.connected_components(graph)
 
 
 def grouper(iterable: Iterable, num: int, fillvalue=None):

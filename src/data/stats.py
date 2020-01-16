@@ -71,6 +71,12 @@ class EffortValues:
 
     @classmethod
     def from_string(cls, string: str) -> EffortValues:
+        """Convert strings of a certain format into an EffortValues Object
+        >>> EffortValues.from_string("1 Speed")
+        EffortValues(hp=0, attack=0, defense=0, speed=1, special_attack=0, special_defense=0)
+        >>> EffortValues.from_string(" 1      HP ,   2     Special Defense  ")
+        EffortValues(hp=1, attack=0, defense=0, speed=0, special_attack=0, special_defense=2)
+        """
         stats = string.split(",")
         stat_value = [int(i.split(maxsplit=1)[0]) for i in stats]
         stat_name = [

@@ -1,3 +1,5 @@
+"""Basic configuration information abour various resources"""
+
 from pathlib import Path
 from typing import Dict, Final
 
@@ -23,8 +25,6 @@ DBDEX_STUB: Final[str] = "https://pokemondb.net/pokedex/"
 BULBADEX_STUB: Final[str] = "https://bulbapedia.bulbagarden.net/wiki/"
 
 URLS: Final[Dict[Path, str]] = {
-    # NationalDex: "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number",
-    # FormDifferences: "https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_with_form_differences",
     ABILITY_LIST: "https://pokemondb.net/ability",
     POKEDEX: "https://pokemondb.net/pokedex/all",
     BODY_STYLE: "https://bulbapedia.bulbagarden.net/wiki/List_of_Pokémon_by_body_style",

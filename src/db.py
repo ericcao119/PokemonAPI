@@ -1,11 +1,13 @@
 """Basic database setup"""
 
 import os
+
 # import mock
 import unittest.mock
+
+import google.auth.credentials
 from flask import Flask, render_template, request
 from google.cloud import firestore
-import google.auth.credentials
 
 
 def create_db():

@@ -1,6 +1,5 @@
 """Constructs the evolution graph"""
 
-import functools
 from typing import Any, Dict, List, Set, Tuple
 
 import bs4
@@ -36,7 +35,7 @@ def extract_vertices(token: EvoChainToken) -> Set[Tuple[SPECIES, VARIANTS]]:
         if isinstance(i, SplitToken):
             child_pokes = [extract_vertices(i) for i in i.children]
             # Combine
-            pokes |= functools.reduce(lambda a, b: a | b, child_pokes)
+            pokes = pokes.union(*child_pokes)
             continue
 
         poke_option = i.pokemon
@@ -123,6 +122,9 @@ def scrape_connections(
 
     chain_selector = "hr ~ div.infocard-list-evo"
     chains = html.select(chain_selector)
+
+    # print(chains[128])
+    # tokenize(chains[0])
 
     # Note: Due to how this is formatted
     evo_chains = [tokenize(i) for i in chains]

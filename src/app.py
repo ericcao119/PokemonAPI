@@ -1,20 +1,18 @@
 import argparse
-import os
 import json
-from typing import Dict, Any
+import os
 from dataclasses import asdict
+from typing import Any, Dict
 
-
-from flask import Flask, render_template, Response
+from flask import Flask, Response, render_template
 from flask.json import dumps
-
 
 from src.data.species import Species
 from src.scraper.pokemon import (
-    scrape_pokemon,
     parse_basics,
     parse_moves,
     parse_training,
+    scrape_pokemon,
 )
 from src.utils.codec_helpers import JsonEncoderCodec
 

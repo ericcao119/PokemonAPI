@@ -12,7 +12,8 @@ from src.utils.general import chunk_list
 
 # Scraping
 def parse_ability(html: bs4.BeautifulSoup) -> Ability:
-    """Takes a single list item and turns it into an ability"""
+    """Takes a single list item and turns it into an ability
+    """
     name = html.select_one('a[class="ent-name"]').text
     descr = html.select_one('td[class="cell-med-text"]').text
 

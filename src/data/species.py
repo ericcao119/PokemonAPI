@@ -1,7 +1,7 @@
 """Dataclasses for describing a pokemon variant"""
 
 from dataclasses import asdict, dataclass, field
-from typing import Any, Dict, List, Tuple, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 from src.data.ability import Ability
 from src.data.poke_enums import EvolutionType  # Habitat,

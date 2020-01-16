@@ -2,8 +2,8 @@
 
 import enum
 import json
-from typing import Dict, Any
 from dataclasses import asdict, is_dataclass
+from typing import Any, Dict
 
 from bson.codec_options import TypeCodec
 
@@ -56,6 +56,10 @@ def dataclass_codec_factory(data_class):
 
 
 class JsonEncoderCodec(json.JSONEncoder):
+    """The Json Encoder for this project. It handles serialization of
+    custom types into JSON like scribing the names of enums rather than
+    their values."""
+
     transforms: Dict[Any, Any] = {}
 
     def default(self, z):
@@ -64,5 +68,5 @@ class JsonEncoderCodec(json.JSONEncoder):
 
         if type(z) in JsonEncoderCodec.transforms:
             return JsonEncoderCodec.transforms[type(z)](z)
-        else:
-            return super().default(z)
+
+        return super().default(z)
