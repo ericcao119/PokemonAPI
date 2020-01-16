@@ -1,6 +1,6 @@
 """Constructs the evolution graph"""
 
-from typing import Any, Dict, List, Set, Tuple, Optional
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 import bs4
 import networkx as nx

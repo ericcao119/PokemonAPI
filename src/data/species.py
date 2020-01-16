@@ -1,7 +1,7 @@
 """Dataclasses for describing a pokemon variant"""
 
 from dataclasses import asdict, dataclass, field
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple
 
 from src.data.ability import Ability
 from src.data.poke_enums import EvolutionType  # Habitat,
@@ -29,6 +29,8 @@ class Evolution:
     evolution_form: SpeciesName = ""
     variant_form: VariantName = ""
 
+    def _asdict(self) -> Dict:
+        return asdict(self)
 
 @add_slots
 @dataclass
@@ -49,6 +51,8 @@ class DexEntryComponent:
     hidden_abilities: List[Ability] = field(default_factory=lambda: [])
     regional_dex_nums: List[int] = field(default_factory=lambda: [])
 
+    def _asdict(self) -> Dict:
+        return asdict(self)
 
 @add_slots
 @dataclass
@@ -70,6 +74,8 @@ class TrainingComponent:
 
     # evolutions: List[Evolution] = field(default_factory=lambda: [])
 
+    def _asdict(self) -> Dict:
+        return asdict(self)
 
 @add_slots
 @dataclass
@@ -84,6 +90,8 @@ class BreedingComponent:
     steps_to_hatch_upper: int = -1
     egg_cycles: int = -1
 
+    def _asdict(self) -> Dict:
+        return asdict(self)
 
 @add_slots
 @dataclass
@@ -98,6 +106,8 @@ class MoveComponent:
     tutor_moves: List[PMoveName] = field(default_factory=lambda: [])
     transfer_moves: List[PMoveName] = field(default_factory=lambda: [])
 
+    def _asdict(self) -> Dict:
+        return asdict(self)
 
 @add_slots
 @dataclass
@@ -108,6 +118,8 @@ class DisplayComponent:
     battler_enemy_y: int = 0
     battler_altitude: int = 0
 
+    def _asdict(self) -> Dict:
+        return asdict(self)
 
 @add_slots
 @dataclass
@@ -131,3 +143,6 @@ class Species:
     display_info: DisplayComponent = field(default_factory=lambda: DisplayComponent())
     # Make abilities and hidden abilities properties
     # Make type a property
+
+    def _asdict(self) -> Dict:
+        return asdict(self)

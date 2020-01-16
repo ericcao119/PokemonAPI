@@ -1,6 +1,6 @@
 """Helper functions for handling pokemon information"""
 
-from typing import Iterable, Set, Tuple
+from typing import Iterable, Tuple
 
 from src.utils.general import unique_frozen
 

@@ -83,4 +83,4 @@ class EffortValues:
             (i.split(maxsplit=1)[1]).lower().strip().replace(" ", "_") for i in stats
         ]
 
-        return EffortValues(**{key: value for key, value in zip(stat_name, stat_value)})
+        return EffortValues(**dict(zip(stat_name, stat_value)))

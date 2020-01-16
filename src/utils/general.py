@@ -48,7 +48,7 @@ def get_components(iterable: Iterable[Iterable]):
     All elements in the subgraph are expected to be hashable vertices. This
     will then return the connected components in the form of a generator
     yeilding sets.
-    
+
     >>> a = list(get_components([["a", "b", "c"], ["a", "d"], ["e", "f"]]))
     >>> a.sort(key=lambda x:len(x))
     >>> for i in a:
