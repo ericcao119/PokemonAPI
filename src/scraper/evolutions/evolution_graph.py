@@ -47,7 +47,7 @@ def extract_vertices(token: EvoChainToken) -> Set[Tuple[SPECIES, VARIANTS]]:
 
 
 def extract_edges(
-    token: EvoChainToken, prev_pokes: Optional[List[Tuple[SPECIES, VARIANTS]]] = None
+    token: EvoChainToken, prev_pokes: List[Tuple[SPECIES, VARIANTS]] = None
 ):
     """Extracts edges from the chain token, but be warned that there
     is currently no protection from stack overflow. However, the scraped
@@ -79,12 +79,12 @@ def extract_edges(
 
         if isinstance(poke_token, PokeToken):
             edge_list.append(
-                (prev_pokes, poke_token.pokemon, evo_token.evolution_method)
+                (prev_pokes, poke_token.pokemon, evo_token.evolution_method) # type: ignore
             )
 
         if isinstance(poke_token, ComboToken):
             for i in poke_token.pokemon:
-                edge_list.append((prev_pokes, [i], evo_token.evolution_method))
+                edge_list.append((prev_pokes, [i], evo_token.evolution_method)) # type: ignore
 
         prev_pokes = poke_token.pokemon
 
