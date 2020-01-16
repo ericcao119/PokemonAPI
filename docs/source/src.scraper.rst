@@ -1,6 +1,13 @@
 src.scraper package
 ===================
 
+Subpackages
+-----------
+
+.. toctree::
+
+   src.scraper.evolutions
+
 Submodules
 ----------
 
