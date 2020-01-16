@@ -49,6 +49,7 @@ class BaseToken:
 
 @dataclass
 class EvoChainToken(BaseToken):
+    """Token represnting a full evolution chain"""
     chain: Deque
     html_frag: Tag
 
@@ -171,6 +172,7 @@ class EvoToken(BaseToken):
 
 
 class Lexeme(ABC):
+    """General base class for a lexeme"""
     @classmethod
     @abstractmethod
     def matches(cls, html_list: List[Tag]) -> bool:
@@ -374,6 +376,7 @@ def split_valid(evo_token: EvoChainToken) -> bool:
 
 
 def valid_chain_ends(evo_token: EvoChainToken, start_with_poke: bool) -> bool:
+    """Determines if the ends of the chain are valid"""
     chain = evo_token.chain
 
     if len(chain) == 0:

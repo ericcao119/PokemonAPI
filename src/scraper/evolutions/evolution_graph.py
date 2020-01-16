@@ -47,13 +47,16 @@ def extract_vertices(token: EvoChainToken) -> Set[Tuple[SPECIES, VARIANTS]]:
 
 
 def extract_edges(
-    token: EvoChainToken, prev_pokes: List[Tuple[SPECIES, VARIANTS]] = []
+    token: EvoChainToken, prev_pokes: List[Tuple[SPECIES, VARIANTS]] = None
 ):
     """Extracts edges from the chain token, but be warned that there
     is currently no protection from stack overflow. However, the scraped
     information gets stored in a tree structure, so cycles will not cause
     stack overflows."""
     # TODO: Refactor this method
+    if prev_pokes is None:
+        prev_pokes = []
+
     edge_list: List[
         Tuple[List[Tuple[SPECIES, VARIANTS]], List[Tuple[SPECIES, VARIANTS]], Any]
     ] = []

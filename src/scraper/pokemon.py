@@ -70,16 +70,28 @@ def parse_basics(db_dex_html: Tag, flavor_html: Tag) -> DexEntryComponent:
     # Dead simple parsing of html
     dex_params: Dict[str, Any] = {}
 
-    dex_params["national_dex_num"] = int(html_subset.select_one("th:contains('National') + td > strong").string)
-    dex_params["types"] = [PType[i.string] for i in html_subset.select("th:contains('Type') + td > a")]
-    dex_params["kind"] = str(html_subset.select_one("th:contains('Species') + td").string)
-    dex_params["height"] = float(html_subset.select_one("th:contains('Height') + td").string.split()[0])
-    dex_params["weight"] = float(html_subset.select_one("th:contains('Weight') +td").string.split()[0])
+    dex_params["national_dex_num"] = int(
+        html_subset.select_one("th:contains('National') + td > strong").string
+    )
+    dex_params["types"] = [
+        PType[i.string] for i in html_subset.select("th:contains('Type') + td > a")
+    ]
+    dex_params["kind"] = str(
+        html_subset.select_one("th:contains('Species') + td").string
+    )
+    dex_params["height"] = float(
+        html_subset.select_one("th:contains('Height') + td").string.split()[0]
+    )
+    dex_params["weight"] = float(
+        html_subset.select_one("th:contains('Weight') +td").string.split()[0]
+    )
     dex_params["abilities"] = [
-        str(i.string) for i in html_subset.select("th:contains('Abilities') + td > span > a")
+        str(i.string)
+        for i in html_subset.select("th:contains('Abilities') + td > span > a")
     ]
     dex_params["hidden_abilities"] = [
-        str(i.string) for i in html_subset.select("th:contains('Abilities') + td > small > a")
+        str(i.string)
+        for i in html_subset.select("th:contains('Abilities') + td > small > a")
     ]
 
     raw_nums = html_subset.select_one("th:contains('Local') + td")
