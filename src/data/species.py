@@ -32,6 +32,7 @@ class Evolution:
     def _asdict(self) -> Dict:
         return asdict(self)
 
+
 @add_slots
 @dataclass
 class DexEntryComponent:
@@ -53,6 +54,7 @@ class DexEntryComponent:
 
     def _asdict(self) -> Dict:
         return asdict(self)
+
 
 @add_slots
 @dataclass
@@ -77,6 +79,7 @@ class TrainingComponent:
     def _asdict(self) -> Dict:
         return asdict(self)
 
+
 @add_slots
 @dataclass
 class BreedingComponent:
@@ -92,6 +95,7 @@ class BreedingComponent:
 
     def _asdict(self) -> Dict:
         return asdict(self)
+
 
 @add_slots
 @dataclass
@@ -109,6 +113,7 @@ class MoveComponent:
     def _asdict(self) -> Dict:
         return asdict(self)
 
+
 @add_slots
 @dataclass
 class DisplayComponent:
@@ -120,6 +125,7 @@ class DisplayComponent:
 
     def _asdict(self) -> Dict:
         return asdict(self)
+
 
 @add_slots
 @dataclass

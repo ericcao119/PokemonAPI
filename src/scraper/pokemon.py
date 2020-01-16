@@ -1,14 +1,13 @@
 """Contains basic code for completely defining a speciess/variant in pokemon"""
 
 import re
-from enum import IntEnum
 from typing import Any, Dict, Optional, Tuple
 
 import bs4
 from bs4.element import Tag
 from loguru import logger
 
-from src.data.poke_enums import EggGroup, LevelingRate, PType, Shape
+from src.data.poke_enums import EggGroup, LevelingRate, PType
 from src.data.species import (
     BreedingComponent,
     DexEntryComponent,
