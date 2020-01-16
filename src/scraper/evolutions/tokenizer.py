@@ -50,6 +50,7 @@ class BaseToken:
 @dataclass
 class EvoChainToken(BaseToken):
     """Token represnting a full evolution chain"""
+
     chain: Deque
     html_frag: Tag
 
@@ -173,6 +174,7 @@ class EvoToken(BaseToken):
 
 class Lexeme(ABC):
     """General base class for a lexeme"""
+
     @classmethod
     @abstractmethod
     def matches(cls, html_list: List[Tag]) -> bool:

@@ -1,6 +1,6 @@
 """Constructs the evolution graph"""
 
-from typing import Any, Dict, List, Set, Tuple
+from typing import Any, Dict, List, Set, Tuple, Optional
 
 import bs4
 import networkx as nx
@@ -47,7 +47,7 @@ def extract_vertices(token: EvoChainToken) -> Set[Tuple[SPECIES, VARIANTS]]:
 
 
 def extract_edges(
-    token: EvoChainToken, prev_pokes: List[Tuple[SPECIES, VARIANTS]] = None
+    token: EvoChainToken, prev_pokes: Optional[List[Tuple[SPECIES, VARIANTS]]] = None
 ):
     """Extracts edges from the chain token, but be warned that there
     is currently no protection from stack overflow. However, the scraped
