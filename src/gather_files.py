@@ -8,7 +8,7 @@ from typing import Union
 import requests
 from loguru import logger
 
-from config import (
+from src.config import (
     BULBADEX_STUB,
     DBDEX_STUB,
     SPECIES_BULBA_DIR,

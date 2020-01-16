@@ -5,7 +5,7 @@ from typing import List
 import bs4
 import google.cloud.firestore_v1.client
 
-from config import ABILITY_LIST
+from src.config import ABILITY_LIST
 from src.data.ability import Ability
 from src.utils.general import chunk_list
 

@@ -5,16 +5,31 @@ list operations that are fairly common."""
 import dataclasses
 import unicodedata
 from itertools import tee, zip_longest
-from typing import Generator, List
+from typing import Generator, List, Iterable
 
 import networkx as nx
 
 
-def unique(iterable):
+def unique(iterable: Iterable):
+    """
+    >>> unique([1, 2, 3, 4, 5, 6])
+    [1, 2, 3, 4, 5, 6]
+    >>> unique([1, 2, 3, 4, 5, 6, 1, 2, 3, 4])
+    [1, 2, 3, 4, 5, 6]
+    >>> unique({1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1})
+    [1, 2, 3, 4, 5, 6]
+    """
     return list(dict.fromkeys(iterable))
 
 
-def unique_frozen(iterable):
+def unique_frozen(iterable: Iterable):
+    """
+    >>> unique_frozen([1, 2, 3, 4, 5, 6])
+    (1, 2, 3, 4, 5, 6)
+    >>> unique_frozen([1, 2, 3, 4, 5, 6, 1, 2, 3, 4])
+    (1, 2, 3, 4, 5, 6)
+    >>> unique_frozen({1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1})
+    (1, 2, 3, 4, 5, 6)"""
     return tuple(dict.fromkeys(iterable))
 
 
@@ -50,30 +65,43 @@ def get_components(iterable):
     return nx.connected_components(graph)
 
 
-def pairwise(iterable):
-    """s -> (s0,s1), (s1,s2), (s2, s3), ..."""
+def pairwise(iterable: Iterable) -> Iterable:
+    """s -> (s0,s1), (s1,s2), (s2, s3), ...
+    >>> list(pairwise([1, 2, 3, 4]))
+    [(1, 2), (2, 3), (3, 4)]
+    """
     elem1, elem2 = tee(iterable)
     next(elem2, None)
     return zip(elem1, elem2)
 
 
-def grouper(iterable, num, fillvalue=None):
-    """Collect data into fixed-length chunks or blocks"""
+def grouper(iterable: Iterable, num: int, fillvalue=None):
+    """Collect data into fixed-length chunks or blocks
+    >>> list(grouper('ABCDEFG', 3, 'x'))
+    [('A', 'B', 'C'), ('D', 'E', 'F'), ('G', 'x', 'x')]
+    """
     # grouper('ABCDEFG', 3, 'x') --> ABC DEF Gxx"
     args = [iter(iterable)] * num
     return zip_longest(*args, fillvalue=fillvalue)
 
 
 def grouper_discard_uneven(iterable, num):
-    "Collect data into fixed-length chunks or blocks"
-    # grouper('ABCDEFG', 3, 'x') --> ABC DEF Gxx"
+    """Collect data into fixed-length chunks or blocks and discard uneven chunks
+    >>> list(grouper_discard_uneven('ABCDEFG', 3))
+    [('A', 'B', 'C'), ('D', 'E', 'F')]"""
+    # grouper_discard_uneven('ABCDEFG', 3, 'x') --> ABC DEF"
     args = [iter(iterable)] * num
     return zip(*args)
 
 
 def normalize_unicode(string: str) -> str:
     """Removed non-ascii characters from a unicode string. Many characters will be
-    converted to their nearest ASCII quivalent."""
+    converted to their nearest ASCII quivalent.
+    >>> normalize_unicode("Flabébé")
+    'Flabebe'
+    >>> normalize_unicode("Flabebe")
+    'Flabebe'
+    """
     return (
         unicodedata.normalize("NFKD", string).encode("ascii", "ignore").decode("utf-8")
     )
@@ -81,13 +109,21 @@ def normalize_unicode(string: str) -> str:
 
 def chunk_list(lst: List, num: int) -> List[List]:
     """Chunks a list in a list of chunks each size num.
-    The last chunk may not be divisible by num, but all others will be."""
+    The last chunk may not be divisible by num, but all others will be.
+    >>> chunk_list([1, 2, 3, 4, 5, 6, 7, 8, 9], 3)
+    [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+    >>> chunk_list([1, 2, 3, 4, 5, 6, 7, 8], 3)
+    [[1, 2, 3], [4, 5, 6], [7, 8]]"""
     return [lst[i : i + num] for i in range(0, len(lst), num)]
 
 
 def xchunk_list(lst: List, num: int) -> Generator[List, None, None]:
     """Chunks a list in a list of chunks each size num.
-    The last chunk may not be divisible by num, but all others will be."""
+    The last chunk may not be divisible by num, but all others will be.
+    >>> list(xchunk_list([1, 2, 3, 4, 5, 6, 7, 8, 9], 3))
+    [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+    >>> list(xchunk_list([1, 2, 3, 4, 5, 6, 7, 8], 3))
+    [[1, 2, 3], [4, 5, 6], [7, 8]]"""
     for i in range(0, len(lst), num):
         yield lst[i : i + num]
 

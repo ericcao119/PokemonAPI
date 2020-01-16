@@ -1,6 +1,8 @@
 """Provides some helper functions for defining codecs"""
 
 import enum
+import json
+from typing import Dict, Any
 from dataclasses import asdict, is_dataclass
 
 from bson.codec_options import TypeCodec
@@ -51,3 +53,16 @@ def dataclass_codec_factory(data_class):
             return DataclassCodec.python_type(**value)
 
     return DataclassCodec()
+
+
+class JsonEncoderCodec(json.JSONEncoder):
+    transforms: Dict[Any, Any] = {}
+
+    def default(self, z):
+        if issubclass(type(z), enum.Enum):
+            return z.name
+
+        if type(z) in JsonEncoderCodec.transforms:
+            return JsonEncoderCodec.transforms[type(z)](z)
+        else:
+            return super().default(z)

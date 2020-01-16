@@ -1,7 +1,7 @@
 """Dataclasses for describing a pokemon variant"""
 
 from dataclasses import asdict, dataclass, field
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Tuple, Optional
 
 from src.data.ability import Ability
 from src.data.poke_enums import EvolutionType  # Habitat,
@@ -29,10 +29,6 @@ class Evolution:
     evolution_form: SpeciesName = ""
     variant_form: VariantName = ""
 
-    def _asdict(self) -> Dict[str, Any]:
-        """Converts the class to a dict"""
-        return asdict(self)
-
 
 @add_slots
 @dataclass
@@ -53,10 +49,6 @@ class DexEntryComponent:
     hidden_abilities: List[Ability] = field(default_factory=lambda: [])
     regional_dex_nums: List[int] = field(default_factory=lambda: [])
 
-    def _asdict(self) -> Dict[str, Any]:
-        """Converts the class to a dict"""
-        return asdict(self)
-
 
 @add_slots
 @dataclass
@@ -72,15 +64,11 @@ class TrainingComponent:
     base_friendship: int = -1
     # The chances of holding the item are 50%, 5% and 1% respectively.
     # If all three are the same item, then the chance of holding it is 100% instead.
-    wild_item_common: ItemName = ""
-    wild_item_uncommmon: ItemName = ""
-    wild_item_rare: ItemName = ""
+    # wild_item_common: ItemName = ""
+    # wild_item_uncommmon: ItemName = ""
+    # wild_item_rare: ItemName = ""
 
-    evolutions: List[Evolution] = field(default_factory=lambda: [])
-
-    def _asdict(self) -> Dict[str, Any]:
-        """Converts the class to a dict"""
-        return asdict(self)
+    # evolutions: List[Evolution] = field(default_factory=lambda: [])
 
 
 @add_slots
@@ -90,15 +78,11 @@ class BreedingComponent:
     and gender information"""
 
     egg_groups: List[EggGroup] = field(default_factory=lambda: [EggGroup.INVALID])
-    gender_rate: int = 127
+    male_rate: Optional[float] = None
     # Hatch Time
     steps_to_hatch_lower: int = -1
     steps_to_hatch_upper: int = -1
     egg_cycles: int = -1
-
-    def _asdict(self) -> Dict[str, Any]:
-        """Converts the class to a dict"""
-        return asdict(self)
 
 
 @add_slots
@@ -114,10 +98,6 @@ class MoveComponent:
     tutor_moves: List[PMoveName] = field(default_factory=lambda: [])
     transfer_moves: List[PMoveName] = field(default_factory=lambda: [])
 
-    def _asdict(self) -> Dict[str, Any]:
-        """Converts the class to a dict"""
-        return asdict(self)
-
 
 @add_slots
 @dataclass
@@ -128,10 +108,6 @@ class DisplayComponent:
     battler_enemy_y: int = 0
     battler_altitude: int = 0
 
-    def _asdict(self) -> Dict[str, Any]:
-        """Converts the class to a dict"""
-        return asdict(self)
-
 
 @add_slots
 @dataclass
@@ -140,7 +116,6 @@ class Species:
     of the species like Mega Salamance."""
 
     species_name: SpeciesName = ""
-    variant_num: int = -1
     variant_name: VariantName = ""
 
     base_stats: BaseStats = BaseStats(0, 0, 0, 0, 0, 0)
@@ -156,7 +131,3 @@ class Species:
     display_info: DisplayComponent = field(default_factory=lambda: DisplayComponent())
     # Make abilities and hidden abilities properties
     # Make type a property
-
-    def _asdict(self) -> Dict[str, Any]:
-        """Converts the class to a dict"""
-        return asdict(self)

@@ -6,7 +6,7 @@ from typing import Dict, List
 
 import bs4
 
-from config import POKEDEX
+from src.config import POKEDEX
 from src.data.poke_enums import PType
 from src.data.stats import BaseStats
 

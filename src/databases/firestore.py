@@ -3,7 +3,7 @@
 import firebase_admin
 from firebase_admin import credentials, firestore
 
-from config import ROOT_DIR
+from src.config import ROOT_DIR
 
 
 def get_client():

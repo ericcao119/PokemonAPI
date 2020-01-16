@@ -6,7 +6,7 @@ from typing import Any, Dict, List, Set, Tuple
 import bs4
 import networkx as nx
 
-from config import EVOLUTION_GRAPH
+from src.config import EVOLUTION_GRAPH
 from src.scraper.evolutions.tokenizer import (
     ComboToken,
     EvoChainToken,
