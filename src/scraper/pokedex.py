@@ -12,13 +12,11 @@ from src.data.stats import BaseStats
 from src.data.typing import SpeciesId, VariantId
 
 
-def parse_dex_entry(html):
+def _parse_dex_entry(html):
     """Parses a single dex entry from the pokemon database.
     If the default form of the species has no variant name,
     the species name will be used as the variant name.
     """
-
-    # print(html)
 
     species_name = html.select_one("a.ent-name").string
     variant_name = (
@@ -40,20 +38,7 @@ def parse_dex_entry(html):
     stats = [int(stat.string) for stat in html.select('td[class="cell-num"]')]
     stats = BaseStats(**dict(zip(stat_names, stats)))
 
-    return species_name, variant_name, typing, stats
-
-
-def classify_variants(
-    species: List[SpeciesId], variants: List[VariantId]
-) -> Dict[SpeciesId, List[VariantId]]:
-    """Expects list of species and a list with its corresponding variants and
-    returns a dict with the key being the species and the value being the list of variants"""
-    variants_dict: Dict = {key: [] for key in species}
-
-    for s_name, v_name in zip(species, variants):
-        variants_dict[s_name].append(v_name)
-
-    return variants_dict
+    return str(species_name), str(variant_name), typing, stats
 
 
 def scrape_pokedex():
@@ -70,5 +55,5 @@ def scrape_pokedex():
     variants_html = pokedex_html.select("#pokedex > tbody > tr")
     # pokedex_html.find_all('tbody')
 
-    pokedex = [parse_dex_entry(dex_entry) for dex_entry in variants_html]
+    pokedex = [_parse_dex_entry(dex_entry) for dex_entry in variants_html]
     return zip(*pokedex)

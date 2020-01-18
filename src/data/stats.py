@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from typing import Optional
 
 from src.utils.general import add_slots
 
@@ -70,13 +71,18 @@ class EffortValues:
         self.__class__.__dict__[name].__set__(self, value)
 
     @classmethod
-    def from_string(cls, string: str) -> EffortValues:
+    def from_string(cls, string: str) -> Optional[EffortValues]:
         """Convert strings of a certain format into an EffortValues Object
         >>> EffortValues.from_string("1 Speed")
         EffortValues(hp=0, attack=0, defense=0, speed=1, special_attack=0, special_defense=0)
         >>> EffortValues.from_string(" 1      HP ,   2     Special Defense  ")
         EffortValues(hp=1, attack=0, defense=0, speed=0, special_attack=0, special_defense=2)
         """
+        string = string.strip()
+
+        if string == "—":
+            return None
+
         stats = string.split(",")
         stat_value = [int(i.split(maxsplit=1)[0]) for i in stats]
         stat_name = [

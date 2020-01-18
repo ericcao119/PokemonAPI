@@ -16,12 +16,20 @@ from src.config import (
     URLS,
 )
 from src.data.typing import SpeciesId
-from src.utils.general import normalize_unicode
+from src.utils.general import normalize_unicode, rate_limited
 
 
 def request_pokeurl_pokemondb(species: SpeciesId) -> Path:
     """Request a pokemon entry from PokemonDB"""
     species_file: Path = (SPECIES_POKEDB_DIR / (species + ".html")).absolute()
+    species = (
+        species.replace("♂", "-m")
+        .replace("♀", "-f")
+        .replace(" ", "-")
+        .replace(".", "")
+        .replace(":", "")
+        .replace("'", "")
+    )
     url = DBDEX_STUB + normalize_unicode(species).lower()
     request_url(species_file, url)
     return species_file
@@ -35,15 +43,10 @@ def request_pokeurl_bulba(species: SpeciesId) -> Path:
     return species_file
 
 
-def request_url(file: Path, url: Union[str, bytes], refresh_cache=False) -> None:
-    """Fetches one url and stores the content in the cache"""
-    if not refresh_cache and file.exists():
-        logger.info(f"Skipping {str(url)} since {file.absolute()} already exists")
-        return
-
-    logger.debug(f"Requesting {file.absolute()} from {str(url)}")
+@rate_limited(0.333)
+def _request_url(file: Path, url: Union[str, bytes]) -> None:
+    logger.info(f"Requesting {file.absolute()} from {str(url)}")
     req = requests.get(url=url)
-    sleep(5)  # To be nice
 
     if not req.ok:
         # TODO: Gracefully handle this case
@@ -56,6 +59,15 @@ def request_url(file: Path, url: Union[str, bytes], refresh_cache=False) -> None
             dest.writelines(req.text)
     except NotADirectoryError:
         logger.error(f"{file.absolute()} is not a valid filepath")
+
+
+def request_url(file: Path, url: Union[str, bytes], refresh_cache=False) -> None:
+    """Fetches one url and stores the content in the cache"""
+    if not refresh_cache and file.exists():
+        logger.info(f"Skipping {str(url)} since {file.absolute()} already exists")
+        return
+
+    _request_url(file, url)
 
 
 def populate_cache():

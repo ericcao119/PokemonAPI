@@ -3,11 +3,52 @@ This does not mean that they use pure python functions, but instead are things l
 list operations that are fairly common."""
 
 import dataclasses
+import time
 import unicodedata
 from itertools import tee, zip_longest
-from typing import Generator, Iterable, List
+from typing import Generator, Iterable, List, Dict, Any, DefaultDict
+from collections import defaultdict
 
 import networkx as nx
+
+
+def rate_limited(maxPerSecond):
+    minInterval = 1.0 / float(maxPerSecond)
+
+    def decorate(func):
+        lastTimeCalled = [0.0]
+
+        def rateLimitedFunction(*args, **kargs):
+            elapsed = time.perf_counter() - lastTimeCalled[0]
+            leftToWait = minInterval - elapsed
+            if leftToWait > 0:
+                time.sleep(leftToWait)
+            ret = func(*args, **kargs)
+            lastTimeCalled[0] = time.perf_counter()
+            return ret
+
+        return rateLimitedFunction
+
+    return decorate
+
+
+def create_multimap(keys: Iterable, values: Iterable) -> DefaultDict[Any, List[Any]]:
+    """Creates a multimap from the keys and values. This preserves Key order.
+    
+    >>> create_multimap("AAABBC", "123111")
+    defaultdict(<class 'list'>, {'A': ['1', '2', '3'], 'B': ['1', '1'], 'C': ['1']})
+    """
+    # keys_list = list(keys)
+    # mapping: Dict = {i: [] for i in keys_list}
+
+    # _ = [
+    #     mapping[key].append(value) for key, value in zip(keys_list, values)
+    # ]
+    # return mapping
+
+    mapping: DefaultDict = defaultdict(list)
+    _ = [mapping[key].append(value) for key, value in zip(keys, values)]
+    return mapping
 
 
 def unique(iterable: Iterable):

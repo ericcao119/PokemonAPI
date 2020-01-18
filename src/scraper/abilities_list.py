@@ -11,7 +11,7 @@ from src.utils.general import chunk_list
 
 
 # Scraping
-def parse_ability(html: bs4.BeautifulSoup) -> Ability:
+def _parse_ability(html: bs4.BeautifulSoup) -> Ability:
     """Takes a single list item and turns it into an ability
     """
     name = html.select_one('a[class="ent-name"]').text
@@ -25,7 +25,7 @@ def scrape_abilities() -> List[Ability]:
     html = bs4.BeautifulSoup(ABILITY_LIST.read_text(), "html.parser")
 
     ability_html = html.select('tr:has(> td:has(> a[class="ent-name"]))')
-    abilities = [parse_ability(i) for i in ability_html]
+    abilities = [_parse_ability(i) for i in ability_html]
     return abilities
 
 

@@ -13,21 +13,22 @@ from src.data.species import (
     DexEntryComponent,
     MoveComponent,
     TrainingComponent,
+    Species,
 )
-from src.data.stats import EffortValues
+from src.data.stats import EffortValues, BaseStats
 from src.data.typing import SpeciesId, VariantId
 from src.gather_files import request_pokeurl_pokemondb
 from src.utils.general import normalize_unicode
 
 
-def index_from_tablist(tablist_html: Tag, variant: VariantId) -> int:
+def _index_from_tablist(tablist_html: Tag, variant: VariantId) -> int:
     """Determines what index the variant's information is in and returns the id of
     the corresponding internal link
 
     >>> a = bs4.BeautifulSoup('''<div class="tabs-tab-list">
     ... <a class="tabs-tab active" href="#tab-basic-244">Entei</a>
     ... </div>''', 'lxml')
-    >>> index_from_tablist(a, "Entei")
+    >>> _index_from_tablist(a, "Entei")
     '#tab-basic-244'
     >>> a = bs4.BeautifulSoup('''<div class="tabs-tab-list">
     ...   <a class="tabs-tab active" href="#tab-basic-3">
@@ -37,9 +38,9 @@ def index_from_tablist(tablist_html: Tag, variant: VariantId) -> int:
     ...    Mega Venusaur
     ...   </a>
     ...  </div>''', 'lxml')
-    >>> index_from_tablist(a, "Venusaur")
+    >>> _index_from_tablist(a, "Venusaur")
     '#tab-basic-3'
-    >>> index_from_tablist(a, "Mega Venusaur")
+    >>> _index_from_tablist(a, "Mega Venusaur")
     '#tab-basic-11001'
     """
     tablist = tablist_html.select("a.tabs-tab")
@@ -57,7 +58,7 @@ def get_variant_basics_html(
 
     tablist_html = html.select_one("div.tabs-tab-list")
 
-    index = index_from_tablist(tablist_html, variant)
+    index = _index_from_tablist(tablist_html, variant)
 
     # Select correct tab
     variant_basics = html.select_one(index)
@@ -81,12 +82,17 @@ def parse_basics(db_dex_html: Tag, flavor_html: Tag) -> DexEntryComponent:
     dex_params["kind"] = str(
         html_subset.select_one("th:contains('Species') + td").string
     )
-    dex_params["height"] = float(
-        html_subset.select_one("th:contains('Height') + td").string.split()[0]
-    )
-    dex_params["weight"] = float(
-        html_subset.select_one("th:contains('Weight') +td").string.split()[0]
-    )
+
+    height_str = str(
+        html_subset.select_one("th:contains('Height') + td").string
+    ).strip()
+    if height_str != "—":
+        dex_params["height"] = float(height_str.split()[0])
+
+    weight_str = str(html_subset.select_one("th:contains('Weight') +td").string).strip()
+    if weight_str != "—":
+        dex_params["weight"] = float(weight_str.split()[0])
+
     dex_params["abilities"] = [
         str(i.string)
         for i in html_subset.select("th:contains('Abilities') + td > span > a")
@@ -98,9 +104,11 @@ def parse_basics(db_dex_html: Tag, flavor_html: Tag) -> DexEntryComponent:
 
     raw_nums = html_subset.select_one("th:contains('Local') + td")
     NavigableString = bs4.element.NavigableString
-    dex_params["regional_dex_nums"] = [
-        int(i.strip()) for i in raw_nums if isinstance(i, NavigableString)
-    ]
+    dex_params["regional_dex_nums"] = (
+        [int(i.strip()) for i in raw_nums if isinstance(i, NavigableString)]
+        if raw_nums is None or raw_nums.string != "—"
+        else []
+    )
 
     dex_params["flavor_text"] = str(flavor_html.select("tr > td")[-1].string)
 
@@ -120,6 +128,9 @@ def _determine_gender_rate(raw_str: str):
     >>> _determine_gender_rate('50% male, 50% female')
     50.0
     """
+    if raw_str == "—":
+        return None
+
     cleaned = raw_str.strip()
     if cleaned == "Genderless":
         return None
@@ -150,14 +161,19 @@ def parse_breeding(db_dex_html: Tag) -> BreedingComponent:
         list(html_subset.select_one(egg_cycles_filter).stripped_strings)[0]
     )
 
-    dex_params["egg_groups"] = [
-        EggGroup[i.strip().replace(" ", "")] for i in egg_group_string.split(",")
-    ]
+    if egg_group_string == "—":
+        dex_params["egg_groups"] = []
+    else:
+        dex_params["egg_groups"] = [
+            EggGroup[i.strip().replace(" ", "").replace("-", "").title()]
+            for i in egg_group_string.split(",")
+        ]
     dex_params["male_rate"] = _determine_gender_rate(gender_rate_string)
-    dex_params["egg_cycles"] = int(egg_cycles_string)
 
-    dex_params["steps_to_hatch_lower"] = (dex_params["egg_cycles"] - 1) * 257 + 1
-    dex_params["steps_to_hatch_upper"] = dex_params["egg_cycles"] * 257
+    if egg_cycles_string != "—":
+        dex_params["egg_cycles"] = int(egg_cycles_string)
+        dex_params["steps_to_hatch_lower"] = (dex_params["egg_cycles"] - 1) * 257 + 1
+        dex_params["steps_to_hatch_upper"] = dex_params["egg_cycles"] * 257
 
     return BreedingComponent(**dex_params)
 
@@ -195,12 +211,19 @@ def parse_training(db_dex_html: Tag) -> TrainingComponent:
     dex_params["effort_points"] = EffortValues.from_string(
         html_subset.select_one(ev_yield_filter).string
     )
-    dex_params["catch_rate"] = int(catch_list[0])
-    dex_params["base_friendship"] = int(friendship_list[0])
-    dex_params["base_exp_yield"] = int(html_subset.select_one(base_exp_filter).string)
-    dex_params["leveling_rate"] = LevelingRate[
-        html_subset.select_one(level_filter).string.replace(" ", "")
-    ]
+
+    dex_params["catch_rate"] = int(catch_list[0]) if catch_list[0] != "—" else None
+    dex_params["base_friendship"] = (
+        int(friendship_list[0]) if friendship_list[0] != "—" else None
+    )
+
+    base_exp = str(html_subset.select_one(base_exp_filter).string)
+    dex_params["base_exp_yield"] = int(base_exp) if base_exp != "—" else None
+
+    level_rate = html_subset.select_one(level_filter).string.replace(" ", "").strip()
+    dex_params["leveling_rate"] = (
+        LevelingRate[level_rate] if level_rate != "—" else LevelingRate.INVALID
+    )
 
     return TrainingComponent(**dex_params)
 
@@ -281,17 +304,19 @@ def _scrape_flavor_text(html, species: SpeciesId, variant: Optional[VariantId]) 
     """Helper method to extract flavor text"""
     # main is necessary to greatly reduce the number of
     flavor_html = html.select_one(
-        f"main h3:contains({variant}) + div.resp-scroll > table > tbody"
+        f'main h3:contains("{variant}") + div.resp-scroll > table > tbody'
     )
 
     if flavor_html is None:
-        logger.info(f"Variant {variant} of Species {species} does not have a dex entry")
+        logger.trace(
+            f"Variant {variant} of Species {species} does not have a dex entry"
+        )
         flavor_html = html.select_one(
-            f"main h3:contains({species}) + div.resp-scroll > table > tbody"
+            f'main h3:contains("{species}") + div.resp-scroll > table > tbody'
         )
 
     if flavor_html is None:
-        logger.info(
+        logger.trace(
             "Flavor text is not listed under species name, "
             "so instead the default flavor text is being used."
         )
@@ -300,7 +325,16 @@ def _scrape_flavor_text(html, species: SpeciesId, variant: Optional[VariantId]) 
         )
 
     if flavor_html is None:
-        logger.error(f"Species does not contain a dex entry")
+        logger.info(
+            f"Species does not contain a dex entry. Using a unlisted form dex entry"
+        )
+
+        flavor_html = html.select_one(
+            f"main h2:contains('Pokédex entries') + h3 + div.resp-scroll > table > tbody"
+        )
+
+    if flavor_html is None:
+        logger.error(f"Species does not contain a dex entry.")
 
     return flavor_html
 
@@ -327,6 +361,26 @@ def scrape_pokemon(
     flavor_html = _scrape_flavor_text(html, species, variant)
 
     return dex_basics, evolution_html, moves_html, flavor_html
+
+
+def create_species(species: SpeciesId, variant: VariantId, stats: BaseStats):
+    """Create full species information"""
+    dex_basics, evolution_html, moves_html, flavor_html = scrape_pokemon(
+        species, variant
+    )
+
+    species_info: Dict[str, Any] = {"species_name": species, "variant_name": species}
+
+    species_info["species_name"] = species
+    species_info["variant_name"] = variant
+    species_info["base_stats"] = stats
+
+    species_info["dex_entry"] = parse_basics(dex_basics, flavor_html)
+    species_info["move_info"] = parse_moves(moves_html, species)
+    species_info["training_info"] = parse_training(dex_basics)
+    species_info["breeding_info"] = parse_breeding(dex_basics)
+
+    return Species(**species_info)
 
 
 def scrape_body_style():
