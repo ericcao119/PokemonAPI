@@ -5,9 +5,9 @@ list operations that are fairly common."""
 import dataclasses
 import time
 import unicodedata
-from itertools import tee, zip_longest
-from typing import Generator, Iterable, List, Dict, Any, DefaultDict
 from collections import defaultdict
+from itertools import tee, zip_longest
+from typing import Any, DefaultDict, Dict, Generator, Iterable, List
 
 import networkx as nx
 

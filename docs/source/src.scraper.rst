@@ -35,6 +35,14 @@ src.scraper.pokemon module
    :undoc-members:
    :show-inheritance:
 
+src.scraper.scrape module
+-------------------------
+
+.. automodule:: src.scraper.scrape
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 Module contents
 ---------------

@@ -12,10 +12,10 @@ from src.data.species import (
     BreedingComponent,
     DexEntryComponent,
     MoveComponent,
-    TrainingComponent,
     Species,
+    TrainingComponent,
 )
-from src.data.stats import EffortValues, BaseStats
+from src.data.stats import BaseStats, EffortValues
 from src.data.typing import SpeciesId, VariantId
 from src.gather_files import request_pokeurl_pokemondb
 from src.utils.general import normalize_unicode

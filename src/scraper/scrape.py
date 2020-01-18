@@ -4,8 +4,8 @@ from pprint import pprint
 
 from loguru import logger
 
-from src.gather_files import request_pokeurl_pokemondb
 from src.data.typing import SpeciesId, VariantId
+from src.gather_files import request_pokeurl_pokemondb
 from src.scraper.abilities_list import scrape_abilities
 from src.scraper.pokedex import scrape_pokedex
 from src.scraper.pokemon import create_species
