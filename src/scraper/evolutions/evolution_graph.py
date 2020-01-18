@@ -6,6 +6,7 @@ import bs4
 import networkx as nx
 
 from src.config import EVOLUTION_GRAPH
+from src.data.typing import PokeId, SpeciesId, VariantId
 from src.scraper.evolutions.tokenizer import (
     ComboToken,
     EvoChainToken,
@@ -13,18 +14,15 @@ from src.scraper.evolutions.tokenizer import (
     SplitToken,
     tokenize,
 )
-from src.utils.general import get_components, grouper_discard_uneven
+from src.utils.general import get_components, grouper_discard
 from src.utils.poke_helpers import add_missing_variants
 
-SPECIES = str
-VARIANTS = str
 
-
-def extract_vertices(token: EvoChainToken) -> Set[Tuple[SPECIES, VARIANTS]]:
+def extract_vertices(token: EvoChainToken) -> Set[PokeId]:
     """Extracts vertices from the chain. Currently, pokemon that are combined
     as the result of an evolution are stored separately, but this may need to
     be changed in the future."""
-    pokes: Set[Tuple[SPECIES, VARIANTS]] = set()
+    pokes: Set[PokeId] = set()
 
     for i in token.chain:
         if isinstance(i, EvoChainToken):
@@ -46,9 +44,7 @@ def extract_vertices(token: EvoChainToken) -> Set[Tuple[SPECIES, VARIANTS]]:
     return pokes
 
 
-def extract_edges(
-    token: EvoChainToken, prev_pokes: Optional[List[Tuple[SPECIES, VARIANTS]]] = None
-):
+def extract_edges(token: EvoChainToken, prev_pokes: Optional[List[PokeId]] = None):
     """Extracts edges from the chain token, but be warned that there
     is currently no protection from stack overflow. However, the scraped
     information gets stored in a tree structure, so cycles will not cause
@@ -57,9 +53,7 @@ def extract_edges(
     if prev_pokes is None:
         prev_pokes = []
 
-    edge_list: List[
-        Tuple[List[Tuple[SPECIES, VARIANTS]], List[Tuple[SPECIES, VARIANTS]], Any]
-    ] = []
+    edge_list: List[Tuple[List[PokeId], List[PokeId], Any]] = []
     chain = list(token.chain)
 
     if len(chain) < 2:
@@ -73,7 +67,7 @@ def extract_edges(
         chain = chain[1:]
 
     # Add all edges in chain
-    for evo_token, poke_token in grouper_discard_uneven(chain, 2):
+    for evo_token, poke_token in grouper_discard(chain, 2):
         if poke_token.pokemon is None or evo_token.evolution_method is None:
             raise ValueError("Chain is not a valid chain")
 
@@ -112,8 +106,7 @@ def create_graph(chain: EvoChainToken) -> List[nx.MultiDiGraph]:
 
 
 def scrape_connections(
-    variants_list: List[Tuple[SPECIES, VARIANTS]],
-    geneology: Dict[SPECIES, List[VARIANTS]],
+    variants_list: List[PokeId], geneology: Dict[SpeciesId, List[VariantId]],
 ):
     """Scrapes connections from pokemondb's evolution webpage and
     converts them into graphs to be used by networkx. To support

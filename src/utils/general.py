@@ -84,11 +84,11 @@ def grouper(iterable: Iterable, num: int, fillvalue=None):
     return zip_longest(*args, fillvalue=fillvalue)
 
 
-def grouper_discard_uneven(iterable, num):
+def grouper_discard(iterable, num):
     """Collect data into fixed-length chunks or blocks and discard uneven chunks
-    >>> list(grouper_discard_uneven('ABCDEFG', 3))
+    >>> list(grouper_discard('ABCDEFG', 3))
     [('A', 'B', 'C'), ('D', 'E', 'F')]"""
-    # grouper_discard_uneven('ABCDEFG', 3, 'x') --> ABC DEF"
+    # grouper_discard('ABCDEFG', 3, 'x') --> ABC DEF"
     args = [iter(iterable)] * num
     return zip(*args)
 

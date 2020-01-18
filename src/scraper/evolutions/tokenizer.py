@@ -8,8 +8,10 @@ from typing import Deque, List, Optional, Tuple
 from bs4.element import Tag
 from loguru import logger
 
+from src.data.typing import PokeId
 
-def poke_from_infocard(html_frag: Tag) -> Tuple[str, str]:
+
+def poke_from_infocard(html_frag: Tag) -> PokeId:
     """Given that the tag is an div.infocard, this extracts the pokemon from the Tag"""
     if not (html_frag.has_attr("class") and {"infocard"} == set(html_frag["class"])):
         raise ValueError("Tag is not of the form div.infocard")
@@ -34,7 +36,7 @@ class BaseToken:
         return "Base"
 
     @property
-    def pokemon(self) -> Optional[List[Tuple[str, str]]]:
+    def pokemon(self) -> Optional[List[PokeId]]:
         """Extracts the pokemon contained in the token"""
         return None
 
@@ -99,7 +101,7 @@ class PokeToken(BaseToken):
         return "Variant"
 
     @property
-    def pokemon(self) -> Optional[List[Tuple[str, str]]]:
+    def pokemon(self) -> Optional[List[PokeId]]:
         return self._pokemon
 
     def __str__(self) -> str:
@@ -130,7 +132,7 @@ class ComboToken(BaseToken):
         return "Combo"
 
     @property
-    def pokemon(self) -> Optional[List[Tuple[str, str]]]:
+    def pokemon(self) -> Optional[List[PokeId]]:
         return self._pokemon
 
     def __str__(self) -> str:

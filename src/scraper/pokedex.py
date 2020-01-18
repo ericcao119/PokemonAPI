@@ -9,6 +9,7 @@ import bs4
 from src.config import POKEDEX
 from src.data.poke_enums import PType
 from src.data.stats import BaseStats
+from src.data.typing import SpeciesId, VariantId
 
 
 def parse_dex_entry(html):
@@ -42,10 +43,12 @@ def parse_dex_entry(html):
     return species_name, variant_name, typing, stats
 
 
-def classify_variants(species: List[str], variants: List[str]) -> Dict[str, List[str]]:
+def classify_variants(
+    species: List[SpeciesId], variants: List[VariantId]
+) -> Dict[SpeciesId, List[VariantId]]:
     """Expects list of species and a list with its corresponding variants and
     returns a dict with the key being the species and the value being the list of variants"""
-    variants_dict: Dict[str, List] = {key: [] for key in species}
+    variants_dict: Dict = {key: [] for key in species}
 
     for s_name, v_name in zip(species, variants):
         variants_dict[s_name].append(v_name)

@@ -15,10 +15,11 @@ from src.config import (
     SPECIES_POKEDB_DIR,
     URLS,
 )
+from src.data.typing import SpeciesId
 from src.utils.general import normalize_unicode
 
 
-def request_pokeurl_pokemondb(species: str) -> Path:
+def request_pokeurl_pokemondb(species: SpeciesId) -> Path:
     """Request a pokemon entry from PokemonDB"""
     species_file: Path = (SPECIES_POKEDB_DIR / (species + ".html")).absolute()
     url = DBDEX_STUB + normalize_unicode(species).lower()
@@ -26,7 +27,7 @@ def request_pokeurl_pokemondb(species: str) -> Path:
     return species_file
 
 
-def request_pokeurl_bulba(species: str) -> Path:
+def request_pokeurl_bulba(species: SpeciesId) -> Path:
     """Request a pokemon entry from Bulbapedia"""
     species_file: Path = (SPECIES_BULBA_DIR / (species + ".html")).absolute()
     url = BULBADEX_STUB + f"{species}_(Pokémon)"

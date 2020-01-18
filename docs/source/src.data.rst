@@ -60,6 +60,14 @@ src.data.stats module
    :undoc-members:
    :show-inheritance:
 
+src.data.typing module
+----------------------
+
+.. automodule:: src.data.typing
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 Module contents
 ---------------

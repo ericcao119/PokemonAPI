@@ -15,11 +15,12 @@ from src.data.species import (
     TrainingComponent,
 )
 from src.data.stats import EffortValues
+from src.data.typing import SpeciesId, VariantId
 from src.gather_files import request_pokeurl_pokemondb
 from src.utils.general import normalize_unicode
 
 
-def index_from_tablist(tablist_html: Tag, variant: str) -> int:
+def index_from_tablist(tablist_html: Tag, variant: VariantId) -> int:
     """Determines what index the variant's information is in and returns the id of
     the corresponding internal link
 
@@ -47,7 +48,9 @@ def index_from_tablist(tablist_html: Tag, variant: str) -> int:
     return tablist[index]["href"]
 
 
-def get_variant_basics_html(html: Tag, species: str, variant: Optional[str]) -> Tag:
+def get_variant_basics_html(
+    html: Tag, species: SpeciesId, variant: Optional[VariantId]
+) -> Tag:
     """Generate dex basics from scraped html"""
     if variant is None:
         variant = species
@@ -210,7 +213,7 @@ def _select_move_tab(moves_html: Tag):
 
 
 def parse_moves(
-    moves_html: Tag, species: str, variant: Optional[str] = None
+    moves_html: Tag, species: SpeciesId, variant: Optional[VariantId] = None
 ) -> MoveComponent:
     """Generates a MoveComponent from the given move lists. The generation with more
     move categories will be used."""
@@ -274,7 +277,7 @@ def parse_moves(
     return MoveComponent(**moves)
 
 
-def _scrape_flavor_text(html, species: str, variant: Optional[str]) -> Tag:
+def _scrape_flavor_text(html, species: SpeciesId, variant: Optional[VariantId]) -> Tag:
     """Helper method to extract flavor text"""
     # main is necessary to greatly reduce the number of
     flavor_html = html.select_one(
@@ -302,7 +305,9 @@ def _scrape_flavor_text(html, species: str, variant: Optional[str]) -> Tag:
     return flavor_html
 
 
-def scrape_pokemon(species: str, variant: str = None) -> Tuple[Tag, Tag, Tag, Tag]:
+def scrape_pokemon(
+    species: SpeciesId, variant: VariantId = None
+) -> Tuple[Tag, Tag, Tag, Tag]:
     """Returns relevant html fragments from pokemon html file"""
     if variant is None:
         variant = species
