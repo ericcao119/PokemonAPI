@@ -1439,7 +1439,7 @@ body.is-preload #bg:before {
   width: 5.5rem;
   height: 5.5rem;
   line-height: 5.5rem;
-  border: solid 1px #ffffff;
+  /* border: solid 1px #ffffff; */
   border-radius: 100%;
 }
 
