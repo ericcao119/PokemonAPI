@@ -1,0 +1,290 @@
+[
+  {
+    "species_name": "Naganadel",
+    "variant_name": "Naganadel",
+    "base_stats": {
+      "hp": 73,
+      "attack": 73,
+      "defense": 73,
+      "speed": 121,
+      "special_attack": 127,
+      "special_defense": 73
+    },
+    "dex_entry": {
+      "national_dex_num": 804,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "height": 3.6,
+      "weight": 150.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Poison Pin Pok\u00e9mon",
+      "flavor_text": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.",
+      "abilities": [
+        "Beast Boost"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        262
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 243,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Acid"
+        ],
+        [
+          1,
+          "Air Cutter"
+        ],
+        [
+          1,
+          "Dragon Pulse"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          7,
+          "Fury Attack"
+        ],
+        [
+          13,
+          "Venoshock"
+        ],
+        [
+          19,
+          "Charm"
+        ],
+        [
+          23,
+          "Venom Drench"
+        ],
+        [
+          31,
+          "Nasty Plot"
+        ],
+        [
+          37,
+          "Poison Jab"
+        ],
+        [
+          41,
+          "Toxic"
+        ],
+        [
+          47,
+          "Fell Stinger"
+        ],
+        [
+          53,
+          "Air Slash"
+        ],
+        [
+          61,
+          "Dragon Pulse"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Gastro Acid",
+        "Gunk Shot",
+        "Heat Wave",
+        "Helping Hand",
+        "Iron Tail",
+        "Laser Focus",
+        "Outrage",
+        "Shock Wave",
+        "Signal Beam",
+        "Sky Attack",
+        "Snatch",
+        "Snore",
+        "Tailwind",
+        "Throat Chop",
+        "Uproar"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

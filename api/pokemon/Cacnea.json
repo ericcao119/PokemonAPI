@@ -1,0 +1,294 @@
+[
+  {
+    "species_name": "Cacnea",
+    "variant_name": "Cacnea",
+    "base_stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 40,
+      "speed": 35,
+      "special_attack": 85,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 331,
+      "types": [
+        "Grass"
+      ],
+      "height": 0.4,
+      "weight": 51.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cactus Pok\u00e9mon",
+      "flavor_text": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pok\u00e9mon battles by wildly swinging its thorny arms.",
+      "abilities": [
+        "Sand Veil"
+      ],
+      "hidden_abilities": [
+        "Water Absorb"
+      ],
+      "regional_dex_nums": [
+        119,
+        124
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 67,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Poison Sting"
+        ],
+        [
+          4,
+          "Absorb"
+        ],
+        [
+          7,
+          "Growth"
+        ],
+        [
+          10,
+          "Leech Seed"
+        ],
+        [
+          13,
+          "Sand Attack"
+        ],
+        [
+          16,
+          "Needle Arm"
+        ],
+        [
+          19,
+          "Feint Attack"
+        ],
+        [
+          22,
+          "Ingrain"
+        ],
+        [
+          26,
+          "Payback"
+        ],
+        [
+          30,
+          "Spikes"
+        ],
+        [
+          34,
+          "Sucker Punch"
+        ],
+        [
+          38,
+          "Pin Missile"
+        ],
+        [
+          42,
+          "Energy Ball"
+        ],
+        [
+          46,
+          "Cotton Spore"
+        ],
+        [
+          50,
+          "Sandstorm"
+        ],
+        [
+          54,
+          "Destiny Bond"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid",
+        "Belch",
+        "Block",
+        "Counter",
+        "Disable",
+        "Dynamic Punch",
+        "Fell Stinger",
+        "Grass Whistle",
+        "Low Kick",
+        "Magical Leaf",
+        "Nasty Plot",
+        "Power-Up Punch",
+        "Rototiller",
+        "Seed Bomb",
+        "Smelling Salts",
+        "Switcheroo",
+        "Teeter Dance",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Drain Punch",
+        "Focus Punch",
+        "Giga Drain",
+        "Low Kick",
+        "Role Play",
+        "Seed Bomb",
+        "Snore",
+        "Spite",
+        "Synthesis",
+        "Thunder Punch",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Bullet Seed",
+        "Captivate",
+        "Cut",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Headbutt",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Seismic Toss"
+      ]
+    }
+  }
+]

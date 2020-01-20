@@ -1,0 +1,280 @@
+[
+  {
+    "species_name": "Jangmo-o",
+    "variant_name": "Jangmo-o",
+    "base_stats": {
+      "hp": 45,
+      "attack": 55,
+      "defense": 65,
+      "speed": 45,
+      "special_attack": 45,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 782,
+      "types": [
+        "Dragon"
+      ],
+      "height": 0.6,
+      "weight": 29.7,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Scaly Pok\u00e9mon",
+      "flavor_text": "Jangmo-o strikes its scales to communicate with others of its kind. Its scales are actually fur that\u2019s become as hard as metal.",
+      "abilities": [
+        "Bulletproof",
+        "Soundproof"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        271,
+        361,
+        392
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Protect"
+        ],
+        [
+          8,
+          "Dragon Tail"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          16,
+          "Headbutt"
+        ],
+        [
+          20,
+          "Work Up"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          28,
+          "Iron Defense"
+        ],
+        [
+          32,
+          "Dragon Claw"
+        ],
+        [
+          36,
+          "Noble Roar"
+        ],
+        [
+          40,
+          "Dragon Dance"
+        ],
+        [
+          44,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          16,
+          "Screech"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          94,
+          "False Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "Counter",
+        "Dragon Breath",
+        "Focus Punch"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

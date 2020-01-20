@@ -1,0 +1,313 @@
+[
+  {
+    "species_name": "Magneton",
+    "variant_name": "Magneton",
+    "base_stats": {
+      "hp": 50,
+      "attack": 60,
+      "defense": 95,
+      "speed": 70,
+      "special_attack": 120,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 82,
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "height": 1.0,
+      "weight": 60.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Magnet Pok\u00e9mon",
+      "flavor_text": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
+      "abilities": [
+        "Magnet Pull",
+        "Sturdy"
+      ],
+      "hidden_abilities": [
+        "Analytic"
+      ],
+      "regional_dex_nums": [
+        82,
+        119,
+        83,
+        82,
+        179,
+        120,
+        49,
+        70,
+        85,
+        48,
+        55,
+        82
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 163,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Electric Terrain"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          1,
+          "Tri Attack"
+        ],
+        [
+          1,
+          "Zap Cannon"
+        ],
+        [
+          5,
+          "Thunder Shock"
+        ],
+        [
+          7,
+          "Thunder Wave"
+        ],
+        [
+          11,
+          "Magnet Bomb"
+        ],
+        [
+          13,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Sonic Boom"
+        ],
+        [
+          19,
+          "Spark"
+        ],
+        [
+          23,
+          "Mirror Shot"
+        ],
+        [
+          25,
+          "Metal Sound"
+        ],
+        [
+          29,
+          "Electro Ball"
+        ],
+        [
+          33,
+          "Flash Cannon"
+        ],
+        [
+          39,
+          "Screech"
+        ],
+        [
+          43,
+          "Discharge"
+        ],
+        [
+          49,
+          "Lock-On"
+        ],
+        [
+          53,
+          "Magnet Rise"
+        ],
+        [
+          59,
+          "Gyro Ball"
+        ],
+        [
+          63,
+          "Zap Cannon"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Electroweb",
+        "Gravity",
+        "Iron Defense",
+        "Magic Coat",
+        "Magnet Rise",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Curse",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Rollout",
+        "Secret Power",
+        "Swift",
+        "Take Down",
+        "Teleport"
+      ]
+    }
+  }
+]

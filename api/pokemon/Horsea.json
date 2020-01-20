@@ -1,0 +1,251 @@
+[
+  {
+    "species_name": "Horsea",
+    "variant_name": "Horsea",
+    "base_stats": {
+      "hp": 30,
+      "attack": 40,
+      "defense": 70,
+      "speed": 60,
+      "special_attack": 70,
+      "special_defense": 25
+    },
+    "dex_entry": {
+      "national_dex_num": 116,
+      "types": [
+        "Water"
+      ],
+      "height": 0.4,
+      "weight": 8.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Dragon Pok\u00e9mon",
+      "flavor_text": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
+      "abilities": [
+        "Swift Swim",
+        "Sniper"
+      ],
+      "hidden_abilities": [
+        "Damp"
+      ],
+      "regional_dex_nums": [
+        116,
+        186,
+        184,
+        116,
+        190,
+        39,
+        193,
+        116
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 59,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 225,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          5,
+          "Smokescreen"
+        ],
+        [
+          9,
+          "Leer"
+        ],
+        [
+          13,
+          "Water Gun"
+        ],
+        [
+          17,
+          "Twister"
+        ],
+        [
+          21,
+          "Bubble Beam"
+        ],
+        [
+          26,
+          "Focus Energy"
+        ],
+        [
+          31,
+          "Brine"
+        ],
+        [
+          36,
+          "Agility"
+        ],
+        [
+          41,
+          "Dragon Pulse"
+        ],
+        [
+          46,
+          "Dragon Dance"
+        ],
+        [
+          52,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aurora Beam",
+        "Clear Smog",
+        "Disable",
+        "Dragon Breath",
+        "Dragon Rage",
+        "Flail",
+        "Muddy Water",
+        "Octazooka",
+        "Outrage",
+        "Razor Wind",
+        "Signal Beam",
+        "Splash",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Dragon Pulse",
+        "Icy Wind",
+        "Outrage",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Captivate",
+        "Curse",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Secret Power",
+        "Skull Bash",
+        "Swift",
+        "Take Down",
+        "Whirlpool"
+      ]
+    }
+  }
+]

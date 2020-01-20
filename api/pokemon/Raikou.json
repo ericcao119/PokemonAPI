@@ -1,0 +1,295 @@
+[
+  {
+    "species_name": "Raikou",
+    "variant_name": "Raikou",
+    "base_stats": {
+      "hp": 90,
+      "attack": 85,
+      "defense": 75,
+      "speed": 115,
+      "special_attack": 115,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 243,
+      "types": [
+        "Electric"
+      ],
+      "height": 1.9,
+      "weight": 178.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Thunder Pok\u00e9mon",
+      "flavor_text": "Raikou embodies the speed of lightning. The roars of this Pok\u00e9mon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        238,
+        243
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Discharge"
+        ],
+        [
+          1,
+          "Extrasensory"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          8,
+          "Thunder Shock"
+        ],
+        [
+          15,
+          "Roar"
+        ],
+        [
+          22,
+          "Quick Attack"
+        ],
+        [
+          29,
+          "Spark"
+        ],
+        [
+          36,
+          "Reflect"
+        ],
+        [
+          43,
+          "Crunch"
+        ],
+        [
+          50,
+          "Thunder Fang"
+        ],
+        [
+          57,
+          "Discharge"
+        ],
+        [
+          64,
+          "Extrasensory"
+        ],
+        [
+          71,
+          "Rain Dance"
+        ],
+        [
+          78,
+          "Calm Mind"
+        ],
+        [
+          85,
+          "Thunder"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Aura Sphere",
+        "Body Slam",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Extreme Speed",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Weather Ball",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

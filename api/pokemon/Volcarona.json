@@ -1,0 +1,325 @@
+[
+  {
+    "species_name": "Volcarona",
+    "variant_name": "Volcarona",
+    "base_stats": {
+      "hp": 85,
+      "attack": 60,
+      "defense": 65,
+      "speed": 100,
+      "special_attack": 135,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 637,
+      "types": [
+        "Bug",
+        "Fire"
+      ],
+      "height": 1.6,
+      "weight": 46.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sun Pok\u00e9mon",
+      "flavor_text": "According to legends, it was hatched from a flaming cocoon to save people and Pok\u00e9mon that were suffering from the cold.",
+      "abilities": [
+        "Flame Body"
+      ],
+      "hidden_abilities": [
+        "Swarm"
+      ],
+      "regional_dex_nums": [
+        143,
+        172,
+        204
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 248,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 15,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Amnesia"
+        ],
+        [
+          1,
+          "Bug Buzz"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Fiery Dance"
+        ],
+        [
+          1,
+          "Flame Wheel"
+        ],
+        [
+          1,
+          "Flare Blitz"
+        ],
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Heat Wave"
+        ],
+        [
+          1,
+          "Hurricane"
+        ],
+        [
+          1,
+          "Quiver Dance"
+        ],
+        [
+          1,
+          "Rage Powder"
+        ],
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          1,
+          "Thrash"
+        ],
+        [
+          10,
+          "Absorb"
+        ],
+        [
+          20,
+          "Gust"
+        ],
+        [
+          30,
+          "Fire Spin"
+        ],
+        [
+          40,
+          "Whirlwind"
+        ],
+        [
+          50,
+          "Silver Wind"
+        ],
+        [
+          60,
+          "Heat Wave"
+        ],
+        [
+          70,
+          "Bug Buzz"
+        ],
+        [
+          80,
+          "Rage Powder"
+        ],
+        [
+          90,
+          "Hurricane"
+        ],
+        [
+          100,
+          "Fiery Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Endure",
+        "Foresight",
+        "Harden",
+        "Magnet Rise",
+        "Morning Sun",
+        "String Shot",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Giga Drain",
+        "Heat Wave",
+        "Magnet Rise",
+        "Signal Beam",
+        "Snore",
+        "Tailwind",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Incinerate",
+        "Secret Power",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

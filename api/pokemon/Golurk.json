@@ -1,0 +1,334 @@
+[
+  {
+    "species_name": "Golurk",
+    "variant_name": "Golurk",
+    "base_stats": {
+      "hp": 89,
+      "attack": 124,
+      "defense": 80,
+      "speed": 55,
+      "special_attack": 55,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 623,
+      "types": [
+        "Ground",
+        "Ghost"
+      ],
+      "height": 2.8,
+      "weight": 330.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Automaton Pok\u00e9mon",
+      "flavor_text": "There\u2019s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn\u2019t been proven.",
+      "abilities": [
+        "Iron Fist",
+        "Klutz"
+      ],
+      "hidden_abilities": [
+        "No Guard"
+      ],
+      "regional_dex_nums": [
+        129,
+        272,
+        92,
+        313,
+        89
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 169,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Heavy Slam"
+        ],
+        [
+          1,
+          "High Horsepower"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          5,
+          "Mud-Slap"
+        ],
+        [
+          9,
+          "Rollout"
+        ],
+        [
+          13,
+          "Shadow Punch"
+        ],
+        [
+          17,
+          "Iron Defense"
+        ],
+        [
+          21,
+          "Stomping Tantrum"
+        ],
+        [
+          25,
+          "Mega Punch"
+        ],
+        [
+          30,
+          "Magnitude"
+        ],
+        [
+          35,
+          "Dynamic Punch"
+        ],
+        [
+          40,
+          "Night Shade"
+        ],
+        [
+          47,
+          "Curse"
+        ],
+        [
+          54,
+          "Earthquake"
+        ],
+        [
+          61,
+          "Hammer Arm"
+        ],
+        [
+          69,
+          "Focus Punch"
+        ],
+        [
+          76,
+          "Phantom Force"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Block",
+        "Drain Punch",
+        "Earth Power",
+        "Fire Punch",
+        "Focus Punch",
+        "Gravity",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Low Kick",
+        "Magic Coat",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Telekinesis",
+        "Thunder Punch",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

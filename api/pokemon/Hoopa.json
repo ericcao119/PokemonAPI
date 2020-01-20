@@ -1,0 +1,528 @@
+[
+  {
+    "species_name": "Hoopa",
+    "variant_name": "Hoopa Confined",
+    "base_stats": {
+      "hp": 80,
+      "attack": 110,
+      "defense": 60,
+      "speed": 70,
+      "special_attack": 150,
+      "special_defense": 130
+    },
+    "dex_entry": {
+      "national_dex_num": 720,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "height": 0.5,
+      "weight": 9.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mischief Pok\u00e9mon",
+      "flavor_text": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
+      "abilities": [
+        "Magician"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        152
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 100
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Block",
+        "Covet",
+        "Drain Punch",
+        "Dual Chop",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Gravity",
+        "Gunk Shot",
+        "Ice Punch",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Throat Chop",
+        "Thunder Punch",
+        "Trick",
+        "Uproar",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Power-Up Punch",
+        "Secret Power"
+      ]
+    }
+  },
+  {
+    "species_name": "Hoopa",
+    "variant_name": "Hoopa Unbound",
+    "base_stats": {
+      "hp": 80,
+      "attack": 160,
+      "defense": 60,
+      "speed": 80,
+      "special_attack": 170,
+      "special_defense": 130
+    },
+    "dex_entry": {
+      "national_dex_num": 720,
+      "types": [
+        "Psychic",
+        "Dark"
+      ],
+      "height": 6.5,
+      "weight": 490.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Djinn Pok\u00e9mon",
+      "flavor_text": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
+      "abilities": [
+        "Magician"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        152
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 100
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Block",
+        "Covet",
+        "Drain Punch",
+        "Dual Chop",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Gravity",
+        "Gunk Shot",
+        "Ice Punch",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Throat Chop",
+        "Thunder Punch",
+        "Trick",
+        "Uproar",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Power-Up Punch",
+        "Secret Power"
+      ]
+    }
+  }
+]

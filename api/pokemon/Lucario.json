@@ -1,0 +1,715 @@
+[
+  {
+    "species_name": "Lucario",
+    "variant_name": "Lucario",
+    "base_stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 70,
+      "speed": 90,
+      "special_attack": 115,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 448,
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "height": 1.2,
+      "weight": 54.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Aura Pok\u00e9mon",
+      "flavor_text": "It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pok\u00e9mon\u2019s trust.",
+      "abilities": [
+        "Steadfast",
+        "Inner Focus"
+      ],
+      "hidden_abilities": [
+        "Justified"
+      ],
+      "regional_dex_nums": [
+        116,
+        116,
+        34,
+        63,
+        280,
+        378,
+        299
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 184,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Humanlike"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aura Sphere"
+        ],
+        [
+          1,
+          "Detect"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Laser Focus"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          6,
+          "Counter"
+        ],
+        [
+          11,
+          "Feint"
+        ],
+        [
+          15,
+          "Power-Up Punch"
+        ],
+        [
+          19,
+          "Swords Dance"
+        ],
+        [
+          24,
+          "Metal Sound"
+        ],
+        [
+          29,
+          "Bone Rush"
+        ],
+        [
+          33,
+          "Quick Guard"
+        ],
+        [
+          37,
+          "Me First"
+        ],
+        [
+          42,
+          "Work Up"
+        ],
+        [
+          47,
+          "Calm Mind"
+        ],
+        [
+          51,
+          "Heal Pulse"
+        ],
+        [
+          55,
+          "Close Combat"
+        ],
+        [
+          60,
+          "Dragon Pulse"
+        ],
+        [
+          65,
+          "Extreme Speed"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Bite",
+        "Blaze Kick",
+        "Bullet Punch",
+        "Circle Throw",
+        "Cross Chop",
+        "Crunch",
+        "Detect",
+        "Follow Me",
+        "High Jump Kick",
+        "Iron Defense",
+        "Low Kick",
+        "Meteor Mash",
+        "Mind Reader",
+        "Sky Uppercut",
+        "Vacuum Wave"
+      ],
+      "tutor_moves": [
+        "Dragon Pulse",
+        "Drain Punch",
+        "Dual Chop",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Iron Defense",
+        "Iron Tail",
+        "Laser Focus",
+        "Low Kick",
+        "Magnet Rise",
+        "Role Play",
+        "Snore",
+        "Thunder Punch",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  },
+  {
+    "species_name": "Lucario",
+    "variant_name": "Mega Lucario",
+    "base_stats": {
+      "hp": 70,
+      "attack": 145,
+      "defense": 88,
+      "speed": 112,
+      "special_attack": 140,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 448,
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "height": 1.3,
+      "weight": 57.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Aura Pok\u00e9mon",
+      "flavor_text": "Bathed in explosive energy, its combative instincts have awakened. For its enemies, it has no mercy whatsoever.",
+      "abilities": [
+        "Adaptability"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        116,
+        116,
+        34,
+        63,
+        280,
+        378,
+        299
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 219,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Humanlike"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aura Sphere"
+        ],
+        [
+          1,
+          "Detect"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Laser Focus"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          6,
+          "Counter"
+        ],
+        [
+          11,
+          "Feint"
+        ],
+        [
+          15,
+          "Power-Up Punch"
+        ],
+        [
+          19,
+          "Swords Dance"
+        ],
+        [
+          24,
+          "Metal Sound"
+        ],
+        [
+          29,
+          "Bone Rush"
+        ],
+        [
+          33,
+          "Quick Guard"
+        ],
+        [
+          37,
+          "Me First"
+        ],
+        [
+          42,
+          "Work Up"
+        ],
+        [
+          47,
+          "Calm Mind"
+        ],
+        [
+          51,
+          "Heal Pulse"
+        ],
+        [
+          55,
+          "Close Combat"
+        ],
+        [
+          60,
+          "Dragon Pulse"
+        ],
+        [
+          65,
+          "Extreme Speed"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Bite",
+        "Blaze Kick",
+        "Bullet Punch",
+        "Circle Throw",
+        "Cross Chop",
+        "Crunch",
+        "Detect",
+        "Follow Me",
+        "High Jump Kick",
+        "Iron Defense",
+        "Low Kick",
+        "Meteor Mash",
+        "Mind Reader",
+        "Sky Uppercut",
+        "Vacuum Wave"
+      ],
+      "tutor_moves": [
+        "Dragon Pulse",
+        "Drain Punch",
+        "Dual Chop",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Iron Defense",
+        "Iron Tail",
+        "Laser Focus",
+        "Low Kick",
+        "Magnet Rise",
+        "Role Play",
+        "Snore",
+        "Thunder Punch",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

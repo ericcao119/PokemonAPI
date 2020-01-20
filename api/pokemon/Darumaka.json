@@ -1,0 +1,578 @@
+[
+  {
+    "species_name": "Darumaka",
+    "variant_name": "Darumaka",
+    "base_stats": {
+      "hp": 70,
+      "attack": 90,
+      "defense": 45,
+      "speed": 50,
+      "special_attack": 15,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 554,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.6,
+      "weight": 37.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Zen Charm Pok\u00e9mon",
+      "flavor_text": "This popular symbol of good fortune will never fall over in its sleep, no matter how it\u2019s pushed or pulled.",
+      "abilities": [
+        "Hustle"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        60,
+        102,
+        367
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 63,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Rollout"
+        ],
+        [
+          6,
+          "Incinerate"
+        ],
+        [
+          9,
+          "Rage"
+        ],
+        [
+          11,
+          "Fire Fang"
+        ],
+        [
+          14,
+          "Headbutt"
+        ],
+        [
+          17,
+          "Uproar"
+        ],
+        [
+          19,
+          "Facade"
+        ],
+        [
+          22,
+          "Fire Punch"
+        ],
+        [
+          25,
+          "Work Up"
+        ],
+        [
+          27,
+          "Thrash"
+        ],
+        [
+          30,
+          "Belly Drum"
+        ],
+        [
+          33,
+          "Flare Blitz"
+        ],
+        [
+          35,
+          "Taunt"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          42,
+          "Overheat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Encore",
+        "Endure",
+        "Extrasensory",
+        "Flame Wheel",
+        "Focus Energy",
+        "Focus Punch",
+        "Hammer Arm",
+        "Sleep Talk",
+        "Snatch",
+        "Take Down",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Heat Wave",
+        "Snatch",
+        "Snore",
+        "Superpower",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  },
+  {
+    "species_name": "Darumaka",
+    "variant_name": "Galarian Darumaka",
+    "base_stats": {
+      "hp": 70,
+      "attack": 90,
+      "defense": 45,
+      "speed": 50,
+      "special_attack": 15,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 554,
+      "types": [
+        "Ice"
+      ],
+      "height": 0.7,
+      "weight": 40.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Zen Charm Pok\u00e9mon",
+      "flavor_text": "The colder they get, the more energetic they are. They freeze their breath to make snowballs, using them as ammo for playful snowball fights.",
+      "abilities": [
+        "Hustle"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        60,
+        102,
+        367
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Rollout"
+        ],
+        [
+          6,
+          "Incinerate"
+        ],
+        [
+          9,
+          "Rage"
+        ],
+        [
+          11,
+          "Fire Fang"
+        ],
+        [
+          14,
+          "Headbutt"
+        ],
+        [
+          17,
+          "Uproar"
+        ],
+        [
+          19,
+          "Facade"
+        ],
+        [
+          22,
+          "Fire Punch"
+        ],
+        [
+          25,
+          "Work Up"
+        ],
+        [
+          27,
+          "Thrash"
+        ],
+        [
+          30,
+          "Belly Drum"
+        ],
+        [
+          33,
+          "Flare Blitz"
+        ],
+        [
+          35,
+          "Taunt"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          42,
+          "Overheat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Encore",
+        "Endure",
+        "Extrasensory",
+        "Flame Wheel",
+        "Focus Energy",
+        "Focus Punch",
+        "Hammer Arm",
+        "Sleep Talk",
+        "Snatch",
+        "Take Down",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Heat Wave",
+        "Snatch",
+        "Snore",
+        "Superpower",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

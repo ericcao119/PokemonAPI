@@ -1,0 +1,295 @@
+[
+  {
+    "species_name": "Articuno",
+    "variant_name": "Articuno",
+    "base_stats": {
+      "hp": 90,
+      "attack": 85,
+      "defense": 100,
+      "speed": 85,
+      "special_attack": 95,
+      "special_defense": 125
+    },
+    "dex_entry": {
+      "national_dex_num": 144,
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "height": 1.7,
+      "weight": 55.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Freeze Pok\u00e9mon",
+      "flavor_text": "A legendary bird Pok\u00e9mon. It freezes water that is contained in winter air and makes it snow.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Snow Cloak"
+      ],
+      "regional_dex_nums": [
+        144,
+        235,
+        144,
+        240,
+        151,
+        144
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          8,
+          "Mist"
+        ],
+        [
+          15,
+          "Ice Shard"
+        ],
+        [
+          22,
+          "Mind Reader"
+        ],
+        [
+          29,
+          "Ancient Power"
+        ],
+        [
+          36,
+          "Agility"
+        ],
+        [
+          43,
+          "Freeze-Dry"
+        ],
+        [
+          50,
+          "Reflect"
+        ],
+        [
+          57,
+          "Hail"
+        ],
+        [
+          64,
+          "Tailwind"
+        ],
+        [
+          71,
+          "Ice Beam"
+        ],
+        [
+          78,
+          "Blizzard"
+        ],
+        [
+          85,
+          "Roost"
+        ],
+        [
+          92,
+          "Hurricane"
+        ],
+        [
+          99,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          70,
+          "Aurora Veil"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Icy Wind",
+        "Laser Focus",
+        "Signal Beam",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Avalanche",
+        "Bide",
+        "Bubble Beam",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Peck",
+        "Pluck",
+        "Rage",
+        "Razor Wind",
+        "Rock Smash",
+        "Secret Power",
+        "Swift",
+        "Take Down",
+        "Twister",
+        "Water Gun",
+        "Whirlwind"
+      ]
+    }
+  }
+]

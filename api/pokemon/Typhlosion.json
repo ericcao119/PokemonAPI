@@ -1,0 +1,354 @@
+[
+  {
+    "species_name": "Typhlosion",
+    "variant_name": "Typhlosion",
+    "base_stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "speed": 100,
+      "special_attack": 109,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 157,
+      "types": [
+        "Fire"
+      ],
+      "height": 1.7,
+      "weight": 79.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Volcano Pok\u00e9mon",
+      "flavor_text": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pok\u00e9mon creates blazing explosive blasts that burn everything to cinders.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Flash Fire"
+      ],
+      "regional_dex_nums": [
+        6,
+        6
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 240,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Double-Edge"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Eruption"
+        ],
+        [
+          1,
+          "Gyro Ball"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Smokescreen"
+        ],
+        [
+          10,
+          "Ember"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          20,
+          "Flame Wheel"
+        ],
+        [
+          24,
+          "Defense Curl"
+        ],
+        [
+          31,
+          "Swift"
+        ],
+        [
+          35,
+          "Flame Charge"
+        ],
+        [
+          43,
+          "Lava Plume"
+        ],
+        [
+          48,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Inferno"
+        ],
+        [
+          61,
+          "Rollout"
+        ],
+        [
+          69,
+          "Double-Edge"
+        ],
+        [
+          74,
+          "Burn Up"
+        ],
+        [
+          82,
+          "Eruption"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Covet",
+        "Crush Claw",
+        "Double Kick",
+        "Double-Edge",
+        "Extrasensory",
+        "Flame Burst",
+        "Flare Blitz",
+        "Foresight",
+        "Fury Swipes",
+        "Howl",
+        "Nature Power",
+        "Quick Attack",
+        "Reversal",
+        "Thrash"
+      ],
+      "tutor_moves": [
+        "Blast Burn",
+        "Covet",
+        "Fire Pledge",
+        "Fire Punch",
+        "Focus Punch",
+        "Heat Wave",
+        "Laser Focus",
+        "Low Kick",
+        "Snore",
+        "Stomping Tantrum",
+        "Throat Chop",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Dynamic Punch",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Incinerate",
+        "Iron Tail",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Submission"
+      ]
+    }
+  }
+]

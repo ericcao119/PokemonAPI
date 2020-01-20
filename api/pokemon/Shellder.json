@@ -1,0 +1,263 @@
+[
+  {
+    "species_name": "Shellder",
+    "variant_name": "Shellder",
+    "base_stats": {
+      "hp": 30,
+      "attack": 65,
+      "defense": 100,
+      "speed": 40,
+      "special_attack": 45,
+      "special_defense": 25
+    },
+    "dex_entry": {
+      "national_dex_num": 90,
+      "types": [
+        "Water"
+      ],
+      "height": 0.3,
+      "weight": 4.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bivalve Pok\u00e9mon",
+      "flavor_text": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+      "abilities": [
+        "Shell Armor",
+        "Skill Link"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        90,
+        169,
+        90,
+        171,
+        36,
+        115,
+        138,
+        90,
+        150
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          4,
+          "Withdraw"
+        ],
+        [
+          8,
+          "Ice Shard"
+        ],
+        [
+          12,
+          "Leer"
+        ],
+        [
+          16,
+          "Whirlpool"
+        ],
+        [
+          20,
+          "Supersonic"
+        ],
+        [
+          24,
+          "Aurora Beam"
+        ],
+        [
+          28,
+          "Protect"
+        ],
+        [
+          32,
+          "Razor Shell"
+        ],
+        [
+          36,
+          "Iron Defense"
+        ],
+        [
+          40,
+          "Ice Beam"
+        ],
+        [
+          44,
+          "Shell Smash"
+        ],
+        [
+          48,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          16,
+          "Screech"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          51,
+          "Icicle Spear"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          83,
+          "Razor Shell"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          19,
+          "Tri Attack"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Aqua Ring",
+        "Bubble Beam",
+        "Life Dew",
+        "Water Pulse"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

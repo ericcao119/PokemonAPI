@@ -1,0 +1,231 @@
+[
+  {
+    "species_name": "Lilligant",
+    "variant_name": "Lilligant",
+    "base_stats": {
+      "hp": 70,
+      "attack": 60,
+      "defense": 75,
+      "speed": 90,
+      "special_attack": 110,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 549,
+      "types": [
+        "Grass"
+      ],
+      "height": 1.1,
+      "weight": 16.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flowering Pok\u00e9mon",
+      "flavor_text": "It\u2019s well liked by other Pok\u00e9mon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
+      "abilities": [
+        "Chlorophyll",
+        "Own Tempo"
+      ],
+      "hidden_abilities": [
+        "Leaf Guard"
+      ],
+      "regional_dex_nums": [
+        55,
+        85,
+        86,
+        104
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Leech Seed"
+        ],
+        [
+          1,
+          "Mega Drain"
+        ],
+        [
+          1,
+          "Synthesis"
+        ],
+        [
+          10,
+          "Teeter Dance"
+        ],
+        [
+          28,
+          "Quiver Dance"
+        ],
+        [
+          46,
+          "Petal Dance"
+        ],
+        [
+          50,
+          "Petal Blizzard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bide",
+        "Charm",
+        "Encore",
+        "Endure",
+        "Grass Whistle",
+        "Healing Wish",
+        "Ingrain",
+        "Natural Gift",
+        "Sweet Scent",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Giga Drain",
+        "Heal Bell",
+        "Helping Hand",
+        "Laser Focus",
+        "Role Play",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

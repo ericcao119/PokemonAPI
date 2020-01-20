@@ -1,0 +1,289 @@
+[
+  {
+    "species_name": "Paras",
+    "variant_name": "Paras",
+    "base_stats": {
+      "hp": 35,
+      "attack": 70,
+      "defense": 55,
+      "speed": 25,
+      "special_attack": 45,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 46,
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "height": 0.3,
+      "weight": 5.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mushroom Pok\u00e9mon",
+      "flavor_text": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
+      "abilities": [
+        "Effect Spore",
+        "Dry Skin"
+      ],
+      "hidden_abilities": [
+        "Damp"
+      ],
+      "regional_dex_nums": [
+        46,
+        70,
+        46,
+        70,
+        147,
+        180,
+        46
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 57,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          6,
+          "Poison Powder"
+        ],
+        [
+          6,
+          "Stun Spore"
+        ],
+        [
+          11,
+          "Absorb"
+        ],
+        [
+          17,
+          "Fury Cutter"
+        ],
+        [
+          22,
+          "Spore"
+        ],
+        [
+          27,
+          "Slash"
+        ],
+        [
+          33,
+          "Growth"
+        ],
+        [
+          38,
+          "Giga Drain"
+        ],
+        [
+          43,
+          "Aromatherapy"
+        ],
+        [
+          49,
+          "Rage Powder"
+        ],
+        [
+          54,
+          "X-Scissor"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Bug Bite",
+        "Counter",
+        "Cross Poison",
+        "Endure",
+        "Fell Stinger",
+        "Flail",
+        "Grassy Terrain",
+        "Leech Seed",
+        "Metal Claw",
+        "Natural Gift",
+        "Psybeam",
+        "Pursuit",
+        "Rototiller",
+        "Screech",
+        "Sweet Scent",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Bug Bite",
+        "Giga Drain",
+        "Knock Off",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Bullet Seed",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Dig",
+        "Double-Edge",
+        "Flash",
+        "Hone Claws",
+        "Mega Drain",
+        "Mimic",
+        "Rage",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Skull Bash",
+        "String Shot",
+        "Struggle Bug",
+        "Take Down"
+      ]
+    }
+  }
+]

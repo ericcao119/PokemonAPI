@@ -1,0 +1,816 @@
+[
+  {
+    "species_name": "Aggron",
+    "variant_name": "Aggron",
+    "base_stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 180,
+      "speed": 50,
+      "special_attack": 60,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 306,
+      "types": [
+        "Steel",
+        "Rock"
+      ],
+      "height": 2.1,
+      "weight": 360.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Iron Armor Pok\u00e9mon",
+      "flavor_text": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pok\u00e9mon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+      "abilities": [
+        "Sturdy",
+        "Rock Head"
+      ],
+      "hidden_abilities": [
+        "Heavy Metal"
+      ],
+      "regional_dex_nums": [
+        72,
+        168,
+        101,
+        74
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 239,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 3,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Mud-Slap"
+        ],
+        [
+          7,
+          "Headbutt"
+        ],
+        [
+          10,
+          "Metal Claw"
+        ],
+        [
+          13,
+          "Rock Tomb"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          19,
+          "Roar"
+        ],
+        [
+          22,
+          "Iron Head"
+        ],
+        [
+          25,
+          "Rock Slide"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          31,
+          "Metal Sound"
+        ],
+        [
+          35,
+          "Iron Tail"
+        ],
+        [
+          39,
+          "Iron Defense"
+        ],
+        [
+          45,
+          "Double-Edge"
+        ],
+        [
+          51,
+          "Autotomize"
+        ],
+        [
+          57,
+          "Heavy Slam"
+        ],
+        [
+          63,
+          "Metal Burst"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Curse",
+        "Dragon Rush",
+        "Endeavor",
+        "Head Smash",
+        "Iron Head",
+        "Reversal",
+        "Screech",
+        "Smelling Salts",
+        "Stealth Rock",
+        "Stomp",
+        "Superpower"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Block",
+        "Dragon Pulse",
+        "Earth Power",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Low Kick",
+        "Magnet Rise",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Avalanche",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Defense Curl",
+        "Dig",
+        "Dynamic Punch",
+        "Endure",
+        "Fury Cutter",
+        "Hone Claws",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  },
+  {
+    "species_name": "Aggron",
+    "variant_name": "Mega Aggron",
+    "base_stats": {
+      "hp": 70,
+      "attack": 140,
+      "defense": 230,
+      "speed": 50,
+      "special_attack": 60,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 306,
+      "types": [
+        "Steel"
+      ],
+      "height": 2.2,
+      "weight": 395.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Iron Armor Pok\u00e9mon",
+      "flavor_text": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pok\u00e9mon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+      "abilities": [
+        "Filter"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        72,
+        168,
+        101,
+        74
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 284,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 3,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Mud-Slap"
+        ],
+        [
+          7,
+          "Headbutt"
+        ],
+        [
+          10,
+          "Metal Claw"
+        ],
+        [
+          13,
+          "Rock Tomb"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          19,
+          "Roar"
+        ],
+        [
+          22,
+          "Iron Head"
+        ],
+        [
+          25,
+          "Rock Slide"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          31,
+          "Metal Sound"
+        ],
+        [
+          35,
+          "Iron Tail"
+        ],
+        [
+          39,
+          "Iron Defense"
+        ],
+        [
+          45,
+          "Double-Edge"
+        ],
+        [
+          51,
+          "Autotomize"
+        ],
+        [
+          57,
+          "Heavy Slam"
+        ],
+        [
+          63,
+          "Metal Burst"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Curse",
+        "Dragon Rush",
+        "Endeavor",
+        "Head Smash",
+        "Iron Head",
+        "Reversal",
+        "Screech",
+        "Smelling Salts",
+        "Stealth Rock",
+        "Stomp",
+        "Superpower"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Block",
+        "Dragon Pulse",
+        "Earth Power",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Low Kick",
+        "Magnet Rise",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Avalanche",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Defense Curl",
+        "Dig",
+        "Dynamic Punch",
+        "Endure",
+        "Fury Cutter",
+        "Hone Claws",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

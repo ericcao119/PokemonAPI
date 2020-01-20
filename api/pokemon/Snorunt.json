@@ -1,0 +1,241 @@
+[
+  {
+    "species_name": "Snorunt",
+    "variant_name": "Snorunt",
+    "base_stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 50,
+      "speed": 50,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 361,
+      "types": [
+        "Ice"
+      ],
+      "height": 0.7,
+      "weight": 16.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Snow Hat Pok\u00e9mon",
+      "flavor_text": "It can only survive in cold areas. It bounces happily around, even in environments as cold as \u2212150 degrees Fahrenheit.",
+      "abilities": [
+        "Inner Focus",
+        "Ice Body"
+      ],
+      "hidden_abilities": [
+        "Moody"
+      ],
+      "regional_dex_nums": [
+        171,
+        206,
+        179,
+        246,
+        323,
+        79
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          5,
+          "Double Team"
+        ],
+        [
+          10,
+          "Ice Shard"
+        ],
+        [
+          14,
+          "Icy Wind"
+        ],
+        [
+          19,
+          "Bite"
+        ],
+        [
+          23,
+          "Ice Fang"
+        ],
+        [
+          28,
+          "Headbutt"
+        ],
+        [
+          32,
+          "Protect"
+        ],
+        [
+          37,
+          "Frost Breath"
+        ],
+        [
+          41,
+          "Crunch"
+        ],
+        [
+          46,
+          "Blizzard"
+        ],
+        [
+          50,
+          "Hail"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Avalanche",
+        "Bide",
+        "Block",
+        "Disable",
+        "Fake Tears",
+        "Hex",
+        "Rollout",
+        "Spikes",
+        "Switcheroo",
+        "Weather Ball"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Icy Wind",
+        "Snore",
+        "Spite",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power"
+      ]
+    }
+  }
+]

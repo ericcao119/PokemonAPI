@@ -1,0 +1,322 @@
+[
+  {
+    "species_name": "Mightyena",
+    "variant_name": "Mightyena",
+    "base_stats": {
+      "hp": 70,
+      "attack": 90,
+      "defense": 70,
+      "speed": 70,
+      "special_attack": 60,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 262,
+      "types": [
+        "Dark"
+      ],
+      "height": 1.0,
+      "weight": 37.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bite Pok\u00e9mon",
+      "flavor_text": "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pok\u00e9mon to obey only those Trainers that it recognizes to possess superior skill.",
+      "abilities": [
+        "Intimidate",
+        "Quick Feet"
+      ],
+      "hidden_abilities": [
+        "Moxie"
+      ],
+      "regional_dex_nums": [
+        11,
+        45,
+        11
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 147,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 127,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Crunch"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Snarl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Thief"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          4,
+          "Howl"
+        ],
+        [
+          7,
+          "Sand Attack"
+        ],
+        [
+          10,
+          "Bite"
+        ],
+        [
+          13,
+          "Odor Sleuth"
+        ],
+        [
+          16,
+          "Roar"
+        ],
+        [
+          20,
+          "Swagger"
+        ],
+        [
+          24,
+          "Assurance"
+        ],
+        [
+          28,
+          "Scary Face"
+        ],
+        [
+          32,
+          "Embargo"
+        ],
+        [
+          36,
+          "Taunt"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          44,
+          "Yawn"
+        ],
+        [
+          48,
+          "Take Down"
+        ],
+        [
+          52,
+          "Sucker Punch"
+        ],
+        [
+          56,
+          "Play Rough"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Covet",
+        "Fire Fang",
+        "Ice Fang",
+        "Leer",
+        "Me First",
+        "Play Rough",
+        "Poison Fang",
+        "Sleep Talk",
+        "Snatch",
+        "Sucker Punch",
+        "Thunder Fang",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Foul Play",
+        "Hyper Voice",
+        "Iron Tail",
+        "Laser Focus",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Throat Chop",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Psych Up",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

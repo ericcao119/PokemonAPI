@@ -1,0 +1,325 @@
+[
+  {
+    "species_name": "Quilladin",
+    "variant_name": "Quilladin",
+    "base_stats": {
+      "hp": 61,
+      "attack": 78,
+      "defense": 95,
+      "speed": 57,
+      "special_attack": 56,
+      "special_defense": 58
+    },
+    "dex_entry": {
+      "national_dex_num": 651,
+      "types": [
+        "Grass"
+      ],
+      "height": 0.7,
+      "weight": 29.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Spiny Armor Pok\u00e9mon",
+      "flavor_text": "They strengthen their lower bodies by running into one another. They are very kind and won\u2019t start fights.",
+      "abilities": [
+        "Overgrow"
+      ],
+      "hidden_abilities": [
+        "Bulletproof"
+      ],
+      "regional_dex_nums": [
+        2
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 142,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Needle Arm"
+        ],
+        [
+          1,
+          "Vine Whip"
+        ],
+        [
+          5,
+          "Vine Whip"
+        ],
+        [
+          8,
+          "Rollout"
+        ],
+        [
+          11,
+          "Bite"
+        ],
+        [
+          15,
+          "Leech Seed"
+        ],
+        [
+          19,
+          "Pin Missile"
+        ],
+        [
+          29,
+          "Take Down"
+        ],
+        [
+          35,
+          "Seed Bomb"
+        ],
+        [
+          39,
+          "Mud Shot"
+        ],
+        [
+          44,
+          "Bulk Up"
+        ],
+        [
+          48,
+          "Body Slam"
+        ],
+        [
+          52,
+          "Pain Split"
+        ],
+        [
+          56,
+          "Wood Hammer"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belly Drum",
+        "Curse",
+        "Defense Curl",
+        "Power-Up Punch",
+        "Quick Guard",
+        "Rollout",
+        "Spikes",
+        "Synthesis"
+      ],
+      "tutor_moves": [
+        "Drain Punch",
+        "Dual Chop",
+        "Endeavor",
+        "Focus Punch",
+        "Giga Drain",
+        "Grass Pledge",
+        "Helping Hand",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Low Kick",
+        "Pain Split",
+        "Seed Bomb",
+        "Snore",
+        "Stomping Tantrum",
+        "Super Fang",
+        "Superpower",
+        "Synthesis",
+        "Thunder Punch",
+        "Worry Seed",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Flash",
+        "Hone Claws",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Tackle"
+      ]
+    }
+  }
+]

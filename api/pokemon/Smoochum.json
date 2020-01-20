@@ -1,0 +1,315 @@
+[
+  {
+    "species_name": "Smoochum",
+    "variant_name": "Smoochum",
+    "base_stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 15,
+      "speed": 65,
+      "special_attack": 85,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 238,
+      "types": [
+        "Ice",
+        "Psychic"
+      ],
+      "height": 0.4,
+      "weight": 6.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Kiss Pok\u00e9mon",
+      "flavor_text": "Highly perceptive sensors, Smoochum\u2019s lips are kept moist by its daily application of tree sap.",
+      "abilities": [
+        "Oblivious",
+        "Forewarn"
+      ],
+      "hidden_abilities": [
+        "Hydration"
+      ],
+      "regional_dex_nums": [
+        152,
+        154,
+        83,
+        109
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Pound"
+        ],
+        [
+          5,
+          "Lick"
+        ],
+        [
+          8,
+          "Sweet Kiss"
+        ],
+        [
+          11,
+          "Powder Snow"
+        ],
+        [
+          15,
+          "Confusion"
+        ],
+        [
+          18,
+          "Sing"
+        ],
+        [
+          21,
+          "Heart Stamp"
+        ],
+        [
+          25,
+          "Mean Look"
+        ],
+        [
+          28,
+          "Fake Tears"
+        ],
+        [
+          31,
+          "Lucky Chant"
+        ],
+        [
+          35,
+          "Avalanche"
+        ],
+        [
+          38,
+          "Psychic"
+        ],
+        [
+          41,
+          "Copycat"
+        ],
+        [
+          45,
+          "Perish Song"
+        ],
+        [
+          48,
+          "Blizzard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          70,
+          "Aurora Veil"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Captivate",
+        "Fake Out",
+        "Ice Punch",
+        "Meditate",
+        "Miracle Eye",
+        "Nasty Plot",
+        "Wake-Up Slap",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Heal Bell",
+        "Helping Hand",
+        "Ice Punch",
+        "Icy Wind",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Role Play",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Trick",
+        "Uproar",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Counter",
+        "Curse",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Lovely Kiss",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Secret Power",
+        "Seismic Toss",
+        "Sweet Scent"
+      ]
+    }
+  }
+]

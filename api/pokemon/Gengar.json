@@ -1,0 +1,738 @@
+[
+  {
+    "species_name": "Gengar",
+    "variant_name": "Gengar",
+    "base_stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 60,
+      "speed": 110,
+      "special_attack": 130,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 94,
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "height": 1.5,
+      "weight": 40.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Shadow Pok\u00e9mon",
+      "flavor_text": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
+      "abilities": [
+        "Cursed Body"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        94,
+        60,
+        94,
+        71,
+        71,
+        60,
+        32,
+        63,
+        75,
+        94,
+        143
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 225,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Hypnosis"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Mean Look"
+        ],
+        [
+          1,
+          "Perish Song"
+        ],
+        [
+          1,
+          "Reflect Type"
+        ],
+        [
+          1,
+          "Shadow Punch"
+        ],
+        [
+          12,
+          "Payback"
+        ],
+        [
+          16,
+          "Spite"
+        ],
+        [
+          20,
+          "Curse"
+        ],
+        [
+          24,
+          "Hex"
+        ],
+        [
+          30,
+          "Night Shade"
+        ],
+        [
+          36,
+          "Sucker Punch"
+        ],
+        [
+          42,
+          "Dark Pulse"
+        ],
+        [
+          48,
+          "Shadow Ball"
+        ],
+        [
+          54,
+          "Destiny Bond"
+        ],
+        [
+          60,
+          "Dream Eater"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          77,
+          "Hex"
+        ],
+        [
+          86,
+          "Phantom Force"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Gengar",
+    "variant_name": "Mega Gengar",
+    "base_stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 80,
+      "speed": 130,
+      "special_attack": 170,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 94,
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "height": 1.4,
+      "weight": 40.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Shadow Pok\u00e9mon",
+      "flavor_text": "It can pass through other dimensions and can appear anywhere. It caused a stir one time when it stuck just one leg out of a wall.",
+      "abilities": [
+        "Shadow Tag"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        94,
+        60,
+        94,
+        71,
+        71,
+        60,
+        32,
+        63,
+        75,
+        94,
+        143
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Hypnosis"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Mean Look"
+        ],
+        [
+          1,
+          "Perish Song"
+        ],
+        [
+          1,
+          "Reflect Type"
+        ],
+        [
+          1,
+          "Shadow Punch"
+        ],
+        [
+          12,
+          "Payback"
+        ],
+        [
+          16,
+          "Spite"
+        ],
+        [
+          20,
+          "Curse"
+        ],
+        [
+          24,
+          "Hex"
+        ],
+        [
+          30,
+          "Night Shade"
+        ],
+        [
+          36,
+          "Sucker Punch"
+        ],
+        [
+          42,
+          "Dark Pulse"
+        ],
+        [
+          48,
+          "Shadow Ball"
+        ],
+        [
+          54,
+          "Destiny Bond"
+        ],
+        [
+          60,
+          "Dream Eater"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          77,
+          "Hex"
+        ],
+        [
+          86,
+          "Phantom Force"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

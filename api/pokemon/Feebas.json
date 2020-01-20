@@ -1,0 +1,204 @@
+[
+  {
+    "species_name": "Feebas",
+    "variant_name": "Feebas",
+    "base_stats": {
+      "hp": 20,
+      "attack": 15,
+      "defense": 20,
+      "speed": 80,
+      "special_attack": 10,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 349,
+      "types": [
+        "Water"
+      ],
+      "height": 0.6,
+      "weight": 7.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fish Pok\u00e9mon",
+      "flavor_text": "It is a shabby and ugly Pok\u00e9mon. However, it is very hardy and can survive on little water.",
+      "abilities": [
+        "Swift Swim",
+        "Oblivious"
+      ],
+      "hidden_abilities": [
+        "Adaptability"
+      ],
+      "regional_dex_nums": [
+        140,
+        138,
+        138,
+        145,
+        155,
+        189,
+        152
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 40,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Splash"
+        ],
+        [
+          15,
+          "Tackle"
+        ],
+        [
+          30,
+          "Flail"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Brine",
+        "Captivate",
+        "Confuse Ray",
+        "Dragon Breath",
+        "Dragon Pulse",
+        "Haze",
+        "Hypnosis",
+        "Iron Tail",
+        "Mirror Coat",
+        "Mist",
+        "Mud Sport",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "Dragon Pulse",
+        "Icy Wind",
+        "Iron Tail",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power",
+        "Swift",
+        "Whirlpool"
+      ]
+    }
+  }
+]

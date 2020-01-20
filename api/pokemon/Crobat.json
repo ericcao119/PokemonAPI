@@ -1,0 +1,331 @@
+[
+  {
+    "species_name": "Crobat",
+    "variant_name": "Crobat",
+    "base_stats": {
+      "hp": 85,
+      "attack": 90,
+      "defense": 80,
+      "speed": 130,
+      "special_attack": 70,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 169,
+      "types": [
+        "Poison",
+        "Flying"
+      ],
+      "height": 1.8,
+      "weight": 75.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bat Pok\u00e9mon",
+      "flavor_text": "It feeds on the blood of living people and Pok\u00e9mon. If it can\u2019t drink any blood for even a short while, it becomes weak and unable to fly.",
+      "abilities": [
+        "Inner Focus"
+      ],
+      "hidden_abilities": [
+        "Infiltrator"
+      ],
+      "regional_dex_nums": [
+        39,
+        65,
+        30,
+        30,
+        39,
+        63,
+        147,
+        67,
+        70,
+        82
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 241,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Cross Poison"
+        ],
+        [
+          1,
+          "Screech"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          7,
+          "Astonish"
+        ],
+        [
+          11,
+          "Bite"
+        ],
+        [
+          13,
+          "Wing Attack"
+        ],
+        [
+          17,
+          "Confuse Ray"
+        ],
+        [
+          19,
+          "Air Cutter"
+        ],
+        [
+          24,
+          "Swift"
+        ],
+        [
+          27,
+          "Poison Fang"
+        ],
+        [
+          32,
+          "Mean Look"
+        ],
+        [
+          35,
+          "Leech Life"
+        ],
+        [
+          40,
+          "Haze"
+        ],
+        [
+          43,
+          "Venoshock"
+        ],
+        [
+          48,
+          "Air Slash"
+        ],
+        [
+          51,
+          "Quick Guard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Brave Bird",
+        "Curse",
+        "Defog",
+        "Feint Attack",
+        "Giga Drain",
+        "Gust",
+        "Hypnosis",
+        "Nasty Plot",
+        "Pursuit",
+        "Quick Attack",
+        "Steel Wing",
+        "Venom Drench",
+        "Whirlwind",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Giga Drain",
+        "Heat Wave",
+        "Sky Attack",
+        "Snatch",
+        "Snore",
+        "Super Fang",
+        "Tailwind",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Secret Power",
+        "Twister"
+      ]
+    }
+  }
+]

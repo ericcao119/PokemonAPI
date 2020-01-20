@@ -1,0 +1,818 @@
+[
+  {
+    "species_name": "Tyranitar",
+    "variant_name": "Tyranitar",
+    "base_stats": {
+      "hp": 100,
+      "attack": 134,
+      "defense": 110,
+      "speed": 61,
+      "special_attack": 95,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 248,
+      "types": [
+        "Rock",
+        "Dark"
+      ],
+      "height": 2.0,
+      "weight": 202.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Armor Pok\u00e9mon",
+      "flavor_text": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+      "abilities": [
+        "Sand Stream"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        246,
+        251,
+        294,
+        104,
+        249,
+        385
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Sandstorm"
+        ],
+        [
+          1,
+          "Screech"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          5,
+          "Sandstorm"
+        ],
+        [
+          10,
+          "Screech"
+        ],
+        [
+          14,
+          "Chip Away"
+        ],
+        [
+          19,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Scary Face"
+        ],
+        [
+          28,
+          "Thrash"
+        ],
+        [
+          34,
+          "Dark Pulse"
+        ],
+        [
+          41,
+          "Payback"
+        ],
+        [
+          47,
+          "Crunch"
+        ],
+        [
+          54,
+          "Earthquake"
+        ],
+        [
+          63,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Hyper Beam"
+        ],
+        [
+          82,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Assurance",
+        "Curse",
+        "Dragon Dance",
+        "Focus Energy",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Pursuit",
+        "Stealth Rock",
+        "Stomp"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Block",
+        "Dragon Pulse",
+        "Earth Power",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Low Kick",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Double-Edge",
+        "Dragon Breath",
+        "Dynamic Punch",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  },
+  {
+    "species_name": "Tyranitar",
+    "variant_name": "Mega Tyranitar",
+    "base_stats": {
+      "hp": 100,
+      "attack": 164,
+      "defense": 150,
+      "speed": 71,
+      "special_attack": 95,
+      "special_defense": 120
+    },
+    "dex_entry": {
+      "national_dex_num": 248,
+      "types": [
+        "Rock",
+        "Dark"
+      ],
+      "height": 2.5,
+      "weight": 255.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Armor Pok\u00e9mon",
+      "flavor_text": "The effects of Mega Evolution make it more ferocious than ever. It\u2019s unclear whether it can even hear its Trainer\u2019s orders.",
+      "abilities": [
+        "Sand Stream"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        246,
+        251,
+        294,
+        104,
+        249,
+        385
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 315,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Sandstorm"
+        ],
+        [
+          1,
+          "Screech"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          5,
+          "Sandstorm"
+        ],
+        [
+          10,
+          "Screech"
+        ],
+        [
+          14,
+          "Chip Away"
+        ],
+        [
+          19,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Scary Face"
+        ],
+        [
+          28,
+          "Thrash"
+        ],
+        [
+          34,
+          "Dark Pulse"
+        ],
+        [
+          41,
+          "Payback"
+        ],
+        [
+          47,
+          "Crunch"
+        ],
+        [
+          54,
+          "Earthquake"
+        ],
+        [
+          63,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Hyper Beam"
+        ],
+        [
+          82,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Assurance",
+        "Curse",
+        "Dragon Dance",
+        "Focus Energy",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Pursuit",
+        "Stealth Rock",
+        "Stomp"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Block",
+        "Dragon Pulse",
+        "Earth Power",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Low Kick",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Double-Edge",
+        "Dragon Breath",
+        "Dynamic Punch",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

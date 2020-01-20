@@ -1,0 +1,301 @@
+[
+  {
+    "species_name": "Corphish",
+    "variant_name": "Corphish",
+    "base_stats": {
+      "hp": 43,
+      "attack": 80,
+      "defense": 65,
+      "speed": 35,
+      "special_attack": 50,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 341,
+      "types": [
+        "Water"
+      ],
+      "height": 0.6,
+      "weight": 11.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Ruffian Pok\u00e9mon",
+      "flavor_text": "It was originally a Pok\u00e9mon from afar that escaped to the wild. It can adapt to the dirtiest river.",
+      "abilities": [
+        "Hyper Cutter",
+        "Shell Armor"
+      ],
+      "hidden_abilities": [
+        "Adaptability"
+      ],
+      "regional_dex_nums": [
+        129,
+        279,
+        51,
+        134,
+        357,
+        102
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fluctuating",
+      "base_exp_yield": 62,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 205,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          5,
+          "Harden"
+        ],
+        [
+          7,
+          "Vise Grip"
+        ],
+        [
+          10,
+          "Leer"
+        ],
+        [
+          14,
+          "Bubble Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Double Hit"
+        ],
+        [
+          23,
+          "Knock Off"
+        ],
+        [
+          26,
+          "Night Slash"
+        ],
+        [
+          31,
+          "Razor Shell"
+        ],
+        [
+          34,
+          "Taunt"
+        ],
+        [
+          37,
+          "Swords Dance"
+        ],
+        [
+          39,
+          "Crunch"
+        ],
+        [
+          43,
+          "Crabhammer"
+        ],
+        [
+          48,
+          "Guillotine"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Aqua Jet",
+        "Body Slam",
+        "Chip Away",
+        "Double-Edge",
+        "Dragon Dance",
+        "Endeavor",
+        "Knock Off",
+        "Metal Claw",
+        "Mud Sport",
+        "Superpower",
+        "Switcheroo",
+        "Trump Card"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Icy Wind",
+        "Iron Defense",
+        "Knock Off",
+        "Snore",
+        "Spite",
+        "Superpower",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Dig",
+        "Endure",
+        "Fury Cutter",
+        "Hone Claws",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

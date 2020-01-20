@@ -1,0 +1,354 @@
+[
+  {
+    "species_name": "Dunsparce",
+    "variant_name": "Dunsparce",
+    "base_stats": {
+      "hp": 100,
+      "attack": 70,
+      "defense": 70,
+      "speed": 45,
+      "special_attack": 65,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 206,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.5,
+      "weight": 14.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Land Snake Pok\u00e9mon",
+      "flavor_text": "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.",
+      "abilities": [
+        "Serene Grace",
+        "Run Away"
+      ],
+      "hidden_abilities": [
+        "Rattled"
+      ],
+      "regional_dex_nums": [
+        52,
+        52,
+        35,
+        40,
+        63
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 145,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Rage"
+        ],
+        [
+          3,
+          "Rollout"
+        ],
+        [
+          6,
+          "Spite"
+        ],
+        [
+          8,
+          "Pursuit"
+        ],
+        [
+          11,
+          "Screech"
+        ],
+        [
+          13,
+          "Mud-Slap"
+        ],
+        [
+          16,
+          "Yawn"
+        ],
+        [
+          18,
+          "Ancient Power"
+        ],
+        [
+          21,
+          "Body Slam"
+        ],
+        [
+          23,
+          "Drill Run"
+        ],
+        [
+          26,
+          "Roost"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          31,
+          "Coil"
+        ],
+        [
+          33,
+          "Dig"
+        ],
+        [
+          36,
+          "Glare"
+        ],
+        [
+          38,
+          "Double-Edge"
+        ],
+        [
+          41,
+          "Endeavor"
+        ],
+        [
+          43,
+          "Air Slash"
+        ],
+        [
+          46,
+          "Dragon Rush"
+        ],
+        [
+          48,
+          "Endure"
+        ],
+        [
+          51,
+          "Flail"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Ancient Power",
+        "Astonish",
+        "Bide",
+        "Bite",
+        "Curse",
+        "Headbutt",
+        "Hex",
+        "Magic Coat",
+        "Secret Power",
+        "Sleep Talk",
+        "Snore",
+        "Trump Card"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Drill Run",
+        "Endeavor",
+        "Iron Tail",
+        "Last Resort",
+        "Magic Coat",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Counter",
+        "Incinerate",
+        "Mimic",
+        "Natural Gift",
+        "Nightmare",
+        "Retaliate",
+        "Rock Smash",
+        "Strength",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

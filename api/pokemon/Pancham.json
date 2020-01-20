@@ -1,0 +1,315 @@
+[
+  {
+    "species_name": "Pancham",
+    "variant_name": "Pancham",
+    "base_stats": {
+      "hp": 67,
+      "attack": 82,
+      "defense": 62,
+      "speed": 43,
+      "special_attack": 46,
+      "special_defense": 48
+    },
+    "dex_entry": {
+      "national_dex_num": 674,
+      "types": [
+        "Fighting"
+      ],
+      "height": 0.6,
+      "weight": 8.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Playful Pok\u00e9mon",
+      "flavor_text": "Wanting to make sure it\u2019s taken seriously, Pancham\u2019s always giving others a glare. But if it\u2019s not focusing, it ends up smiling.",
+      "abilities": [
+        "Iron Fist",
+        "Mold Breaker"
+      ],
+      "hidden_abilities": [
+        "Scrappy"
+      ],
+      "regional_dex_nums": [
+        91,
+        220,
+        284,
+        111
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 70,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 220,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          7,
+          "Arm Thrust"
+        ],
+        [
+          10,
+          "Work Up"
+        ],
+        [
+          12,
+          "Karate Chop"
+        ],
+        [
+          15,
+          "Comet Punch"
+        ],
+        [
+          20,
+          "Slash"
+        ],
+        [
+          25,
+          "Circle Throw"
+        ],
+        [
+          27,
+          "Vital Throw"
+        ],
+        [
+          33,
+          "Body Slam"
+        ],
+        [
+          39,
+          "Crunch"
+        ],
+        [
+          42,
+          "Entrainment"
+        ],
+        [
+          45,
+          "Parting Shot"
+        ],
+        [
+          48,
+          "Sky Uppercut"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Foul Play",
+        "Me First",
+        "Power Trip",
+        "Quash",
+        "Quick Guard",
+        "Storm Throw"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Covet",
+        "Drain Punch",
+        "Dual Chop",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Gunk Shot",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Iron Head",
+        "Knock Off",
+        "Low Kick",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

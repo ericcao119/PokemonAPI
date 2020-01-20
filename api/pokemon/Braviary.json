@@ -1,0 +1,294 @@
+[
+  {
+    "species_name": "Braviary",
+    "variant_name": "Braviary",
+    "base_stats": {
+      "hp": 100,
+      "attack": 123,
+      "defense": 75,
+      "speed": 80,
+      "special_attack": 57,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 628,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 1.5,
+      "weight": 41.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Valiant Pok\u00e9mon",
+      "flavor_text": "Because this Pok\u00e9mon is hotheaded and belligerent, it\u2019s Corviknight that\u2019s taken the role of transportation in Galar.",
+      "abilities": [
+        "Keen Eye",
+        "Sheer Force"
+      ],
+      "hidden_abilities": [
+        "Defiant"
+      ],
+      "regional_dex_nums": [
+        134,
+        110,
+        76,
+        90,
+        282
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 179,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Brave Bird"
+        ],
+        [
+          1,
+          "Fury Attack"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Superpower"
+        ],
+        [
+          1,
+          "Thrash"
+        ],
+        [
+          1,
+          "Whirlwind"
+        ],
+        [
+          1,
+          "Wing Attack"
+        ],
+        [
+          5,
+          "Fury Attack"
+        ],
+        [
+          10,
+          "Wing Attack"
+        ],
+        [
+          14,
+          "Hone Claws"
+        ],
+        [
+          19,
+          "Scary Face"
+        ],
+        [
+          23,
+          "Aerial Ace"
+        ],
+        [
+          28,
+          "Slash"
+        ],
+        [
+          32,
+          "Defog"
+        ],
+        [
+          37,
+          "Tailwind"
+        ],
+        [
+          41,
+          "Air Slash"
+        ],
+        [
+          46,
+          "Crush Claw"
+        ],
+        [
+          50,
+          "Sky Drop"
+        ],
+        [
+          57,
+          "Whirlwind"
+        ],
+        [
+          63,
+          "Brave Bird"
+        ],
+        [
+          70,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Laser Focus",
+        "Sky Attack",
+        "Snore",
+        "Superpower",
+        "Tailwind",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Pluck",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "species_name": "Trevenant",
+    "variant_name": "Trevenant",
+    "base_stats": {
+      "hp": 85,
+      "attack": 110,
+      "defense": 76,
+      "speed": 56,
+      "special_attack": 65,
+      "special_defense": 82
+    },
+    "dex_entry": {
+      "national_dex_num": 709,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "height": 1.5,
+      "weight": 71.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Elder Tree Pok\u00e9mon",
+      "flavor_text": "Small roots that extend from the tips of this Pok\u00e9mon\u2019s feet can tie into the trees of the forest and give Trevenant control over them.",
+      "abilities": [
+        "Natural Cure",
+        "Frisk"
+      ],
+      "hidden_abilities": [
+        "Harvest"
+      ],
+      "regional_dex_nums": [
+        62,
+        197,
+        251,
+        339
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 166,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous",
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Horn Leech"
+        ],
+        [
+          1,
+          "Shadow Claw"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Astonish"
+        ],
+        [
+          8,
+          "Growth"
+        ],
+        [
+          13,
+          "Ingrain"
+        ],
+        [
+          19,
+          "Feint Attack"
+        ],
+        [
+          23,
+          "Leech Seed"
+        ],
+        [
+          28,
+          "Curse"
+        ],
+        [
+          31,
+          "Will-O-Wisp"
+        ],
+        [
+          35,
+          "Forest's Curse"
+        ],
+        [
+          39,
+          "Destiny Bond"
+        ],
+        [
+          45,
+          "Phantom Force"
+        ],
+        [
+          49,
+          "Wood Hammer"
+        ],
+        [
+          54,
+          "Horn Leech"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bestow",
+        "Grudge",
+        "Imprison",
+        "Power-Up Punch",
+        "Venom Drench"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Block",
+        "Drain Punch",
+        "Foul Play",
+        "Giga Drain",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Seed Bomb",
+        "Skill Swap",
+        "Snore",
+        "Spite",
+        "Telekinesis",
+        "Trick",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Hone Claws",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

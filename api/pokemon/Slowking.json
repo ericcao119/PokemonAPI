@@ -1,0 +1,390 @@
+[
+  {
+    "species_name": "Slowking",
+    "variant_name": "Slowking",
+    "base_stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 80,
+      "speed": 30,
+      "special_attack": 100,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 199,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "height": 2.0,
+      "weight": 79.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Royal Pok\u00e9mon",
+      "flavor_text": "It\u2019s called \u201cthe sage of the sea.\u201d It engages in battles of wits with Oranguru, but the result is usually a draw.",
+      "abilities": [
+        "Oblivious",
+        "Own Tempo"
+      ],
+      "hidden_abilities": [
+        "Regenerator"
+      ],
+      "regional_dex_nums": [
+        82,
+        82,
+        135,
+        39,
+        46
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 70,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Curse"
+        ],
+        [
+          1,
+          "Heal Pulse"
+        ],
+        [
+          1,
+          "Hidden Power"
+        ],
+        [
+          1,
+          "Power Gem"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Yawn"
+        ],
+        [
+          5,
+          "Growl"
+        ],
+        [
+          9,
+          "Water Gun"
+        ],
+        [
+          14,
+          "Confusion"
+        ],
+        [
+          19,
+          "Disable"
+        ],
+        [
+          23,
+          "Headbutt"
+        ],
+        [
+          28,
+          "Water Pulse"
+        ],
+        [
+          32,
+          "Zen Headbutt"
+        ],
+        [
+          36,
+          "Nasty Plot"
+        ],
+        [
+          41,
+          "Swagger"
+        ],
+        [
+          45,
+          "Psychic"
+        ],
+        [
+          49,
+          "Trump Card"
+        ],
+        [
+          54,
+          "Psych Up"
+        ],
+        [
+          58,
+          "Heal Pulse"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belch",
+        "Belly Drum",
+        "Block",
+        "Future Sight",
+        "Me First",
+        "Mud Sport",
+        "Sleep Talk",
+        "Snore",
+        "Stomp",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Aqua Tail",
+        "Block",
+        "Drain Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Tail",
+        "Laser Focus",
+        "Magic Coat",
+        "Recycle",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Body Slam",
+        "Brine",
+        "Captivate",
+        "Counter",
+        "Dig",
+        "Dive",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Swift",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "species_name": "Ho-oh",
+    "variant_name": "Ho-oh",
+    "base_stats": {
+      "hp": 106,
+      "attack": 130,
+      "defense": 90,
+      "speed": 90,
+      "special_attack": 110,
+      "special_defense": 154
+    },
+    "dex_entry": {
+      "national_dex_num": 250,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "height": 3.8,
+      "weight": 199.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rainbow Pok\u00e9mon",
+      "flavor_text": "Ho-Oh\u2019s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pok\u00e9mon is said to live at the foot of a rainbow.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Regenerator"
+      ],
+      "regional_dex_nums": [
+        248,
+        253
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Weather Ball"
+        ],
+        [
+          1,
+          "Whirlwind"
+        ],
+        [
+          9,
+          "Gust"
+        ],
+        [
+          15,
+          "Brave Bird"
+        ],
+        [
+          23,
+          "Extrasensory"
+        ],
+        [
+          29,
+          "Sunny Day"
+        ],
+        [
+          37,
+          "Fire Blast"
+        ],
+        [
+          43,
+          "Sacred Fire"
+        ],
+        [
+          50,
+          "Punishment"
+        ],
+        [
+          57,
+          "Ancient Power"
+        ],
+        [
+          65,
+          "Safeguard"
+        ],
+        [
+          71,
+          "Recover"
+        ],
+        [
+          79,
+          "Future Sight"
+        ],
+        [
+          85,
+          "Natural Gift"
+        ],
+        [
+          93,
+          "Calm Mind"
+        ],
+        [
+          99,
+          "Sky Attack"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Earth Power",
+        "Giga Drain",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Head",
+        "Laser Focus",
+        "Shock Wave",
+        "Signal Beam",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Dragon Breath",
+        "Endure",
+        "Flash",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Nightmare",
+        "Ominous Wind",
+        "Pluck",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Twister",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

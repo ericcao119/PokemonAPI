@@ -1,0 +1,361 @@
+[
+  {
+    "species_name": "Kommo-o",
+    "variant_name": "Kommo-o",
+    "base_stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 125,
+      "speed": 85,
+      "special_attack": 100,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 784,
+      "types": [
+        "Dragon",
+        "Fighting"
+      ],
+      "height": 1.6,
+      "weight": 78.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Scaly Pok\u00e9mon",
+      "flavor_text": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales.",
+      "abilities": [
+        "Bulletproof",
+        "Soundproof"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        273,
+        363,
+        394
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 3,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Autotomize"
+        ],
+        [
+          1,
+          "Belly Drum"
+        ],
+        [
+          1,
+          "Bide"
+        ],
+        [
+          1,
+          "Clanging Scales"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Sky Uppercut"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          9,
+          "Bide"
+        ],
+        [
+          13,
+          "Protect"
+        ],
+        [
+          17,
+          "Dragon Tail"
+        ],
+        [
+          21,
+          "Scary Face"
+        ],
+        [
+          25,
+          "Headbutt"
+        ],
+        [
+          29,
+          "Work Up"
+        ],
+        [
+          33,
+          "Screech"
+        ],
+        [
+          38,
+          "Iron Defense"
+        ],
+        [
+          43,
+          "Dragon Claw"
+        ],
+        [
+          51,
+          "Noble Roar"
+        ],
+        [
+          59,
+          "Dragon Dance"
+        ],
+        [
+          67,
+          "Outrage"
+        ],
+        [
+          75,
+          "Close Combat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Counter",
+        "Dragon Breath",
+        "Reversal"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Drain Punch",
+        "Dual Chop",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Hyper Voice",
+        "Ice Punch",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Low Kick",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

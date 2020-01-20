@@ -1,0 +1,290 @@
+[
+  {
+    "species_name": "Swablu",
+    "variant_name": "Swablu",
+    "base_stats": {
+      "hp": 45,
+      "attack": 40,
+      "defense": 60,
+      "speed": 50,
+      "special_attack": 40,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 333,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 0.4,
+      "weight": 1.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cotton Bird Pok\u00e9mon",
+      "flavor_text": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pok\u00e9mon finds a stream and showers itself.",
+      "abilities": [
+        "Natural Cure"
+      ],
+      "hidden_abilities": [
+        "Cloud Nine"
+      ],
+      "regional_dex_nums": [
+        121,
+        171,
+        246,
+        139,
+        126
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 62,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          3,
+          "Astonish"
+        ],
+        [
+          5,
+          "Sing"
+        ],
+        [
+          7,
+          "Fury Attack"
+        ],
+        [
+          9,
+          "Safeguard"
+        ],
+        [
+          11,
+          "Disarming Voice"
+        ],
+        [
+          14,
+          "Mist"
+        ],
+        [
+          17,
+          "Round"
+        ],
+        [
+          20,
+          "Natural Gift"
+        ],
+        [
+          23,
+          "Take Down"
+        ],
+        [
+          26,
+          "Refresh"
+        ],
+        [
+          30,
+          "Mirror Move"
+        ],
+        [
+          34,
+          "Cotton Guard"
+        ],
+        [
+          38,
+          "Dragon Pulse"
+        ],
+        [
+          42,
+          "Perish Song"
+        ],
+        [
+          46,
+          "Moonblast"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Dragon Rush",
+        "Feather Dance",
+        "Haze",
+        "Hyper Voice",
+        "Play Rough",
+        "Power Swap",
+        "Pursuit",
+        "Rage",
+        "Roost",
+        "Steel Wing"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Dragon Pulse",
+        "Heal Bell",
+        "Heat Wave",
+        "Hyper Voice",
+        "Outrage",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Ominous Wind",
+        "Pluck",
+        "Secret Power",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

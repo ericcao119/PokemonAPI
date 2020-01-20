@@ -1,0 +1,469 @@
+[
+  {
+    "species_name": "Rockruff",
+    "variant_name": "Rockruff",
+    "base_stats": {
+      "hp": 45,
+      "attack": 65,
+      "defense": 40,
+      "speed": 60,
+      "special_attack": 30,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 744,
+      "types": [
+        "Rock"
+      ],
+      "height": 0.5,
+      "weight": 9.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Puppy Pok\u00e9mon",
+      "flavor_text": "When it rubs the rocks on its neck against you, that\u2019s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+      "abilities": [
+        "Keen Eye",
+        "Vital Spirit"
+      ],
+      "hidden_abilities": [
+        "Steadfast"
+      ],
+      "regional_dex_nums": [
+        103,
+        126
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 56,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Sand Attack"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          12,
+          "Howl"
+        ],
+        [
+          15,
+          "Rock Throw"
+        ],
+        [
+          18,
+          "Odor Sleuth"
+        ],
+        [
+          23,
+          "Rock Tomb"
+        ],
+        [
+          26,
+          "Roar"
+        ],
+        [
+          29,
+          "Stealth Rock"
+        ],
+        [
+          34,
+          "Rock Slide"
+        ],
+        [
+          37,
+          "Scary Face"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          45,
+          "Rock Climb"
+        ],
+        [
+          48,
+          "Stone Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crush Claw",
+        "Fire Fang",
+        "Sucker Punch",
+        "Thrash",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Earth Power",
+        "Endeavor",
+        "Hyper Voice",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Last Resort",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Rockruff",
+    "variant_name": "Own Tempo Rockruff",
+    "base_stats": {
+      "hp": 45,
+      "attack": 65,
+      "defense": 40,
+      "speed": 60,
+      "special_attack": 30,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 744,
+      "types": [
+        "Rock"
+      ],
+      "height": 0.5,
+      "weight": 9.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Puppy Pok\u00e9mon",
+      "flavor_text": "When it rubs the rocks on its neck against you, that\u2019s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+      "abilities": [
+        "Own Tempo"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        103,
+        126
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 56,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Sand Attack"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          12,
+          "Howl"
+        ],
+        [
+          15,
+          "Rock Throw"
+        ],
+        [
+          18,
+          "Odor Sleuth"
+        ],
+        [
+          23,
+          "Rock Tomb"
+        ],
+        [
+          26,
+          "Roar"
+        ],
+        [
+          29,
+          "Stealth Rock"
+        ],
+        [
+          34,
+          "Rock Slide"
+        ],
+        [
+          37,
+          "Scary Face"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          45,
+          "Rock Climb"
+        ],
+        [
+          48,
+          "Stone Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crush Claw",
+        "Fire Fang",
+        "Sucker Punch",
+        "Thrash",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Earth Power",
+        "Endeavor",
+        "Hyper Voice",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Last Resort",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

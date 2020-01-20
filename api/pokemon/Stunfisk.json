@@ -1,0 +1,601 @@
+[
+  {
+    "species_name": "Stunfisk",
+    "variant_name": "Stunfisk",
+    "base_stats": {
+      "hp": 109,
+      "attack": 66,
+      "defense": 84,
+      "speed": 32,
+      "special_attack": 81,
+      "special_defense": 99
+    },
+    "dex_entry": {
+      "national_dex_num": 618,
+      "types": [
+        "Ground",
+        "Electric"
+      ],
+      "height": 0.7,
+      "weight": 11.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Trap Pok\u00e9mon",
+      "flavor_text": "For some reason, this Pok\u00e9mon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
+      "abilities": [
+        "Static",
+        "Limber"
+      ],
+      "hidden_abilities": [
+        "Sand Veil"
+      ],
+      "regional_dex_nums": [
+        124,
+        231,
+        39,
+        226
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 165,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fissure"
+        ],
+        [
+          1,
+          "Flail"
+        ],
+        [
+          1,
+          "Mud Sport"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Bide"
+        ],
+        [
+          9,
+          "Thunder Shock"
+        ],
+        [
+          13,
+          "Mud Shot"
+        ],
+        [
+          17,
+          "Camouflage"
+        ],
+        [
+          21,
+          "Mud Bomb"
+        ],
+        [
+          25,
+          "Discharge"
+        ],
+        [
+          30,
+          "Endure"
+        ],
+        [
+          35,
+          "Bounce"
+        ],
+        [
+          40,
+          "Muddy Water"
+        ],
+        [
+          45,
+          "Thunderbolt"
+        ],
+        [
+          50,
+          "Revenge"
+        ],
+        [
+          55,
+          "Flail"
+        ],
+        [
+          61,
+          "Fissure"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Curse",
+        "Earth Power",
+        "Eerie Impulse",
+        "Me First",
+        "Pain Split",
+        "Reflect Type",
+        "Shock Wave",
+        "Sleep Talk",
+        "Spark",
+        "Spite",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Earth Power",
+        "Electroweb",
+        "Endeavor",
+        "Foul Play",
+        "Magnet Rise",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  },
+  {
+    "species_name": "Stunfisk",
+    "variant_name": "Galarian Stunfisk",
+    "base_stats": {
+      "hp": 109,
+      "attack": 81,
+      "defense": 99,
+      "speed": 32,
+      "special_attack": 66,
+      "special_defense": 84
+    },
+    "dex_entry": {
+      "national_dex_num": 618,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "height": 0.7,
+      "weight": 20.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Trap Pok\u00e9mon",
+      "flavor_text": "For some reason, this Pok\u00e9mon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
+      "abilities": [
+        "Mimicry"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        124,
+        231,
+        39,
+        226
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fissure"
+        ],
+        [
+          1,
+          "Flail"
+        ],
+        [
+          1,
+          "Mud Sport"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Bide"
+        ],
+        [
+          9,
+          "Thunder Shock"
+        ],
+        [
+          13,
+          "Mud Shot"
+        ],
+        [
+          17,
+          "Camouflage"
+        ],
+        [
+          21,
+          "Mud Bomb"
+        ],
+        [
+          25,
+          "Discharge"
+        ],
+        [
+          30,
+          "Endure"
+        ],
+        [
+          35,
+          "Bounce"
+        ],
+        [
+          40,
+          "Muddy Water"
+        ],
+        [
+          45,
+          "Thunderbolt"
+        ],
+        [
+          50,
+          "Revenge"
+        ],
+        [
+          55,
+          "Flail"
+        ],
+        [
+          61,
+          "Fissure"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Curse",
+        "Earth Power",
+        "Eerie Impulse",
+        "Me First",
+        "Pain Split",
+        "Reflect Type",
+        "Shock Wave",
+        "Sleep Talk",
+        "Spark",
+        "Spite",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Earth Power",
+        "Electroweb",
+        "Endeavor",
+        "Foul Play",
+        "Magnet Rise",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

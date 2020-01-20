@@ -1,0 +1,492 @@
+[
+  {
+    "species_name": "Eiscue",
+    "variant_name": "Ice Face",
+    "base_stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 110,
+      "speed": 50,
+      "special_attack": 65,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 875,
+      "types": [
+        "Ice"
+      ],
+      "height": 1.4,
+      "weight": 89.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Penguin Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
+      "abilities": [
+        "Ice Face"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        370
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Mist"
+        ],
+        [
+          12,
+          "Weather Ball"
+        ],
+        [
+          18,
+          "Icy Wind"
+        ],
+        [
+          24,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Amnesia"
+        ],
+        [
+          36,
+          "Freeze-Dry"
+        ],
+        [
+          42,
+          "Hail"
+        ],
+        [
+          48,
+          "Aurora Veil"
+        ],
+        [
+          54,
+          "Surf"
+        ],
+        [
+          60,
+          "Blizzard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          51,
+          "Icicle Spear"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Aqua Ring",
+        "Belly Drum",
+        "Double-Edge",
+        "Head Smash",
+        "Icicle Crash",
+        "Soak"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Eiscue",
+    "variant_name": "Noice Face",
+    "base_stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 70,
+      "speed": 130,
+      "special_attack": 65,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 875,
+      "types": [
+        "Ice"
+      ],
+      "height": 1.4,
+      "weight": 89.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Penguin Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
+      "abilities": [
+        "Ice Face"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        370
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Mist"
+        ],
+        [
+          12,
+          "Weather Ball"
+        ],
+        [
+          18,
+          "Icy Wind"
+        ],
+        [
+          24,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Amnesia"
+        ],
+        [
+          36,
+          "Freeze-Dry"
+        ],
+        [
+          42,
+          "Hail"
+        ],
+        [
+          48,
+          "Aurora Veil"
+        ],
+        [
+          54,
+          "Surf"
+        ],
+        [
+          60,
+          "Blizzard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          51,
+          "Icicle Spear"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Aqua Ring",
+        "Belly Drum",
+        "Double-Edge",
+        "Head Smash",
+        "Icicle Crash",
+        "Soak"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "species_name": "Dhelmise",
+    "variant_name": "Dhelmise",
+    "base_stats": {
+      "hp": 70,
+      "attack": 131,
+      "defense": 100,
+      "speed": 40,
+      "special_attack": 86,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 781,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "height": 3.9,
+      "weight": 210.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sea Creeper Pok\u00e9mon",
+      "flavor_text": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force.",
+      "abilities": [
+        "Steelworker"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        263,
+        344,
+        360
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 181,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 25,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Rapid Spin"
+        ],
+        [
+          4,
+          "Astonish"
+        ],
+        [
+          8,
+          "Wrap"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          16,
+          "Growth"
+        ],
+        [
+          20,
+          "Gyro Ball"
+        ],
+        [
+          24,
+          "Switcheroo"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          32,
+          "Whirlpool"
+        ],
+        [
+          36,
+          "Heavy Slam"
+        ],
+        [
+          40,
+          "Slam"
+        ],
+        [
+          44,
+          "Shadow Ball"
+        ],
+        [
+          48,
+          "Metal Sound"
+        ],
+        [
+          52,
+          "Anchor Shot"
+        ],
+        [
+          56,
+          "Energy Ball"
+        ],
+        [
+          60,
+          "Phantom Force"
+        ],
+        [
+          64,
+          "Power Whip"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          12,
+          "Solar Blade"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          77,
+          "Hex"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          86,
+          "Phantom Force"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          98,
+          "Liquidation"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

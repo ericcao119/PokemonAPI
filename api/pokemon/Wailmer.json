@@ -1,0 +1,275 @@
+[
+  {
+    "species_name": "Wailmer",
+    "variant_name": "Wailmer",
+    "base_stats": {
+      "hp": 130,
+      "attack": 70,
+      "defense": 35,
+      "speed": 60,
+      "special_attack": 70,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 320,
+      "types": [
+        "Water"
+      ],
+      "height": 2.0,
+      "weight": 130.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Ball Whale Pok\u00e9mon",
+      "flavor_text": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+      "abilities": [
+        "Water Veil",
+        "Oblivious"
+      ],
+      "hidden_abilities": [
+        "Pressure"
+      ],
+      "regional_dex_nums": [
+        99,
+        240,
+        27,
+        104,
+        266,
+        351,
+        356
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fluctuating",
+      "base_exp_yield": 80,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 125,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Splash"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          7,
+          "Water Gun"
+        ],
+        [
+          10,
+          "Rollout"
+        ],
+        [
+          13,
+          "Whirlpool"
+        ],
+        [
+          16,
+          "Astonish"
+        ],
+        [
+          19,
+          "Water Pulse"
+        ],
+        [
+          22,
+          "Mist"
+        ],
+        [
+          25,
+          "Brine"
+        ],
+        [
+          29,
+          "Rest"
+        ],
+        [
+          33,
+          "Water Spout"
+        ],
+        [
+          37,
+          "Amnesia"
+        ],
+        [
+          41,
+          "Dive"
+        ],
+        [
+          45,
+          "Bounce"
+        ],
+        [
+          49,
+          "Hydro Pump"
+        ],
+        [
+          53,
+          "Heavy Slam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Ring",
+        "Body Slam",
+        "Clear Smog",
+        "Curse",
+        "Defense Curl",
+        "Double-Edge",
+        "Fissure",
+        "Sleep Talk",
+        "Snore",
+        "Soak",
+        "Thrash",
+        "Tickle",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Hyper Voice",
+        "Icy Wind",
+        "Snore",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Captivate",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "species_name": "Duosion",
+    "variant_name": "Duosion",
+    "base_stats": {
+      "hp": 65,
+      "attack": 40,
+      "defense": 50,
+      "speed": 30,
+      "special_attack": 125,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 578,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.6,
+      "weight": 8.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mitosis Pok\u00e9mon",
+      "flavor_text": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.",
+      "abilities": [
+        "Overcoat",
+        "Magic Guard"
+      ],
+      "hidden_abilities": [
+        "Regenerator"
+      ],
+      "regional_dex_nums": [
+        84,
+        140,
+        116,
+        271
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 130,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 100,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Psywave"
+        ],
+        [
+          1,
+          "Reflect"
+        ],
+        [
+          1,
+          "Rollout"
+        ],
+        [
+          1,
+          "Snatch"
+        ],
+        [
+          3,
+          "Reflect"
+        ],
+        [
+          7,
+          "Rollout"
+        ],
+        [
+          10,
+          "Snatch"
+        ],
+        [
+          14,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Charm"
+        ],
+        [
+          24,
+          "Recover"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          28,
+          "Endeavor"
+        ],
+        [
+          31,
+          "Future Sight"
+        ],
+        [
+          34,
+          "Pain Split"
+        ],
+        [
+          39,
+          "Psychic"
+        ],
+        [
+          43,
+          "Skill Swap"
+        ],
+        [
+          50,
+          "Heal Block"
+        ],
+        [
+          53,
+          "Wonder Room"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Armor",
+        "Astonish",
+        "Confuse Ray",
+        "Helping Hand",
+        "Imprison",
+        "Night Shade",
+        "Secret Power",
+        "Trick"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Endeavor",
+        "Gravity",
+        "Helping Hand",
+        "Iron Defense",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Flash"
+      ]
+    }
+  }
+]

@@ -1,0 +1,388 @@
+[
+  {
+    "species_name": "Jigglypuff",
+    "variant_name": "Jigglypuff",
+    "base_stats": {
+      "hp": 115,
+      "attack": 45,
+      "defense": 20,
+      "speed": 20,
+      "special_attack": 45,
+      "special_defense": 25
+    },
+    "dex_entry": {
+      "national_dex_num": 39,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "height": 0.5,
+      "weight": 5.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Balloon Pok\u00e9mon",
+      "flavor_text": "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
+      "abilities": [
+        "Cute Charm",
+        "Competitive"
+      ],
+      "hidden_abilities": [
+        "Friend Guard"
+      ],
+      "regional_dex_nums": [
+        39,
+        44,
+        138,
+        39,
+        44,
+        282,
+        120,
+        143,
+        135,
+        168,
+        39
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 95,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 170,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Sing"
+        ],
+        [
+          3,
+          "Defense Curl"
+        ],
+        [
+          5,
+          "Pound"
+        ],
+        [
+          9,
+          "Play Nice"
+        ],
+        [
+          11,
+          "Disarming Voice"
+        ],
+        [
+          14,
+          "Disable"
+        ],
+        [
+          17,
+          "Double Slap"
+        ],
+        [
+          20,
+          "Rollout"
+        ],
+        [
+          22,
+          "Round"
+        ],
+        [
+          25,
+          "Spit Up"
+        ],
+        [
+          25,
+          "Stockpile"
+        ],
+        [
+          25,
+          "Swallow"
+        ],
+        [
+          27,
+          "Wake-Up Slap"
+        ],
+        [
+          30,
+          "Rest"
+        ],
+        [
+          32,
+          "Body Slam"
+        ],
+        [
+          35,
+          "Gyro Ball"
+        ],
+        [
+          38,
+          "Mimic"
+        ],
+        [
+          41,
+          "Hyper Voice"
+        ],
+        [
+          45,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Captivate",
+        "Covet",
+        "Fake Tears",
+        "Feint Attack",
+        "Gravity",
+        "Heal Pulse",
+        "Last Resort",
+        "Misty Terrain",
+        "Perish Song",
+        "Present",
+        "Punishment",
+        "Sleep Talk",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bounce",
+        "Covet",
+        "Drain Punch",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Gravity",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Knock Off",
+        "Last Resort",
+        "Magic Coat",
+        "Pain Split",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Snatch",
+        "Snore",
+        "Stealth Rock",
+        "Telekinesis",
+        "Thunder Punch",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Bubble Beam",
+        "Counter",
+        "Curse",
+        "Detect",
+        "Dig",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Power-Up Punch",
+        "Psywave",
+        "Rage",
+        "Retaliate",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Strength",
+        "Submission",
+        "Take Down",
+        "Teleport",
+        "Tri Attack",
+        "Water Gun",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

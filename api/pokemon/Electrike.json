@@ -1,0 +1,266 @@
+[
+  {
+    "species_name": "Electrike",
+    "variant_name": "Electrike",
+    "base_stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "speed": 65,
+      "special_attack": 65,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 309,
+      "types": [
+        "Electric"
+      ],
+      "height": 0.6,
+      "weight": 15.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Lightning Pok\u00e9mon",
+      "flavor_text": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+      "abilities": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "hidden_abilities": [
+        "Minus"
+      ],
+      "regional_dex_nums": [
+        78,
+        73,
+        80,
+        293,
+        66
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 59,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          7,
+          "Howl"
+        ],
+        [
+          10,
+          "Quick Attack"
+        ],
+        [
+          13,
+          "Spark"
+        ],
+        [
+          16,
+          "Odor Sleuth"
+        ],
+        [
+          19,
+          "Thunder Fang"
+        ],
+        [
+          24,
+          "Bite"
+        ],
+        [
+          29,
+          "Discharge"
+        ],
+        [
+          34,
+          "Roar"
+        ],
+        [
+          39,
+          "Wild Charge"
+        ],
+        [
+          44,
+          "Charge"
+        ],
+        [
+          49,
+          "Thunder"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crunch",
+        "Curse",
+        "Discharge",
+        "Eerie Impulse",
+        "Electro Ball",
+        "Fire Fang",
+        "Flame Burst",
+        "Headbutt",
+        "Ice Fang",
+        "Shock Wave",
+        "Swift",
+        "Switcheroo",
+        "Thunder Fang",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Iron Tail",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

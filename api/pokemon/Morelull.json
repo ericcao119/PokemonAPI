@@ -1,0 +1,230 @@
+[
+  {
+    "species_name": "Morelull",
+    "variant_name": "Morelull",
+    "base_stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 55,
+      "speed": 15,
+      "special_attack": 65,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 755,
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "height": 0.2,
+      "weight": 1.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Illuminating Pok\u00e9mon",
+      "flavor_text": "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep.",
+      "abilities": [
+        "Illuminate",
+        "Effect Spore"
+      ],
+      "hidden_abilities": [
+        "Rain Dish"
+      ],
+      "regional_dex_nums": [
+        145,
+        178,
+        340
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 57,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          4,
+          "Confuse Ray"
+        ],
+        [
+          8,
+          "Ingrain"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          16,
+          "Sleep Powder"
+        ],
+        [
+          20,
+          "Moonlight"
+        ],
+        [
+          25,
+          "Strength Sap"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          32,
+          "Dazzling Gleam"
+        ],
+        [
+          36,
+          "Spore"
+        ],
+        [
+          40,
+          "Moonblast"
+        ],
+        [
+          44,
+          "Dream Eater"
+        ]
+      ],
+      "tm_moves": [
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ]
+      ],
+      "tr_moves": [
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ],
+        [
+          96,
+          "Pollen Puff"
+        ]
+      ],
+      "egg_moves": [
+        "Growth",
+        "Leech Seed",
+        "Poison Powder",
+        "Stun Spore"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

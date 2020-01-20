@@ -1,0 +1,331 @@
+[
+  {
+    "species_name": "Flareon",
+    "variant_name": "Flareon",
+    "base_stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 60,
+      "speed": 65,
+      "special_attack": 95,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 136,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.9,
+      "weight": 25.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flame Pok\u00e9mon",
+      "flavor_text": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
+      "abilities": [
+        "Flash Fire"
+      ],
+      "hidden_abilities": [
+        "Guts"
+      ],
+      "regional_dex_nums": [
+        136,
+        183,
+        136,
+        166,
+        187,
+        94,
+        80,
+        126,
+        156,
+        136,
+        199
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 184,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Baton Pass"
+        ],
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Copycat"
+        ],
+        [
+          1,
+          "Covet"
+        ],
+        [
+          1,
+          "Double-Edge"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Swift"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Take Down"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          10,
+          "Quick Attack"
+        ],
+        [
+          15,
+          "Baby-Doll Eyes"
+        ],
+        [
+          20,
+          "Smog"
+        ],
+        [
+          25,
+          "Bite"
+        ],
+        [
+          30,
+          "Fire Fang"
+        ],
+        [
+          35,
+          "Fire Spin"
+        ],
+        [
+          40,
+          "Lava Plume"
+        ],
+        [
+          45,
+          "Scary Face"
+        ],
+        [
+          50,
+          "Flare Blitz"
+        ],
+        [
+          55,
+          "Last Resort"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

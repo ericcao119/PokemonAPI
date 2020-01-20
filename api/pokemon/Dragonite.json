@@ -1,0 +1,424 @@
+[
+  {
+    "species_name": "Dragonite",
+    "variant_name": "Dragonite",
+    "base_stats": {
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "speed": 80,
+      "special_attack": 100,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 149,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "height": 2.2,
+      "weight": 210.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Dragon Pok\u00e9mon",
+      "flavor_text": "It is said that this Pok\u00e9mon lives somewhere in the sea and that it flies. However, these are only rumors.",
+      "abilities": [
+        "Inner Focus"
+      ],
+      "hidden_abilities": [
+        "Multiscale"
+      ],
+      "regional_dex_nums": [
+        149,
+        243,
+        149,
+        248,
+        147,
+        283,
+        381,
+        149
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fire Punch"
+        ],
+        [
+          1,
+          "Hurricane"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Roost"
+        ],
+        [
+          1,
+          "Thunder Punch"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          1,
+          "Twister"
+        ],
+        [
+          1,
+          "Wing Attack"
+        ],
+        [
+          1,
+          "Wrap"
+        ],
+        [
+          5,
+          "Thunder Wave"
+        ],
+        [
+          11,
+          "Twister"
+        ],
+        [
+          15,
+          "Dragon Rage"
+        ],
+        [
+          21,
+          "Slam"
+        ],
+        [
+          25,
+          "Agility"
+        ],
+        [
+          33,
+          "Dragon Tail"
+        ],
+        [
+          39,
+          "Aqua Tail"
+        ],
+        [
+          47,
+          "Dragon Rush"
+        ],
+        [
+          53,
+          "Safeguard"
+        ],
+        [
+          61,
+          "Dragon Dance"
+        ],
+        [
+          67,
+          "Outrage"
+        ],
+        [
+          75,
+          "Hyper Beam"
+        ],
+        [
+          81,
+          "Hurricane"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Jet",
+        "Dragon Breath",
+        "Dragon Dance",
+        "Dragon Pulse",
+        "Dragon Rush",
+        "Extreme Speed",
+        "Haze",
+        "Iron Tail",
+        "Mist",
+        "Supersonic",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Fire Punch",
+        "Focus Punch",
+        "Heat Wave",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Superpower",
+        "Tailwind",
+        "Thunder Punch",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Bide",
+        "Body Slam",
+        "Bubble Beam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dive",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Horn Drill",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Power-Up Punch",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Skull Bash",
+        "Strength",
+        "Swift",
+        "Take Down",
+        "Water Gun",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

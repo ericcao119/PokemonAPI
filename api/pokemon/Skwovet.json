@@ -1,0 +1,230 @@
+[
+  {
+    "species_name": "Skwovet",
+    "variant_name": "Skwovet",
+    "base_stats": {
+      "hp": 70,
+      "attack": 55,
+      "defense": 55,
+      "speed": 25,
+      "special_attack": 35,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 819,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.3,
+      "weight": 2.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cheeky Pok\u00e9mon",
+      "flavor_text": "It eats berries nonstop\u2014a habit that has made it more resilient than it looks. It\u2019ll show up on farms, searching for yet more berries.",
+      "abilities": [
+        "Cheek Pouch"
+      ],
+      "hidden_abilities": [
+        "Gluttony"
+      ],
+      "regional_dex_nums": [
+        24
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Bite"
+        ],
+        [
+          10,
+          "Stuff Cheeks"
+        ],
+        [
+          15,
+          "Spit Up"
+        ],
+        [
+          15,
+          "Stockpile"
+        ],
+        [
+          15,
+          "Swallow"
+        ],
+        [
+          20,
+          "Body Slam"
+        ],
+        [
+          25,
+          "Rest"
+        ],
+        [
+          30,
+          "Counter"
+        ],
+        [
+          35,
+          "Bullet Seed"
+        ],
+        [
+          40,
+          "Super Fang"
+        ],
+        [
+          45,
+          "Belch"
+        ]
+      ],
+      "tm_moves": [
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          84,
+          "Tail Slap"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ]
+      ],
+      "egg_moves": [
+        "Belly Drum",
+        "Defense Curl",
+        "Last Resort",
+        "Rollout"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

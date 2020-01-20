@@ -1,0 +1,277 @@
+[
+  {
+    "species_name": "Palossand",
+    "variant_name": "Palossand",
+    "base_stats": {
+      "hp": 85,
+      "attack": 75,
+      "defense": 110,
+      "speed": 35,
+      "special_attack": 100,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 770,
+      "types": [
+        "Ghost",
+        "Ground"
+      ],
+      "height": 1.3,
+      "weight": 250.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sand Castle Pok\u00e9mon",
+      "flavor_text": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pok\u00e9mon snatches away their vitality.",
+      "abilities": [
+        "Water Compaction"
+      ],
+      "hidden_abilities": [
+        "Sand Veil"
+      ],
+      "regional_dex_nums": [
+        187,
+        226
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          5,
+          "Astonish"
+        ],
+        [
+          9,
+          "Sand Attack"
+        ],
+        [
+          14,
+          "Sand Tomb"
+        ],
+        [
+          18,
+          "Mega Drain"
+        ],
+        [
+          23,
+          "Bulldoze"
+        ],
+        [
+          27,
+          "Hypnosis"
+        ],
+        [
+          32,
+          "Iron Defense"
+        ],
+        [
+          36,
+          "Giga Drain"
+        ],
+        [
+          41,
+          "Shadow Ball"
+        ],
+        [
+          47,
+          "Earth Power"
+        ],
+        [
+          54,
+          "Shore Up"
+        ],
+        [
+          60,
+          "Sandstorm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Ancient Power",
+        "Curse",
+        "Destiny Bond",
+        "Spit Up",
+        "Stockpile",
+        "Swallow"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Block",
+        "Earth Power",
+        "Giga Drain",
+        "Gravity",
+        "Iron Defense",
+        "Pain Split",
+        "Recycle",
+        "Role Play",
+        "Skill Swap",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Trick"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

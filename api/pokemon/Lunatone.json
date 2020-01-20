@@ -1,0 +1,346 @@
+[
+  {
+    "species_name": "Lunatone",
+    "variant_name": "Lunatone",
+    "base_stats": {
+      "hp": 90,
+      "attack": 55,
+      "defense": 65,
+      "speed": 70,
+      "special_attack": 95,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 337,
+      "types": [
+        "Rock",
+        "Psychic"
+      ],
+      "height": 1.0,
+      "weight": 168.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Meteorite Pok\u00e9mon",
+      "flavor_text": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        125,
+        214,
+        12,
+        130,
+        362
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 161,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Moonblast"
+        ],
+        [
+          1,
+          "Power Gem"
+        ],
+        [
+          1,
+          "Psyshock"
+        ],
+        [
+          1,
+          "Rock Throw"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Hypnosis"
+        ],
+        [
+          9,
+          "Rock Polish"
+        ],
+        [
+          13,
+          "Psywave"
+        ],
+        [
+          17,
+          "Embargo"
+        ],
+        [
+          21,
+          "Rock Slide"
+        ],
+        [
+          25,
+          "Cosmic Power"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          33,
+          "Heal Block"
+        ],
+        [
+          37,
+          "Stone Edge"
+        ],
+        [
+          41,
+          "Future Sight"
+        ],
+        [
+          45,
+          "Explosion"
+        ],
+        [
+          49,
+          "Magic Room"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Earth Power",
+        "Gravity",
+        "Helping Hand",
+        "Icy Wind",
+        "Iron Head",
+        "Laser Focus",
+        "Magic Coat",
+        "Magic Room",
+        "Pain Split",
+        "Recycle",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Defense Curl",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Rollout",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

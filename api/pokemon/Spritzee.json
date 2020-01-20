@@ -1,0 +1,277 @@
+[
+  {
+    "species_name": "Spritzee",
+    "variant_name": "Spritzee",
+    "base_stats": {
+      "hp": 78,
+      "attack": 52,
+      "defense": 60,
+      "speed": 23,
+      "special_attack": 63,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 682,
+      "types": [
+        "Fairy"
+      ],
+      "height": 0.2,
+      "weight": 0.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Perfume Pok\u00e9mon",
+      "flavor_text": "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee.",
+      "abilities": [
+        "Healer"
+      ],
+      "hidden_abilities": [
+        "Aroma Veil"
+      ],
+      "regional_dex_nums": [
+        129,
+        212
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 68,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fairy Wind"
+        ],
+        [
+          1,
+          "Sweet Scent"
+        ],
+        [
+          6,
+          "Sweet Kiss"
+        ],
+        [
+          8,
+          "Odor Sleuth"
+        ],
+        [
+          13,
+          "Echoed Voice"
+        ],
+        [
+          17,
+          "Calm Mind"
+        ],
+        [
+          21,
+          "Draining Kiss"
+        ],
+        [
+          25,
+          "Aromatherapy"
+        ],
+        [
+          29,
+          "Attract"
+        ],
+        [
+          31,
+          "Moonblast"
+        ],
+        [
+          35,
+          "Charm"
+        ],
+        [
+          38,
+          "Flail"
+        ],
+        [
+          42,
+          "Misty Terrain"
+        ],
+        [
+          44,
+          "Skill Swap"
+        ],
+        [
+          48,
+          "Psychic"
+        ],
+        [
+          50,
+          "Disarming Voice"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Captivate",
+        "Disable",
+        "Nasty Plot",
+        "Refresh",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Covet",
+        "Endeavor",
+        "Heal Bell",
+        "Helping Hand",
+        "Magic Coat",
+        "Skill Swap",
+        "Snore",
+        "Telekinesis"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

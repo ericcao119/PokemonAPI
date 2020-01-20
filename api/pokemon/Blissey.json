@@ -1,0 +1,399 @@
+[
+  {
+    "species_name": "Blissey",
+    "variant_name": "Blissey",
+    "base_stats": {
+      "hp": 255,
+      "attack": 10,
+      "defense": 10,
+      "speed": 55,
+      "special_attack": 75,
+      "special_defense": 135
+    },
+    "dex_entry": {
+      "national_dex_num": 242,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.5,
+      "weight": 46.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Happiness Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is overflowing with love. Only Chansey that share a strong bond with their Trainer can evolve, so people say.",
+      "abilities": [
+        "Natural Cure",
+        "Serene Grace"
+      ],
+      "hidden_abilities": [
+        "Healer"
+      ],
+      "regional_dex_nums": [
+        218,
+        98,
+        98,
+        223,
+        34,
+        41
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 608,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 140
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Double-Edge"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          5,
+          "Tail Whip"
+        ],
+        [
+          9,
+          "Refresh"
+        ],
+        [
+          12,
+          "Double Slap"
+        ],
+        [
+          16,
+          "Soft-Boiled"
+        ],
+        [
+          20,
+          "Bestow"
+        ],
+        [
+          23,
+          "Minimize"
+        ],
+        [
+          27,
+          "Take Down"
+        ],
+        [
+          31,
+          "Sing"
+        ],
+        [
+          34,
+          "Fling"
+        ],
+        [
+          39,
+          "Heal Pulse"
+        ],
+        [
+          44,
+          "Egg Bomb"
+        ],
+        [
+          50,
+          "Light Screen"
+        ],
+        [
+          57,
+          "Healing Wish"
+        ],
+        [
+          65,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aromatherapy",
+        "Counter",
+        "Endure",
+        "Gravity",
+        "Heal Bell",
+        "Helping Hand",
+        "Last Resort",
+        "Metronome",
+        "Mud Bomb",
+        "Natural Gift",
+        "Present",
+        "Seismic Toss"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Block",
+        "Covet",
+        "Drain Punch",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Gravity",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Laser Focus",
+        "Last Resort",
+        "Recycle",
+        "Shock Wave",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Thunder Punch",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Dynamic Punch",
+        "Flash",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

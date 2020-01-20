@@ -1,0 +1,298 @@
+[
+  {
+    "species_name": "Suicune",
+    "variant_name": "Suicune",
+    "base_stats": {
+      "hp": 100,
+      "attack": 75,
+      "defense": 115,
+      "speed": 85,
+      "special_attack": 90,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 245,
+      "types": [
+        "Water"
+      ],
+      "height": 2.0,
+      "weight": 187.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Aurora Pok\u00e9mon",
+      "flavor_text": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pok\u00e9mon has the power to purify dirty water.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        240,
+        245
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Bubble Beam"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Rain Dance"
+        ],
+        [
+          1,
+          "Sheer Cold"
+        ],
+        [
+          8,
+          "Bubble Beam"
+        ],
+        [
+          15,
+          "Rain Dance"
+        ],
+        [
+          22,
+          "Gust"
+        ],
+        [
+          29,
+          "Aurora Beam"
+        ],
+        [
+          36,
+          "Mist"
+        ],
+        [
+          43,
+          "Mirror Coat"
+        ],
+        [
+          50,
+          "Ice Fang"
+        ],
+        [
+          57,
+          "Tailwind"
+        ],
+        [
+          64,
+          "Extrasensory"
+        ],
+        [
+          71,
+          "Hydro Pump"
+        ],
+        [
+          78,
+          "Calm Mind"
+        ],
+        [
+          85,
+          "Blizzard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Icy Wind",
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Signal Beam",
+        "Snore",
+        "Tailwind",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Air Slash",
+        "Aqua Ring",
+        "Avalanche",
+        "Body Slam",
+        "Brine",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Extreme Speed",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Rock Smash",
+        "Secret Power",
+        "Swift",
+        "Water Gun",
+        "Whirlpool"
+      ]
+    }
+  }
+]

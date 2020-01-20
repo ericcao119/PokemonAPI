@@ -1,0 +1,1111 @@
+[
+  {
+    "species_name": "Charizard",
+    "variant_name": "Charizard",
+    "base_stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "speed": 100,
+      "special_attack": 109,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 6,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "height": 1.7,
+      "weight": 90.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flame Pok\u00e9mon",
+      "flavor_text": "Its wings can carry this Pok\u00e9mon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Solar Power"
+      ],
+      "regional_dex_nums": [
+        6,
+        231,
+        6,
+        236,
+        85,
+        6,
+        380
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 240,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Air Slash"
+        ],
+        [
+          1,
+          "Dragon Claw"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Heat Wave"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          12,
+          "Dragon Breath"
+        ],
+        [
+          19,
+          "Fire Fang"
+        ],
+        [
+          24,
+          "Slash"
+        ],
+        [
+          30,
+          "Flamethrower"
+        ],
+        [
+          39,
+          "Scary Face"
+        ],
+        [
+          46,
+          "Fire Spin"
+        ],
+        [
+          54,
+          "Inferno"
+        ],
+        [
+          62,
+          "Flare Blitz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          6,
+          "Fly"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          95,
+          "Air Slash"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ],
+        [
+          89,
+          "Hurricane"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Charizard",
+    "variant_name": "Mega Charizard X",
+    "base_stats": {
+      "hp": 78,
+      "attack": 130,
+      "defense": 111,
+      "speed": 100,
+      "special_attack": 130,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 6,
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "height": 1.7,
+      "weight": 110.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flame Pok\u00e9mon",
+      "flavor_text": "The overwhelming power that fills its entire body causes it to turn black and create intense blue flames.",
+      "abilities": [
+        "Tough Claws"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        6,
+        231,
+        6,
+        236,
+        85,
+        6,
+        380
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 285,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Air Slash"
+        ],
+        [
+          1,
+          "Dragon Claw"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Heat Wave"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          12,
+          "Dragon Breath"
+        ],
+        [
+          19,
+          "Fire Fang"
+        ],
+        [
+          24,
+          "Slash"
+        ],
+        [
+          30,
+          "Flamethrower"
+        ],
+        [
+          39,
+          "Scary Face"
+        ],
+        [
+          46,
+          "Fire Spin"
+        ],
+        [
+          54,
+          "Inferno"
+        ],
+        [
+          62,
+          "Flare Blitz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          6,
+          "Fly"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          95,
+          "Air Slash"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ],
+        [
+          89,
+          "Hurricane"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Charizard",
+    "variant_name": "Mega Charizard Y",
+    "base_stats": {
+      "hp": 78,
+      "attack": 104,
+      "defense": 78,
+      "speed": 100,
+      "special_attack": 159,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 6,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "height": 1.7,
+      "weight": 100.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flame Pok\u00e9mon",
+      "flavor_text": "Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.",
+      "abilities": [
+        "Drought"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        6,
+        231,
+        6,
+        236,
+        85,
+        6,
+        380
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 285,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Air Slash"
+        ],
+        [
+          1,
+          "Dragon Claw"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Heat Wave"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          12,
+          "Dragon Breath"
+        ],
+        [
+          19,
+          "Fire Fang"
+        ],
+        [
+          24,
+          "Slash"
+        ],
+        [
+          30,
+          "Flamethrower"
+        ],
+        [
+          39,
+          "Scary Face"
+        ],
+        [
+          46,
+          "Fire Spin"
+        ],
+        [
+          54,
+          "Inferno"
+        ],
+        [
+          62,
+          "Flare Blitz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          6,
+          "Fly"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          95,
+          "Air Slash"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ],
+        [
+          89,
+          "Hurricane"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "species_name": "Vaporeon",
+    "variant_name": "Vaporeon",
+    "base_stats": {
+      "hp": 130,
+      "attack": 65,
+      "defense": 60,
+      "speed": 65,
+      "special_attack": 110,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 134,
+      "types": [
+        "Water"
+      ],
+      "height": 1.0,
+      "weight": 29.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bubble Jet Pok\u00e9mon",
+      "flavor_text": "Its body\u2019s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+      "abilities": [
+        "Water Absorb"
+      ],
+      "hidden_abilities": [
+        "Hydration"
+      ],
+      "regional_dex_nums": [
+        134,
+        181,
+        134,
+        164,
+        185,
+        92,
+        78,
+        124,
+        154,
+        134,
+        197
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 184,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Baton Pass"
+        ],
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Copycat"
+        ],
+        [
+          1,
+          "Covet"
+        ],
+        [
+          1,
+          "Double-Edge"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Swift"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Take Down"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          10,
+          "Quick Attack"
+        ],
+        [
+          15,
+          "Baby-Doll Eyes"
+        ],
+        [
+          20,
+          "Haze"
+        ],
+        [
+          25,
+          "Water Pulse"
+        ],
+        [
+          30,
+          "Aurora Beam"
+        ],
+        [
+          35,
+          "Aqua Ring"
+        ],
+        [
+          40,
+          "Muddy Water"
+        ],
+        [
+          45,
+          "Acid Armor"
+        ],
+        [
+          50,
+          "Hydro Pump"
+        ],
+        [
+          55,
+          "Last Resort"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

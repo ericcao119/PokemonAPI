@@ -1,0 +1,327 @@
+[
+  {
+    "species_name": "Hitmonchan",
+    "variant_name": "Hitmonchan",
+    "base_stats": {
+      "hp": 50,
+      "attack": 105,
+      "defense": 79,
+      "speed": 76,
+      "special_attack": 35,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 107,
+      "types": [
+        "Fighting"
+      ],
+      "height": 1.4,
+      "weight": 50.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Punching Pok\u00e9mon",
+      "flavor_text": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+      "abilities": [
+        "Keen Eye",
+        "Iron Fist"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        107,
+        145,
+        107,
+        147,
+        107,
+        109
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 159,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bullet Punch"
+        ],
+        [
+          1,
+          "Drain Punch"
+        ],
+        [
+          1,
+          "Fake Out"
+        ],
+        [
+          1,
+          "Feint"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Vacuum Wave"
+        ],
+        [
+          4,
+          "Mach Punch"
+        ],
+        [
+          8,
+          "Power-Up Punch"
+        ],
+        [
+          12,
+          "Detect"
+        ],
+        [
+          16,
+          "Revenge"
+        ],
+        [
+          21,
+          "Quick Guard"
+        ],
+        [
+          24,
+          "Fire Punch"
+        ],
+        [
+          24,
+          "Ice Punch"
+        ],
+        [
+          24,
+          "Thunder Punch"
+        ],
+        [
+          28,
+          "Agility"
+        ],
+        [
+          32,
+          "Mega Punch"
+        ],
+        [
+          36,
+          "Close Combat"
+        ],
+        [
+          40,
+          "Counter"
+        ],
+        [
+          44,
+          "Focus Punch"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

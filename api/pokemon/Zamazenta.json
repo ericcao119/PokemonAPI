@@ -1,0 +1,605 @@
+[
+  {
+    "species_name": "Zamazenta",
+    "variant_name": "Crowned Shield",
+    "base_stats": {
+      "hp": 92,
+      "attack": 130,
+      "defense": 145,
+      "speed": 128,
+      "special_attack": 80,
+      "special_defense": 145
+    },
+    "dex_entry": {
+      "national_dex_num": 889,
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "height": 2.9,
+      "weight": 785.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Warrior Pok\u00e9mon",
+      "flavor_text": "Now that it\u2019s equipped with its shield, it can shrug off impressive blows, including the attacks of Dynamax Pok\u00e9mon.",
+      "abilities": [
+        "Dauntless Shield"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        399
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Metal Burst"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Wide Guard"
+        ],
+        [
+          11,
+          "Slash"
+        ],
+        [
+          22,
+          "Iron Defense"
+        ],
+        [
+          33,
+          "Iron Head"
+        ],
+        [
+          44,
+          "Laser Focus"
+        ],
+        [
+          55,
+          "Crunch"
+        ],
+        [
+          66,
+          "Moonblast"
+        ],
+        [
+          77,
+          "Close Combat"
+        ],
+        [
+          88,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          60,
+          "Power Swap"
+        ],
+        [
+          61,
+          "Guard Swap"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          84,
+          "Tail Slap"
+        ],
+        [
+          85,
+          "Snarl"
+        ]
+      ],
+      "tr_moves": [
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Zamazenta",
+    "variant_name": "Hero of Many Battles",
+    "base_stats": {
+      "hp": 92,
+      "attack": 130,
+      "defense": 115,
+      "speed": 138,
+      "special_attack": 80,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 889,
+      "types": [
+        "Fighting"
+      ],
+      "height": 2.9,
+      "weight": 210.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Warrior Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
+      "abilities": [
+        "Dauntless Shield"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        399
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Metal Burst"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Wide Guard"
+        ],
+        [
+          11,
+          "Slash"
+        ],
+        [
+          22,
+          "Iron Defense"
+        ],
+        [
+          33,
+          "Iron Head"
+        ],
+        [
+          44,
+          "Laser Focus"
+        ],
+        [
+          55,
+          "Crunch"
+        ],
+        [
+          66,
+          "Moonblast"
+        ],
+        [
+          77,
+          "Close Combat"
+        ],
+        [
+          88,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          60,
+          "Power Swap"
+        ],
+        [
+          61,
+          "Guard Swap"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          84,
+          "Tail Slap"
+        ],
+        [
+          85,
+          "Snarl"
+        ]
+      ],
+      "tr_moves": [
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "species_name": "Croagunk",
+    "variant_name": "Croagunk",
+    "base_stats": {
+      "hp": 48,
+      "attack": 61,
+      "defense": 40,
+      "speed": 50,
+      "special_attack": 61,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 453,
+      "types": [
+        "Poison",
+        "Fighting"
+      ],
+      "height": 0.7,
+      "weight": 23.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Toxic Mouth Pok\u00e9mon",
+      "flavor_text": "Once diluted, its poison becomes medicinal. This Pok\u00e9mon came into popularity after a pharmaceutical company chose it as a mascot.",
+      "abilities": [
+        "Anticipation",
+        "Dry Skin"
+      ],
+      "hidden_abilities": [
+        "Poison Touch"
+      ],
+      "regional_dex_nums": [
+        129,
+        129,
+        290,
+        125,
+        222
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 140,
+      "base_friendship": 100
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          3,
+          "Mud-Slap"
+        ],
+        [
+          8,
+          "Poison Sting"
+        ],
+        [
+          10,
+          "Taunt"
+        ],
+        [
+          15,
+          "Pursuit"
+        ],
+        [
+          17,
+          "Feint Attack"
+        ],
+        [
+          22,
+          "Revenge"
+        ],
+        [
+          24,
+          "Swagger"
+        ],
+        [
+          29,
+          "Mud Bomb"
+        ],
+        [
+          31,
+          "Sucker Punch"
+        ],
+        [
+          36,
+          "Venoshock"
+        ],
+        [
+          38,
+          "Nasty Plot"
+        ],
+        [
+          43,
+          "Poison Jab"
+        ],
+        [
+          45,
+          "Sludge Bomb"
+        ],
+        [
+          47,
+          "Belch"
+        ],
+        [
+          50,
+          "Flatter"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acupressure",
+        "Bullet Punch",
+        "Counter",
+        "Cross Chop",
+        "Drain Punch",
+        "Dynamic Punch",
+        "Fake Out",
+        "Feint",
+        "Headbutt",
+        "Me First",
+        "Meditate",
+        "Quick Guard",
+        "Smelling Salts",
+        "Vacuum Wave",
+        "Wake-Up Slap"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Drain Punch",
+        "Dual Chop",
+        "Focus Punch",
+        "Foul Play",
+        "Gunk Shot",
+        "Helping Hand",
+        "Ice Punch",
+        "Icy Wind",
+        "Knock Off",
+        "Low Kick",
+        "Role Play",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Endure",
+        "Fury Cutter",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

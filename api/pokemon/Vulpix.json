@@ -1,0 +1,150 @@
+[
+  {
+    "species_name": "Vulpix",
+    "variant_name": "Vulpix",
+    "base_stats": {
+      "hp": 38,
+      "attack": 41,
+      "defense": 40,
+      "speed": 65,
+      "special_attack": 50,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 37,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.6,
+      "weight": 9.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fox Pok\u00e9mon",
+      "flavor_text": "As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm.",
+      "abilities": [
+        "Flash Fire"
+      ],
+      "hidden_abilities": [
+        "Drought"
+      ],
+      "regional_dex_nums": [
+        37,
+        125,
+        153,
+        37,
+        127,
+        248,
+        160,
+        253,
+        330,
+        37,
+        68
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Vulpix",
+    "variant_name": "Alolan Vulpix",
+    "base_stats": {
+      "hp": 38,
+      "attack": 41,
+      "defense": 40,
+      "speed": 65,
+      "special_attack": 50,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 37,
+      "types": [
+        "Ice"
+      ],
+      "height": 0.6,
+      "weight": 9.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fox Pok\u00e9mon",
+      "flavor_text": "It looks like snow come to life, and the breath it exhales is \u201358 degrees Fahrenheit. Another name for it is Keokeo.",
+      "abilities": [
+        "Snow Cloak"
+      ],
+      "hidden_abilities": [
+        "Snow Warning"
+      ],
+      "regional_dex_nums": [
+        37,
+        125,
+        153,
+        37,
+        127,
+        248,
+        160,
+        253,
+        330,
+        37,
+        68
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

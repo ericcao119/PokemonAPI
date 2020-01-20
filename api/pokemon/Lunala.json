@@ -1,0 +1,327 @@
+[
+  {
+    "species_name": "Lunala",
+    "variant_name": "Lunala",
+    "base_stats": {
+      "hp": 137,
+      "attack": 113,
+      "defense": 89,
+      "speed": 97,
+      "special_attack": 137,
+      "special_defense": 107
+    },
+    "dex_entry": {
+      "national_dex_num": 792,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "height": 4.0,
+      "weight": 120.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Moone Pok\u00e9mon",
+      "flavor_text": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky.",
+      "abilities": [
+        "Shadow Shield"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        292,
+        390
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Cosmic Power"
+        ],
+        [
+          1,
+          "Hypnosis"
+        ],
+        [
+          1,
+          "Moongeist Beam"
+        ],
+        [
+          1,
+          "Teleport"
+        ],
+        [
+          7,
+          "Night Shade"
+        ],
+        [
+          13,
+          "Confuse Ray"
+        ],
+        [
+          19,
+          "Air Slash"
+        ],
+        [
+          23,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Moonlight"
+        ],
+        [
+          37,
+          "Night Daze"
+        ],
+        [
+          43,
+          "Magic Coat"
+        ],
+        [
+          47,
+          "Moonblast"
+        ],
+        [
+          59,
+          "Dream Eater"
+        ],
+        [
+          61,
+          "Phantom Force"
+        ],
+        [
+          67,
+          "Wide Guard"
+        ],
+        [
+          73,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Icy Wind",
+        "Magic Coat",
+        "Magic Room",
+        "Shock Wave",
+        "Signal Beam",
+        "Sky Attack",
+        "Snore",
+        "Spite",
+        "Tailwind",
+        "Telekinesis",
+        "Trick",
+        "Wonder Room"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

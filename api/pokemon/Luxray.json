@@ -1,0 +1,277 @@
+[
+  {
+    "species_name": "Luxray",
+    "variant_name": "Luxray",
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 79,
+      "speed": 70,
+      "special_attack": 95,
+      "special_defense": 79
+    },
+    "dex_entry": {
+      "national_dex_num": 405,
+      "types": [
+        "Electric"
+      ],
+      "height": 1.4,
+      "weight": 42.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Gleam Eyes Pok\u00e9mon",
+      "flavor_text": "When its eyes gleam gold, it can spot hiding prey\u2014even those taking shelter behind a wall.",
+      "abilities": [
+        "Rivalry",
+        "Intimidate"
+      ],
+      "hidden_abilities": [
+        "Guts"
+      ],
+      "regional_dex_nums": [
+        19,
+        19
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 235,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge"
+        ],
+        [
+          1,
+          "Electric Terrain"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          9,
+          "Charge"
+        ],
+        [
+          13,
+          "Spark"
+        ],
+        [
+          18,
+          "Bite"
+        ],
+        [
+          23,
+          "Roar"
+        ],
+        [
+          28,
+          "Swagger"
+        ],
+        [
+          35,
+          "Thunder Fang"
+        ],
+        [
+          42,
+          "Crunch"
+        ],
+        [
+          49,
+          "Scary Face"
+        ],
+        [
+          56,
+          "Discharge"
+        ],
+        [
+          63,
+          "Wild Charge"
+        ],
+        [
+          67,
+          "Electric Terrain"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Double Kick",
+        "Eerie Impulse",
+        "Fake Tears",
+        "Fire Fang",
+        "Helping Hand",
+        "Howl",
+        "Ice Fang",
+        "Night Slash",
+        "Quick Attack",
+        "Shock Wave",
+        "Signal Beam",
+        "Swift",
+        "Take Down",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Helping Hand",
+        "Iron Tail",
+        "Laser Focus",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Superpower",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

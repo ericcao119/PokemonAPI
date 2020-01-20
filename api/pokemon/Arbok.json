@@ -1,0 +1,344 @@
+[
+  {
+    "species_name": "Arbok",
+    "variant_name": "Arbok",
+    "base_stats": {
+      "hp": 60,
+      "attack": 95,
+      "defense": 69,
+      "speed": 80,
+      "special_attack": 65,
+      "special_defense": 79
+    },
+    "dex_entry": {
+      "national_dex_num": 24,
+      "types": [
+        "Poison"
+      ],
+      "height": 3.5,
+      "weight": 65.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cobra Pok\u00e9mon",
+      "flavor_text": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+      "abilities": [
+        "Intimidate",
+        "Shed Skin"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        24,
+        51,
+        24,
+        51,
+        38,
+        62,
+        24
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 157,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Crunch"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Poison Sting"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          1,
+          "Wrap"
+        ],
+        [
+          4,
+          "Poison Sting"
+        ],
+        [
+          9,
+          "Bite"
+        ],
+        [
+          12,
+          "Glare"
+        ],
+        [
+          17,
+          "Screech"
+        ],
+        [
+          20,
+          "Acid"
+        ],
+        [
+          27,
+          "Spit Up"
+        ],
+        [
+          27,
+          "Stockpile"
+        ],
+        [
+          27,
+          "Swallow"
+        ],
+        [
+          32,
+          "Acid Spray"
+        ],
+        [
+          39,
+          "Mud Bomb"
+        ],
+        [
+          44,
+          "Gastro Acid"
+        ],
+        [
+          48,
+          "Belch"
+        ],
+        [
+          51,
+          "Haze"
+        ],
+        [
+          56,
+          "Coil"
+        ],
+        [
+          63,
+          "Gunk Shot"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Beat Up",
+        "Disable",
+        "Iron Tail",
+        "Poison Fang",
+        "Poison Tail",
+        "Pursuit",
+        "Scary Face",
+        "Slam",
+        "Snatch",
+        "Spite",
+        "Sucker Punch",
+        "Switcheroo"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Gastro Acid",
+        "Giga Drain",
+        "Gunk Shot",
+        "Iron Tail",
+        "Seed Bomb",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Stomping Tantrum",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Fissure",
+        "Headbutt",
+        "Mega Drain",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Secret Power",
+        "Skull Bash",
+        "Strength",
+        "Take Down"
+      ]
+    }
+  }
+]

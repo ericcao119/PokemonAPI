@@ -1,0 +1,300 @@
+[
+  {
+    "species_name": "Lairon",
+    "variant_name": "Lairon",
+    "base_stats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 140,
+      "speed": 40,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 305,
+      "types": [
+        "Steel",
+        "Rock"
+      ],
+      "height": 0.9,
+      "weight": 120.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Iron Armor Pok\u00e9mon",
+      "flavor_text": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pok\u00e9mon often clashes with humans mining the iron ore.",
+      "abilities": [
+        "Sturdy",
+        "Rock Head"
+      ],
+      "hidden_abilities": [
+        "Heavy Metal"
+      ],
+      "regional_dex_nums": [
+        71,
+        167,
+        100,
+        73
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 151,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Mud-Slap"
+        ],
+        [
+          7,
+          "Headbutt"
+        ],
+        [
+          10,
+          "Metal Claw"
+        ],
+        [
+          13,
+          "Rock Tomb"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          19,
+          "Roar"
+        ],
+        [
+          22,
+          "Iron Head"
+        ],
+        [
+          25,
+          "Rock Slide"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          31,
+          "Metal Sound"
+        ],
+        [
+          35,
+          "Iron Tail"
+        ],
+        [
+          39,
+          "Iron Defense"
+        ],
+        [
+          43,
+          "Double-Edge"
+        ],
+        [
+          47,
+          "Autotomize"
+        ],
+        [
+          51,
+          "Heavy Slam"
+        ],
+        [
+          55,
+          "Metal Burst"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Curse",
+        "Dragon Rush",
+        "Endeavor",
+        "Head Smash",
+        "Iron Head",
+        "Reversal",
+        "Screech",
+        "Smelling Salts",
+        "Stealth Rock",
+        "Stomp",
+        "Superpower"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Endeavor",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Magnet Rise",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Captivate",
+        "Cut",
+        "Defense Curl",
+        "Dig",
+        "Endure",
+        "Fury Cutter",
+        "Hone Claws",
+        "Mimic",
+        "Natural Gift",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

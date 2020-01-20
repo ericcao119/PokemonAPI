@@ -1,0 +1,323 @@
+[
+  {
+    "species_name": "Cubone",
+    "variant_name": "Cubone",
+    "base_stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 95,
+      "speed": 35,
+      "special_attack": 40,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 104,
+      "types": [
+        "Ground"
+      ],
+      "height": 0.4,
+      "weight": 6.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Lonely Pok\u00e9mon",
+      "flavor_text": "Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.",
+      "abilities": [
+        "Rock Head",
+        "Lightning Rod"
+      ],
+      "hidden_abilities": [
+        "Battle Armor"
+      ],
+      "regional_dex_nums": [
+        104,
+        203,
+        104,
+        208,
+        60,
+        163,
+        197,
+        104
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          3,
+          "Tail Whip"
+        ],
+        [
+          7,
+          "Bone Club"
+        ],
+        [
+          11,
+          "Headbutt"
+        ],
+        [
+          13,
+          "Leer"
+        ],
+        [
+          17,
+          "Focus Energy"
+        ],
+        [
+          21,
+          "Bonemerang"
+        ],
+        [
+          23,
+          "Rage"
+        ],
+        [
+          27,
+          "False Swipe"
+        ],
+        [
+          31,
+          "Thrash"
+        ],
+        [
+          33,
+          "Fling"
+        ],
+        [
+          37,
+          "Stomping Tantrum"
+        ],
+        [
+          41,
+          "Endeavor"
+        ],
+        [
+          43,
+          "Double-Edge"
+        ],
+        [
+          47,
+          "Retaliate"
+        ],
+        [
+          51,
+          "Bone Rush"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Belly Drum",
+        "Chip Away",
+        "Curse",
+        "Detect",
+        "Double Kick",
+        "Endure",
+        "Iron Head",
+        "Perish Song",
+        "Screech",
+        "Skull Bash"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Knock Off",
+        "Low Kick",
+        "Snore",
+        "Stealth Rock",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Bubble Beam",
+        "Captivate",
+        "Counter",
+        "Dig",
+        "Dynamic Punch",
+        "Fissure",
+        "Fury Cutter",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Submission",
+        "Take Down",
+        "Water Gun"
+      ]
+    }
+  }
+]

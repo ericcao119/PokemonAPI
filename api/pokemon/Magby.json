@@ -1,0 +1,269 @@
+[
+  {
+    "species_name": "Magby",
+    "variant_name": "Magby",
+    "base_stats": {
+      "hp": 45,
+      "attack": 75,
+      "defense": 37,
+      "speed": 83,
+      "special_attack": 70,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 240,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.7,
+      "weight": 21.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Live Coal Pok\u00e9mon",
+      "flavor_text": "Its body temperature is always around 1,100 degrees Fahrenheit. If Magby falls into a small- enough pond, the whole thing will dry up.",
+      "abilities": [
+        "Flame Body"
+      ],
+      "hidden_abilities": [
+        "Vital Spirit"
+      ],
+      "regional_dex_nums": [
+        150,
+        200,
+        152,
+        53,
+        166,
+        200
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 73,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 75.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Smog"
+        ],
+        [
+          5,
+          "Ember"
+        ],
+        [
+          8,
+          "Smokescreen"
+        ],
+        [
+          12,
+          "Feint Attack"
+        ],
+        [
+          15,
+          "Fire Spin"
+        ],
+        [
+          19,
+          "Clear Smog"
+        ],
+        [
+          22,
+          "Flame Burst"
+        ],
+        [
+          26,
+          "Confuse Ray"
+        ],
+        [
+          29,
+          "Fire Punch"
+        ],
+        [
+          33,
+          "Lava Plume"
+        ],
+        [
+          36,
+          "Sunny Day"
+        ],
+        [
+          40,
+          "Flamethrower"
+        ],
+        [
+          43,
+          "Fire Blast"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Barrier",
+        "Belch",
+        "Belly Drum",
+        "Cross Chop",
+        "Dynamic Punch",
+        "Flare Blitz",
+        "Focus Energy",
+        "Iron Tail",
+        "Karate Chop",
+        "Mach Punch",
+        "Mega Punch",
+        "Power Swap",
+        "Screech",
+        "Thunder Punch"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Dual Chop",
+        "Fire Punch",
+        "Focus Punch",
+        "Heat Wave",
+        "Helping Hand",
+        "Iron Tail",
+        "Snore",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss"
+      ]
+    }
+  }
+]

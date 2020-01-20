@@ -1,0 +1,280 @@
+[
+  {
+    "species_name": "Sealeo",
+    "variant_name": "Sealeo",
+    "base_stats": {
+      "hp": 90,
+      "attack": 60,
+      "defense": 70,
+      "speed": 45,
+      "special_attack": 75,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 364,
+      "types": [
+        "Ice",
+        "Water"
+      ],
+      "height": 1.1,
+      "weight": 87.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Ball Roll Pok\u00e9mon",
+      "flavor_text": "Sealeo often balances and rolls things on the tip of its nose. While the Pok\u00e9mon is rolling something, it checks the object\u2019s aroma and texture to determine whether it likes the object or not.",
+      "abilities": [
+        "Thick Fat",
+        "Ice Body"
+      ],
+      "hidden_abilities": [
+        "Oblivious"
+      ],
+      "regional_dex_nums": [
+        174,
+        244,
+        183
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 144,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          1,
+          "Swagger"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Rollout"
+        ],
+        [
+          9,
+          "Encore"
+        ],
+        [
+          13,
+          "Ice Ball"
+        ],
+        [
+          17,
+          "Brine"
+        ],
+        [
+          21,
+          "Aurora Beam"
+        ],
+        [
+          26,
+          "Body Slam"
+        ],
+        [
+          31,
+          "Rest"
+        ],
+        [
+          31,
+          "Snore"
+        ],
+        [
+          38,
+          "Hail"
+        ],
+        [
+          45,
+          "Blizzard"
+        ],
+        [
+          52,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Ring",
+        "Belly Drum",
+        "Curse",
+        "Fissure",
+        "Rollout",
+        "Signal Beam",
+        "Sleep Talk",
+        "Spit Up",
+        "Stockpile",
+        "Swallow",
+        "Water Pulse",
+        "Water Sport",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Icy Wind",
+        "Iron Tail",
+        "Signal Beam",
+        "Snore",
+        "Super Fang",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

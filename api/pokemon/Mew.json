@@ -1,0 +1,919 @@
+[
+  {
+    "species_name": "Mew",
+    "variant_name": "Mew",
+    "base_stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 100,
+      "speed": 100,
+      "special_attack": 100,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 151,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.4,
+      "weight": 4.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "New Species Pok\u00e9mon",
+      "flavor_text": "This mythical Pok\u00e9mon is said to be extinct, but sightings of it are still being reported to this day.",
+      "abilities": [
+        "Synchronize"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        151,
+        250,
+        151,
+        255,
+        151
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 100
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Reflect Type"
+        ],
+        [
+          10,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Baton Pass"
+        ],
+        [
+          30,
+          "Ancient Power"
+        ],
+        [
+          40,
+          "Life Dew"
+        ],
+        [
+          50,
+          "Nasty Plot"
+        ],
+        [
+          60,
+          "Metronome"
+        ],
+        [
+          70,
+          "Imprison"
+        ],
+        [
+          80,
+          "Transform"
+        ],
+        [
+          90,
+          "Aura Sphere"
+        ],
+        [
+          100,
+          "Psychic"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          6,
+          "Fly"
+        ],
+        [
+          7,
+          "Pin Missile"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          12,
+          "Solar Blade"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          49,
+          "Sand Tomb"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          51,
+          "Icicle Spear"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          60,
+          "Power Swap"
+        ],
+        [
+          61,
+          "Guard Swap"
+        ],
+        [
+          62,
+          "Speed Swap"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          73,
+          "Cross Poison"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          77,
+          "Hex"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          80,
+          "Volt Switch"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          82,
+          "Electroweb"
+        ],
+        [
+          83,
+          "Razor Shell"
+        ],
+        [
+          84,
+          "Tail Slap"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          86,
+          "Phantom Force"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ],
+        [
+          88,
+          "Grassy Terrain"
+        ],
+        [
+          89,
+          "Misty Terrain"
+        ],
+        [
+          90,
+          "Electric Terrain"
+        ],
+        [
+          91,
+          "Psychic Terrain"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ],
+        [
+          93,
+          "Eerie Impulse"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          95,
+          "Air Slash"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          19,
+          "Tri Attack"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          23,
+          "Spikes"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          28,
+          "Megahorn"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          44,
+          "Cosmic Power"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          50,
+          "Leaf Blade"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          54,
+          "Toxic Spikes"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          61,
+          "Bug Buzz"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          63,
+          "Power Gem"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          66,
+          "Brave Bird"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          71,
+          "Leaf Storm"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          87,
+          "Drill Run"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ],
+        [
+          89,
+          "Hurricane"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          91,
+          "Venom Drench"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ],
+        [
+          93,
+          "Darkest Lariat"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ],
+        [
+          96,
+          "Pollen Puff"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ],
+        [
+          98,
+          "Liquidation"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

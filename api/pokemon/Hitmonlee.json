@@ -1,0 +1,319 @@
+[
+  {
+    "species_name": "Hitmonlee",
+    "variant_name": "Hitmonlee",
+    "base_stats": {
+      "hp": 50,
+      "attack": 120,
+      "defense": 53,
+      "speed": 87,
+      "special_attack": 35,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 106,
+      "types": [
+        "Fighting"
+      ],
+      "height": 1.5,
+      "weight": 49.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Kicking Pok\u00e9mon",
+      "flavor_text": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+      "abilities": [
+        "Limber",
+        "Reckless"
+      ],
+      "hidden_abilities": [
+        "Unburden"
+      ],
+      "regional_dex_nums": [
+        106,
+        144,
+        106,
+        146,
+        106,
+        108
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 159,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Brick Break"
+        ],
+        [
+          1,
+          "Fake Out"
+        ],
+        [
+          1,
+          "Feint"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Low Sweep"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Double Kick"
+        ],
+        [
+          8,
+          "Low Kick"
+        ],
+        [
+          12,
+          "Endure"
+        ],
+        [
+          16,
+          "Revenge"
+        ],
+        [
+          21,
+          "Wide Guard"
+        ],
+        [
+          24,
+          "Blaze Kick"
+        ],
+        [
+          28,
+          "Mind Reader"
+        ],
+        [
+          32,
+          "Mega Kick"
+        ],
+        [
+          36,
+          "Close Combat"
+        ],
+        [
+          40,
+          "Reversal"
+        ],
+        [
+          44,
+          "High Jump Kick"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

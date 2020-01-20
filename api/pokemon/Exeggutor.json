@@ -1,0 +1,176 @@
+[
+  {
+    "species_name": "Exeggutor",
+    "variant_name": "Exeggutor",
+    "base_stats": {
+      "hp": 95,
+      "attack": 95,
+      "defense": 85,
+      "speed": 55,
+      "special_attack": 125,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 103,
+      "types": [
+        "Grass",
+        "Psychic"
+      ],
+      "height": 2.0,
+      "weight": 120.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Coconut Pok\u00e9mon",
+      "flavor_text": "Its cries are very noisy. This is because each of the three heads thinks about whatever it likes.",
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "hidden_abilities": [
+        "Harvest"
+      ],
+      "regional_dex_nums": [
+        103,
+        105,
+        103,
+        106,
+        137,
+        270,
+        356,
+        103
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 186,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Block",
+        "Curse",
+        "Giga Drain",
+        "Grassy Terrain",
+        "Ingrain",
+        "Leaf Storm",
+        "Lucky Chant",
+        "Moonlight",
+        "Natural Gift",
+        "Nature Power",
+        "Power Swap",
+        "Skill Swap",
+        "Synthesis"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Exeggutor",
+    "variant_name": "Alolan Exeggutor",
+    "base_stats": {
+      "hp": 95,
+      "attack": 105,
+      "defense": 85,
+      "speed": 45,
+      "special_attack": 125,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 103,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "height": 10.9,
+      "weight": 415.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Coconut Pok\u00e9mon",
+      "flavor_text": "The strong sunlight of the Alola region has awakened the power hidden within Exeggcute. This is the result.",
+      "abilities": [
+        "Frisk"
+      ],
+      "hidden_abilities": [
+        "Harvest"
+      ],
+      "regional_dex_nums": [
+        103,
+        105,
+        103,
+        106,
+        137,
+        270,
+        356,
+        103
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 186,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Block",
+        "Curse",
+        "Giga Drain",
+        "Grassy Terrain",
+        "Ingrain",
+        "Leaf Storm",
+        "Lucky Chant",
+        "Moonlight",
+        "Natural Gift",
+        "Nature Power",
+        "Power Swap",
+        "Skill Swap",
+        "Synthesis"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

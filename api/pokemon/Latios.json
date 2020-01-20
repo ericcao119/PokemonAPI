@@ -1,0 +1,744 @@
+[
+  {
+    "species_name": "Latios",
+    "variant_name": "Latios",
+    "base_stats": {
+      "hp": 80,
+      "attack": 90,
+      "defense": 80,
+      "speed": 110,
+      "special_attack": 130,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 381,
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "height": 2.0,
+      "weight": 60.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Eon Pok\u00e9mon",
+      "flavor_text": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pok\u00e9mon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        197,
+        206
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 90
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Heal Block"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Memento"
+        ],
+        [
+          1,
+          "Psywave"
+        ],
+        [
+          1,
+          "Safeguard"
+        ],
+        [
+          4,
+          "Protect"
+        ],
+        [
+          7,
+          "Dragon Dance"
+        ],
+        [
+          10,
+          "Stored Power"
+        ],
+        [
+          13,
+          "Refresh"
+        ],
+        [
+          16,
+          "Heal Pulse"
+        ],
+        [
+          20,
+          "Dragon Breath"
+        ],
+        [
+          24,
+          "Luster Purge"
+        ],
+        [
+          28,
+          "Psycho Shift"
+        ],
+        [
+          32,
+          "Recover"
+        ],
+        [
+          36,
+          "Telekinesis"
+        ],
+        [
+          41,
+          "Zen Headbutt"
+        ],
+        [
+          46,
+          "Power Split"
+        ],
+        [
+          51,
+          "Psychic"
+        ],
+        [
+          56,
+          "Dragon Pulse"
+        ],
+        [
+          61,
+          "Memento"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Helping Hand",
+        "Icy Wind",
+        "Laser Focus",
+        "Last Resort",
+        "Magic Coat",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Tailwind",
+        "Telekinesis",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Cut",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Hone Claws",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Secret Power",
+        "Swift",
+        "Twister",
+        "Whirlpool"
+      ]
+    }
+  },
+  {
+    "species_name": "Latios",
+    "variant_name": "Mega Latios",
+    "base_stats": {
+      "hp": 80,
+      "attack": 130,
+      "defense": 100,
+      "speed": 110,
+      "special_attack": 160,
+      "special_defense": 120
+    },
+    "dex_entry": {
+      "national_dex_num": 381,
+      "types": [
+        "Dragon",
+        "Psychic"
+      ],
+      "height": 2.3,
+      "weight": 70.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Eon Pok\u00e9mon",
+      "flavor_text": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pok\u00e9mon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        197,
+        206
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 315,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 90
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Heal Block"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Memento"
+        ],
+        [
+          1,
+          "Psywave"
+        ],
+        [
+          1,
+          "Safeguard"
+        ],
+        [
+          4,
+          "Protect"
+        ],
+        [
+          7,
+          "Dragon Dance"
+        ],
+        [
+          10,
+          "Stored Power"
+        ],
+        [
+          13,
+          "Refresh"
+        ],
+        [
+          16,
+          "Heal Pulse"
+        ],
+        [
+          20,
+          "Dragon Breath"
+        ],
+        [
+          24,
+          "Luster Purge"
+        ],
+        [
+          28,
+          "Psycho Shift"
+        ],
+        [
+          32,
+          "Recover"
+        ],
+        [
+          36,
+          "Telekinesis"
+        ],
+        [
+          41,
+          "Zen Headbutt"
+        ],
+        [
+          46,
+          "Power Split"
+        ],
+        [
+          51,
+          "Psychic"
+        ],
+        [
+          56,
+          "Dragon Pulse"
+        ],
+        [
+          61,
+          "Memento"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Helping Hand",
+        "Icy Wind",
+        "Laser Focus",
+        "Last Resort",
+        "Magic Coat",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Tailwind",
+        "Telekinesis",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Cut",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Hone Claws",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Secret Power",
+        "Swift",
+        "Twister",
+        "Whirlpool"
+      ]
+    }
+  }
+]

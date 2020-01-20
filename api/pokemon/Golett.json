@@ -1,0 +1,284 @@
+[
+  {
+    "species_name": "Golett",
+    "variant_name": "Golett",
+    "base_stats": {
+      "hp": 59,
+      "attack": 74,
+      "defense": 50,
+      "speed": 35,
+      "special_attack": 35,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 622,
+      "types": [
+        "Ground",
+        "Ghost"
+      ],
+      "height": 1.0,
+      "weight": 92.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Automaton Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day.",
+      "abilities": [
+        "Iron Fist",
+        "Klutz"
+      ],
+      "hidden_abilities": [
+        "No Guard"
+      ],
+      "regional_dex_nums": [
+        128,
+        271,
+        91,
+        312,
+        88
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          5,
+          "Mud-Slap"
+        ],
+        [
+          9,
+          "Rollout"
+        ],
+        [
+          13,
+          "Shadow Punch"
+        ],
+        [
+          17,
+          "Iron Defense"
+        ],
+        [
+          21,
+          "Stomping Tantrum"
+        ],
+        [
+          25,
+          "Mega Punch"
+        ],
+        [
+          30,
+          "Magnitude"
+        ],
+        [
+          35,
+          "Dynamic Punch"
+        ],
+        [
+          40,
+          "Night Shade"
+        ],
+        [
+          45,
+          "Curse"
+        ],
+        [
+          50,
+          "Earthquake"
+        ],
+        [
+          55,
+          "Hammer Arm"
+        ],
+        [
+          61,
+          "Focus Punch"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Block",
+        "Drain Punch",
+        "Earth Power",
+        "Fire Punch",
+        "Focus Punch",
+        "Gravity",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Low Kick",
+        "Magic Coat",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Stealth Rock",
+        "Superpower",
+        "Telekinesis",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

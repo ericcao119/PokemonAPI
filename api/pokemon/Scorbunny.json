@@ -1,0 +1,255 @@
+[
+  {
+    "species_name": "Scorbunny",
+    "variant_name": "Scorbunny",
+    "base_stats": {
+      "hp": 50,
+      "attack": 71,
+      "defense": 40,
+      "speed": 69,
+      "special_attack": 40,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 813,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.3,
+      "weight": 4.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rabbit Pok\u00e9mon",
+      "flavor_text": "It has special pads on the backs of its feet, and one on its nose. Once it\u2019s raring to fight, these pads radiate tremendous heat.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Libero"
+      ],
+      "regional_dex_nums": [
+        4
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Humanlike"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Ember"
+        ],
+        [
+          8,
+          "Quick Attack"
+        ],
+        [
+          12,
+          "Double Kick"
+        ],
+        [
+          17,
+          "Flame Charge"
+        ],
+        [
+          20,
+          "Agility"
+        ],
+        [
+          24,
+          "Headbutt"
+        ],
+        [
+          28,
+          "Counter"
+        ],
+        [
+          32,
+          "Bounce"
+        ],
+        [
+          36,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ]
+      ],
+      "tr_moves": [
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "High Jump Kick",
+        "Sand Attack",
+        "Sucker Punch",
+        "Super Fang"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

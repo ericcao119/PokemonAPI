@@ -1,0 +1,259 @@
+[
+  {
+    "species_name": "Trumbeak",
+    "variant_name": "Trumbeak",
+    "base_stats": {
+      "hp": 55,
+      "attack": 85,
+      "defense": 50,
+      "speed": 75,
+      "special_attack": 40,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 732,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 0.6,
+      "weight": 14.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bugle Beak Pok\u00e9mon",
+      "flavor_text": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
+      "abilities": [
+        "Keen Eye",
+        "Skill Link"
+      ],
+      "hidden_abilities": [
+        "Pickup"
+      ],
+      "regional_dex_nums": [
+        11,
+        11
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 124,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Echoed Voice"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Rock Blast"
+        ],
+        [
+          1,
+          "Rock Smash"
+        ],
+        [
+          3,
+          "Growl"
+        ],
+        [
+          7,
+          "Echoed Voice"
+        ],
+        [
+          9,
+          "Rock Smash"
+        ],
+        [
+          13,
+          "Supersonic"
+        ],
+        [
+          16,
+          "Pluck"
+        ],
+        [
+          21,
+          "Roost"
+        ],
+        [
+          24,
+          "Fury Attack"
+        ],
+        [
+          29,
+          "Screech"
+        ],
+        [
+          32,
+          "Drill Peck"
+        ],
+        [
+          37,
+          "Bullet Seed"
+        ],
+        [
+          40,
+          "Feather Dance"
+        ],
+        [
+          45,
+          "Hyper Voice"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Boomburst",
+        "Brave Bird",
+        "Mirror Move",
+        "Tailwind",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Gunk Shot",
+        "Heat Wave",
+        "Hyper Voice",
+        "Knock Off",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

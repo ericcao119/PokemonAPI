@@ -1,0 +1,733 @@
+[
+  {
+    "species_name": "Sceptile",
+    "variant_name": "Sceptile",
+    "base_stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 65,
+      "speed": 120,
+      "special_attack": 105,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 254,
+      "types": [
+        "Grass"
+      ],
+      "height": 1.7,
+      "weight": 52.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Forest Pok\u00e9mon",
+      "flavor_text": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pok\u00e9mon raises the trees in a forest with loving care.",
+      "abilities": [
+        "Overgrow"
+      ],
+      "hidden_abilities": [
+        "Unburden"
+      ],
+      "regional_dex_nums": [
+        3,
+        3
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 239,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Dual Chop"
+        ],
+        [
+          1,
+          "Fury Cutter"
+        ],
+        [
+          1,
+          "Leaf Storm"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          9,
+          "Quick Attack"
+        ],
+        [
+          13,
+          "Mega Drain"
+        ],
+        [
+          18,
+          "Pursuit"
+        ],
+        [
+          23,
+          "Leaf Blade"
+        ],
+        [
+          28,
+          "Agility"
+        ],
+        [
+          33,
+          "Slam"
+        ],
+        [
+          39,
+          "Detect"
+        ],
+        [
+          45,
+          "X-Scissor"
+        ],
+        [
+          51,
+          "False Swipe"
+        ],
+        [
+          57,
+          "Quick Guard"
+        ],
+        [
+          63,
+          "Leaf Storm"
+        ],
+        [
+          69,
+          "Screech"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bullet Seed",
+        "Crunch",
+        "Crush Claw",
+        "Double Kick",
+        "Dragon Breath",
+        "Endeavor",
+        "Grass Whistle",
+        "Grassy Terrain",
+        "Leaf Storm",
+        "Leech Seed",
+        "Magical Leaf",
+        "Mud Sport",
+        "Natural Gift",
+        "Razor Wind",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Dragon Pulse",
+        "Drain Punch",
+        "Dual Chop",
+        "Endeavor",
+        "Focus Punch",
+        "Frenzy Plant",
+        "Giga Drain",
+        "Grass Pledge",
+        "Iron Tail",
+        "Laser Focus",
+        "Low Kick",
+        "Outrage",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Throat Chop",
+        "Thunder Punch",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Dig",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Hone Claws",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Swift"
+      ]
+    }
+  },
+  {
+    "species_name": "Sceptile",
+    "variant_name": "Mega Sceptile",
+    "base_stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 75,
+      "speed": 145,
+      "special_attack": 145,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 254,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "height": 1.9,
+      "weight": 55.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Forest Pok\u00e9mon",
+      "flavor_text": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pok\u00e9mon raises the trees in a forest with loving care.",
+      "abilities": [
+        "Lightning Rod"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        3,
+        3
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 284,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Dual Chop"
+        ],
+        [
+          1,
+          "Fury Cutter"
+        ],
+        [
+          1,
+          "Leaf Storm"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          9,
+          "Quick Attack"
+        ],
+        [
+          13,
+          "Mega Drain"
+        ],
+        [
+          18,
+          "Pursuit"
+        ],
+        [
+          23,
+          "Leaf Blade"
+        ],
+        [
+          28,
+          "Agility"
+        ],
+        [
+          33,
+          "Slam"
+        ],
+        [
+          39,
+          "Detect"
+        ],
+        [
+          45,
+          "X-Scissor"
+        ],
+        [
+          51,
+          "False Swipe"
+        ],
+        [
+          57,
+          "Quick Guard"
+        ],
+        [
+          63,
+          "Leaf Storm"
+        ],
+        [
+          69,
+          "Screech"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bullet Seed",
+        "Crunch",
+        "Crush Claw",
+        "Double Kick",
+        "Dragon Breath",
+        "Endeavor",
+        "Grass Whistle",
+        "Grassy Terrain",
+        "Leaf Storm",
+        "Leech Seed",
+        "Magical Leaf",
+        "Mud Sport",
+        "Natural Gift",
+        "Razor Wind",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Dragon Pulse",
+        "Drain Punch",
+        "Dual Chop",
+        "Endeavor",
+        "Focus Punch",
+        "Frenzy Plant",
+        "Giga Drain",
+        "Grass Pledge",
+        "Iron Tail",
+        "Laser Focus",
+        "Low Kick",
+        "Outrage",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Throat Chop",
+        "Thunder Punch",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Dig",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Hone Claws",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

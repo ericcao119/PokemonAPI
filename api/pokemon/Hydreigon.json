@@ -1,0 +1,374 @@
+[
+  {
+    "species_name": "Hydreigon",
+    "variant_name": "Hydreigon",
+    "base_stats": {
+      "hp": 92,
+      "attack": 105,
+      "defense": 90,
+      "speed": 98,
+      "special_attack": 125,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 635,
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "height": 1.8,
+      "weight": 160.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Brutal Pok\u00e9mon",
+      "flavor_text": "The three heads take turns sinking their teeth into the opponent. Their attacks won\u2019t slow until their target goes down.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        141,
+        275,
+        144,
+        388
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Dragon Rage"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Hyper Voice"
+        ],
+        [
+          1,
+          "Outrage"
+        ],
+        [
+          1,
+          "Tri Attack"
+        ],
+        [
+          4,
+          "Focus Energy"
+        ],
+        [
+          9,
+          "Bite"
+        ],
+        [
+          12,
+          "Headbutt"
+        ],
+        [
+          17,
+          "Dragon Breath"
+        ],
+        [
+          20,
+          "Roar"
+        ],
+        [
+          25,
+          "Crunch"
+        ],
+        [
+          28,
+          "Slam"
+        ],
+        [
+          32,
+          "Dragon Pulse"
+        ],
+        [
+          38,
+          "Work Up"
+        ],
+        [
+          42,
+          "Dragon Rush"
+        ],
+        [
+          48,
+          "Body Slam"
+        ],
+        [
+          55,
+          "Scary Face"
+        ],
+        [
+          68,
+          "Hyper Voice"
+        ],
+        [
+          79,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Astonish",
+        "Belch",
+        "Dark Pulse",
+        "Double Hit",
+        "Earth Power",
+        "Fire Fang",
+        "Head Smash",
+        "Ice Fang",
+        "Screech",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Tail",
+        "Outrage",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Spite",
+        "Superpower",
+        "Tailwind",
+        "Throat Chop",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

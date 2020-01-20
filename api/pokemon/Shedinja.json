@@ -1,0 +1,267 @@
+[
+  {
+    "species_name": "Shedinja",
+    "variant_name": "Shedinja",
+    "base_stats": {
+      "hp": 1,
+      "attack": 90,
+      "defense": 45,
+      "speed": 40,
+      "special_attack": 30,
+      "special_defense": 30
+    },
+    "dex_entry": {
+      "national_dex_num": 292,
+      "types": [
+        "Bug",
+        "Ghost"
+      ],
+      "height": 0.8,
+      "weight": 1.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Shed Pok\u00e9mon",
+      "flavor_text": "A strange Pok\u00e9mon\u2014it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+      "abilities": [
+        "Wonder Guard"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        44,
+        113,
+        45,
+        106
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 83,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          9,
+          "Sand Attack"
+        ],
+        [
+          13,
+          "Fury Swipes"
+        ],
+        [
+          17,
+          "Spite"
+        ],
+        [
+          21,
+          "Shadow Sneak"
+        ],
+        [
+          25,
+          "Mind Reader"
+        ],
+        [
+          29,
+          "Confuse Ray"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          37,
+          "Grudge"
+        ],
+        [
+          41,
+          "Heal Block"
+        ],
+        [
+          45,
+          "Phantom Force"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bug Bite",
+        "Bug Buzz",
+        "Endure",
+        "Feint Attack",
+        "Final Gambit",
+        "Gust",
+        "Night Slash",
+        "Silver Wind"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bug Bite",
+        "Giga Drain",
+        "Snore",
+        "Spite",
+        "Telekinesis",
+        "Trick"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Double-Edge",
+        "Flash",
+        "Fury Cutter",
+        "Hone Claws",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power",
+        "String Shot",
+        "Struggle Bug",
+        "Sucker Punch"
+      ]
+    }
+  }
+]

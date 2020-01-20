@@ -1,0 +1,316 @@
+[
+  {
+    "species_name": "Primarina",
+    "variant_name": "Primarina",
+    "base_stats": {
+      "hp": 80,
+      "attack": 74,
+      "defense": 74,
+      "speed": 60,
+      "special_attack": 126,
+      "special_defense": 116
+    },
+    "dex_entry": {
+      "national_dex_num": 730,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "height": 1.8,
+      "weight": 44.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Soloist Pok\u00e9mon",
+      "flavor_text": "For Primarina, every battle\u2019s a stage. Its singing and the dancing of its balloons will mesmerize the audience.",
+      "abilities": [
+        "Torrent"
+      ],
+      "hidden_abilities": [
+        "Liquid Voice"
+      ],
+      "regional_dex_nums": [
+        9,
+        9
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 239,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Disarming Voice"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Sparkling Aria"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          9,
+          "Aqua Jet"
+        ],
+        [
+          12,
+          "Baby-Doll Eyes"
+        ],
+        [
+          15,
+          "Icy Wind"
+        ],
+        [
+          20,
+          "Sing"
+        ],
+        [
+          25,
+          "Bubble Beam"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          37,
+          "Misty Terrain"
+        ],
+        [
+          44,
+          "Hyper Voice"
+        ],
+        [
+          51,
+          "Moonblast"
+        ],
+        [
+          58,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ],
+        [
+          89,
+          "Misty Terrain"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

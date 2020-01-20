@@ -1,0 +1,288 @@
+[
+  {
+    "species_name": "Seel",
+    "variant_name": "Seel",
+    "base_stats": {
+      "hp": 65,
+      "attack": 45,
+      "defense": 55,
+      "speed": 45,
+      "special_attack": 45,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 86,
+      "types": [
+        "Water"
+      ],
+      "height": 1.1,
+      "weight": 90.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sea Lion Pok\u00e9mon",
+      "flavor_text": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
+      "abilities": [
+        "Thick Fat",
+        "Hydration"
+      ],
+      "hidden_abilities": [
+        "Ice Body"
+      ],
+      "regional_dex_nums": [
+        86,
+        176,
+        86,
+        178,
+        265,
+        115,
+        86
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 65,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          3,
+          "Growl"
+        ],
+        [
+          7,
+          "Water Sport"
+        ],
+        [
+          11,
+          "Icy Wind"
+        ],
+        [
+          13,
+          "Encore"
+        ],
+        [
+          17,
+          "Ice Shard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Aqua Ring"
+        ],
+        [
+          27,
+          "Aurora Beam"
+        ],
+        [
+          31,
+          "Aqua Jet"
+        ],
+        [
+          33,
+          "Brine"
+        ],
+        [
+          37,
+          "Take Down"
+        ],
+        [
+          41,
+          "Dive"
+        ],
+        [
+          43,
+          "Aqua Tail"
+        ],
+        [
+          47,
+          "Ice Beam"
+        ],
+        [
+          51,
+          "Safeguard"
+        ],
+        [
+          53,
+          "Hail"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belch",
+        "Disable",
+        "Encore",
+        "Entrainment",
+        "Fake Out",
+        "Horn Drill",
+        "Icicle Spear",
+        "Iron Tail",
+        "Lick",
+        "Perish Song",
+        "Signal Beam",
+        "Slam",
+        "Sleep Talk",
+        "Spit Up",
+        "Stockpile",
+        "Swallow",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Drill Run",
+        "Icy Wind",
+        "Iron Tail",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Bubble Beam",
+        "Captivate",
+        "Curse",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Natural Gift",
+        "Pay Day",
+        "Peck",
+        "Rage",
+        "Secret Power",
+        "Skull Bash",
+        "Strength",
+        "Water Gun",
+        "Whirlpool"
+      ]
+    }
+  }
+]

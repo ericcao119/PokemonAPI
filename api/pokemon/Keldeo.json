@@ -1,0 +1,564 @@
+[
+  {
+    "species_name": "Keldeo",
+    "variant_name": "Ordinary Forme",
+    "base_stats": {
+      "hp": 91,
+      "attack": 72,
+      "defense": 90,
+      "speed": 108,
+      "special_attack": 129,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 647,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "height": 1.4,
+      "weight": 48.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Colt Pok\u00e9mon",
+      "flavor_text": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pok\u00e9mon\u2019s true power will awaken.",
+      "abilities": [
+        "Justified"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        153,
+        298
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aqua Jet"
+        ],
+        [
+          1,
+          "Bubble Beam"
+        ],
+        [
+          1,
+          "Double Kick"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          7,
+          "Double Kick"
+        ],
+        [
+          13,
+          "Bubble Beam"
+        ],
+        [
+          19,
+          "Take Down"
+        ],
+        [
+          25,
+          "Helping Hand"
+        ],
+        [
+          31,
+          "Retaliate"
+        ],
+        [
+          37,
+          "Aqua Tail"
+        ],
+        [
+          43,
+          "Sacred Sword"
+        ],
+        [
+          49,
+          "Swords Dance"
+        ],
+        [
+          55,
+          "Quick Guard"
+        ],
+        [
+          61,
+          "Work Up"
+        ],
+        [
+          67,
+          "Hydro Pump"
+        ],
+        [
+          73,
+          "Close Combat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Covet",
+        "Endeavor",
+        "Helping Hand",
+        "Icy Wind",
+        "Last Resort",
+        "Liquidation",
+        "Low Kick",
+        "Secret Sword",
+        "Snore",
+        "Superpower",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  },
+  {
+    "species_name": "Keldeo",
+    "variant_name": "Resolute Forme",
+    "base_stats": {
+      "hp": 91,
+      "attack": 72,
+      "defense": 90,
+      "speed": 108,
+      "special_attack": 129,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 647,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "height": 1.4,
+      "weight": 48.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Colt Pok\u00e9mon",
+      "flavor_text": "The power that lay hidden in its body now covers its horn, turning it into a sword that can slice through anything.",
+      "abilities": [
+        "Justified"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        153,
+        298
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aqua Jet"
+        ],
+        [
+          1,
+          "Bubble Beam"
+        ],
+        [
+          1,
+          "Double Kick"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          7,
+          "Double Kick"
+        ],
+        [
+          13,
+          "Bubble Beam"
+        ],
+        [
+          19,
+          "Take Down"
+        ],
+        [
+          25,
+          "Helping Hand"
+        ],
+        [
+          31,
+          "Retaliate"
+        ],
+        [
+          37,
+          "Aqua Tail"
+        ],
+        [
+          43,
+          "Sacred Sword"
+        ],
+        [
+          49,
+          "Swords Dance"
+        ],
+        [
+          55,
+          "Quick Guard"
+        ],
+        [
+          61,
+          "Work Up"
+        ],
+        [
+          67,
+          "Hydro Pump"
+        ],
+        [
+          73,
+          "Close Combat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Covet",
+        "Endeavor",
+        "Helping Hand",
+        "Icy Wind",
+        "Last Resort",
+        "Liquidation",
+        "Low Kick",
+        "Secret Sword",
+        "Snore",
+        "Superpower",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

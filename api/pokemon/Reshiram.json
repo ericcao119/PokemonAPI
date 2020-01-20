@@ -1,0 +1,315 @@
+[
+  {
+    "species_name": "Reshiram",
+    "variant_name": "Reshiram",
+    "base_stats": {
+      "hp": 100,
+      "attack": 120,
+      "defense": 100,
+      "speed": 90,
+      "special_attack": 150,
+      "special_defense": 120
+    },
+    "dex_entry": {
+      "national_dex_num": 643,
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "height": 3.2,
+      "weight": 330.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Vast White Pok\u00e9mon",
+      "flavor_text": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
+      "abilities": [
+        "Turboblaze"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        149,
+        295
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Dragon Rage"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          8,
+          "Imprison"
+        ],
+        [
+          15,
+          "Ancient Power"
+        ],
+        [
+          22,
+          "Flamethrower"
+        ],
+        [
+          29,
+          "Dragon Breath"
+        ],
+        [
+          36,
+          "Slash"
+        ],
+        [
+          43,
+          "Extrasensory"
+        ],
+        [
+          50,
+          "Fusion Flare"
+        ],
+        [
+          54,
+          "Dragon Pulse"
+        ],
+        [
+          64,
+          "Noble Roar"
+        ],
+        [
+          71,
+          "Crunch"
+        ],
+        [
+          78,
+          "Fire Blast"
+        ],
+        [
+          85,
+          "Outrage"
+        ],
+        [
+          92,
+          "Hyper Voice"
+        ],
+        [
+          100,
+          "Blue Flare"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Heat Wave",
+        "Hyper Voice",
+        "Laser Focus",
+        "Outrage",
+        "Snore",
+        "Tailwind",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Hone Claws",
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

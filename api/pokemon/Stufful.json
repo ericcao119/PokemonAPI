@@ -1,0 +1,262 @@
+[
+  {
+    "species_name": "Stufful",
+    "variant_name": "Stufful",
+    "base_stats": {
+      "hp": 70,
+      "attack": 75,
+      "defense": 50,
+      "speed": 50,
+      "special_attack": 45,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 759,
+      "types": [
+        "Normal",
+        "Fighting"
+      ],
+      "height": 0.5,
+      "weight": 6.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flailing Pok\u00e9mon",
+      "flavor_text": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks.",
+      "abilities": [
+        "Fluffy",
+        "Klutz"
+      ],
+      "hidden_abilities": [
+        "Cute Charm"
+      ],
+      "regional_dex_nums": [
+        169,
+        205,
+        94
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 68,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 140,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Baby-Doll Eyes"
+        ],
+        [
+          8,
+          "Payback"
+        ],
+        [
+          12,
+          "Brutal Swing"
+        ],
+        [
+          16,
+          "Endure"
+        ],
+        [
+          20,
+          "Strength"
+        ],
+        [
+          24,
+          "Take Down"
+        ],
+        [
+          28,
+          "Flail"
+        ],
+        [
+          32,
+          "Hammer Arm"
+        ],
+        [
+          36,
+          "Thrash"
+        ],
+        [
+          40,
+          "Pain Split"
+        ],
+        [
+          44,
+          "Double-Edge"
+        ],
+        [
+          48,
+          "Superpower"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "Defense Curl",
+        "Force Palm",
+        "Rollout",
+        "Stomp"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

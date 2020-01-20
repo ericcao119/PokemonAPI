@@ -1,0 +1,295 @@
+[
+  {
+    "species_name": "Dracozolt",
+    "variant_name": "Dracozolt",
+    "base_stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 90,
+      "speed": 75,
+      "special_attack": 80,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 880,
+      "types": [
+        "Electric",
+        "Dragon"
+      ],
+      "height": 1.8,
+      "weight": 190.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fossil Pok\u00e9mon",
+      "flavor_text": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.",
+      "abilities": [
+        "Volt Absorb",
+        "Hustle"
+      ],
+      "hidden_abilities": [
+        "Sand Rush"
+      ],
+      "regional_dex_nums": [
+        374
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          7,
+          "Charge"
+        ],
+        [
+          14,
+          "Aerial Ace"
+        ],
+        [
+          21,
+          "Ancient Power"
+        ],
+        [
+          28,
+          "Pluck"
+        ],
+        [
+          35,
+          "Dragon Tail"
+        ],
+        [
+          42,
+          "Stomp"
+        ],
+        [
+          49,
+          "Slam"
+        ],
+        [
+          56,
+          "Discharge"
+        ],
+        [
+          63,
+          "Bolt Beak"
+        ],
+        [
+          70,
+          "Dragon Pulse"
+        ],
+        [
+          77,
+          "Dragon Rush"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

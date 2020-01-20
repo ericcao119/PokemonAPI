@@ -1,0 +1,221 @@
+[
+  {
+    "species_name": "Tyrogue",
+    "variant_name": "Tyrogue",
+    "base_stats": {
+      "hp": 35,
+      "attack": 35,
+      "defense": 35,
+      "speed": 35,
+      "special_attack": 35,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 236,
+      "types": [
+        "Fighting"
+      ],
+      "height": 0.7,
+      "weight": 21.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Scuffle Pok\u00e9mon",
+      "flavor_text": "Even though it is small, it can\u2019t be ignored because it will slug any handy target without warning.",
+      "abilities": [
+        "Guts",
+        "Steadfast"
+      ],
+      "hidden_abilities": [
+        "Vital Spirit"
+      ],
+      "regional_dex_nums": [
+        143,
+        145,
+        107
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 42,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fake Out"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Tackle"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bullet Punch",
+        "Counter",
+        "Endure",
+        "Feint",
+        "Helping Hand",
+        "High Jump Kick",
+        "Mach Punch",
+        "Mind Reader",
+        "Pursuit",
+        "Rapid Spin",
+        "Vacuum Wave"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Helping Hand",
+        "Laser Focus",
+        "Low Kick",
+        "Role Play",
+        "Snore",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Ally Switch",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Headbutt",
+        "Mega Kick",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

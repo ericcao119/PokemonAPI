@@ -1,0 +1,791 @@
+[
+  {
+    "species_name": "Slowbro",
+    "variant_name": "Slowbro",
+    "base_stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 110,
+      "speed": 30,
+      "special_attack": 100,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 80,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "height": 1.6,
+      "weight": 78.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hermit Crab Pok\u00e9mon",
+      "flavor_text": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again.",
+      "abilities": [
+        "Oblivious",
+        "Own Tempo"
+      ],
+      "hidden_abilities": [
+        "Regenerator"
+      ],
+      "regional_dex_nums": [
+        80,
+        81,
+        80,
+        81,
+        134,
+        38,
+        45,
+        80
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Curse"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Heal Pulse"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          1,
+          "Yawn"
+        ],
+        [
+          5,
+          "Growl"
+        ],
+        [
+          9,
+          "Water Gun"
+        ],
+        [
+          14,
+          "Confusion"
+        ],
+        [
+          19,
+          "Disable"
+        ],
+        [
+          23,
+          "Headbutt"
+        ],
+        [
+          28,
+          "Water Pulse"
+        ],
+        [
+          32,
+          "Zen Headbutt"
+        ],
+        [
+          36,
+          "Slack Off"
+        ],
+        [
+          43,
+          "Amnesia"
+        ],
+        [
+          49,
+          "Psychic"
+        ],
+        [
+          55,
+          "Rain Dance"
+        ],
+        [
+          62,
+          "Psych Up"
+        ],
+        [
+          68,
+          "Heal Pulse"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belch",
+        "Belly Drum",
+        "Block",
+        "Future Sight",
+        "Me First",
+        "Mud Sport",
+        "Sleep Talk",
+        "Snore",
+        "Stomp",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Aqua Tail",
+        "Block",
+        "Drain Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Tail",
+        "Magic Coat",
+        "Recycle",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Bide",
+        "Body Slam",
+        "Brine",
+        "Bubble Beam",
+        "Captivate",
+        "Counter",
+        "Dig",
+        "Dive",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Fissure",
+        "Flash",
+        "Fury Cutter",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Pay Day",
+        "Psywave",
+        "Rage",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Strength",
+        "Submission",
+        "Swift",
+        "Take Down",
+        "Teleport",
+        "Tri Attack",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  },
+  {
+    "species_name": "Slowbro",
+    "variant_name": "Mega Slowbro",
+    "base_stats": {
+      "hp": 95,
+      "attack": 75,
+      "defense": 180,
+      "speed": 30,
+      "special_attack": 130,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 80,
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "height": 2.0,
+      "weight": 120.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hermit Crab Pok\u00e9mon",
+      "flavor_text": "Under the influence of Shellder\u2019s digestive fluids, Slowpoke has awakened, gaining a great deal of power\u2014and a little motivation to boot.",
+      "abilities": [
+        "Shell Armor"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        80,
+        81,
+        80,
+        81,
+        134,
+        38,
+        45,
+        80
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 207,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Curse"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Heal Pulse"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          1,
+          "Yawn"
+        ],
+        [
+          5,
+          "Growl"
+        ],
+        [
+          9,
+          "Water Gun"
+        ],
+        [
+          14,
+          "Confusion"
+        ],
+        [
+          19,
+          "Disable"
+        ],
+        [
+          23,
+          "Headbutt"
+        ],
+        [
+          28,
+          "Water Pulse"
+        ],
+        [
+          32,
+          "Zen Headbutt"
+        ],
+        [
+          36,
+          "Slack Off"
+        ],
+        [
+          43,
+          "Amnesia"
+        ],
+        [
+          49,
+          "Psychic"
+        ],
+        [
+          55,
+          "Rain Dance"
+        ],
+        [
+          62,
+          "Psych Up"
+        ],
+        [
+          68,
+          "Heal Pulse"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belch",
+        "Belly Drum",
+        "Block",
+        "Future Sight",
+        "Me First",
+        "Mud Sport",
+        "Sleep Talk",
+        "Snore",
+        "Stomp",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Aqua Tail",
+        "Block",
+        "Drain Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Tail",
+        "Magic Coat",
+        "Recycle",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Bide",
+        "Body Slam",
+        "Brine",
+        "Bubble Beam",
+        "Captivate",
+        "Counter",
+        "Dig",
+        "Dive",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Fissure",
+        "Flash",
+        "Fury Cutter",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Pay Day",
+        "Psywave",
+        "Rage",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Strength",
+        "Submission",
+        "Swift",
+        "Take Down",
+        "Teleport",
+        "Tri Attack",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

@@ -1,0 +1,311 @@
+[
+  {
+    "species_name": "Meganium",
+    "variant_name": "Meganium",
+    "base_stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 100,
+      "speed": 80,
+      "special_attack": 83,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 154,
+      "types": [
+        "Grass"
+      ],
+      "height": 1.8,
+      "weight": 100.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Herb Pok\u00e9mon",
+      "flavor_text": "The fragrance of Meganium\u2019s flower soothes and calms emotions. In battle, this Pok\u00e9mon gives off more of its becalming scent to blunt the foe\u2019s fighting spirit.",
+      "abilities": [
+        "Overgrow"
+      ],
+      "hidden_abilities": [
+        "Leaf Guard"
+      ],
+      "regional_dex_nums": [
+        3,
+        3
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 236,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Petal Blizzard"
+        ],
+        [
+          1,
+          "Petal Dance"
+        ],
+        [
+          1,
+          "Poison Powder"
+        ],
+        [
+          1,
+          "Razor Leaf"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Razor Leaf"
+        ],
+        [
+          9,
+          "Poison Powder"
+        ],
+        [
+          12,
+          "Synthesis"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          22,
+          "Magical Leaf"
+        ],
+        [
+          26,
+          "Natural Gift"
+        ],
+        [
+          34,
+          "Sweet Scent"
+        ],
+        [
+          40,
+          "Light Screen"
+        ],
+        [
+          46,
+          "Body Slam"
+        ],
+        [
+          54,
+          "Safeguard"
+        ],
+        [
+          60,
+          "Aromatherapy"
+        ],
+        [
+          66,
+          "Solar Beam"
+        ],
+        [
+          70,
+          "Petal Blizzard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Aromatherapy",
+        "Body Slam",
+        "Counter",
+        "Flail",
+        "Grass Whistle",
+        "Grassy Terrain",
+        "Heal Pulse",
+        "Ingrain",
+        "Leaf Storm",
+        "Leech Seed",
+        "Nature Power",
+        "Refresh",
+        "Vine Whip",
+        "Wring Out"
+      ],
+      "tutor_moves": [
+        "Frenzy Plant",
+        "Giga Drain",
+        "Grass Pledge",
+        "Iron Tail",
+        "Laser Focus",
+        "Magic Coat",
+        "Outrage",
+        "Seed Bomb",
+        "Snore",
+        "Stomping Tantrum",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Bullet Seed",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

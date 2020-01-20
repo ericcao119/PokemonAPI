@@ -1,0 +1,267 @@
+[
+  {
+    "species_name": "Cramorant",
+    "variant_name": "Cramorant",
+    "base_stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 55,
+      "speed": 85,
+      "special_attack": 85,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 845,
+      "types": [
+        "Flying",
+        "Water"
+      ],
+      "height": 0.8,
+      "weight": 18.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Gulp Pok\u00e9mon",
+      "flavor_text": "This hungry Pok\u00e9mon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pok\u00e9mon other than its preferred prey.",
+      "abilities": [
+        "Gulp Missile"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        309
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Belch"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Spit Up"
+        ],
+        [
+          1,
+          "Stockpile"
+        ],
+        [
+          1,
+          "Swallow"
+        ],
+        [
+          7,
+          "Water Gun"
+        ],
+        [
+          14,
+          "Fury Attack"
+        ],
+        [
+          21,
+          "Pluck"
+        ],
+        [
+          28,
+          "Dive"
+        ],
+        [
+          35,
+          "Drill Peck"
+        ],
+        [
+          42,
+          "Amnesia"
+        ],
+        [
+          49,
+          "Thrash"
+        ],
+        [
+          56,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Fly"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          95,
+          "Air Slash"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          66,
+          "Brave Bird"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          89,
+          "Hurricane"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Aerial Ace",
+        "Aqua Ring",
+        "Defog",
+        "Feather Dance",
+        "Roost"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

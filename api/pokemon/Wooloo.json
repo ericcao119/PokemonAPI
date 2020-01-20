@@ -1,0 +1,186 @@
+[
+  {
+    "species_name": "Wooloo",
+    "variant_name": "Wooloo",
+    "base_stats": {
+      "hp": 42,
+      "attack": 40,
+      "defense": 55,
+      "speed": 48,
+      "special_attack": 40,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 831,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.6,
+      "weight": 6.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sheep Pok\u00e9mon",
+      "flavor_text": "If its fleece grows too long, Wooloo won\u2019t be able to move. Cloth made with the wool of this Pok\u00e9mon is surprisingly strong.",
+      "abilities": [
+        "Fluffy",
+        "Run Away"
+      ],
+      "hidden_abilities": [
+        "Bulletproof"
+      ],
+      "regional_dex_nums": [
+        34
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Defense Curl"
+        ],
+        [
+          8,
+          "Copycat"
+        ],
+        [
+          12,
+          "Guard Split"
+        ],
+        [
+          16,
+          "Double Kick"
+        ],
+        [
+          21,
+          "Headbutt"
+        ],
+        [
+          25,
+          "Take Down"
+        ],
+        [
+          28,
+          "Guard Swap"
+        ],
+        [
+          32,
+          "Reversal"
+        ],
+        [
+          36,
+          "Cotton Guard"
+        ],
+        [
+          40,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          61,
+          "Guard Swap"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          12,
+          "Agility"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ]
+      ],
+      "egg_moves": [
+        "Counter",
+        "Stomp",
+        "Swagger"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

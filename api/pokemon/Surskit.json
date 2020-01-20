@@ -1,0 +1,246 @@
+[
+  {
+    "species_name": "Surskit",
+    "variant_name": "Surskit",
+    "base_stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 32,
+      "speed": 65,
+      "special_attack": 50,
+      "special_defense": 52
+    },
+    "dex_entry": {
+      "national_dex_num": 283,
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "height": 0.5,
+      "weight": 1.7,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Pond Skater Pok\u00e9mon",
+      "flavor_text": "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar.",
+      "abilities": [
+        "Swift Swim"
+      ],
+      "hidden_abilities": [
+        "Rain Dish"
+      ],
+      "regional_dex_nums": [
+        32,
+        47,
+        33,
+        139,
+        172
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 54,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Sweet Scent"
+        ],
+        [
+          14,
+          "Water Sport"
+        ],
+        [
+          17,
+          "Bubble Beam"
+        ],
+        [
+          22,
+          "Agility"
+        ],
+        [
+          25,
+          "Haze"
+        ],
+        [
+          25,
+          "Mist"
+        ],
+        [
+          30,
+          "Aqua Jet"
+        ],
+        [
+          35,
+          "Baton Pass"
+        ],
+        [
+          38,
+          "Sticky Web"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Jet",
+        "Bug Bite",
+        "Endure",
+        "Fell Stinger",
+        "Foresight",
+        "Hydro Pump",
+        "Lunge",
+        "Mind Reader",
+        "Mud Shot",
+        "Power Split",
+        "Psybeam",
+        "Signal Beam"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Giga Drain",
+        "Icy Wind",
+        "Liquidation",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Double-Edge",
+        "Flash",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "String Shot",
+        "Struggle Bug",
+        "Swift"
+      ]
+    }
+  }
+]

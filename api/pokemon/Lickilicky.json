@@ -1,0 +1,366 @@
+[
+  {
+    "species_name": "Lickilicky",
+    "variant_name": "Lickilicky",
+    "base_stats": {
+      "hp": 110,
+      "attack": 85,
+      "defense": 95,
+      "speed": 50,
+      "special_attack": 80,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 463,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.7,
+      "weight": 140.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Licking Pok\u00e9mon",
+      "flavor_text": "It uses its tongue much more skillfully than its hands or its feet. It can deftly pick up a single small bean with its tongue.",
+      "abilities": [
+        "Own Tempo",
+        "Oblivious"
+      ],
+      "hidden_abilities": [
+        "Cloud Nine"
+      ],
+      "regional_dex_nums": [
+        162,
+        181,
+        285,
+        135,
+        376
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 180,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Power Whip"
+        ],
+        [
+          1,
+          "Wring Out"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          9,
+          "Defense Curl"
+        ],
+        [
+          13,
+          "Knock Off"
+        ],
+        [
+          17,
+          "Wrap"
+        ],
+        [
+          21,
+          "Stomp"
+        ],
+        [
+          25,
+          "Disable"
+        ],
+        [
+          29,
+          "Slam"
+        ],
+        [
+          33,
+          "Rollout"
+        ],
+        [
+          37,
+          "Chip Away"
+        ],
+        [
+          41,
+          "Me First"
+        ],
+        [
+          45,
+          "Refresh"
+        ],
+        [
+          49,
+          "Screech"
+        ],
+        [
+          53,
+          "Power Whip"
+        ],
+        [
+          57,
+          "Wring Out"
+        ],
+        [
+          61,
+          "Gyro Ball"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Belch",
+        "Belly Drum",
+        "Body Slam",
+        "Curse",
+        "Hammer Arm",
+        "Magnitude",
+        "Muddy Water",
+        "Sleep Talk",
+        "Smelling Salts",
+        "Snore",
+        "Thrash",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Block",
+        "Fire Punch",
+        "Focus Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum",
+        "Thunder Punch",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

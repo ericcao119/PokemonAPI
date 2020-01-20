@@ -1,0 +1,379 @@
+[
+  {
+    "species_name": "Hypno",
+    "variant_name": "Hypno",
+    "base_stats": {
+      "hp": 85,
+      "attack": 73,
+      "defense": 70,
+      "speed": 67,
+      "special_attack": 73,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 97,
+      "types": [
+        "Psychic"
+      ],
+      "height": 1.6,
+      "weight": 75.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hypnosis Pok\u00e9mon",
+      "flavor_text": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
+      "abilities": [
+        "Insomnia",
+        "Forewarn"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        97,
+        88,
+        97,
+        88,
+        55,
+        67,
+        97
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 169,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Disable"
+        ],
+        [
+          1,
+          "Future Sight"
+        ],
+        [
+          1,
+          "Hypnosis"
+        ],
+        [
+          1,
+          "Nasty Plot"
+        ],
+        [
+          1,
+          "Nightmare"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Switcheroo"
+        ],
+        [
+          5,
+          "Disable"
+        ],
+        [
+          9,
+          "Confusion"
+        ],
+        [
+          13,
+          "Headbutt"
+        ],
+        [
+          17,
+          "Poison Gas"
+        ],
+        [
+          21,
+          "Meditate"
+        ],
+        [
+          25,
+          "Psybeam"
+        ],
+        [
+          29,
+          "Wake-Up Slap"
+        ],
+        [
+          33,
+          "Psych Up"
+        ],
+        [
+          37,
+          "Synchronoise"
+        ],
+        [
+          41,
+          "Zen Headbutt"
+        ],
+        [
+          45,
+          "Swagger"
+        ],
+        [
+          49,
+          "Psychic"
+        ],
+        [
+          53,
+          "Nasty Plot"
+        ],
+        [
+          57,
+          "Psyshock"
+        ],
+        [
+          61,
+          "Future Sight"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assist",
+        "Barrier",
+        "Fire Punch",
+        "Flatter",
+        "Guard Swap",
+        "Ice Punch",
+        "Nasty Plot",
+        "Power Split",
+        "Psychic Terrain",
+        "Psycho Cut",
+        "Role Play",
+        "Secret Power",
+        "Skill Swap",
+        "Thunder Punch"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Drain Punch",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Low Kick",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Role Play",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Thunder Punch",
+        "Trick",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Psywave",
+        "Rage",
+        "Seismic Toss",
+        "Skull Bash",
+        "Submission",
+        "Take Down",
+        "Teleport",
+        "Tri Attack",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

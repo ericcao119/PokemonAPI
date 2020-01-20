@@ -1,0 +1,299 @@
+[
+  {
+    "species_name": "Litwick",
+    "variant_name": "Litwick",
+    "base_stats": {
+      "hp": 50,
+      "attack": 30,
+      "defense": 55,
+      "speed": 20,
+      "special_attack": 65,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 607,
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "height": 0.3,
+      "weight": 3.1,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Candle Pok\u00e9mon",
+      "flavor_text": "The younger the life this Pok\u00e9mon absorbs, the brighter and eerier the flame on its head burns.",
+      "abilities": [
+        "Flash Fire",
+        "Flame Body"
+      ],
+      "hidden_abilities": [
+        "Infiltrator"
+      ],
+      "regional_dex_nums": [
+        113,
+        190,
+        65,
+        287
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 55,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          3,
+          "Minimize"
+        ],
+        [
+          5,
+          "Smog"
+        ],
+        [
+          7,
+          "Fire Spin"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          13,
+          "Night Shade"
+        ],
+        [
+          16,
+          "Will-O-Wisp"
+        ],
+        [
+          20,
+          "Flame Burst"
+        ],
+        [
+          24,
+          "Imprison"
+        ],
+        [
+          28,
+          "Hex"
+        ],
+        [
+          33,
+          "Memento"
+        ],
+        [
+          38,
+          "Inferno"
+        ],
+        [
+          43,
+          "Curse"
+        ],
+        [
+          49,
+          "Shadow Ball"
+        ],
+        [
+          55,
+          "Pain Split"
+        ],
+        [
+          61,
+          "Overheat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid",
+        "Acid Armor",
+        "Captivate",
+        "Clear Smog",
+        "Endure",
+        "Haze",
+        "Heat Wave",
+        "Power Split"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Heat Wave",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Telekinesis",
+        "Trick"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Incinerate",
+        "Secret Power"
+      ]
+    }
+  }
+]

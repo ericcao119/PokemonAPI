@@ -1,0 +1,279 @@
+[
+  {
+    "species_name": "Axew",
+    "variant_name": "Axew",
+    "base_stats": {
+      "hp": 46,
+      "attack": 87,
+      "defense": 60,
+      "speed": 57,
+      "special_attack": 30,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 610,
+      "types": [
+        "Dragon"
+      ],
+      "height": 0.6,
+      "weight": 18.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Tusk Pok\u00e9mon",
+      "flavor_text": "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn\u2019t a concern.",
+      "abilities": [
+        "Rivalry",
+        "Mold Breaker"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        116,
+        183,
+        148,
+        324
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          7,
+          "Assurance"
+        ],
+        [
+          10,
+          "Dragon Rage"
+        ],
+        [
+          13,
+          "Dual Chop"
+        ],
+        [
+          16,
+          "Scary Face"
+        ],
+        [
+          20,
+          "Slash"
+        ],
+        [
+          24,
+          "False Swipe"
+        ],
+        [
+          28,
+          "Dragon Claw"
+        ],
+        [
+          32,
+          "Dragon Dance"
+        ],
+        [
+          36,
+          "Taunt"
+        ],
+        [
+          41,
+          "Dragon Pulse"
+        ],
+        [
+          46,
+          "Swords Dance"
+        ],
+        [
+          50,
+          "Guillotine"
+        ],
+        [
+          56,
+          "Outrage"
+        ],
+        [
+          61,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Counter",
+        "Dragon Pulse",
+        "Endeavor",
+        "Endure",
+        "Focus Energy",
+        "Harden",
+        "Iron Tail",
+        "Night Slash",
+        "Razor Wind",
+        "Reversal"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Dual Chop",
+        "Endeavor",
+        "Iron Tail",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Superpower"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Hone Claws",
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

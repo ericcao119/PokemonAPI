@@ -1,0 +1,258 @@
+[
+  {
+    "species_name": "Patrat",
+    "variant_name": "Patrat",
+    "base_stats": {
+      "hp": 45,
+      "attack": 55,
+      "defense": 39,
+      "speed": 42,
+      "special_attack": 35,
+      "special_defense": 39
+    },
+    "dex_entry": {
+      "national_dex_num": 504,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.5,
+      "weight": 11.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Scout Pok\u00e9mon",
+      "flavor_text": "Extremely cautious, one of them will always be on the lookout, but it won\u2019t notice a foe coming from behind.",
+      "abilities": [
+        "Run Away",
+        "Keen Eye"
+      ],
+      "hidden_abilities": [
+        "Analytic"
+      ],
+      "regional_dex_nums": [
+        10,
+        10,
+        46
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 51,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Leer"
+        ],
+        [
+          6,
+          "Bite"
+        ],
+        [
+          8,
+          "Bide"
+        ],
+        [
+          11,
+          "Detect"
+        ],
+        [
+          13,
+          "Sand Attack"
+        ],
+        [
+          16,
+          "Crunch"
+        ],
+        [
+          18,
+          "Hypnosis"
+        ],
+        [
+          21,
+          "Super Fang"
+        ],
+        [
+          23,
+          "After You"
+        ],
+        [
+          26,
+          "Focus Energy"
+        ],
+        [
+          28,
+          "Work Up"
+        ],
+        [
+          31,
+          "Hyper Fang"
+        ],
+        [
+          33,
+          "Nasty Plot"
+        ],
+        [
+          36,
+          "Mean Look"
+        ],
+        [
+          38,
+          "Baton Pass"
+        ],
+        [
+          41,
+          "Slam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Bullet Seed",
+        "Flail",
+        "Foresight",
+        "Iron Tail",
+        "Pursuit",
+        "Revenge",
+        "Screech",
+        "Tearful Look"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Aqua Tail",
+        "Covet",
+        "Endeavor",
+        "Gunk Shot",
+        "Helping Hand",
+        "Iron Tail",
+        "Laser Focus",
+        "Last Resort",
+        "Low Kick",
+        "Seed Bomb",
+        "Shock Wave",
+        "Snore",
+        "Super Fang",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Retaliate",
+        "Secret Power"
+      ]
+    }
+  }
+]

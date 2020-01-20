@@ -1,0 +1,674 @@
+[
+  {
+    "species_name": "Corsola",
+    "variant_name": "Corsola",
+    "base_stats": {
+      "hp": 65,
+      "attack": 55,
+      "defense": 95,
+      "speed": 35,
+      "special_attack": 65,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 222,
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "height": 0.6,
+      "weight": 5.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Coral Pok\u00e9mon",
+      "flavor_text": "These Pok\u00e9mon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
+      "abilities": [
+        "Hustle",
+        "Natural Cure"
+      ],
+      "hidden_abilities": [
+        "Regenerator"
+      ],
+      "regional_dex_nums": [
+        171,
+        180,
+        173,
+        237,
+        146,
+        189,
+        112,
+        135,
+        236
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 144,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water3"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Bubble"
+        ],
+        [
+          8,
+          "Recover"
+        ],
+        [
+          10,
+          "Bubble Beam"
+        ],
+        [
+          13,
+          "Refresh"
+        ],
+        [
+          17,
+          "Ancient Power"
+        ],
+        [
+          20,
+          "Spike Cannon"
+        ],
+        [
+          23,
+          "Lucky Chant"
+        ],
+        [
+          27,
+          "Brine"
+        ],
+        [
+          29,
+          "Iron Defense"
+        ],
+        [
+          31,
+          "Rock Blast"
+        ],
+        [
+          35,
+          "Endure"
+        ],
+        [
+          38,
+          "Aqua Ring"
+        ],
+        [
+          41,
+          "Power Gem"
+        ],
+        [
+          45,
+          "Mirror Coat"
+        ],
+        [
+          47,
+          "Earth Power"
+        ],
+        [
+          50,
+          "Flail"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Aqua Ring",
+        "Barrier",
+        "Bide",
+        "Camouflage",
+        "Confuse Ray",
+        "Curse",
+        "Head Smash",
+        "Icicle Spear",
+        "Ingrain",
+        "Liquidation",
+        "Mist",
+        "Nature Power",
+        "Screech",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Endeavor",
+        "Icy Wind",
+        "Iron Defense",
+        "Liquidation",
+        "Magic Coat",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Throat Chop",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Defense Curl",
+        "Dig",
+        "Double-Edge",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "Sucker Punch",
+        "Whirlpool"
+      ]
+    }
+  },
+  {
+    "species_name": "Corsola",
+    "variant_name": "Galarian Corsola",
+    "base_stats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 100,
+      "speed": 30,
+      "special_attack": 65,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 222,
+      "types": [
+        "Ghost"
+      ],
+      "height": 0.6,
+      "weight": 0.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Coral Pok\u00e9mon",
+      "flavor_text": "Sudden climate change wiped out this ancient kind of Corsola. This Pok\u00e9mon absorbs others\u2019 life-force through its branches.",
+      "abilities": [
+        "Weak Armor"
+      ],
+      "hidden_abilities": [
+        "Cursed Body"
+      ],
+      "regional_dex_nums": [
+        171,
+        180,
+        173,
+        237,
+        146,
+        189,
+        112,
+        135,
+        236
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water3"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Bubble"
+        ],
+        [
+          8,
+          "Recover"
+        ],
+        [
+          10,
+          "Bubble Beam"
+        ],
+        [
+          13,
+          "Refresh"
+        ],
+        [
+          17,
+          "Ancient Power"
+        ],
+        [
+          20,
+          "Spike Cannon"
+        ],
+        [
+          23,
+          "Lucky Chant"
+        ],
+        [
+          27,
+          "Brine"
+        ],
+        [
+          29,
+          "Iron Defense"
+        ],
+        [
+          31,
+          "Rock Blast"
+        ],
+        [
+          35,
+          "Endure"
+        ],
+        [
+          38,
+          "Aqua Ring"
+        ],
+        [
+          41,
+          "Power Gem"
+        ],
+        [
+          45,
+          "Mirror Coat"
+        ],
+        [
+          47,
+          "Earth Power"
+        ],
+        [
+          50,
+          "Flail"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Aqua Ring",
+        "Barrier",
+        "Bide",
+        "Camouflage",
+        "Confuse Ray",
+        "Curse",
+        "Head Smash",
+        "Icicle Spear",
+        "Ingrain",
+        "Liquidation",
+        "Mist",
+        "Nature Power",
+        "Screech",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Endeavor",
+        "Icy Wind",
+        "Iron Defense",
+        "Liquidation",
+        "Magic Coat",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Throat Chop",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Defense Curl",
+        "Dig",
+        "Double-Edge",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "Sucker Punch",
+        "Whirlpool"
+      ]
+    }
+  }
+]

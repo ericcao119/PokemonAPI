@@ -1,0 +1,259 @@
+[
+  {
+    "species_name": "Rufflet",
+    "variant_name": "Rufflet",
+    "base_stats": {
+      "hp": 70,
+      "attack": 83,
+      "defense": 50,
+      "speed": 60,
+      "special_attack": 37,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 627,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 0.5,
+      "weight": 10.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Eaglet Pok\u00e9mon",
+      "flavor_text": "A combative Pok\u00e9mon, it\u2019s ready to pick a fight with anyone. It has talons that can crush hard berries.",
+      "abilities": [
+        "Keen Eye",
+        "Sheer Force"
+      ],
+      "hidden_abilities": [
+        "Hustle"
+      ],
+      "regional_dex_nums": [
+        133,
+        109,
+        75,
+        89,
+        281
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 70,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          5,
+          "Fury Attack"
+        ],
+        [
+          10,
+          "Wing Attack"
+        ],
+        [
+          14,
+          "Hone Claws"
+        ],
+        [
+          19,
+          "Scary Face"
+        ],
+        [
+          23,
+          "Aerial Ace"
+        ],
+        [
+          28,
+          "Slash"
+        ],
+        [
+          32,
+          "Defog"
+        ],
+        [
+          37,
+          "Tailwind"
+        ],
+        [
+          41,
+          "Air Slash"
+        ],
+        [
+          46,
+          "Crush Claw"
+        ],
+        [
+          50,
+          "Sky Drop"
+        ],
+        [
+          55,
+          "Whirlwind"
+        ],
+        [
+          59,
+          "Brave Bird"
+        ],
+        [
+          64,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Snore",
+        "Superpower",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Pluck",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

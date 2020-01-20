@@ -1,0 +1,156 @@
+[
+  {
+    "species_name": "Graveler",
+    "variant_name": "Graveler",
+    "base_stats": {
+      "hp": 55,
+      "attack": 95,
+      "defense": 115,
+      "speed": 35,
+      "special_attack": 45,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 75,
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "height": 1.0,
+      "weight": 105.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rock Pok\u00e9mon",
+      "flavor_text": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
+      "abilities": [
+        "Rock Head",
+        "Sturdy"
+      ],
+      "hidden_abilities": [
+        "Sand Veil"
+      ],
+      "regional_dex_nums": [
+        75,
+        35,
+        58,
+        75,
+        32,
+        32,
+        35,
+        10,
+        59,
+        230,
+        299,
+        75
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 137,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Graveler",
+    "variant_name": "Alolan Graveler",
+    "base_stats": {
+      "hp": 55,
+      "attack": 95,
+      "defense": 115,
+      "speed": 35,
+      "special_attack": 45,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 75,
+      "types": [
+        "Rock",
+        "Electric"
+      ],
+      "height": 1.0,
+      "weight": 110.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rock Pok\u00e9mon",
+      "flavor_text": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
+      "abilities": [
+        "Magnet Pull",
+        "Sturdy"
+      ],
+      "hidden_abilities": [
+        "Galvanize"
+      ],
+      "regional_dex_nums": [
+        75,
+        35,
+        58,
+        75,
+        32,
+        32,
+        35,
+        10,
+        59,
+        230,
+        299,
+        75
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 137,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

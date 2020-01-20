@@ -1,0 +1,340 @@
+[
+  {
+    "species_name": "Dragapult",
+    "variant_name": "Dragapult",
+    "base_stats": {
+      "hp": 88,
+      "attack": 120,
+      "defense": 75,
+      "speed": 142,
+      "special_attack": 100,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 887,
+      "types": [
+        "Dragon",
+        "Ghost"
+      ],
+      "height": 3.0,
+      "weight": 50.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Stealth Pok\u00e9mon",
+      "flavor_text": "Apparently the Dreepy inside Dragapult\u2019s horns eagerly look forward to being launched out at Mach speeds.",
+      "abilities": [
+        "Clear Body",
+        "Infiltrator"
+      ],
+      "hidden_abilities": [
+        "Cursed Body"
+      ],
+      "regional_dex_nums": [
+        397
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous",
+        "Dragon"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Dragon Darts"
+        ],
+        [
+          1,
+          "Infestation"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Sucker Punch"
+        ],
+        [
+          6,
+          "Lock-On"
+        ],
+        [
+          12,
+          "Assurance"
+        ],
+        [
+          18,
+          "Hex"
+        ],
+        [
+          24,
+          "Agility"
+        ],
+        [
+          30,
+          "Double Hit"
+        ],
+        [
+          36,
+          "U-turn"
+        ],
+        [
+          42,
+          "Dragon Dance"
+        ],
+        [
+          48,
+          "Phantom Force"
+        ],
+        [
+          54,
+          "Take Down"
+        ],
+        [
+          63,
+          "Dragon Rush"
+        ],
+        [
+          70,
+          "Double-Edge"
+        ],
+        [
+          78,
+          "Last Resort"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Fly"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          77,
+          "Hex"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          86,
+          "Phantom Force"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          19,
+          "Tri Attack"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

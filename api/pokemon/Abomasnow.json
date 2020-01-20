@@ -1,0 +1,616 @@
+[
+  {
+    "species_name": "Abomasnow",
+    "variant_name": "Abomasnow",
+    "base_stats": {
+      "hp": 90,
+      "attack": 92,
+      "defense": 75,
+      "speed": 60,
+      "special_attack": 92,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 460,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "height": 2.2,
+      "weight": 135.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Frost Tree Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
+      "abilities": [
+        "Snow Warning"
+      ],
+      "hidden_abilities": [
+        "Soundproof"
+      ],
+      "regional_dex_nums": [
+        143,
+        143,
+        89,
+        97
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aurora Veil"
+        ],
+        [
+          1,
+          "Ice Punch"
+        ],
+        [
+          1,
+          "Leafage"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Mist"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          15,
+          "Ice Shard"
+        ],
+        [
+          20,
+          "Razor Leaf"
+        ],
+        [
+          25,
+          "Icy Wind"
+        ],
+        [
+          30,
+          "Swagger"
+        ],
+        [
+          35,
+          "Ingrain"
+        ],
+        [
+          43,
+          "Wood Hammer"
+        ],
+        [
+          49,
+          "Blizzard"
+        ],
+        [
+          56,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          51,
+          "Icicle Spear"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          71,
+          "Leaf Storm"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Abomasnow",
+    "variant_name": "Mega Abomasnow",
+    "base_stats": {
+      "hp": 90,
+      "attack": 132,
+      "defense": 105,
+      "speed": 30,
+      "special_attack": 132,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 460,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "height": 2.7,
+      "weight": 185.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Frost Tree Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
+      "abilities": [
+        "Snow Warning"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        143,
+        143,
+        89,
+        97
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 208,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aurora Veil"
+        ],
+        [
+          1,
+          "Ice Punch"
+        ],
+        [
+          1,
+          "Leafage"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Mist"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          15,
+          "Ice Shard"
+        ],
+        [
+          20,
+          "Razor Leaf"
+        ],
+        [
+          25,
+          "Icy Wind"
+        ],
+        [
+          30,
+          "Swagger"
+        ],
+        [
+          35,
+          "Ingrain"
+        ],
+        [
+          43,
+          "Wood Hammer"
+        ],
+        [
+          49,
+          "Blizzard"
+        ],
+        [
+          56,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          51,
+          "Icicle Spear"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          71,
+          "Leaf Storm"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

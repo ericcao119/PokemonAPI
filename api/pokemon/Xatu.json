@@ -1,0 +1,352 @@
+[
+  {
+    "species_name": "Xatu",
+    "variant_name": "Xatu",
+    "base_stats": {
+      "hp": 65,
+      "attack": 75,
+      "defense": 70,
+      "speed": 95,
+      "special_attack": 95,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 178,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "height": 1.5,
+      "weight": 15.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mystic Pok\u00e9mon",
+      "flavor_text": "This odd Pok\u00e9mon can see both the past and the future. It eyes the sun\u2019s movement all day.",
+      "abilities": [
+        "Synchronize",
+        "Early Bird"
+      ],
+      "hidden_abilities": [
+        "Magic Bounce"
+      ],
+      "regional_dex_nums": [
+        160,
+        163,
+        162,
+        170,
+        253,
+        93
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 165,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Air Slash"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Shade"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Tailwind"
+        ],
+        [
+          1,
+          "Teleport"
+        ],
+        [
+          6,
+          "Night Shade"
+        ],
+        [
+          9,
+          "Teleport"
+        ],
+        [
+          12,
+          "Lucky Chant"
+        ],
+        [
+          17,
+          "Stored Power"
+        ],
+        [
+          20,
+          "Ominous Wind"
+        ],
+        [
+          23,
+          "Confuse Ray"
+        ],
+        [
+          29,
+          "Wish"
+        ],
+        [
+          35,
+          "Psychic"
+        ],
+        [
+          39,
+          "Miracle Eye"
+        ],
+        [
+          43,
+          "Psycho Shift"
+        ],
+        [
+          49,
+          "Future Sight"
+        ],
+        [
+          53,
+          "Guard Swap"
+        ],
+        [
+          53,
+          "Power Swap"
+        ],
+        [
+          57,
+          "Me First"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ally Switch",
+        "Drill Peck",
+        "Feather Dance",
+        "Feint Attack",
+        "Haze",
+        "Quick Attack",
+        "Refresh",
+        "Roost",
+        "Simple Beam",
+        "Skill Swap",
+        "Steel Wing",
+        "Sucker Punch",
+        "Synchronoise",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Defog",
+        "Foul Play",
+        "Giga Drain",
+        "Heat Wave",
+        "Laser Focus",
+        "Magic Coat",
+        "Magic Room",
+        "Pain Split",
+        "Signal Beam",
+        "Skill Swap",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Telekinesis",
+        "Trick",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Nightmare",
+        "Pluck",
+        "Secret Power",
+        "Silver Wind",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

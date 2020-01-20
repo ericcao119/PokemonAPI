@@ -1,0 +1,260 @@
+[
+  {
+    "species_name": "Chandelure",
+    "variant_name": "Chandelure",
+    "base_stats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 90,
+      "speed": 80,
+      "special_attack": 145,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 609,
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "height": 1.0,
+      "weight": 34.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Luring Pok\u00e9mon",
+      "flavor_text": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence\u2014 or so it\u2019s said.",
+      "abilities": [
+        "Flash Fire",
+        "Flame Body"
+      ],
+      "hidden_abilities": [
+        "Infiltrator"
+      ],
+      "regional_dex_nums": [
+        115,
+        192,
+        67,
+        289
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 234,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Flame Burst"
+        ],
+        [
+          1,
+          "Hex"
+        ],
+        [
+          1,
+          "Pain Split"
+        ],
+        [
+          1,
+          "Smog"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid",
+        "Acid Armor",
+        "Captivate",
+        "Clear Smog",
+        "Endure",
+        "Haze",
+        "Heat Wave",
+        "Power Split"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Heat Wave",
+        "Laser Focus",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Telekinesis",
+        "Trick"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Incinerate",
+        "Secret Power"
+      ]
+    }
+  }
+]

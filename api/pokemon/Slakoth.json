@@ -1,0 +1,286 @@
+[
+  {
+    "species_name": "Slakoth",
+    "variant_name": "Slakoth",
+    "base_stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 60,
+      "speed": 30,
+      "special_attack": 35,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 287,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.8,
+      "weight": 24.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Slacker Pok\u00e9mon",
+      "flavor_text": "Slakoth\u2019s heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this Pok\u00e9mon in motion.",
+      "abilities": [
+        "Truant"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        36,
+        276,
+        37
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 56,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Yawn"
+        ],
+        [
+          6,
+          "Encore"
+        ],
+        [
+          9,
+          "Slack Off"
+        ],
+        [
+          14,
+          "Feint Attack"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          22,
+          "Covet"
+        ],
+        [
+          25,
+          "Chip Away"
+        ],
+        [
+          30,
+          "Counter"
+        ],
+        [
+          33,
+          "Flail"
+        ],
+        [
+          38,
+          "Play Rough"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "After You",
+        "Body Slam",
+        "Crush Claw",
+        "Curse",
+        "Hammer Arm",
+        "Night Slash",
+        "Pursuit",
+        "Slash",
+        "Sleep Talk",
+        "Snore",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Gunk Shot",
+        "Ice Punch",
+        "Icy Wind",
+        "Shock Wave",
+        "Snore",
+        "Thunder Punch",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Sucker Punch"
+      ]
+    }
+  }
+]

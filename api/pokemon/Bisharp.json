@@ -1,0 +1,354 @@
+[
+  {
+    "species_name": "Bisharp",
+    "variant_name": "Bisharp",
+    "base_stats": {
+      "hp": 65,
+      "attack": 125,
+      "defense": 100,
+      "speed": 70,
+      "special_attack": 60,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 625,
+      "types": [
+        "Dark",
+        "Steel"
+      ],
+      "height": 1.6,
+      "weight": 70.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sword Blade Pok\u00e9mon",
+      "flavor_text": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
+      "abilities": [
+        "Defiant",
+        "Inner Focus"
+      ],
+      "hidden_abilities": [
+        "Pressure"
+      ],
+      "regional_dex_nums": [
+        131,
+        224,
+        49,
+        338,
+        247
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fury Cutter"
+        ],
+        [
+          1,
+          "Guillotine"
+        ],
+        [
+          1,
+          "Iron Head"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Metal Burst"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Torment"
+        ],
+        [
+          6,
+          "Leer"
+        ],
+        [
+          9,
+          "Fury Cutter"
+        ],
+        [
+          14,
+          "Torment"
+        ],
+        [
+          17,
+          "Feint Attack"
+        ],
+        [
+          22,
+          "Scary Face"
+        ],
+        [
+          25,
+          "Metal Claw"
+        ],
+        [
+          30,
+          "Slash"
+        ],
+        [
+          33,
+          "Assurance"
+        ],
+        [
+          38,
+          "Metal Sound"
+        ],
+        [
+          41,
+          "Embargo"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          49,
+          "Night Slash"
+        ],
+        [
+          57,
+          "Iron Head"
+        ],
+        [
+          63,
+          "Swords Dance"
+        ],
+        [
+          71,
+          "Guillotine"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Headbutt",
+        "Mean Look",
+        "Psycho Cut",
+        "Pursuit",
+        "Quick Guard",
+        "Revenge",
+        "Stealth Rock",
+        "Sucker Punch"
+      ],
+      "tutor_moves": [
+        "Dual Chop",
+        "Foul Play",
+        "Iron Defense",
+        "Iron Head",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Magnet Rise",
+        "Role Play",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Hone Claws",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

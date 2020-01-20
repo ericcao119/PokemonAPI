@@ -1,0 +1,292 @@
+[
+  {
+    "species_name": "Electrode",
+    "variant_name": "Electrode",
+    "base_stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 70,
+      "speed": 150,
+      "special_attack": 80,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 101,
+      "types": [
+        "Electric"
+      ],
+      "height": 1.2,
+      "weight": 66.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Ball Pok\u00e9mon",
+      "flavor_text": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
+      "abilities": [
+        "Soundproof",
+        "Static"
+      ],
+      "hidden_abilities": [
+        "Aftermath"
+      ],
+      "regional_dex_nums": [
+        101,
+        121,
+        85,
+        101,
+        122,
+        73,
+        88,
+        101
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge"
+        ],
+        [
+          1,
+          "Eerie Impulse"
+        ],
+        [
+          1,
+          "Magnetic Flux"
+        ],
+        [
+          1,
+          "Sonic Boom"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Sonic Boom"
+        ],
+        [
+          6,
+          "Eerie Impulse"
+        ],
+        [
+          9,
+          "Spark"
+        ],
+        [
+          11,
+          "Rollout"
+        ],
+        [
+          13,
+          "Screech"
+        ],
+        [
+          16,
+          "Charge Beam"
+        ],
+        [
+          20,
+          "Swift"
+        ],
+        [
+          22,
+          "Electro Ball"
+        ],
+        [
+          26,
+          "Self-Destruct"
+        ],
+        [
+          29,
+          "Light Screen"
+        ],
+        [
+          36,
+          "Magnet Rise"
+        ],
+        [
+          41,
+          "Discharge"
+        ],
+        [
+          47,
+          "Explosion"
+        ],
+        [
+          54,
+          "Gyro Ball"
+        ],
+        [
+          58,
+          "Mirror Coat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Foul Play",
+        "Magic Coat",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Telekinesis"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Curse",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Reflect",
+        "Secret Power",
+        "Skull Bash",
+        "Sucker Punch",
+        "Take Down",
+        "Teleport",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

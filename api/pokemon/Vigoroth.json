@@ -1,0 +1,323 @@
+[
+  {
+    "species_name": "Vigoroth",
+    "variant_name": "Vigoroth",
+    "base_stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 80,
+      "speed": 90,
+      "special_attack": 55,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 288,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.4,
+      "weight": 46.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Wild Monkey Pok\u00e9mon",
+      "flavor_text": "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pok\u00e9mon to run wild throughout the jungle before it can settle down.",
+      "abilities": [
+        "Vital Spirit"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        37,
+        277,
+        38
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 154,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Encore"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Reversal"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Uproar"
+        ],
+        [
+          6,
+          "Encore"
+        ],
+        [
+          9,
+          "Uproar"
+        ],
+        [
+          14,
+          "Fury Swipes"
+        ],
+        [
+          17,
+          "Endure"
+        ],
+        [
+          23,
+          "Slash"
+        ],
+        [
+          27,
+          "Chip Away"
+        ],
+        [
+          33,
+          "Counter"
+        ],
+        [
+          37,
+          "Focus Punch"
+        ],
+        [
+          43,
+          "Reversal"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "After You",
+        "Body Slam",
+        "Crush Claw",
+        "Curse",
+        "Hammer Arm",
+        "Night Slash",
+        "Pursuit",
+        "Slash",
+        "Sleep Talk",
+        "Snore",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Gunk Shot",
+        "Ice Punch",
+        "Icy Wind",
+        "Low Kick",
+        "Shock Wave",
+        "Snore",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Sucker Punch"
+      ]
+    }
+  }
+]

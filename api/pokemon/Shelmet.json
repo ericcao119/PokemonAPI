@@ -1,0 +1,232 @@
+[
+  {
+    "species_name": "Shelmet",
+    "variant_name": "Shelmet",
+    "base_stats": {
+      "hp": 50,
+      "attack": 40,
+      "defense": 85,
+      "speed": 25,
+      "special_attack": 40,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 616,
+      "types": [
+        "Bug"
+      ],
+      "height": 0.4,
+      "weight": 7.7,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Snail Pok\u00e9mon",
+      "flavor_text": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+      "abilities": [
+        "Hydration",
+        "Shell Armor"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        122,
+        157,
+        24,
+        275
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          4,
+          "Acid"
+        ],
+        [
+          8,
+          "Bide"
+        ],
+        [
+          13,
+          "Curse"
+        ],
+        [
+          16,
+          "Struggle Bug"
+        ],
+        [
+          20,
+          "Mega Drain"
+        ],
+        [
+          25,
+          "Yawn"
+        ],
+        [
+          28,
+          "Protect"
+        ],
+        [
+          32,
+          "Acid Armor"
+        ],
+        [
+          37,
+          "Giga Drain"
+        ],
+        [
+          40,
+          "Body Slam"
+        ],
+        [
+          44,
+          "Bug Buzz"
+        ],
+        [
+          49,
+          "Recover"
+        ],
+        [
+          50,
+          "Guard Swap"
+        ],
+        [
+          56,
+          "Final Gambit"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Baton Pass",
+        "Double-Edge",
+        "Encore",
+        "Endure",
+        "Feint",
+        "Guard Split",
+        "Mind Reader",
+        "Mud-Slap",
+        "Pursuit",
+        "Spikes",
+        "Toxic Spikes"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Gastro Acid",
+        "Giga Drain",
+        "Signal Beam",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "species_name": "Ferrothorn",
+    "variant_name": "Ferrothorn",
+    "base_stats": {
+      "hp": 74,
+      "attack": 94,
+      "defense": 131,
+      "speed": 20,
+      "special_attack": 54,
+      "special_defense": 116
+    },
+    "dex_entry": {
+      "national_dex_num": 598,
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "height": 1.0,
+      "weight": 110.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Thorn Pod Pok\u00e9mon",
+      "flavor_text": "Its spikes are harder than steel. This Pok\u00e9mon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
+      "abilities": [
+        "Iron Barbs"
+      ],
+      "hidden_abilities": [
+        "Anticipation"
+      ],
+      "regional_dex_nums": [
+        104,
+        176,
+        70,
+        190
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 171,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Curse"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Power Whip"
+        ],
+        [
+          1,
+          "Rock Climb"
+        ],
+        [
+          1,
+          "Rollout"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Rollout"
+        ],
+        [
+          9,
+          "Curse"
+        ],
+        [
+          14,
+          "Metal Claw"
+        ],
+        [
+          18,
+          "Pin Missile"
+        ],
+        [
+          21,
+          "Gyro Ball"
+        ],
+        [
+          26,
+          "Iron Defense"
+        ],
+        [
+          30,
+          "Mirror Shot"
+        ],
+        [
+          35,
+          "Ingrain"
+        ],
+        [
+          38,
+          "Self-Destruct"
+        ],
+        [
+          46,
+          "Iron Head"
+        ],
+        [
+          53,
+          "Payback"
+        ],
+        [
+          61,
+          "Flash Cannon"
+        ],
+        [
+          67,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Spray",
+        "Bullet Seed",
+        "Gravity",
+        "Leech Seed",
+        "Rock Climb",
+        "Seed Bomb",
+        "Spikes",
+        "Stealth Rock",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Endeavor",
+        "Giga Drain",
+        "Gravity",
+        "Iron Defense",
+        "Iron Head",
+        "Knock Off",
+        "Magnet Rise",
+        "Seed Bomb",
+        "Snore",
+        "Stealth Rock",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Hone Claws",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

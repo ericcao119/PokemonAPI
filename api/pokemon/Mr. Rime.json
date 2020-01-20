@@ -1,0 +1,467 @@
+[
+  {
+    "species_name": "Mr. Rime",
+    "variant_name": "Mr. Rime",
+    "base_stats": {
+      "hp": 80,
+      "attack": 85,
+      "defense": 75,
+      "speed": 70,
+      "special_attack": 110,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 866,
+      "types": [
+        "Psychic",
+        "Ice"
+      ],
+      "height": 1.5,
+      "weight": 58.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Comedian Pok\u00e9mon",
+      "flavor_text": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
+      "abilities": [
+        "Tangled Feet",
+        "Screen Cleaner"
+      ],
+      "hidden_abilities": [
+        "Ice Body"
+      ],
+      "regional_dex_nums": [
+        366
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "After You"
+        ],
+        [
+          1,
+          "Baton Pass"
+        ],
+        [
+          1,
+          "Block"
+        ],
+        [
+          1,
+          "Copycat"
+        ],
+        [
+          1,
+          "Dazzling Gleam"
+        ],
+        [
+          1,
+          "Encore"
+        ],
+        [
+          1,
+          "Fake Tears"
+        ],
+        [
+          1,
+          "Ice Shard"
+        ],
+        [
+          1,
+          "Light Screen"
+        ],
+        [
+          1,
+          "Mimic"
+        ],
+        [
+          1,
+          "Misty Terrain"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Rapid Spin"
+        ],
+        [
+          1,
+          "Recycle"
+        ],
+        [
+          1,
+          "Reflect"
+        ],
+        [
+          1,
+          "Role Play"
+        ],
+        [
+          1,
+          "Safeguard"
+        ],
+        [
+          1,
+          "Slack Off"
+        ],
+        [
+          12,
+          "Confusion"
+        ],
+        [
+          16,
+          "Ally Switch"
+        ],
+        [
+          20,
+          "Icy Wind"
+        ],
+        [
+          24,
+          "Double Kick"
+        ],
+        [
+          28,
+          "Psybeam"
+        ],
+        [
+          32,
+          "Hypnosis"
+        ],
+        [
+          36,
+          "Mirror Coat"
+        ],
+        [
+          40,
+          "Sucker Punch"
+        ],
+        [
+          44,
+          "Freeze-Dry"
+        ],
+        [
+          48,
+          "Psychic"
+        ],
+        [
+          52,
+          "Teeter Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          51,
+          "Icicle Spear"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          60,
+          "Power Swap"
+        ],
+        [
+          61,
+          "Guard Swap"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          89,
+          "Misty Terrain"
+        ],
+        [
+          91,
+          "Psychic Terrain"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,304 @@
+[
+  {
+    "species_name": "Bronzor",
+    "variant_name": "Bronzor",
+    "base_stats": {
+      "hp": 57,
+      "attack": 24,
+      "defense": 86,
+      "speed": 23,
+      "special_attack": 24,
+      "special_defense": 86
+    },
+    "dex_entry": {
+      "national_dex_num": 436,
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "height": 0.5,
+      "weight": 60.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bronze Pok\u00e9mon",
+      "flavor_text": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
+      "abilities": [
+        "Levitate",
+        "Heatproof"
+      ],
+      "hidden_abilities": [
+        "Heavy Metal"
+      ],
+      "regional_dex_nums": [
+        88,
+        88,
+        250,
+        118
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Hypnosis"
+        ],
+        [
+          9,
+          "Imprison"
+        ],
+        [
+          11,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Psywave"
+        ],
+        [
+          19,
+          "Iron Defense"
+        ],
+        [
+          21,
+          "Feint Attack"
+        ],
+        [
+          25,
+          "Safeguard"
+        ],
+        [
+          29,
+          "Future Sight"
+        ],
+        [
+          31,
+          "Metal Sound"
+        ],
+        [
+          35,
+          "Gyro Ball"
+        ],
+        [
+          39,
+          "Extrasensory"
+        ],
+        [
+          41,
+          "Payback"
+        ],
+        [
+          45,
+          "Heal Block"
+        ],
+        [
+          49,
+          "Heavy Slam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Gravity",
+        "Iron Defense",
+        "Recycle",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Telekinesis",
+        "Trick",
+        "Wonder Room"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Endure",
+        "Flash",
+        "Natural Gift",
+        "Rollout",
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,729 @@
+[
+  {
+    "species_name": "Kangaskhan",
+    "variant_name": "Kangaskhan",
+    "base_stats": {
+      "hp": 105,
+      "attack": 95,
+      "defense": 80,
+      "speed": 90,
+      "special_attack": 40,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 115,
+      "types": [
+        "Normal"
+      ],
+      "height": 2.2,
+      "weight": 80.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Parent Pok\u00e9mon",
+      "flavor_text": "Raises its young in its belly pouch. Won\u2019t run from any fight to keep its young protected.",
+      "abilities": [
+        "Early Bird",
+        "Scrappy"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        115,
+        205,
+        115,
+        210,
+        62,
+        165,
+        199,
+        115
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Comet Punch"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          7,
+          "Fake Out"
+        ],
+        [
+          10,
+          "Tail Whip"
+        ],
+        [
+          13,
+          "Bite"
+        ],
+        [
+          19,
+          "Double Hit"
+        ],
+        [
+          22,
+          "Rage"
+        ],
+        [
+          25,
+          "Mega Punch"
+        ],
+        [
+          31,
+          "Chip Away"
+        ],
+        [
+          34,
+          "Dizzy Punch"
+        ],
+        [
+          37,
+          "Crunch"
+        ],
+        [
+          43,
+          "Endure"
+        ],
+        [
+          46,
+          "Outrage"
+        ],
+        [
+          49,
+          "Sucker Punch"
+        ],
+        [
+          50,
+          "Reversal"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Circle Throw",
+        "Counter",
+        "Crush Claw",
+        "Disable",
+        "Double-Edge",
+        "Endeavor",
+        "Focus Energy",
+        "Focus Punch",
+        "Foresight",
+        "Hammer Arm",
+        "Stomp",
+        "Trump Card",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Covet",
+        "Drain Punch",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Low Kick",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Bide",
+        "Body Slam",
+        "Bubble Beam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Dig",
+        "Dynamic Punch",
+        "Fissure",
+        "Fury Cutter",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Strength",
+        "Submission",
+        "Take Down",
+        "Water Gun",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  },
+  {
+    "species_name": "Kangaskhan",
+    "variant_name": "Mega Kangaskhan",
+    "base_stats": {
+      "hp": 105,
+      "attack": 125,
+      "defense": 100,
+      "speed": 100,
+      "special_attack": 60,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 115,
+      "types": [
+        "Normal"
+      ],
+      "height": 2.2,
+      "weight": 100.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Parent Pok\u00e9mon",
+      "flavor_text": "Its child has grown rapidly, thanks to the energy of Mega Evolution. Mother and child show their harmonious teamwork in battle.",
+      "abilities": [
+        "Parental Bond"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        115,
+        205,
+        115,
+        210,
+        62,
+        165,
+        199,
+        115
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 207,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Comet Punch"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          7,
+          "Fake Out"
+        ],
+        [
+          10,
+          "Tail Whip"
+        ],
+        [
+          13,
+          "Bite"
+        ],
+        [
+          19,
+          "Double Hit"
+        ],
+        [
+          22,
+          "Rage"
+        ],
+        [
+          25,
+          "Mega Punch"
+        ],
+        [
+          31,
+          "Chip Away"
+        ],
+        [
+          34,
+          "Dizzy Punch"
+        ],
+        [
+          37,
+          "Crunch"
+        ],
+        [
+          43,
+          "Endure"
+        ],
+        [
+          46,
+          "Outrage"
+        ],
+        [
+          49,
+          "Sucker Punch"
+        ],
+        [
+          50,
+          "Reversal"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Circle Throw",
+        "Counter",
+        "Crush Claw",
+        "Disable",
+        "Double-Edge",
+        "Endeavor",
+        "Focus Energy",
+        "Focus Punch",
+        "Foresight",
+        "Hammer Arm",
+        "Stomp",
+        "Trump Card",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Covet",
+        "Drain Punch",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Low Kick",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Bide",
+        "Body Slam",
+        "Bubble Beam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Dig",
+        "Dynamic Punch",
+        "Fissure",
+        "Fury Cutter",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Strength",
+        "Submission",
+        "Take Down",
+        "Water Gun",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

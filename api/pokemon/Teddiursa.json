@@ -1,0 +1,319 @@
+[
+  {
+    "species_name": "Teddiursa",
+    "variant_name": "Teddiursa",
+    "base_stats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 50,
+      "speed": 40,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 216,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.6,
+      "weight": 8.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Little Bear Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
+      "abilities": [
+        "Pickup",
+        "Quick Feet"
+      ],
+      "hidden_abilities": [
+        "Honey Gather"
+      ],
+      "regional_dex_nums": [
+        193,
+        198,
+        132
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Baby-Doll Eyes"
+        ],
+        [
+          1,
+          "Covet"
+        ],
+        [
+          1,
+          "Fake Tears"
+        ],
+        [
+          1,
+          "Fling"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          8,
+          "Fury Swipes"
+        ],
+        [
+          15,
+          "Feint Attack"
+        ],
+        [
+          22,
+          "Sweet Scent"
+        ],
+        [
+          25,
+          "Play Nice"
+        ],
+        [
+          29,
+          "Slash"
+        ],
+        [
+          36,
+          "Charm"
+        ],
+        [
+          43,
+          "Rest"
+        ],
+        [
+          43,
+          "Snore"
+        ],
+        [
+          50,
+          "Thrash"
+        ],
+        [
+          57,
+          "Fling"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belly Drum",
+        "Chip Away",
+        "Close Combat",
+        "Counter",
+        "Cross Chop",
+        "Crunch",
+        "Double-Edge",
+        "Fake Tears",
+        "Metal Claw",
+        "Night Slash",
+        "Play Rough",
+        "Seismic Toss",
+        "Sleep Talk",
+        "Take Down",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Gunk Shot",
+        "Hyper Voice",
+        "Ice Punch",
+        "Last Resort",
+        "Seed Bomb",
+        "Snore",
+        "Superpower",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Defense Curl",
+        "Dig",
+        "Dynamic Punch",
+        "Endure",
+        "Focus Energy",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Leer",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

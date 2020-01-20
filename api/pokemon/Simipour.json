@@ -1,0 +1,275 @@
+[
+  {
+    "species_name": "Simipour",
+    "variant_name": "Simipour",
+    "base_stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 63,
+      "speed": 101,
+      "special_attack": 98,
+      "special_defense": 63
+    },
+    "dex_entry": {
+      "national_dex_num": 516,
+      "types": [
+        "Water"
+      ],
+      "height": 1.0,
+      "weight": 29.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Geyser Pok\u00e9mon",
+      "flavor_text": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+      "abilities": [
+        "Gluttony"
+      ],
+      "hidden_abilities": [
+        "Torrent"
+      ],
+      "regional_dex_nums": [
+        22,
+        42,
+        34
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 174,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fury Swipes"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Scald"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Ring",
+        "Aqua Tail",
+        "Astonish",
+        "Covet",
+        "Disarming Voice",
+        "Hydro Pump",
+        "Low Kick",
+        "Mud Sport",
+        "Nasty Plot",
+        "Role Play",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Covet",
+        "Endeavor",
+        "Focus Punch",
+        "Gastro Acid",
+        "Gunk Shot",
+        "Helping Hand",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Low Kick",
+        "Recycle",
+        "Role Play",
+        "Snore",
+        "Superpower",
+        "Throat Chop",
+        "Uproar",
+        "Water Pledge",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Dive",
+        "Hone Claws",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

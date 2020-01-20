@@ -1,0 +1,321 @@
+[
+  {
+    "species_name": "Celebi",
+    "variant_name": "Celebi",
+    "base_stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 100,
+      "speed": 100,
+      "special_attack": 100,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 251,
+      "types": [
+        "Psychic",
+        "Grass"
+      ],
+      "height": 0.6,
+      "weight": 5.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Time Travel Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+      "abilities": [
+        "Natural Cure"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        251,
+        256
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 100
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Heal Bell"
+        ],
+        [
+          1,
+          "Leech Seed"
+        ],
+        [
+          1,
+          "Recover"
+        ],
+        [
+          10,
+          "Safeguard"
+        ],
+        [
+          19,
+          "Magical Leaf"
+        ],
+        [
+          28,
+          "Ancient Power"
+        ],
+        [
+          37,
+          "Baton Pass"
+        ],
+        [
+          46,
+          "Natural Gift"
+        ],
+        [
+          55,
+          "Heal Block"
+        ],
+        [
+          64,
+          "Future Sight"
+        ],
+        [
+          73,
+          "Healing Wish"
+        ],
+        [
+          82,
+          "Leaf Storm"
+        ],
+        [
+          91,
+          "Perish Song"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Earth Power",
+        "Giga Drain",
+        "Heal Bell",
+        "Helping Hand",
+        "Laser Focus",
+        "Last Resort",
+        "Magic Coat",
+        "Magic Room",
+        "Seed Bomb",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Synthesis",
+        "Telekinesis",
+        "Trick",
+        "Uproar",
+        "Water Pulse",
+        "Wonder Room",
+        "Worry Seed",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Curse",
+        "Cut",
+        "Defense Curl",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Nightmare",
+        "Secret Power",
+        "Silver Wind",
+        "Sucker Punch",
+        "Sweet Scent",
+        "Swift"
+      ]
+    }
+  }
+]

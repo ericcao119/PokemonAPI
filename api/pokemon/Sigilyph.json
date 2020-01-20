@@ -1,0 +1,329 @@
+[
+  {
+    "species_name": "Sigilyph",
+    "variant_name": "Sigilyph",
+    "base_stats": {
+      "hp": 72,
+      "attack": 58,
+      "defense": 80,
+      "speed": 97,
+      "special_attack": 103,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 561,
+      "types": [
+        "Psychic",
+        "Flying"
+      ],
+      "height": 1.4,
+      "weight": 14.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Avianoid Pok\u00e9mon",
+      "flavor_text": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.",
+      "abilities": [
+        "Wonder Skin",
+        "Magic Guard"
+      ],
+      "hidden_abilities": [
+        "Tinted Lens"
+      ],
+      "regional_dex_nums": [
+        67,
+        120,
+        90,
+        297
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Miracle Eye"
+        ],
+        [
+          4,
+          "Hypnosis"
+        ],
+        [
+          8,
+          "Psywave"
+        ],
+        [
+          11,
+          "Tailwind"
+        ],
+        [
+          14,
+          "Whirlwind"
+        ],
+        [
+          18,
+          "Psybeam"
+        ],
+        [
+          21,
+          "Air Cutter"
+        ],
+        [
+          24,
+          "Light Screen"
+        ],
+        [
+          28,
+          "Reflect"
+        ],
+        [
+          31,
+          "Synchronoise"
+        ],
+        [
+          34,
+          "Mirror Move"
+        ],
+        [
+          38,
+          "Gravity"
+        ],
+        [
+          41,
+          "Air Slash"
+        ],
+        [
+          44,
+          "Psychic"
+        ],
+        [
+          48,
+          "Cosmic Power"
+        ],
+        [
+          50,
+          "Sky Attack"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Future Sight",
+        "Psycho Shift",
+        "Roost",
+        "Skill Swap",
+        "Steel Wing",
+        "Stored Power"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Gravity",
+        "Heat Wave",
+        "Icy Wind",
+        "Magic Coat",
+        "Magic Room",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Telekinesis",
+        "Trick",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Pluck",
+        "Secret Power"
+      ]
+    }
+  }
+]

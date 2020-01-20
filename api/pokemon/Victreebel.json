@@ -1,0 +1,268 @@
+[
+  {
+    "species_name": "Victreebel",
+    "variant_name": "Victreebel",
+    "base_stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "speed": 70,
+      "special_attack": 100,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 71,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "height": 1.7,
+      "weight": 15.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flycatcher Pok\u00e9mon",
+      "flavor_text": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "hidden_abilities": [
+        "Gluttony"
+      ],
+      "regional_dex_nums": [
+        71,
+        66,
+        71,
+        66,
+        28,
+        71
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 221,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leaf Tornado"
+        ],
+        [
+          1,
+          "Razor Leaf"
+        ],
+        [
+          1,
+          "Sleep Powder"
+        ],
+        [
+          1,
+          "Spit Up"
+        ],
+        [
+          1,
+          "Stockpile"
+        ],
+        [
+          1,
+          "Swallow"
+        ],
+        [
+          1,
+          "Sweet Scent"
+        ],
+        [
+          1,
+          "Vine Whip"
+        ],
+        [
+          32,
+          "Leaf Storm"
+        ],
+        [
+          44,
+          "Leaf Blade"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Spray",
+        "Belch",
+        "Bullet Seed",
+        "Clear Smog",
+        "Encore",
+        "Giga Drain",
+        "Ingrain",
+        "Leech Life",
+        "Magical Leaf",
+        "Natural Gift",
+        "Power Whip",
+        "Strength Sap",
+        "Synthesis",
+        "Tickle",
+        "Weather Ball",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Gastro Acid",
+        "Giga Drain",
+        "Knock Off",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Bug Bite",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mega Drain",
+        "Mimic",
+        "Rage",
+        "Secret Power",
+        "Sucker Punch",
+        "Take Down"
+      ]
+    }
+  }
+]

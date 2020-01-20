@@ -1,0 +1,320 @@
+[
+  {
+    "species_name": "Elgyem",
+    "variant_name": "Elgyem",
+    "base_stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 55,
+      "speed": 30,
+      "special_attack": 85,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 605,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.5,
+      "weight": 9.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cerebral Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.",
+      "abilities": [
+        "Telepathy",
+        "Synchronize"
+      ],
+      "hidden_abilities": [
+        "Analytic"
+      ],
+      "regional_dex_nums": [
+        111,
+        188,
+        275,
+        277
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 67,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          8,
+          "Heal Block"
+        ],
+        [
+          11,
+          "Miracle Eye"
+        ],
+        [
+          15,
+          "Psybeam"
+        ],
+        [
+          18,
+          "Headbutt"
+        ],
+        [
+          22,
+          "Hidden Power"
+        ],
+        [
+          25,
+          "Imprison"
+        ],
+        [
+          29,
+          "Simple Beam"
+        ],
+        [
+          32,
+          "Zen Headbutt"
+        ],
+        [
+          36,
+          "Psych Up"
+        ],
+        [
+          39,
+          "Psychic"
+        ],
+        [
+          43,
+          "Calm Mind"
+        ],
+        [
+          46,
+          "Recover"
+        ],
+        [
+          50,
+          "Guard Split"
+        ],
+        [
+          50,
+          "Power Split"
+        ],
+        [
+          53,
+          "Synchronoise"
+        ],
+        [
+          56,
+          "Wonder Room"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ally Switch",
+        "Astonish",
+        "Barrier",
+        "Cosmic Power",
+        "Disable",
+        "Guard Swap",
+        "Nasty Plot",
+        "Power Swap",
+        "Skill Swap",
+        "Teleport"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Gravity",
+        "Magic Coat",
+        "Pain Split",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Uproar",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "species_name": "Delibird",
+    "variant_name": "Delibird",
+    "base_stats": {
+      "hp": 45,
+      "attack": 55,
+      "defense": 45,
+      "speed": 75,
+      "special_attack": 65,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 225,
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "height": 0.9,
+      "weight": 16.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Delivery Pok\u00e9mon",
+      "flavor_text": "It has a generous habit of sharing its food with people and Pok\u00e9mon, so it\u2019s always scrounging around for more food.",
+      "abilities": [
+        "Vital Spirit",
+        "Hustle"
+      ],
+      "hidden_abilities": [
+        "Insomnia"
+      ],
+      "regional_dex_nums": [
+        190,
+        194,
+        254,
+        90,
+        81,
+        95,
+        78
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 116,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Present"
+        ],
+        [
+          25,
+          "Drill Peck"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          70,
+          "Aurora Veil"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aurora Beam",
+        "Bestow",
+        "Counter",
+        "Destiny Bond",
+        "Fake Out",
+        "Freeze-Dry",
+        "Future Sight",
+        "Ice Ball",
+        "Ice Punch",
+        "Ice Shard",
+        "Icy Wind",
+        "Quick Attack",
+        "Rapid Spin",
+        "Spikes",
+        "Splash"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Defog",
+        "Focus Punch",
+        "Gunk Shot",
+        "Ice Punch",
+        "Icy Wind",
+        "Recycle",
+        "Seed Bomb",
+        "Signal Beam",
+        "Sky Attack",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Pluck",
+        "Power-Up Punch",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss",
+        "Swift"
+      ]
+    }
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "species_name": "Clauncher",
+    "variant_name": "Clauncher",
+    "base_stats": {
+      "hp": 50,
+      "attack": 53,
+      "defense": 62,
+      "speed": 44,
+      "special_attack": 58,
+      "special_defense": 63
+    },
+    "dex_entry": {
+      "national_dex_num": 692,
+      "types": [
+        "Water"
+      ],
+      "height": 0.5,
+      "weight": 8.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Water Gun Pok\u00e9mon",
+      "flavor_text": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it\u2019s terrible at swimming straight.",
+      "abilities": [
+        "Mega Launcher"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        32,
+        349
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 225,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Splash"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Water Sport"
+        ],
+        [
+          9,
+          "Vise Grip"
+        ],
+        [
+          12,
+          "Bubble"
+        ],
+        [
+          16,
+          "Flail"
+        ],
+        [
+          20,
+          "Bubble Beam"
+        ],
+        [
+          25,
+          "Swords Dance"
+        ],
+        [
+          30,
+          "Crabhammer"
+        ],
+        [
+          34,
+          "Water Pulse"
+        ],
+        [
+          39,
+          "Smack Down"
+        ],
+        [
+          43,
+          "Aqua Jet"
+        ],
+        [
+          48,
+          "Muddy Water"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Jet",
+        "Crabhammer",
+        "Endure",
+        "Entrainment",
+        "Helping Hand"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Dragon Pulse",
+        "Helping Hand",
+        "Icy Wind",
+        "Iron Tail",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dive",
+        "Secret Power"
+      ]
+    }
+  }
+]

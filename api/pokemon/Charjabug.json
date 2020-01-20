@@ -1,0 +1,226 @@
+[
+  {
+    "species_name": "Charjabug",
+    "variant_name": "Charjabug",
+    "base_stats": {
+      "hp": 57,
+      "attack": 82,
+      "defense": 95,
+      "speed": 36,
+      "special_attack": 55,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 737,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "height": 0.5,
+      "weight": 10.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Battery Pok\u00e9mon",
+      "flavor_text": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.",
+      "abilities": [
+        "Battery"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        28,
+        35,
+        17
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 140,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bug Bite"
+        ],
+        [
+          1,
+          "Charge"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          1,
+          "Vise Grip"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          23,
+          "Spark"
+        ],
+        [
+          29,
+          "Sticky Web"
+        ],
+        [
+          36,
+          "X-Scissor"
+        ],
+        [
+          43,
+          "Crunch"
+        ],
+        [
+          50,
+          "Dig"
+        ],
+        [
+          57,
+          "Iron Defense"
+        ],
+        [
+          64,
+          "Discharge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          80,
+          "Volt Switch"
+        ],
+        [
+          82,
+          "Electroweb"
+        ],
+        [
+          93,
+          "Eerie Impulse"
+        ]
+      ],
+      "tr_moves": [
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

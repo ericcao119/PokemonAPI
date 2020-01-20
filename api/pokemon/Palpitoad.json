@@ -1,0 +1,255 @@
+[
+  {
+    "species_name": "Palpitoad",
+    "variant_name": "Palpitoad",
+    "base_stats": {
+      "hp": 75,
+      "attack": 65,
+      "defense": 55,
+      "speed": 69,
+      "special_attack": 65,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 536,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "height": 0.8,
+      "weight": 17.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Vibration Pok\u00e9mon",
+      "flavor_text": "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds.",
+      "abilities": [
+        "Swift Swim",
+        "Hydration"
+      ],
+      "hidden_abilities": [
+        "Water Absorb"
+      ],
+      "regional_dex_nums": [
+        42,
+        229,
+        133
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 134,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Round"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          9,
+          "Round"
+        ],
+        [
+          12,
+          "Bubble Beam"
+        ],
+        [
+          16,
+          "Mud Shot"
+        ],
+        [
+          20,
+          "Aqua Ring"
+        ],
+        [
+          23,
+          "Uproar"
+        ],
+        [
+          28,
+          "Muddy Water"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          37,
+          "Flail"
+        ],
+        [
+          42,
+          "Echoed Voice"
+        ],
+        [
+          47,
+          "Hydro Pump"
+        ],
+        [
+          51,
+          "Hyper Voice"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "After You",
+        "Earth Power",
+        "Mist",
+        "Mud Bomb",
+        "Mud Sport",
+        "Refresh",
+        "Sleep Talk",
+        "Snore",
+        "Venom Drench",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Bounce",
+        "Earth Power",
+        "Endeavor",
+        "Focus Punch",
+        "Gastro Acid",
+        "Hyper Voice",
+        "Icy Wind",
+        "Snore",
+        "Stealth Rock",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

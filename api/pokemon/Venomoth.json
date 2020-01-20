@@ -1,0 +1,319 @@
+[
+  {
+    "species_name": "Venomoth",
+    "variant_name": "Venomoth",
+    "base_stats": {
+      "hp": 70,
+      "attack": 65,
+      "defense": 60,
+      "speed": 90,
+      "special_attack": 90,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 49,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "height": 1.5,
+      "weight": 12.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Poison Moth Pok\u00e9mon",
+      "flavor_text": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
+      "abilities": [
+        "Shield Dust",
+        "Tinted Lens"
+      ],
+      "hidden_abilities": [
+        "Wonder Skin"
+      ],
+      "regional_dex_nums": [
+        49,
+        109,
+        49,
+        110,
+        49
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 158,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bug Buzz"
+        ],
+        [
+          1,
+          "Disable"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Quiver Dance"
+        ],
+        [
+          1,
+          "Silver Wind"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          11,
+          "Confusion"
+        ],
+        [
+          13,
+          "Poison Powder"
+        ],
+        [
+          17,
+          "Psybeam"
+        ],
+        [
+          23,
+          "Stun Spore"
+        ],
+        [
+          25,
+          "Signal Beam"
+        ],
+        [
+          29,
+          "Sleep Powder"
+        ],
+        [
+          37,
+          "Leech Life"
+        ],
+        [
+          41,
+          "Zen Headbutt"
+        ],
+        [
+          47,
+          "Poison Fang"
+        ],
+        [
+          55,
+          "Psychic"
+        ],
+        [
+          59,
+          "Bug Buzz"
+        ],
+        [
+          63,
+          "Quiver Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Baton Pass",
+        "Bug Bite",
+        "Giga Drain",
+        "Morning Sun",
+        "Rage Powder",
+        "Screech",
+        "Secret Power",
+        "Signal Beam",
+        "Skill Swap",
+        "Toxic Spikes"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Giga Drain",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Tailwind",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Bide",
+        "Captivate",
+        "Curse",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mega Drain",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Psywave",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "String Shot",
+        "Struggle Bug",
+        "Sweet Scent",
+        "Swift",
+        "Take Down",
+        "Teleport",
+        "Twister",
+        "Whirlwind"
+      ]
+    }
+  }
+]

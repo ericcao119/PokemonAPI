@@ -1,0 +1,287 @@
+[
+  {
+    "species_name": "Aron",
+    "variant_name": "Aron",
+    "base_stats": {
+      "hp": 50,
+      "attack": 70,
+      "defense": 100,
+      "speed": 30,
+      "special_attack": 40,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 304,
+      "types": [
+        "Steel",
+        "Rock"
+      ],
+      "height": 0.4,
+      "weight": 60.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Iron Armor Pok\u00e9mon",
+      "flavor_text": "Aron has a body of steel. With one all-out charge, this Pok\u00e9mon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pok\u00e9mon.",
+      "abilities": [
+        "Sturdy",
+        "Rock Head"
+      ],
+      "hidden_abilities": [
+        "Heavy Metal"
+      ],
+      "regional_dex_nums": [
+        70,
+        166,
+        99,
+        72
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 180,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Mud-Slap"
+        ],
+        [
+          7,
+          "Headbutt"
+        ],
+        [
+          10,
+          "Metal Claw"
+        ],
+        [
+          13,
+          "Rock Tomb"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          19,
+          "Roar"
+        ],
+        [
+          22,
+          "Iron Head"
+        ],
+        [
+          25,
+          "Rock Slide"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          31,
+          "Metal Sound"
+        ],
+        [
+          34,
+          "Iron Tail"
+        ],
+        [
+          37,
+          "Iron Defense"
+        ],
+        [
+          40,
+          "Double-Edge"
+        ],
+        [
+          43,
+          "Autotomize"
+        ],
+        [
+          46,
+          "Heavy Slam"
+        ],
+        [
+          49,
+          "Metal Burst"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Curse",
+        "Dragon Rush",
+        "Endeavor",
+        "Head Smash",
+        "Iron Head",
+        "Reversal",
+        "Screech",
+        "Smelling Salts",
+        "Stealth Rock",
+        "Stomp",
+        "Superpower"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Endeavor",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Magnet Rise",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Superpower",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Captivate",
+        "Cut",
+        "Defense Curl",
+        "Dig",
+        "Endure",
+        "Fury Cutter",
+        "Hone Claws",
+        "Mimic",
+        "Natural Gift",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

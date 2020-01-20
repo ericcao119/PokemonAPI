@@ -1,0 +1,237 @@
+[
+  {
+    "species_name": "Clobbopus",
+    "variant_name": "Clobbopus",
+    "base_stats": {
+      "hp": 50,
+      "attack": 68,
+      "defense": 60,
+      "speed": 32,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 852,
+      "types": [
+        "Fighting"
+      ],
+      "height": 0.6,
+      "weight": 4.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Tantrum Pok\u00e9mon",
+      "flavor_text": "Its tentacles tear off easily, but it isn\u2019t alarmed when that happens\u2014it knows they\u2019ll grow back. It\u2019s about as smart as a three-year-old.",
+      "abilities": [
+        "Limber"
+      ],
+      "hidden_abilities": [
+        "Technician"
+      ],
+      "regional_dex_nums": [
+        351
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Rock Smash"
+        ],
+        [
+          5,
+          "Feint"
+        ],
+        [
+          10,
+          "Bind"
+        ],
+        [
+          15,
+          "Detect"
+        ],
+        [
+          20,
+          "Brick Break"
+        ],
+        [
+          25,
+          "Bulk Up"
+        ],
+        [
+          30,
+          "Submission"
+        ],
+        [
+          35,
+          "Taunt"
+        ],
+        [
+          40,
+          "Reversal"
+        ],
+        [
+          45,
+          "Superpower"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Circle Throw",
+        "Pain Split",
+        "Power-Up Punch",
+        "Seismic Toss",
+        "Soak",
+        "Sucker Punch"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

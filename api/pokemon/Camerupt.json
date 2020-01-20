@@ -1,0 +1,653 @@
+[
+  {
+    "species_name": "Camerupt",
+    "variant_name": "Camerupt",
+    "base_stats": {
+      "hp": 70,
+      "attack": 100,
+      "defense": 70,
+      "speed": 40,
+      "special_attack": 105,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 323,
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "height": 1.9,
+      "weight": 220.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Eruption Pok\u00e9mon",
+      "flavor_text": "The humps on Camerupt\u2019s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pok\u00e9mon apparently erupts often when it is enraged.",
+      "abilities": [
+        "Magma Armor",
+        "Solid Rock"
+      ],
+      "hidden_abilities": [
+        "Anger Point"
+      ],
+      "regional_dex_nums": [
+        102,
+        205,
+        107
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 161,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 150,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Eruption"
+        ],
+        [
+          1,
+          "Fissure"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Rock Slide"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          8,
+          "Ember"
+        ],
+        [
+          8,
+          "Focus Energy"
+        ],
+        [
+          12,
+          "Magnitude"
+        ],
+        [
+          15,
+          "Flame Burst"
+        ],
+        [
+          19,
+          "Amnesia"
+        ],
+        [
+          22,
+          "Lava Plume"
+        ],
+        [
+          26,
+          "Earth Power"
+        ],
+        [
+          29,
+          "Curse"
+        ],
+        [
+          31,
+          "Take Down"
+        ],
+        [
+          39,
+          "Yawn"
+        ],
+        [
+          46,
+          "Earthquake"
+        ],
+        [
+          52,
+          "Eruption"
+        ],
+        [
+          59,
+          "Fissure"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Defense Curl",
+        "Endure",
+        "Growth",
+        "Heat Wave",
+        "Heavy Slam",
+        "Howl",
+        "Iron Head",
+        "Mud Bomb",
+        "Rollout",
+        "Scary Face",
+        "Spit Up",
+        "Stockpile",
+        "Stomp",
+        "Swallow",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Earth Power",
+        "Heat Wave",
+        "Iron Head",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Headbutt",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  },
+  {
+    "species_name": "Camerupt",
+    "variant_name": "Mega Camerupt",
+    "base_stats": {
+      "hp": 70,
+      "attack": 120,
+      "defense": 100,
+      "speed": 20,
+      "special_attack": 145,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 323,
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "height": 2.5,
+      "weight": 320.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Eruption Pok\u00e9mon",
+      "flavor_text": "The humps on Camerupt\u2019s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pok\u00e9mon apparently erupts often when it is enraged.",
+      "abilities": [
+        "Sheer Force"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        102,
+        205,
+        107
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 196,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 150,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Eruption"
+        ],
+        [
+          1,
+          "Fissure"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Rock Slide"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          8,
+          "Ember"
+        ],
+        [
+          8,
+          "Focus Energy"
+        ],
+        [
+          12,
+          "Magnitude"
+        ],
+        [
+          15,
+          "Flame Burst"
+        ],
+        [
+          19,
+          "Amnesia"
+        ],
+        [
+          22,
+          "Lava Plume"
+        ],
+        [
+          26,
+          "Earth Power"
+        ],
+        [
+          29,
+          "Curse"
+        ],
+        [
+          31,
+          "Take Down"
+        ],
+        [
+          39,
+          "Yawn"
+        ],
+        [
+          46,
+          "Earthquake"
+        ],
+        [
+          52,
+          "Eruption"
+        ],
+        [
+          59,
+          "Fissure"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Defense Curl",
+        "Endure",
+        "Growth",
+        "Heat Wave",
+        "Heavy Slam",
+        "Howl",
+        "Iron Head",
+        "Mud Bomb",
+        "Rollout",
+        "Scary Face",
+        "Spit Up",
+        "Stockpile",
+        "Stomp",
+        "Swallow",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Earth Power",
+        "Heat Wave",
+        "Iron Head",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Headbutt",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

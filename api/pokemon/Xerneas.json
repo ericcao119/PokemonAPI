@@ -1,0 +1,293 @@
+[
+  {
+    "species_name": "Xerneas",
+    "variant_name": "Xerneas",
+    "base_stats": {
+      "hp": 126,
+      "attack": 131,
+      "defense": 95,
+      "speed": 99,
+      "special_attack": 131,
+      "special_defense": 98
+    },
+    "dex_entry": {
+      "national_dex_num": 716,
+      "types": [
+        "Fairy"
+      ],
+      "height": 3.0,
+      "weight": 215.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Life Pok\u00e9mon",
+      "flavor_text": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.",
+      "abilities": [
+        "Fairy Aura"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        148
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aromatherapy"
+        ],
+        [
+          1,
+          "Heal Pulse"
+        ],
+        [
+          1,
+          "Ingrain"
+        ],
+        [
+          1,
+          "Take Down"
+        ],
+        [
+          5,
+          "Light Screen"
+        ],
+        [
+          10,
+          "Aurora Beam"
+        ],
+        [
+          18,
+          "Gravity"
+        ],
+        [
+          26,
+          "Geomancy"
+        ],
+        [
+          35,
+          "Moonblast"
+        ],
+        [
+          44,
+          "Megahorn"
+        ],
+        [
+          51,
+          "Night Slash"
+        ],
+        [
+          55,
+          "Horn Leech"
+        ],
+        [
+          59,
+          "Psych Up"
+        ],
+        [
+          63,
+          "Misty Terrain"
+        ],
+        [
+          72,
+          "Nature Power"
+        ],
+        [
+          80,
+          "Close Combat"
+        ],
+        [
+          88,
+          "Giga Impact"
+        ],
+        [
+          93,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Block",
+        "Defog",
+        "Endeavor",
+        "Gravity",
+        "Hyper Voice",
+        "Laser Focus",
+        "Outrage",
+        "Snore",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

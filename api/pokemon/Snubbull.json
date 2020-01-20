@@ -1,0 +1,349 @@
+[
+  {
+    "species_name": "Snubbull",
+    "variant_name": "Snubbull",
+    "base_stats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 50,
+      "speed": 30,
+      "special_attack": 40,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 209,
+      "types": [
+        "Fairy"
+      ],
+      "height": 0.6,
+      "weight": 7.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fairy Pok\u00e9mon",
+      "flavor_text": "In contrast to its appearance, it\u2019s quite timid. When playing with other puppy Pok\u00e9mon, it sometimes gets bullied.",
+      "abilities": [
+        "Intimidate",
+        "Run Away"
+      ],
+      "hidden_abilities": [
+        "Rattled"
+      ],
+      "regional_dex_nums": [
+        123,
+        125,
+        71,
+        258,
+        339
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          13,
+          "Lick"
+        ],
+        [
+          19,
+          "Headbutt"
+        ],
+        [
+          25,
+          "Roar"
+        ],
+        [
+          31,
+          "Rage"
+        ],
+        [
+          37,
+          "Play Rough"
+        ],
+        [
+          43,
+          "Payback"
+        ],
+        [
+          49,
+          "Crunch"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Close Combat",
+        "Crunch",
+        "Double-Edge",
+        "Fake Tears",
+        "Feint Attack",
+        "Fire Fang",
+        "Focus Punch",
+        "Heal Bell",
+        "Ice Fang",
+        "Metronome",
+        "Mimic",
+        "Present",
+        "Smelling Salts",
+        "Snore",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Heal Bell",
+        "Hyper Voice",
+        "Ice Punch",
+        "Last Resort",
+        "Low Kick",
+        "Shock Wave",
+        "Snore",
+        "Super Fang",
+        "Superpower",
+        "Thunder Punch",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Defense Curl",
+        "Detect",
+        "Dig",
+        "Dynamic Punch",
+        "Endure",
+        "Incinerate",
+        "Leer",
+        "Mega Kick",
+        "Mega Punch",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Take Down",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

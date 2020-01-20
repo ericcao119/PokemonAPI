@@ -1,0 +1,196 @@
+[
+  {
+    "species_name": "Pyukumuku",
+    "variant_name": "Pyukumuku",
+    "base_stats": {
+      "hp": 55,
+      "attack": 60,
+      "defense": 130,
+      "speed": 5,
+      "special_attack": 30,
+      "special_defense": 130
+    },
+    "dex_entry": {
+      "national_dex_num": 771,
+      "types": [
+        "Water"
+      ],
+      "height": 0.3,
+      "weight": 1.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sea Cucumber Pok\u00e9mon",
+      "flavor_text": "It\u2019s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
+      "abilities": [
+        "Innards Out"
+      ],
+      "hidden_abilities": [
+        "Unaware"
+      ],
+      "regional_dex_nums": [
+        200,
+        256,
+        156
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 144,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Baton Pass"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          5,
+          "Helping Hand"
+        ],
+        [
+          10,
+          "Taunt"
+        ],
+        [
+          15,
+          "Safeguard"
+        ],
+        [
+          20,
+          "Counter"
+        ],
+        [
+          25,
+          "Purify"
+        ],
+        [
+          30,
+          "Curse"
+        ],
+        [
+          35,
+          "Gastro Acid"
+        ],
+        [
+          40,
+          "Pain Split"
+        ],
+        [
+          45,
+          "Recover"
+        ],
+        [
+          50,
+          "Soak"
+        ],
+        [
+          55,
+          "Toxic"
+        ],
+        [
+          60,
+          "Memento"
+        ]
+      ],
+      "tm_moves": [
+        [
+          16,
+          "Screech"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ]
+      ],
+      "tr_moves": [
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          91,
+          "Venom Drench"
+        ]
+      ],
+      "egg_moves": [
+        "Mirror Coat",
+        "Spite",
+        "Swagger",
+        "Tickle"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,375 @@
+[
+  {
+    "species_name": "Exploud",
+    "variant_name": "Exploud",
+    "base_stats": {
+      "hp": 104,
+      "attack": 91,
+      "defense": 63,
+      "speed": 68,
+      "special_attack": 91,
+      "special_defense": 73
+    },
+    "dex_entry": {
+      "national_dex_num": 295,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.5,
+      "weight": 84.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Loud Noise Pok\u00e9mon",
+      "flavor_text": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pok\u00e9mon only raises its voice when it is in battle.",
+      "abilities": [
+        "Soundproof"
+      ],
+      "hidden_abilities": [
+        "Scrappy"
+      ],
+      "regional_dex_nums": [
+        47,
+        142,
+        48
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 221,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Boomburst"
+        ],
+        [
+          1,
+          "Crunch"
+        ],
+        [
+          1,
+          "Echoed Voice"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          4,
+          "Echoed Voice"
+        ],
+        [
+          9,
+          "Astonish"
+        ],
+        [
+          11,
+          "Howl"
+        ],
+        [
+          15,
+          "Screech"
+        ],
+        [
+          18,
+          "Supersonic"
+        ],
+        [
+          23,
+          "Stomp"
+        ],
+        [
+          27,
+          "Uproar"
+        ],
+        [
+          32,
+          "Roar"
+        ],
+        [
+          36,
+          "Rest"
+        ],
+        [
+          42,
+          "Sleep Talk"
+        ],
+        [
+          47,
+          "Hyper Voice"
+        ],
+        [
+          53,
+          "Synchronoise"
+        ],
+        [
+          58,
+          "Boomburst"
+        ],
+        [
+          64,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Circle Throw",
+        "Disarming Voice",
+        "Endeavor",
+        "Extrasensory",
+        "Fake Tears",
+        "Hammer Arm",
+        "Smelling Salts",
+        "Smokescreen",
+        "Snore",
+        "Take Down",
+        "Whirlwind"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Fire Punch",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Low Kick",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Defense Curl",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Psych Up",
+        "Retaliate",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

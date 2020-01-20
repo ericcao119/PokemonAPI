@@ -1,0 +1,327 @@
+[
+  {
+    "species_name": "Azumarill",
+    "variant_name": "Azumarill",
+    "base_stats": {
+      "hp": 100,
+      "attack": 50,
+      "defense": 80,
+      "speed": 50,
+      "special_attack": 60,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 184,
+      "types": [
+        "Water",
+        "Fairy"
+      ],
+      "height": 0.8,
+      "weight": 28.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Aqua Rabbit Pok\u00e9mon",
+      "flavor_text": "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pok\u00e9mon. The air balloons enable the Pok\u00e9mon in trouble to breathe.",
+      "abilities": [
+        "Thick Fat",
+        "Huge Power"
+      ],
+      "hidden_abilities": [
+        "Sap Sipper"
+      ],
+      "regional_dex_nums": [
+        131,
+        56,
+        126,
+        126,
+        133,
+        32,
+        43,
+        57
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 189,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Water Sport"
+        ],
+        [
+          2,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Water Sport"
+        ],
+        [
+          7,
+          "Bubble"
+        ],
+        [
+          10,
+          "Defense Curl"
+        ],
+        [
+          10,
+          "Rollout"
+        ],
+        [
+          13,
+          "Bubble Beam"
+        ],
+        [
+          16,
+          "Helping Hand"
+        ],
+        [
+          21,
+          "Aqua Tail"
+        ],
+        [
+          25,
+          "Play Rough"
+        ],
+        [
+          31,
+          "Aqua Ring"
+        ],
+        [
+          35,
+          "Rain Dance"
+        ],
+        [
+          42,
+          "Double-Edge"
+        ],
+        [
+          46,
+          "Superpower"
+        ],
+        [
+          55,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Aqua Jet",
+        "Belly Drum",
+        "Body Slam",
+        "Camouflage",
+        "Copycat",
+        "Encore",
+        "Fake Tears",
+        "Future Sight",
+        "Muddy Water",
+        "Perish Song",
+        "Present",
+        "Refresh",
+        "Sing",
+        "Slam",
+        "Soak",
+        "Superpower",
+        "Supersonic",
+        "Tickle",
+        "Water Sport"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Covet",
+        "Focus Punch",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Liquidation",
+        "Snore",
+        "Superpower",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Curse",
+        "Dig",
+        "Dive",
+        "Dynamic Punch",
+        "Endure",
+        "Foresight",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Swift",
+        "Whirlpool"
+      ]
+    }
+  }
+]

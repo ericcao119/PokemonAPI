@@ -1,0 +1,1415 @@
+[
+  {
+    "species_name": "Mewtwo",
+    "variant_name": "Mewtwo",
+    "base_stats": {
+      "hp": 106,
+      "attack": 110,
+      "defense": 90,
+      "speed": 130,
+      "special_attack": 154,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 150,
+      "types": [
+        "Psychic"
+      ],
+      "height": 2.0,
+      "weight": 122.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Genetic Pok\u00e9mon",
+      "flavor_text": "The research efforts of a certain scientist ultimately resulted in this Pok\u00e9mon. Its powers are dedicated to battling.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        150,
+        249,
+        150,
+        254,
+        151,
+        150
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Disable"
+        ],
+        [
+          1,
+          "Laser Focus"
+        ],
+        [
+          1,
+          "Life Dew"
+        ],
+        [
+          1,
+          "Swift"
+        ],
+        [
+          8,
+          "Ancient Power"
+        ],
+        [
+          16,
+          "Psycho Cut"
+        ],
+        [
+          24,
+          "Safeguard"
+        ],
+        [
+          32,
+          "Amnesia"
+        ],
+        [
+          40,
+          "Aura Sphere"
+        ],
+        [
+          48,
+          "Psychic"
+        ],
+        [
+          56,
+          "Guard Swap"
+        ],
+        [
+          56,
+          "Power Swap"
+        ],
+        [
+          64,
+          "Mist"
+        ],
+        [
+          72,
+          "Psystrike"
+        ],
+        [
+          80,
+          "Recover"
+        ],
+        [
+          88,
+          "Future Sight"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          60,
+          "Power Swap"
+        ],
+        [
+          61,
+          "Guard Swap"
+        ],
+        [
+          62,
+          "Speed Swap"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          91,
+          "Psychic Terrain"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          19,
+          "Tri Attack"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          89,
+          "Hurricane"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Mewtwo",
+    "variant_name": "Mega Mewtwo X",
+    "base_stats": {
+      "hp": 106,
+      "attack": 190,
+      "defense": 100,
+      "speed": 130,
+      "special_attack": 154,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 150,
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "height": 2.3,
+      "weight": 127.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Genetic Pok\u00e9mon",
+      "flavor_text": "Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!",
+      "abilities": [
+        "Steadfast"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        150,
+        249,
+        150,
+        254,
+        151,
+        150
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 351,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Disable"
+        ],
+        [
+          1,
+          "Laser Focus"
+        ],
+        [
+          1,
+          "Life Dew"
+        ],
+        [
+          1,
+          "Swift"
+        ],
+        [
+          8,
+          "Ancient Power"
+        ],
+        [
+          16,
+          "Psycho Cut"
+        ],
+        [
+          24,
+          "Safeguard"
+        ],
+        [
+          32,
+          "Amnesia"
+        ],
+        [
+          40,
+          "Aura Sphere"
+        ],
+        [
+          48,
+          "Psychic"
+        ],
+        [
+          56,
+          "Guard Swap"
+        ],
+        [
+          56,
+          "Power Swap"
+        ],
+        [
+          64,
+          "Mist"
+        ],
+        [
+          72,
+          "Psystrike"
+        ],
+        [
+          80,
+          "Recover"
+        ],
+        [
+          88,
+          "Future Sight"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          60,
+          "Power Swap"
+        ],
+        [
+          61,
+          "Guard Swap"
+        ],
+        [
+          62,
+          "Speed Swap"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          91,
+          "Psychic Terrain"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          19,
+          "Tri Attack"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          89,
+          "Hurricane"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Mewtwo",
+    "variant_name": "Mega Mewtwo Y",
+    "base_stats": {
+      "hp": 106,
+      "attack": 150,
+      "defense": 70,
+      "speed": 140,
+      "special_attack": 194,
+      "special_defense": 120
+    },
+    "dex_entry": {
+      "national_dex_num": 150,
+      "types": [
+        "Psychic"
+      ],
+      "height": 1.5,
+      "weight": 33.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Genetic Pok\u00e9mon",
+      "flavor_text": "Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.",
+      "abilities": [
+        "Insomnia"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        150,
+        249,
+        150,
+        254,
+        151,
+        150
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 351,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Disable"
+        ],
+        [
+          1,
+          "Laser Focus"
+        ],
+        [
+          1,
+          "Life Dew"
+        ],
+        [
+          1,
+          "Swift"
+        ],
+        [
+          8,
+          "Ancient Power"
+        ],
+        [
+          16,
+          "Psycho Cut"
+        ],
+        [
+          24,
+          "Safeguard"
+        ],
+        [
+          32,
+          "Amnesia"
+        ],
+        [
+          40,
+          "Aura Sphere"
+        ],
+        [
+          48,
+          "Psychic"
+        ],
+        [
+          56,
+          "Guard Swap"
+        ],
+        [
+          56,
+          "Power Swap"
+        ],
+        [
+          64,
+          "Mist"
+        ],
+        [
+          72,
+          "Psystrike"
+        ],
+        [
+          80,
+          "Recover"
+        ],
+        [
+          88,
+          "Future Sight"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          60,
+          "Power Swap"
+        ],
+        [
+          61,
+          "Guard Swap"
+        ],
+        [
+          62,
+          "Speed Swap"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          91,
+          "Psychic Terrain"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          19,
+          "Tri Attack"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          89,
+          "Hurricane"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

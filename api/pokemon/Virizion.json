@@ -1,0 +1,286 @@
+[
+  {
+    "species_name": "Virizion",
+    "variant_name": "Virizion",
+    "base_stats": {
+      "hp": 91,
+      "attack": 90,
+      "defense": 72,
+      "speed": 108,
+      "special_attack": 90,
+      "special_defense": 129
+    },
+    "dex_entry": {
+      "national_dex_num": 640,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "height": 2.0,
+      "weight": 200.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Grassland Pok\u00e9mon",
+      "flavor_text": "It darts around opponents with a flurry of quick movements, slicing them up with its horns.",
+      "abilities": [
+        "Justified"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        146,
+        227
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Close Combat"
+        ],
+        [
+          1,
+          "Double Kick"
+        ],
+        [
+          1,
+          "Leaf Blade"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Magical Leaf"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          7,
+          "Take Down"
+        ],
+        [
+          13,
+          "Helping Hand"
+        ],
+        [
+          19,
+          "Retaliate"
+        ],
+        [
+          25,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Sacred Sword"
+        ],
+        [
+          37,
+          "Swords Dance"
+        ],
+        [
+          42,
+          "Quick Guard"
+        ],
+        [
+          49,
+          "Work Up"
+        ],
+        [
+          55,
+          "Leaf Blade"
+        ],
+        [
+          61,
+          "Close Combat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Block",
+        "Bounce",
+        "Giga Drain",
+        "Helping Hand",
+        "Laser Focus",
+        "Seed Bomb",
+        "Snore",
+        "Superpower",
+        "Synthesis",
+        "Worry Seed",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

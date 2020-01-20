@@ -1,0 +1,304 @@
+[
+  {
+    "species_name": "Milotic",
+    "variant_name": "Milotic",
+    "base_stats": {
+      "hp": 95,
+      "attack": 60,
+      "defense": 79,
+      "speed": 81,
+      "special_attack": 100,
+      "special_defense": 125
+    },
+    "dex_entry": {
+      "national_dex_num": 350,
+      "types": [
+        "Water"
+      ],
+      "height": 6.2,
+      "weight": 162.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Tender Pok\u00e9mon",
+      "flavor_text": "It\u2019s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you\u2019re feeling.",
+      "abilities": [
+        "Marvel Scale",
+        "Competitive"
+      ],
+      "hidden_abilities": [
+        "Cute Charm"
+      ],
+      "regional_dex_nums": [
+        141,
+        139,
+        139,
+        146,
+        156,
+        190,
+        153
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 189,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Refresh"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Water Pulse"
+        ],
+        [
+          1,
+          "Water Sport"
+        ],
+        [
+          1,
+          "Wrap"
+        ],
+        [
+          4,
+          "Water Sport"
+        ],
+        [
+          7,
+          "Refresh"
+        ],
+        [
+          11,
+          "Disarming Voice"
+        ],
+        [
+          14,
+          "Twister"
+        ],
+        [
+          17,
+          "Aqua Ring"
+        ],
+        [
+          21,
+          "Captivate"
+        ],
+        [
+          24,
+          "Dragon Tail"
+        ],
+        [
+          27,
+          "Recover"
+        ],
+        [
+          31,
+          "Aqua Tail"
+        ],
+        [
+          34,
+          "Attract"
+        ],
+        [
+          37,
+          "Safeguard"
+        ],
+        [
+          41,
+          "Coil"
+        ],
+        [
+          44,
+          "Hydro Pump"
+        ],
+        [
+          47,
+          "Rain Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Brine",
+        "Captivate",
+        "Confuse Ray",
+        "Dragon Breath",
+        "Dragon Pulse",
+        "Haze",
+        "Hypnosis",
+        "Iron Tail",
+        "Mirror Coat",
+        "Mist",
+        "Mud Sport",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Dragon Pulse",
+        "Icy Wind",
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Magic Coat",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Body Slam",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Swift",
+        "Whirlpool"
+      ]
+    }
+  }
+]

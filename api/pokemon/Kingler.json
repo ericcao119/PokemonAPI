@@ -1,0 +1,311 @@
+[
+  {
+    "species_name": "Kingler",
+    "variant_name": "Kingler",
+    "base_stats": {
+      "hp": 55,
+      "attack": 130,
+      "defense": 115,
+      "speed": 75,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 99,
+      "types": [
+        "Water"
+      ],
+      "height": 1.3,
+      "weight": 60.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Pincer Pok\u00e9mon",
+      "flavor_text": "Its oversized claw is very powerful, but when it\u2019s not in battle, the claw just gets in the way.",
+      "abilities": [
+        "Hyper Cutter",
+        "Shell Armor"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        99,
+        165,
+        99,
+        167,
+        99,
+        99
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 166,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Wide Guard"
+        ],
+        [
+          12,
+          "Mud Shot"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          20,
+          "Bubble Beam"
+        ],
+        [
+          24,
+          "Stomp"
+        ],
+        [
+          31,
+          "Flail"
+        ],
+        [
+          36,
+          "Razor Shell"
+        ],
+        [
+          42,
+          "Slam"
+        ],
+        [
+          48,
+          "Swords Dance"
+        ],
+        [
+          54,
+          "Crabhammer"
+        ],
+        [
+          60,
+          "Guillotine"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          83,
+          "Razor Shell"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "species_name": "Gastrodon",
+    "variant_name": "Gastrodon",
+    "base_stats": {
+      "hp": 111,
+      "attack": 83,
+      "defense": 68,
+      "speed": 39,
+      "special_attack": 92,
+      "special_defense": 82
+    },
+    "dex_entry": {
+      "national_dex_num": 423,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "height": 0.9,
+      "weight": 29.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sea Slug Pok\u00e9mon",
+      "flavor_text": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.",
+      "abilities": [
+        "Sticky Hold",
+        "Storm Drain"
+      ],
+      "hidden_abilities": [
+        "Sand Force"
+      ],
+      "regional_dex_nums": [
+        61,
+        61,
+        261,
+        342,
+        231
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 166,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Mud Sport"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "Water Pulse"
+        ],
+        [
+          2,
+          "Mud Sport"
+        ],
+        [
+          4,
+          "Harden"
+        ],
+        [
+          7,
+          "Water Pulse"
+        ],
+        [
+          11,
+          "Mud Bomb"
+        ],
+        [
+          16,
+          "Hidden Power"
+        ],
+        [
+          22,
+          "Rain Dance"
+        ],
+        [
+          29,
+          "Body Slam"
+        ],
+        [
+          41,
+          "Muddy Water"
+        ],
+        [
+          54,
+          "Recover"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Armor",
+        "Amnesia",
+        "Brine",
+        "Clear Smog",
+        "Counter",
+        "Curse",
+        "Fissure",
+        "Memento",
+        "Mirror Coat",
+        "Mist",
+        "Sludge",
+        "Spit Up",
+        "Stockpile",
+        "Swallow",
+        "Trump Card",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Earth Power",
+        "Icy Wind",
+        "Pain Split",
+        "Snore",
+        "Stomping Tantrum",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Captivate",
+        "Dig",
+        "Dive",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "String Shot",
+        "Whirlpool"
+      ]
+    }
+  }
+]

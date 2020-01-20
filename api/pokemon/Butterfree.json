@@ -1,0 +1,282 @@
+[
+  {
+    "species_name": "Butterfree",
+    "variant_name": "Butterfree",
+    "base_stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 50,
+      "speed": 70,
+      "special_attack": 90,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 12,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 1.1,
+      "weight": 32.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Butterfly Pok\u00e9mon",
+      "flavor_text": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
+      "abilities": [
+        "Compound Eyes"
+      ],
+      "hidden_abilities": [
+        "Tinted Lens"
+      ],
+      "regional_dex_nums": [
+        12,
+        26,
+        12,
+        26,
+        25,
+        19,
+        19,
+        12,
+        15
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 178,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 1
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bug Bite"
+        ],
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Supersonic"
+        ],
+        [
+          8,
+          "Confusion"
+        ],
+        [
+          12,
+          "Poison Powder"
+        ],
+        [
+          12,
+          "Sleep Powder"
+        ],
+        [
+          12,
+          "Stun Spore"
+        ],
+        [
+          16,
+          "Psybeam"
+        ],
+        [
+          20,
+          "Whirlwind"
+        ],
+        [
+          24,
+          "Air Slash"
+        ],
+        [
+          28,
+          "Safeguard"
+        ],
+        [
+          32,
+          "Bug Buzz"
+        ],
+        [
+          36,
+          "Tailwind"
+        ],
+        [
+          40,
+          "Rage Powder"
+        ],
+        [
+          44,
+          "Quiver Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          82,
+          "Electroweb"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ],
+        [
+          95,
+          "Air Slash"
+        ]
+      ],
+      "tr_moves": [
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          61,
+          "Bug Buzz"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          89,
+          "Hurricane"
+        ],
+        [
+          96,
+          "Pollen Puff"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

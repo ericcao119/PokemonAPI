@@ -1,0 +1,240 @@
+[
+  {
+    "species_name": "Rowlet",
+    "variant_name": "Rowlet",
+    "base_stats": {
+      "hp": 68,
+      "attack": 55,
+      "defense": 55,
+      "speed": 42,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 722,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "height": 0.3,
+      "weight": 1.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Grass Quill Pok\u00e9mon",
+      "flavor_text": "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
+      "abilities": [
+        "Overgrow"
+      ],
+      "hidden_abilities": [
+        "Long Reach"
+      ],
+      "regional_dex_nums": [
+        1,
+        1
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Leafage"
+        ],
+        [
+          6,
+          "Astonish"
+        ],
+        [
+          9,
+          "Peck"
+        ],
+        [
+          12,
+          "Shadow Sneak"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          18,
+          "Synthesis"
+        ],
+        [
+          21,
+          "Pluck"
+        ],
+        [
+          24,
+          "Nasty Plot"
+        ],
+        [
+          27,
+          "Sucker Punch"
+        ],
+        [
+          30,
+          "Leaf Blade"
+        ],
+        [
+          33,
+          "Feather Dance"
+        ],
+        [
+          36,
+          "Brave Bird"
+        ]
+      ],
+      "tm_moves": [
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          94,
+          "False Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          50,
+          "Leaf Blade"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          66,
+          "Brave Bird"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "Confuse Ray",
+        "Defog",
+        "Double Team",
+        "Knock Off"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

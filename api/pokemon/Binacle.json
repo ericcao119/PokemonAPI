@@ -1,0 +1,341 @@
+[
+  {
+    "species_name": "Binacle",
+    "variant_name": "Binacle",
+    "base_stats": {
+      "hp": 42,
+      "attack": 52,
+      "defense": 67,
+      "speed": 50,
+      "special_attack": 39,
+      "special_defense": 56
+    },
+    "dex_entry": {
+      "national_dex_num": 688,
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "height": 0.5,
+      "weight": 31.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Two-Handed Pok\u00e9mon",
+      "flavor_text": "If the two don\u2019t work well together, both their offense and defense fall apart. Without good teamwork, they won\u2019t survive.",
+      "abilities": [
+        "Sniper",
+        "Tough Claws"
+      ],
+      "hidden_abilities": [
+        "Pickpocket"
+      ],
+      "regional_dex_nums": [
+        21,
+        234
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Shell Smash"
+        ],
+        [
+          4,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Withdraw"
+        ],
+        [
+          10,
+          "Fury Swipes"
+        ],
+        [
+          13,
+          "Slash"
+        ],
+        [
+          18,
+          "Mud-Slap"
+        ],
+        [
+          20,
+          "Clamp"
+        ],
+        [
+          24,
+          "Rock Polish"
+        ],
+        [
+          28,
+          "Ancient Power"
+        ],
+        [
+          32,
+          "Hone Claws"
+        ],
+        [
+          37,
+          "Fury Cutter"
+        ],
+        [
+          41,
+          "Night Slash"
+        ],
+        [
+          45,
+          "Razor Shell"
+        ],
+        [
+          49,
+          "Cross Chop"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Helping Hand",
+        "Switcheroo",
+        "Tickle",
+        "Water Sport"
+      ],
+      "tutor_moves": [
+        "Dual Chop",
+        "Endeavor",
+        "Helping Hand",
+        "Icy Wind",
+        "Iron Defense",
+        "Liquidation",
+        "Snore",
+        "Stealth Rock",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

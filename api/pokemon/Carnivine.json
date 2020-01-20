@@ -1,0 +1,268 @@
+[
+  {
+    "species_name": "Carnivine",
+    "variant_name": "Carnivine",
+    "base_stats": {
+      "hp": 74,
+      "attack": 100,
+      "defense": 72,
+      "speed": 46,
+      "special_attack": 90,
+      "special_defense": 72
+    },
+    "dex_entry": {
+      "national_dex_num": 455,
+      "types": [
+        "Grass"
+      ],
+      "height": 1.4,
+      "weight": 27.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bug Catcher Pok\u00e9mon",
+      "flavor_text": "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        131,
+        131,
+        289,
+        29
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 159,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bind"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          11,
+          "Vine Whip"
+        ],
+        [
+          17,
+          "Sweet Scent"
+        ],
+        [
+          21,
+          "Ingrain"
+        ],
+        [
+          27,
+          "Feint Attack"
+        ],
+        [
+          31,
+          "Leaf Tornado"
+        ],
+        [
+          37,
+          "Spit Up"
+        ],
+        [
+          37,
+          "Stockpile"
+        ],
+        [
+          37,
+          "Swallow"
+        ],
+        [
+          41,
+          "Crunch"
+        ],
+        [
+          47,
+          "Wring Out"
+        ],
+        [
+          50,
+          "Power Whip"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Spray",
+        "Giga Drain",
+        "Grass Whistle",
+        "Leech Seed",
+        "Magical Leaf",
+        "Rage Powder",
+        "Razor Leaf",
+        "Slam",
+        "Sleep Powder",
+        "Stun Spore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Bug Bite",
+        "Defog",
+        "Gastro Acid",
+        "Giga Drain",
+        "Knock Off",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Throat Chop",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Bullet Seed",
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power"
+      ]
+    }
+  }
+]

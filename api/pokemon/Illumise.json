@@ -1,0 +1,312 @@
+[
+  {
+    "species_name": "Illumise",
+    "variant_name": "Illumise",
+    "base_stats": {
+      "hp": 65,
+      "attack": 47,
+      "defense": 75,
+      "speed": 85,
+      "special_attack": 73,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 314,
+      "types": [
+        "Bug"
+      ],
+      "height": 0.6,
+      "weight": 17.7,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Firefly Pok\u00e9mon",
+      "flavor_text": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pok\u00e9mon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+      "abilities": [
+        "Oblivious",
+        "Tinted Lens"
+      ],
+      "hidden_abilities": [
+        "Prankster"
+      ],
+      "regional_dex_nums": [
+        87,
+        134,
+        90
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fluctuating",
+      "base_exp_yield": 151,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 150,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Humanlike"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Play Nice"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Sweet Scent"
+        ],
+        [
+          9,
+          "Charm"
+        ],
+        [
+          12,
+          "Quick Attack"
+        ],
+        [
+          15,
+          "Struggle Bug"
+        ],
+        [
+          19,
+          "Moonlight"
+        ],
+        [
+          22,
+          "Wish"
+        ],
+        [
+          26,
+          "Encore"
+        ],
+        [
+          29,
+          "Flatter"
+        ],
+        [
+          33,
+          "Zen Headbutt"
+        ],
+        [
+          36,
+          "Helping Hand"
+        ],
+        [
+          40,
+          "Bug Buzz"
+        ],
+        [
+          43,
+          "Play Rough"
+        ],
+        [
+          47,
+          "Covet"
+        ],
+        [
+          50,
+          "Infestation"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aromatherapy",
+        "Baton Pass",
+        "Bug Buzz",
+        "Captivate",
+        "Confuse Ray",
+        "Encore",
+        "Fake Tears",
+        "Growth",
+        "Silver Wind"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Covet",
+        "Defog",
+        "Focus Punch",
+        "Giga Drain",
+        "Helping Hand",
+        "Ice Punch",
+        "Shock Wave",
+        "Snore",
+        "Tailwind",
+        "Thunder Punch",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Body Slam",
+        "Counter",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Power-Up Punch",
+        "Secret Power",
+        "Seismic Toss",
+        "String Shot",
+        "Swift"
+      ]
+    }
+  }
+]

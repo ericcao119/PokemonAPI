@@ -1,0 +1,291 @@
+[
+  {
+    "species_name": "Hoppip",
+    "variant_name": "Hoppip",
+    "base_stats": {
+      "hp": 35,
+      "attack": 35,
+      "defense": 40,
+      "speed": 50,
+      "special_attack": 35,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 187,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "height": 0.4,
+      "weight": 0.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cottonweed Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+      "abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+      ],
+      "hidden_abilities": [
+        "Infiltrator"
+      ],
+      "regional_dex_nums": [
+        67,
+        67,
+        135
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 50,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Splash"
+        ],
+        [
+          4,
+          "Synthesis"
+        ],
+        [
+          6,
+          "Tail Whip"
+        ],
+        [
+          8,
+          "Tackle"
+        ],
+        [
+          10,
+          "Fairy Wind"
+        ],
+        [
+          12,
+          "Poison Powder"
+        ],
+        [
+          14,
+          "Stun Spore"
+        ],
+        [
+          16,
+          "Sleep Powder"
+        ],
+        [
+          19,
+          "Bullet Seed"
+        ],
+        [
+          22,
+          "Leech Seed"
+        ],
+        [
+          25,
+          "Mega Drain"
+        ],
+        [
+          28,
+          "Acrobatics"
+        ],
+        [
+          31,
+          "Rage Powder"
+        ],
+        [
+          34,
+          "Cotton Spore"
+        ],
+        [
+          37,
+          "U-turn"
+        ],
+        [
+          40,
+          "Worry Seed"
+        ],
+        [
+          43,
+          "Giga Drain"
+        ],
+        [
+          46,
+          "Bounce"
+        ],
+        [
+          49,
+          "Memento"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Aromatherapy",
+        "Confusion",
+        "Cotton Guard",
+        "Double-Edge",
+        "Encore",
+        "Endure",
+        "Grassy Terrain",
+        "Helping Hand",
+        "Seed Bomb",
+        "Strength Sap",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Giga Drain",
+        "Helping Hand",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Curse",
+        "Defense Curl",
+        "Flash",
+        "Growl",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Pay Day",
+        "Secret Power",
+        "Silver Wind",
+        "Sweet Scent"
+      ]
+    }
+  }
+]

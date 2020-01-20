@@ -1,0 +1,255 @@
+[
+  {
+    "species_name": "Centiskorch",
+    "variant_name": "Centiskorch",
+    "base_stats": {
+      "hp": 100,
+      "attack": 115,
+      "defense": 65,
+      "speed": 65,
+      "special_attack": 90,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 851,
+      "types": [
+        "Fire",
+        "Bug"
+      ],
+      "height": 3.0,
+      "weight": 120.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Radiator Pok\u00e9mon",
+      "flavor_text": "While its burning body is already dangerous on its own, this excessively hostile Pok\u00e9mon also has large and very sharp fangs.",
+      "abilities": [
+        "Flash Fire",
+        "White Smoke"
+      ],
+      "hidden_abilities": [
+        "Flame Body"
+      ],
+      "regional_dex_nums": [
+        160
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Inferno"
+        ],
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          1,
+          "Wrap"
+        ],
+        [
+          15,
+          "Flame Wheel"
+        ],
+        [
+          20,
+          "Bug Bite"
+        ],
+        [
+          25,
+          "Coil"
+        ],
+        [
+          32,
+          "Slam"
+        ],
+        [
+          39,
+          "Fire Spin"
+        ],
+        [
+          46,
+          "Crunch"
+        ],
+        [
+          53,
+          "Fire Lash"
+        ],
+        [
+          60,
+          "Lunge"
+        ],
+        [
+          67,
+          "Burn Up"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          61,
+          "Bug Buzz"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

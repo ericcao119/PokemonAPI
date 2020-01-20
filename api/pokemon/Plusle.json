@@ -1,0 +1,294 @@
+[
+  {
+    "species_name": "Plusle",
+    "variant_name": "Plusle",
+    "base_stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 40,
+      "speed": 95,
+      "special_attack": 85,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 311,
+      "types": [
+        "Electric"
+      ],
+      "height": 0.4,
+      "weight": 4.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cheering Pok\u00e9mon",
+      "flavor_text": "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pok\u00e9mon cries loudly.",
+      "abilities": [
+        "Plus"
+      ],
+      "hidden_abilities": [
+        "Lightning Rod"
+      ],
+      "regional_dex_nums": [
+        80,
+        96,
+        82
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 142,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Nuzzle"
+        ],
+        [
+          1,
+          "Play Nice"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          4,
+          "Helping Hand"
+        ],
+        [
+          7,
+          "Spark"
+        ],
+        [
+          10,
+          "Encore"
+        ],
+        [
+          13,
+          "Bestow"
+        ],
+        [
+          16,
+          "Swift"
+        ],
+        [
+          19,
+          "Electro Ball"
+        ],
+        [
+          22,
+          "Copycat"
+        ],
+        [
+          25,
+          "Charm"
+        ],
+        [
+          28,
+          "Charge"
+        ],
+        [
+          31,
+          "Discharge"
+        ],
+        [
+          34,
+          "Baton Pass"
+        ],
+        [
+          37,
+          "Agility"
+        ],
+        [
+          40,
+          "Last Resort"
+        ],
+        [
+          43,
+          "Thunder"
+        ],
+        [
+          46,
+          "Nasty Plot"
+        ],
+        [
+          49,
+          "Entrainment"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Charm",
+        "Discharge",
+        "Fake Tears",
+        "Lucky Chant",
+        "Sing",
+        "Sweet Kiss",
+        "Tearful Look",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Electroweb",
+        "Helping Hand",
+        "Iron Tail",
+        "Last Resort",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Defense Curl",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss"
+      ]
+    }
+  }
+]

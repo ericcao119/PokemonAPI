@@ -1,0 +1,318 @@
+[
+  {
+    "species_name": "Croconaw",
+    "variant_name": "Croconaw",
+    "base_stats": {
+      "hp": 65,
+      "attack": 80,
+      "defense": 80,
+      "speed": 58,
+      "special_attack": 59,
+      "special_defense": 63
+    },
+    "dex_entry": {
+      "national_dex_num": 159,
+      "types": [
+        "Water"
+      ],
+      "height": 1.1,
+      "weight": 25.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Big Jaw Pok\u00e9mon",
+      "flavor_text": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+      "abilities": [
+        "Torrent"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        8,
+        8
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 142,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          6,
+          "Water Gun"
+        ],
+        [
+          8,
+          "Rage"
+        ],
+        [
+          13,
+          "Bite"
+        ],
+        [
+          15,
+          "Scary Face"
+        ],
+        [
+          21,
+          "Ice Fang"
+        ],
+        [
+          24,
+          "Flail"
+        ],
+        [
+          30,
+          "Crunch"
+        ],
+        [
+          33,
+          "Chip Away"
+        ],
+        [
+          39,
+          "Slash"
+        ],
+        [
+          42,
+          "Screech"
+        ],
+        [
+          48,
+          "Thrash"
+        ],
+        [
+          51,
+          "Aqua Tail"
+        ],
+        [
+          57,
+          "Superpower"
+        ],
+        [
+          60,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Aqua Jet",
+        "Block",
+        "Crunch",
+        "Dragon Dance",
+        "Fake Tears",
+        "Flatter",
+        "Hydro Pump",
+        "Ice Punch",
+        "Metal Claw",
+        "Mud Sport",
+        "Thrash",
+        "Water Pulse",
+        "Water Sport"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Block",
+        "Focus Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Low Kick",
+        "Snore",
+        "Spite",
+        "Superpower",
+        "Uproar",
+        "Water Pledge",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Dive",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Razor Wind",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

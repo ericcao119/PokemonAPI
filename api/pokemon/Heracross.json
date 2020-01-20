@@ -1,0 +1,657 @@
+[
+  {
+    "species_name": "Heracross",
+    "variant_name": "Heracross",
+    "base_stats": {
+      "hp": 80,
+      "attack": 125,
+      "defense": 75,
+      "speed": 85,
+      "special_attack": 40,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 214,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "height": 1.5,
+      "weight": 54.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Single Horn Pok\u00e9mon",
+      "flavor_text": "It roams through forests searching for sweet nectar. Although it boasts fantastic physical strength, it\u2019s not that good at flying.",
+      "abilities": [
+        "Swarm",
+        "Guts"
+      ],
+      "hidden_abilities": [
+        "Moxie"
+      ],
+      "regional_dex_nums": [
+        113,
+        168,
+        62,
+        62,
+        114,
+        145,
+        131,
+        175,
+        367
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Arm Thrust"
+        ],
+        [
+          1,
+          "Bullet Seed"
+        ],
+        [
+          1,
+          "Endure"
+        ],
+        [
+          1,
+          "Horn Attack"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          7,
+          "Feint"
+        ],
+        [
+          10,
+          "Aerial Ace"
+        ],
+        [
+          16,
+          "Chip Away"
+        ],
+        [
+          19,
+          "Counter"
+        ],
+        [
+          25,
+          "Fury Attack"
+        ],
+        [
+          28,
+          "Brick Break"
+        ],
+        [
+          31,
+          "Pin Missile"
+        ],
+        [
+          34,
+          "Take Down"
+        ],
+        [
+          37,
+          "Megahorn"
+        ],
+        [
+          43,
+          "Close Combat"
+        ],
+        [
+          46,
+          "Reversal"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bide",
+        "Double-Edge",
+        "Flail",
+        "Focus Punch",
+        "Harden",
+        "Megahorn",
+        "Pursuit",
+        "Revenge",
+        "Rock Blast",
+        "Seismic Toss"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Focus Punch",
+        "Helping Hand",
+        "Iron Defense",
+        "Knock Off",
+        "Low Kick",
+        "Snore",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Fury Cutter",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Struggle Bug",
+        "Vacuum Wave"
+      ]
+    }
+  },
+  {
+    "species_name": "Heracross",
+    "variant_name": "Mega Heracross",
+    "base_stats": {
+      "hp": 80,
+      "attack": 185,
+      "defense": 115,
+      "speed": 75,
+      "special_attack": 40,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 214,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "height": 1.7,
+      "weight": 62.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Single Horn Pok\u00e9mon",
+      "flavor_text": "A tremendous influx of energy builds it up, but when Mega Evolution ends, Heracross is bothered by terrible soreness in its muscles.",
+      "abilities": [
+        "Skill Link"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        113,
+        168,
+        62,
+        62,
+        114,
+        145,
+        131,
+        175,
+        367
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 210,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Arm Thrust"
+        ],
+        [
+          1,
+          "Bullet Seed"
+        ],
+        [
+          1,
+          "Endure"
+        ],
+        [
+          1,
+          "Horn Attack"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          7,
+          "Feint"
+        ],
+        [
+          10,
+          "Aerial Ace"
+        ],
+        [
+          16,
+          "Chip Away"
+        ],
+        [
+          19,
+          "Counter"
+        ],
+        [
+          25,
+          "Fury Attack"
+        ],
+        [
+          28,
+          "Brick Break"
+        ],
+        [
+          31,
+          "Pin Missile"
+        ],
+        [
+          34,
+          "Take Down"
+        ],
+        [
+          37,
+          "Megahorn"
+        ],
+        [
+          43,
+          "Close Combat"
+        ],
+        [
+          46,
+          "Reversal"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bide",
+        "Double-Edge",
+        "Flail",
+        "Focus Punch",
+        "Harden",
+        "Megahorn",
+        "Pursuit",
+        "Revenge",
+        "Rock Blast",
+        "Seismic Toss"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Focus Punch",
+        "Helping Hand",
+        "Iron Defense",
+        "Knock Off",
+        "Low Kick",
+        "Snore",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Fury Cutter",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Struggle Bug",
+        "Vacuum Wave"
+      ]
+    }
+  }
+]

@@ -1,0 +1,355 @@
+[
+  {
+    "species_name": "Zeraora",
+    "variant_name": "Zeraora",
+    "base_stats": {
+      "hp": 88,
+      "attack": 112,
+      "defense": 75,
+      "speed": 143,
+      "special_attack": 102,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 807,
+      "types": [
+        "Electric"
+      ],
+      "height": 1.5,
+      "weight": 44.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Thunderclap Pok\u00e9mon",
+      "flavor_text": "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes.",
+      "abilities": [
+        "Volt Absorb"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        403
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fake Out"
+        ],
+        [
+          1,
+          "Power-Up Punch"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Snarl"
+        ],
+        [
+          1,
+          "Spark"
+        ],
+        [
+          8,
+          "Fury Swipes"
+        ],
+        [
+          16,
+          "Quick Guard"
+        ],
+        [
+          24,
+          "Slash"
+        ],
+        [
+          32,
+          "Volt Switch"
+        ],
+        [
+          40,
+          "Charge"
+        ],
+        [
+          48,
+          "Thunder Punch"
+        ],
+        [
+          56,
+          "Hone Claws"
+        ],
+        [
+          64,
+          "Discharge"
+        ],
+        [
+          72,
+          "Wild Charge"
+        ],
+        [
+          80,
+          "Agility"
+        ],
+        [
+          88,
+          "Plasma Fists"
+        ],
+        [
+          96,
+          "Close Combat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          80,
+          "Volt Switch"
+        ],
+        [
+          82,
+          "Electroweb"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          90,
+          "Electric Terrain"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

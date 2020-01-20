@@ -1,0 +1,308 @@
+[
+  {
+    "species_name": "Cradily",
+    "variant_name": "Cradily",
+    "base_stats": {
+      "hp": 86,
+      "attack": 81,
+      "defense": 97,
+      "speed": 43,
+      "special_attack": 81,
+      "special_defense": 107
+    },
+    "dex_entry": {
+      "national_dex_num": 346,
+      "types": [
+        "Rock",
+        "Grass"
+      ],
+      "height": 1.5,
+      "weight": 60.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Barnacle Pok\u00e9mon",
+      "flavor_text": "This carnivorous Pok\u00e9mon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
+      "abilities": [
+        "Suction Cups"
+      ],
+      "hidden_abilities": [
+        "Storm Drain"
+      ],
+      "regional_dex_nums": [
+        134,
+        139,
+        232
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water3"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Acid"
+        ],
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Constrict"
+        ],
+        [
+          1,
+          "Ingrain"
+        ],
+        [
+          1,
+          "Wring Out"
+        ],
+        [
+          5,
+          "Acid"
+        ],
+        [
+          9,
+          "Ingrain"
+        ],
+        [
+          13,
+          "Confuse Ray"
+        ],
+        [
+          17,
+          "Ancient Power"
+        ],
+        [
+          21,
+          "Brine"
+        ],
+        [
+          26,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Gastro Acid"
+        ],
+        [
+          36,
+          "Amnesia"
+        ],
+        [
+          44,
+          "Energy Ball"
+        ],
+        [
+          52,
+          "Spit Up"
+        ],
+        [
+          52,
+          "Stockpile"
+        ],
+        [
+          52,
+          "Swallow"
+        ],
+        [
+          61,
+          "Wring Out"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Barrier",
+        "Curse",
+        "Endure",
+        "Mega Drain",
+        "Mirror Coat",
+        "Recover",
+        "Stealth Rock",
+        "Tickle",
+        "Wring Out"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Block",
+        "Earth Power",
+        "Gastro Acid",
+        "Giga Drain",
+        "Pain Split",
+        "Seed Bomb",
+        "Snore",
+        "Stealth Rock",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Bullet Seed",
+        "Captivate",
+        "Double-Edge",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Psych Up",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "String Shot"
+      ]
+    }
+  }
+]

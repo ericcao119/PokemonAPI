@@ -1,0 +1,290 @@
+[
+  {
+    "species_name": "Ribombee",
+    "variant_name": "Ribombee",
+    "base_stats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 60,
+      "speed": 124,
+      "special_attack": 95,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 743,
+      "types": [
+        "Bug",
+        "Fairy"
+      ],
+      "height": 0.2,
+      "weight": 0.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bee Fly Pok\u00e9mon",
+      "flavor_text": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
+      "abilities": [
+        "Honey Gather",
+        "Shield Dust"
+      ],
+      "hidden_abilities": [
+        "Sweet Veil"
+      ],
+      "regional_dex_nums": [
+        84,
+        99,
+        188
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 162,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Fairy"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Covet"
+        ],
+        [
+          1,
+          "Fairy Wind"
+        ],
+        [
+          1,
+          "Pollen Puff"
+        ],
+        [
+          1,
+          "Stun Spore"
+        ],
+        [
+          1,
+          "Sweet Scent"
+        ],
+        [
+          18,
+          "Draining Kiss"
+        ],
+        [
+          24,
+          "Struggle Bug"
+        ],
+        [
+          32,
+          "Aromatherapy"
+        ],
+        [
+          40,
+          "Switcheroo"
+        ],
+        [
+          48,
+          "Dazzling Gleam"
+        ],
+        [
+          56,
+          "Bug Buzz"
+        ],
+        [
+          64,
+          "Quiver Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          62,
+          "Speed Swap"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ]
+      ],
+      "tr_moves": [
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          61,
+          "Bug Buzz"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ],
+        [
+          96,
+          "Pollen Puff"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

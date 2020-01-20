@@ -1,0 +1,319 @@
+[
+  {
+    "species_name": "Dewgong",
+    "variant_name": "Dewgong",
+    "base_stats": {
+      "hp": 90,
+      "attack": 70,
+      "defense": 80,
+      "speed": 70,
+      "special_attack": 70,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 87,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "height": 1.7,
+      "weight": 120.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sea Lion Pok\u00e9mon",
+      "flavor_text": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+      "abilities": [
+        "Thick Fat",
+        "Hydration"
+      ],
+      "hidden_abilities": [
+        "Ice Body"
+      ],
+      "regional_dex_nums": [
+        87,
+        177,
+        87,
+        179,
+        266,
+        116,
+        87
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 166,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Icy Wind"
+        ],
+        [
+          1,
+          "Sheer Cold"
+        ],
+        [
+          1,
+          "Signal Beam"
+        ],
+        [
+          3,
+          "Growl"
+        ],
+        [
+          7,
+          "Signal Beam"
+        ],
+        [
+          11,
+          "Icy Wind"
+        ],
+        [
+          13,
+          "Encore"
+        ],
+        [
+          17,
+          "Ice Shard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Aqua Ring"
+        ],
+        [
+          27,
+          "Aurora Beam"
+        ],
+        [
+          31,
+          "Aqua Jet"
+        ],
+        [
+          33,
+          "Brine"
+        ],
+        [
+          39,
+          "Take Down"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          49,
+          "Aqua Tail"
+        ],
+        [
+          55,
+          "Ice Beam"
+        ],
+        [
+          61,
+          "Safeguard"
+        ],
+        [
+          65,
+          "Hail"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belch",
+        "Disable",
+        "Encore",
+        "Entrainment",
+        "Fake Out",
+        "Horn Drill",
+        "Icicle Spear",
+        "Iron Tail",
+        "Lick",
+        "Perish Song",
+        "Signal Beam",
+        "Slam",
+        "Sleep Talk",
+        "Spit Up",
+        "Stockpile",
+        "Swallow",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Drill Run",
+        "Icy Wind",
+        "Iron Tail",
+        "Liquidation",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Bide",
+        "Body Slam",
+        "Bubble Beam",
+        "Captivate",
+        "Curse",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Natural Gift",
+        "Pay Day",
+        "Peck",
+        "Rage",
+        "Secret Power",
+        "Skull Bash",
+        "Strength",
+        "Water Gun",
+        "Whirlpool"
+      ]
+    }
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "species_name": "Minior",
+    "variant_name": "Meteor Form",
+    "base_stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 100,
+      "speed": 60,
+      "special_attack": 60,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 774,
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "height": 0.3,
+      "weight": 40.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Meteor Pok\u00e9mon",
+      "flavor_text": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
+      "abilities": [
+        "Shields Down"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        213,
+        277
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 154,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 30,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Defense Curl"
+        ],
+        [
+          8,
+          "Rollout"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Swift"
+        ],
+        [
+          17,
+          "Ancient Power"
+        ],
+        [
+          22,
+          "Self-Destruct"
+        ],
+        [
+          24,
+          "Stealth Rock"
+        ],
+        [
+          29,
+          "Take Down"
+        ],
+        [
+          31,
+          "Autotomize"
+        ],
+        [
+          36,
+          "Cosmic Power"
+        ],
+        [
+          38,
+          "Power Gem"
+        ],
+        [
+          43,
+          "Double-Edge"
+        ],
+        [
+          45,
+          "Shell Smash"
+        ],
+        [
+          50,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Endeavor",
+        "Gravity",
+        "Iron Head",
+        "Last Resort",
+        "Magnet Rise",
+        "Snore",
+        "Stealth Rock",
+        "Telekinesis",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Minior",
+    "variant_name": "Core Form",
+    "base_stats": {
+      "hp": 60,
+      "attack": 100,
+      "defense": 60,
+      "speed": 120,
+      "special_attack": 100,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 774,
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "height": 0.3,
+      "weight": 0.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Meteor Pok\u00e9mon",
+      "flavor_text": "This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.",
+      "abilities": [
+        "Shields Down"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        213,
+        277
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Defense Curl"
+        ],
+        [
+          8,
+          "Rollout"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          15,
+          "Swift"
+        ],
+        [
+          17,
+          "Ancient Power"
+        ],
+        [
+          22,
+          "Self-Destruct"
+        ],
+        [
+          24,
+          "Stealth Rock"
+        ],
+        [
+          29,
+          "Take Down"
+        ],
+        [
+          31,
+          "Autotomize"
+        ],
+        [
+          36,
+          "Cosmic Power"
+        ],
+        [
+          38,
+          "Power Gem"
+        ],
+        [
+          43,
+          "Double-Edge"
+        ],
+        [
+          45,
+          "Shell Smash"
+        ],
+        [
+          50,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Endeavor",
+        "Gravity",
+        "Iron Head",
+        "Last Resort",
+        "Magnet Rise",
+        "Snore",
+        "Stealth Rock",
+        "Telekinesis",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

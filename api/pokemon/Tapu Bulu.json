@@ -1,0 +1,322 @@
+[
+  {
+    "species_name": "Tapu Bulu",
+    "variant_name": "Tapu Bulu",
+    "base_stats": {
+      "hp": 70,
+      "attack": 130,
+      "defense": 115,
+      "speed": 75,
+      "special_attack": 85,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 787,
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "height": 1.9,
+      "weight": 45.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Land Spirit Pok\u00e9mon",
+      "flavor_text": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula\u2019ula controls plants.",
+      "abilities": [
+        "Grassy Surge"
+      ],
+      "hidden_abilities": [
+        "Telepathy"
+      ],
+      "regional_dex_nums": [
+        287,
+        385
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Disable"
+        ],
+        [
+          1,
+          "Grassy Terrain"
+        ],
+        [
+          1,
+          "Leafage"
+        ],
+        [
+          1,
+          "Mean Look"
+        ],
+        [
+          1,
+          "Superpower"
+        ],
+        [
+          1,
+          "Whirlwind"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          1,
+          "Wood Hammer"
+        ],
+        [
+          8,
+          "Horn Attack"
+        ],
+        [
+          14,
+          "Giga Drain"
+        ],
+        [
+          20,
+          "Scary Face"
+        ],
+        [
+          26,
+          "Leech Seed"
+        ],
+        [
+          32,
+          "Horn Leech"
+        ],
+        [
+          38,
+          "Rototiller"
+        ],
+        [
+          43,
+          "Nature's Madness"
+        ],
+        [
+          48,
+          "Zen Headbutt"
+        ],
+        [
+          53,
+          "Megahorn"
+        ],
+        [
+          58,
+          "Skull Bash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Dual Chop",
+        "Focus Punch",
+        "Giga Drain",
+        "Iron Defense",
+        "Seed Bomb",
+        "Snore",
+        "Superpower",
+        "Synthesis",
+        "Telekinesis",
+        "Worry Seed",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

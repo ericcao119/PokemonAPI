@@ -1,0 +1,195 @@
+[
+  {
+    "species_name": "Chewtle",
+    "variant_name": "Chewtle",
+    "base_stats": {
+      "hp": 50,
+      "attack": 64,
+      "defense": 50,
+      "speed": 44,
+      "special_attack": 38,
+      "special_defense": 38
+    },
+    "dex_entry": {
+      "national_dex_num": 833,
+      "types": [
+        "Water"
+      ],
+      "height": 0.3,
+      "weight": 8.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Snapping Pok\u00e9mon",
+      "flavor_text": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pok\u00e9mon bites down and never lets go.",
+      "abilities": [
+        "Strong Jaw",
+        "Shell Armor"
+      ],
+      "hidden_abilities": [
+        "Swift Swim"
+      ],
+      "regional_dex_nums": [
+        42
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          14,
+          "Protect"
+        ],
+        [
+          21,
+          "Headbutt"
+        ],
+        [
+          28,
+          "Counter"
+        ],
+        [
+          35,
+          "Jaw Lock"
+        ],
+        [
+          42,
+          "Liquidation"
+        ],
+        [
+          49,
+          "Body Slam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Dragon Tail",
+        "Gastro Acid",
+        "Skull Bash"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

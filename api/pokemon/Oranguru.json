@@ -1,0 +1,326 @@
+[
+  {
+    "species_name": "Oranguru",
+    "variant_name": "Oranguru",
+    "base_stats": {
+      "hp": 90,
+      "attack": 60,
+      "defense": 80,
+      "speed": 60,
+      "special_attack": 90,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 765,
+      "types": [
+        "Normal",
+        "Psychic"
+      ],
+      "height": 1.5,
+      "weight": 76.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sage Pok\u00e9mon",
+      "flavor_text": "It knows the forest inside and out. If it comes across a wounded Pok\u00e9mon, Oranguru will gather medicinal herbs to treat it.",
+      "abilities": [
+        "Inner Focus",
+        "Telepathy"
+      ],
+      "hidden_abilities": [
+        "Symbiosis"
+      ],
+      "regional_dex_nums": [
+        176,
+        215,
+        342
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Taunt"
+        ],
+        [
+          5,
+          "After You"
+        ],
+        [
+          10,
+          "Calm Mind"
+        ],
+        [
+          15,
+          "Stored Power"
+        ],
+        [
+          20,
+          "Psych Up"
+        ],
+        [
+          25,
+          "Quash"
+        ],
+        [
+          30,
+          "Nasty Plot"
+        ],
+        [
+          35,
+          "Zen Headbutt"
+        ],
+        [
+          40,
+          "Trick Room"
+        ],
+        [
+          45,
+          "Psychic"
+        ],
+        [
+          50,
+          "Instruct"
+        ],
+        [
+          55,
+          "Foul Play"
+        ],
+        [
+          60,
+          "Future Sight"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          91,
+          "Psychic Terrain"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "Dream Eater",
+        "Extrasensory",
+        "Last Resort",
+        "Yawn"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

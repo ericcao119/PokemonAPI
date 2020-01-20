@@ -1,0 +1,285 @@
+[
+  {
+    "species_name": "Raticate",
+    "variant_name": "Raticate",
+    "base_stats": {
+      "hp": 55,
+      "attack": 81,
+      "defense": 60,
+      "speed": 97,
+      "special_attack": 50,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 20,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.7,
+      "weight": 18.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mouse Pok\u00e9mon",
+      "flavor_text": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+      "abilities": [
+        "Run Away",
+        "Guts"
+      ],
+      "hidden_abilities": [
+        "Hustle"
+      ],
+      "regional_dex_nums": [
+        20,
+        18,
+        20,
+        18,
+        60,
+        16,
+        16,
+        20
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 145,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 127,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          4,
+          "Quick Attack"
+        ],
+        [
+          7,
+          "Focus Energy"
+        ],
+        [
+          10,
+          "Bite"
+        ],
+        [
+          13,
+          "Pursuit"
+        ],
+        [
+          16,
+          "Hyper Fang"
+        ],
+        [
+          19,
+          "Assurance"
+        ],
+        [
+          24,
+          "Crunch"
+        ],
+        [
+          29,
+          "Sucker Punch"
+        ],
+        [
+          34,
+          "Super Fang"
+        ],
+        [
+          39,
+          "Double-Edge"
+        ],
+        [
+          44,
+          "Endeavor"
+        ]
+      ],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Raticate",
+    "variant_name": "Alolan Raticate",
+    "base_stats": {
+      "hp": 75,
+      "attack": 71,
+      "defense": 70,
+      "speed": 77,
+      "special_attack": 40,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 20,
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "height": 0.7,
+      "weight": 25.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mouse Pok\u00e9mon",
+      "flavor_text": "It makes its Rattata underlings gather food for it, dining solely on the most nutritious and delicious fare.",
+      "abilities": [
+        "Gluttony",
+        "Hustle"
+      ],
+      "hidden_abilities": [
+        "Thick Fat"
+      ],
+      "regional_dex_nums": [
+        20,
+        18,
+        20,
+        18,
+        60,
+        16,
+        16,
+        20
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 145,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 127,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          4,
+          "Quick Attack"
+        ],
+        [
+          7,
+          "Focus Energy"
+        ],
+        [
+          10,
+          "Bite"
+        ],
+        [
+          13,
+          "Pursuit"
+        ],
+        [
+          16,
+          "Hyper Fang"
+        ],
+        [
+          19,
+          "Assurance"
+        ],
+        [
+          24,
+          "Crunch"
+        ],
+        [
+          29,
+          "Sucker Punch"
+        ],
+        [
+          34,
+          "Super Fang"
+        ],
+        [
+          39,
+          "Double-Edge"
+        ],
+        [
+          44,
+          "Endeavor"
+        ]
+      ],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

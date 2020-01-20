@@ -1,0 +1,267 @@
+[
+  {
+    "species_name": "Melmetal",
+    "variant_name": "Melmetal",
+    "base_stats": {
+      "hp": 135,
+      "attack": 143,
+      "defense": 143,
+      "speed": 34,
+      "special_attack": 80,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 809,
+      "types": [
+        "Steel"
+      ],
+      "height": 2.5,
+      "weight": 800.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hex Nut Pok\u00e9mon",
+      "flavor_text": "Centrifugal force is behind the punches of Melmetal\u2019s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pok\u00e9mon.",
+      "abilities": [
+        "Iron Fist"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        153
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Thunder Punch"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          24,
+          "Thunder Wave"
+        ],
+        [
+          32,
+          "Acid Armor"
+        ],
+        [
+          40,
+          "Flash Cannon"
+        ],
+        [
+          48,
+          "Mega Punch"
+        ],
+        [
+          56,
+          "Protect"
+        ],
+        [
+          64,
+          "Discharge"
+        ],
+        [
+          72,
+          "Dynamic Punch"
+        ],
+        [
+          80,
+          "Superpower"
+        ],
+        [
+          88,
+          "Double Iron Bash"
+        ],
+        [
+          96,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          90,
+          "Electric Terrain"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          93,
+          "Darkest Lariat"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

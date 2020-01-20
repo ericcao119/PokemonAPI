@@ -1,0 +1,817 @@
+[
+  {
+    "species_name": "Absol",
+    "variant_name": "Absol",
+    "base_stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 60,
+      "speed": 75,
+      "special_attack": 75,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 359,
+      "types": [
+        "Dark"
+      ],
+      "height": 1.2,
+      "weight": 47.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Disaster Pok\u00e9mon",
+      "flavor_text": "The elderly call it the disaster Pok\u00e9mon and detest it, but interest in its power to predict disasters is on the rise.",
+      "abilities": [
+        "Pressure",
+        "Super Luck"
+      ],
+      "hidden_abilities": [
+        "Justified"
+      ],
+      "regional_dex_nums": [
+        152,
+        209,
+        216,
+        9,
+        159,
+        245,
+        322
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 163,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Feint"
+        ],
+        [
+          1,
+          "Future Sight"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Perish Song"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          7,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Pursuit"
+        ],
+        [
+          13,
+          "Taunt"
+        ],
+        [
+          16,
+          "Bite"
+        ],
+        [
+          19,
+          "Double Team"
+        ],
+        [
+          22,
+          "Slash"
+        ],
+        [
+          25,
+          "Swords Dance"
+        ],
+        [
+          29,
+          "Night Slash"
+        ],
+        [
+          33,
+          "Detect"
+        ],
+        [
+          37,
+          "Psycho Cut"
+        ],
+        [
+          41,
+          "Me First"
+        ],
+        [
+          45,
+          "Sucker Punch"
+        ],
+        [
+          49,
+          "Razor Wind"
+        ],
+        [
+          53,
+          "Future Sight"
+        ],
+        [
+          57,
+          "Perish Song"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Baton Pass",
+        "Curse",
+        "Double-Edge",
+        "Feint Attack",
+        "Hex",
+        "Magic Coat",
+        "Me First",
+        "Mean Look",
+        "Megahorn",
+        "Perish Song",
+        "Play Rough",
+        "Punishment",
+        "Sucker Punch",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Foul Play",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Laser Focus",
+        "Magic Coat",
+        "Role Play",
+        "Shock Wave",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Superpower",
+        "Throat Chop",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  },
+  {
+    "species_name": "Absol",
+    "variant_name": "Mega Absol",
+    "base_stats": {
+      "hp": 65,
+      "attack": 150,
+      "defense": 60,
+      "speed": 115,
+      "special_attack": 115,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 359,
+      "types": [
+        "Dark"
+      ],
+      "height": 1.2,
+      "weight": 49.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Disaster Pok\u00e9mon",
+      "flavor_text": "It converts the energy from Mega Evolution into an intimidating aura. Fainthearted people expire from shock at the sight of it.",
+      "abilities": [
+        "Magic Bounce"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        152,
+        209,
+        216,
+        9,
+        159,
+        245,
+        322
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 198,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Feint"
+        ],
+        [
+          1,
+          "Future Sight"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Perish Song"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          7,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Pursuit"
+        ],
+        [
+          13,
+          "Taunt"
+        ],
+        [
+          16,
+          "Bite"
+        ],
+        [
+          19,
+          "Double Team"
+        ],
+        [
+          22,
+          "Slash"
+        ],
+        [
+          25,
+          "Swords Dance"
+        ],
+        [
+          29,
+          "Night Slash"
+        ],
+        [
+          33,
+          "Detect"
+        ],
+        [
+          37,
+          "Psycho Cut"
+        ],
+        [
+          41,
+          "Me First"
+        ],
+        [
+          45,
+          "Sucker Punch"
+        ],
+        [
+          49,
+          "Razor Wind"
+        ],
+        [
+          53,
+          "Future Sight"
+        ],
+        [
+          57,
+          "Perish Song"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Baton Pass",
+        "Curse",
+        "Double-Edge",
+        "Feint Attack",
+        "Hex",
+        "Magic Coat",
+        "Me First",
+        "Mean Look",
+        "Megahorn",
+        "Perish Song",
+        "Play Rough",
+        "Punishment",
+        "Sucker Punch",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Foul Play",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Laser Focus",
+        "Magic Coat",
+        "Role Play",
+        "Shock Wave",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Superpower",
+        "Throat Chop",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

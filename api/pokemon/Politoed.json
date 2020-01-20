@@ -1,0 +1,276 @@
+[
+  {
+    "species_name": "Politoed",
+    "variant_name": "Politoed",
+    "base_stats": {
+      "hp": 90,
+      "attack": 75,
+      "defense": 75,
+      "speed": 70,
+      "special_attack": 90,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 186,
+      "types": [
+        "Water"
+      ],
+      "height": 1.1,
+      "weight": 33.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Frog Pok\u00e9mon",
+      "flavor_text": "The longer and more luxurious the curled hair on its head, the greater the number of Poliwag and Poliwhirl that will obey it.",
+      "abilities": [
+        "Water Absorb",
+        "Damp"
+      ],
+      "hidden_abilities": [
+        "Drizzle"
+      ],
+      "regional_dex_nums": [
+        75,
+        75,
+        36,
+        152,
+        185
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 225,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble Beam"
+        ],
+        [
+          1,
+          "Double Slap"
+        ],
+        [
+          1,
+          "Hypnosis"
+        ],
+        [
+          1,
+          "Perish Song"
+        ],
+        [
+          27,
+          "Swagger"
+        ],
+        [
+          37,
+          "Bounce"
+        ],
+        [
+          48,
+          "Hyper Voice"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bubble Beam",
+        "Encore",
+        "Endeavor",
+        "Endure",
+        "Haze",
+        "Ice Ball",
+        "Mind Reader",
+        "Mist",
+        "Mud Shot",
+        "Refresh",
+        "Splash",
+        "Water Pulse",
+        "Water Sport"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Endeavor",
+        "Focus Punch",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Defense Curl",
+        "Detect",
+        "Dig",
+        "Dive",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

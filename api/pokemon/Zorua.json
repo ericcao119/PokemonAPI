@@ -1,0 +1,289 @@
+[
+  {
+    "species_name": "Zorua",
+    "variant_name": "Zorua",
+    "base_stats": {
+      "hp": 40,
+      "attack": 65,
+      "defense": 40,
+      "speed": 65,
+      "special_attack": 80,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 570,
+      "types": [
+        "Dark"
+      ],
+      "height": 0.7,
+      "weight": 12.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Tricky Fox Pok\u00e9mon",
+      "flavor_text": "If a normally talkative child suddenly stops talking, it may have been replaced by Zorua.",
+      "abilities": [
+        "Illusion"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        76,
+        151,
+        124,
+        28
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          5,
+          "Pursuit"
+        ],
+        [
+          9,
+          "Fake Tears"
+        ],
+        [
+          13,
+          "Fury Swipes"
+        ],
+        [
+          17,
+          "Feint Attack"
+        ],
+        [
+          21,
+          "Scary Face"
+        ],
+        [
+          25,
+          "Taunt"
+        ],
+        [
+          29,
+          "Foul Play"
+        ],
+        [
+          33,
+          "Torment"
+        ],
+        [
+          37,
+          "Agility"
+        ],
+        [
+          41,
+          "Embargo"
+        ],
+        [
+          45,
+          "Punishment"
+        ],
+        [
+          49,
+          "Nasty Plot"
+        ],
+        [
+          53,
+          "Imprison"
+        ],
+        [
+          57,
+          "Night Daze"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Captivate",
+        "Copycat",
+        "Counter",
+        "Dark Pulse",
+        "Detect",
+        "Extrasensory",
+        "Memento",
+        "Snatch",
+        "Sucker Punch"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Covet",
+        "Foul Play",
+        "Hyper Voice",
+        "Knock Off",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Trick",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Hone Claws",
+        "Incinerate",
+        "Retaliate",
+        "Secret Power"
+      ]
+    }
+  }
+]

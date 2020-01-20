@@ -1,0 +1,300 @@
+[
+  {
+    "species_name": "Nosepass",
+    "variant_name": "Nosepass",
+    "base_stats": {
+      "hp": 30,
+      "attack": 45,
+      "defense": 135,
+      "speed": 30,
+      "special_attack": 45,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 299,
+      "types": [
+        "Rock"
+      ],
+      "height": 1.0,
+      "weight": 97.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Compass Pok\u00e9mon",
+      "flavor_text": "It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close.",
+      "abilities": [
+        "Sturdy",
+        "Magnet Pull"
+      ],
+      "hidden_abilities": [
+        "Sand Force"
+      ],
+      "regional_dex_nums": [
+        60,
+        155,
+        164,
+        93,
+        61,
+        198,
+        254
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 75,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Harden"
+        ],
+        [
+          7,
+          "Block"
+        ],
+        [
+          10,
+          "Rock Throw"
+        ],
+        [
+          13,
+          "Thunder Wave"
+        ],
+        [
+          16,
+          "Rest"
+        ],
+        [
+          19,
+          "Spark"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          25,
+          "Power Gem"
+        ],
+        [
+          28,
+          "Rock Blast"
+        ],
+        [
+          31,
+          "Discharge"
+        ],
+        [
+          34,
+          "Sandstorm"
+        ],
+        [
+          37,
+          "Earth Power"
+        ],
+        [
+          40,
+          "Stone Edge"
+        ],
+        [
+          43,
+          "Lock-On"
+        ],
+        [
+          43,
+          "Zap Cannon"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Block",
+        "Double-Edge",
+        "Endure",
+        "Magnitude",
+        "Rollout",
+        "Stealth Rock",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Earth Power",
+        "Fire Punch",
+        "Gravity",
+        "Ice Punch",
+        "Iron Defense",
+        "Magic Coat",
+        "Magnet Rise",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Captivate",
+        "Defense Curl",
+        "Dynamic Punch",
+        "Head Smash",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

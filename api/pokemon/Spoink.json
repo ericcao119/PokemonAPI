@@ -1,0 +1,300 @@
+[
+  {
+    "species_name": "Spoink",
+    "variant_name": "Spoink",
+    "base_stats": {
+      "hp": 60,
+      "attack": 25,
+      "defense": 35,
+      "speed": 60,
+      "special_attack": 70,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 325,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.7,
+      "weight": 30.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bounce Pok\u00e9mon",
+      "flavor_text": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pok\u00e9mon\u2019s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+      "abilities": [
+        "Thick Fat",
+        "Own Tempo"
+      ],
+      "hidden_abilities": [
+        "Gluttony"
+      ],
+      "regional_dex_nums": [
+        110,
+        206,
+        7,
+        115
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Splash"
+        ],
+        [
+          7,
+          "Psywave"
+        ],
+        [
+          10,
+          "Odor Sleuth"
+        ],
+        [
+          14,
+          "Psybeam"
+        ],
+        [
+          15,
+          "Psych Up"
+        ],
+        [
+          18,
+          "Confuse Ray"
+        ],
+        [
+          21,
+          "Magic Coat"
+        ],
+        [
+          26,
+          "Zen Headbutt"
+        ],
+        [
+          29,
+          "Power Gem"
+        ],
+        [
+          29,
+          "Rest"
+        ],
+        [
+          33,
+          "Snore"
+        ],
+        [
+          38,
+          "Psyshock"
+        ],
+        [
+          40,
+          "Payback"
+        ],
+        [
+          44,
+          "Psychic"
+        ],
+        [
+          50,
+          "Bounce"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Endure",
+        "Extrasensory",
+        "Future Sight",
+        "Lucky Chant",
+        "Mirror Coat",
+        "Simple Beam",
+        "Skill Swap",
+        "Trick",
+        "Whirlwind",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bounce",
+        "Covet",
+        "Heal Bell",
+        "Icy Wind",
+        "Iron Tail",
+        "Magic Coat",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

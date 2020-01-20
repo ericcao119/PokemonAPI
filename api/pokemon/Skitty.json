@@ -1,0 +1,323 @@
+[
+  {
+    "species_name": "Skitty",
+    "variant_name": "Skitty",
+    "base_stats": {
+      "hp": 50,
+      "attack": 45,
+      "defense": 45,
+      "speed": 50,
+      "special_attack": 35,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 300,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.6,
+      "weight": 11.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Kitten Pok\u00e9mon",
+      "flavor_text": "Skitty is known to chase around playfully after its own tail. In the wild, this Pok\u00e9mon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
+      "abilities": [
+        "Cute Charm",
+        "Normalize"
+      ],
+      "hidden_abilities": [
+        "Wonder Skin"
+      ],
+      "regional_dex_nums": [
+        61,
+        78,
+        78,
+        63
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 52,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fake Out"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          4,
+          "Foresight"
+        ],
+        [
+          7,
+          "Sing"
+        ],
+        [
+          10,
+          "Attract"
+        ],
+        [
+          13,
+          "Disarming Voice"
+        ],
+        [
+          16,
+          "Double Slap"
+        ],
+        [
+          19,
+          "Copycat"
+        ],
+        [
+          22,
+          "Feint Attack"
+        ],
+        [
+          25,
+          "Charm"
+        ],
+        [
+          28,
+          "Wake-Up Slap"
+        ],
+        [
+          31,
+          "Assist"
+        ],
+        [
+          34,
+          "Covet"
+        ],
+        [
+          37,
+          "Heal Bell"
+        ],
+        [
+          40,
+          "Double-Edge"
+        ],
+        [
+          43,
+          "Captivate"
+        ],
+        [
+          46,
+          "Play Rough"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Baton Pass",
+        "Captivate",
+        "Cosmic Power",
+        "Fake Out",
+        "Fake Tears",
+        "Helping Hand",
+        "Last Resort",
+        "Mud Bomb",
+        "Simple Beam",
+        "Sucker Punch",
+        "Tickle",
+        "Uproar",
+        "Wish",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Icy Wind",
+        "Iron Tail",
+        "Last Resort",
+        "Shock Wave",
+        "Snore",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Defense Curl",
+        "Dig",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rollout",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

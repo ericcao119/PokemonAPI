@@ -1,0 +1,242 @@
+[
+  {
+    "species_name": "Karrablast",
+    "variant_name": "Karrablast",
+    "base_stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 45,
+      "speed": 60,
+      "special_attack": 40,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 588,
+      "types": [
+        "Bug"
+      ],
+      "height": 0.5,
+      "weight": 5.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Clamping Pok\u00e9mon",
+      "flavor_text": "It spits a liquid from its mouth to melt through Shelmet\u2019s shell. Karrablast doesn\u2019t eat the shell\u2014 it eats only the contents.",
+      "abilities": [
+        "Swarm",
+        "Shed Skin"
+      ],
+      "hidden_abilities": [
+        "No Guard"
+      ],
+      "regional_dex_nums": [
+        94,
+        155,
+        22,
+        273
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 63,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Peck"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          8,
+          "Endure"
+        ],
+        [
+          13,
+          "Fury Cutter"
+        ],
+        [
+          16,
+          "Fury Attack"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          25,
+          "False Swipe"
+        ],
+        [
+          28,
+          "Bug Buzz"
+        ],
+        [
+          32,
+          "Slash"
+        ],
+        [
+          37,
+          "Take Down"
+        ],
+        [
+          40,
+          "Scary Face"
+        ],
+        [
+          44,
+          "X-Scissor"
+        ],
+        [
+          49,
+          "Flail"
+        ],
+        [
+          52,
+          "Swords Dance"
+        ],
+        [
+          56,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bug Bite",
+        "Counter",
+        "Drill Run",
+        "Feint Attack",
+        "Horn Attack",
+        "Knock Off",
+        "Megahorn",
+        "Pursuit",
+        "Screech"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Drill Run",
+        "Giga Drain",
+        "Iron Defense",
+        "Knock Off",
+        "Signal Beam",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Secret Power",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

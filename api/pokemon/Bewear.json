@@ -1,0 +1,313 @@
+[
+  {
+    "species_name": "Bewear",
+    "variant_name": "Bewear",
+    "base_stats": {
+      "hp": 120,
+      "attack": 125,
+      "defense": 80,
+      "speed": 60,
+      "special_attack": 55,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 760,
+      "types": [
+        "Normal",
+        "Fighting"
+      ],
+      "height": 2.1,
+      "weight": 135.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Strong Arm Pok\u00e9mon",
+      "flavor_text": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.",
+      "abilities": [
+        "Fluffy",
+        "Klutz"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        170,
+        206,
+        95
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 70,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Baby-Doll Eyes"
+        ],
+        [
+          1,
+          "Bind"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Payback"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          12,
+          "Brutal Swing"
+        ],
+        [
+          16,
+          "Endure"
+        ],
+        [
+          20,
+          "Strength"
+        ],
+        [
+          24,
+          "Take Down"
+        ],
+        [
+          30,
+          "Flail"
+        ],
+        [
+          36,
+          "Hammer Arm"
+        ],
+        [
+          42,
+          "Thrash"
+        ],
+        [
+          48,
+          "Pain Split"
+        ],
+        [
+          54,
+          "Double-Edge"
+        ],
+        [
+          60,
+          "Superpower"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          93,
+          "Darkest Lariat"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

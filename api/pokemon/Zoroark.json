@@ -1,0 +1,340 @@
+[
+  {
+    "species_name": "Zoroark",
+    "variant_name": "Zoroark",
+    "base_stats": {
+      "hp": 60,
+      "attack": 105,
+      "defense": 60,
+      "speed": 105,
+      "special_attack": 120,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 571,
+      "types": [
+        "Dark"
+      ],
+      "height": 1.6,
+      "weight": 81.1,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Illusion Fox Pok\u00e9mon",
+      "flavor_text": "If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods.",
+      "abilities": [
+        "Illusion"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        77,
+        152,
+        125,
+        29
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 179,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Hone Claws"
+        ],
+        [
+          1,
+          "Imprison"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Daze"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Pursuit"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "U-turn"
+        ],
+        [
+          5,
+          "Pursuit"
+        ],
+        [
+          9,
+          "Hone Claws"
+        ],
+        [
+          13,
+          "Fury Swipes"
+        ],
+        [
+          17,
+          "Feint Attack"
+        ],
+        [
+          21,
+          "Scary Face"
+        ],
+        [
+          25,
+          "Taunt"
+        ],
+        [
+          29,
+          "Foul Play"
+        ],
+        [
+          34,
+          "Torment"
+        ],
+        [
+          39,
+          "Agility"
+        ],
+        [
+          44,
+          "Embargo"
+        ],
+        [
+          49,
+          "Punishment"
+        ],
+        [
+          54,
+          "Nasty Plot"
+        ],
+        [
+          59,
+          "Imprison"
+        ],
+        [
+          64,
+          "Night Daze"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Captivate",
+        "Copycat",
+        "Counter",
+        "Dark Pulse",
+        "Detect",
+        "Extrasensory",
+        "Memento",
+        "Snatch",
+        "Sucker Punch"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Covet",
+        "Foul Play",
+        "Hyper Voice",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Throat Chop",
+        "Trick",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Incinerate",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

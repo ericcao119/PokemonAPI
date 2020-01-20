@@ -1,0 +1,294 @@
+[
+  {
+    "species_name": "Umbreon",
+    "variant_name": "Umbreon",
+    "base_stats": {
+      "hp": 95,
+      "attack": 65,
+      "defense": 110,
+      "speed": 65,
+      "special_attack": 60,
+      "special_defense": 130
+    },
+    "dex_entry": {
+      "national_dex_num": 197,
+      "types": [
+        "Dark"
+      ],
+      "height": 1.0,
+      "weight": 27.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Moonlight Pok\u00e9mon",
+      "flavor_text": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+      "abilities": [
+        "Synchronize"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        185,
+        168,
+        189,
+        96,
+        82,
+        128,
+        158,
+        201
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 184,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Pursuit"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          9,
+          "Baby-Doll Eyes"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          17,
+          "Confuse Ray"
+        ],
+        [
+          20,
+          "Feint Attack"
+        ],
+        [
+          25,
+          "Assurance"
+        ],
+        [
+          29,
+          "Screech"
+        ],
+        [
+          33,
+          "Moonlight"
+        ],
+        [
+          37,
+          "Mean Look"
+        ],
+        [
+          41,
+          "Last Resort"
+        ],
+        [
+          45,
+          "Guard Swap"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Captivate",
+        "Charm",
+        "Covet",
+        "Curse",
+        "Detect",
+        "Endure",
+        "Fake Tears",
+        "Flail",
+        "Natural Gift",
+        "Stored Power",
+        "Synchronoise",
+        "Tickle",
+        "Wish",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Foul Play",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Iron Tail",
+        "Laser Focus",
+        "Last Resort",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Throat Chop",
+        "Wonder Room"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Cut",
+        "Dig",
+        "Flash",
+        "Focus Energy",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Nightmare",
+        "Retaliate",
+        "Secret Power",
+        "Sucker Punch",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

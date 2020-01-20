@@ -1,0 +1,258 @@
+[
+  {
+    "species_name": "Luvdisc",
+    "variant_name": "Luvdisc",
+    "base_stats": {
+      "hp": 43,
+      "attack": 30,
+      "defense": 55,
+      "speed": 97,
+      "special_attack": 40,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 370,
+      "types": [
+        "Water"
+      ],
+      "height": 0.6,
+      "weight": 8.7,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rendezvous Pok\u00e9mon",
+      "flavor_text": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola\u2019s branches.",
+      "abilities": [
+        "Swift Swim"
+      ],
+      "hidden_abilities": [
+        "Hydration"
+      ],
+      "regional_dex_nums": [
+        183,
+        29,
+        192,
+        111,
+        134
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 116,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 225,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Agility"
+        ],
+        [
+          9,
+          "Draining Kiss"
+        ],
+        [
+          13,
+          "Lucky Chant"
+        ],
+        [
+          17,
+          "Water Pulse"
+        ],
+        [
+          20,
+          "Attract"
+        ],
+        [
+          22,
+          "Heart Stamp"
+        ],
+        [
+          26,
+          "Flail"
+        ],
+        [
+          31,
+          "Sweet Kiss"
+        ],
+        [
+          34,
+          "Take Down"
+        ],
+        [
+          37,
+          "Captivate"
+        ],
+        [
+          40,
+          "Aqua Ring"
+        ],
+        [
+          42,
+          "Soak"
+        ],
+        [
+          46,
+          "Hydro Pump"
+        ],
+        [
+          49,
+          "Safeguard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Jet",
+        "Aqua Ring",
+        "Brine",
+        "Captivate",
+        "Entrainment",
+        "Heal Pulse",
+        "Mud Sport",
+        "Splash",
+        "Supersonic",
+        "Water Sport"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Icy Wind",
+        "Liquidation",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power",
+        "Swift",
+        "Whirlpool"
+      ]
+    }
+  }
+]

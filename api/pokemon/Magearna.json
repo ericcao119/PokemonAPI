@@ -1,0 +1,293 @@
+[
+  {
+    "species_name": "Magearna",
+    "variant_name": "Magearna",
+    "base_stats": {
+      "hp": 80,
+      "attack": 95,
+      "defense": 115,
+      "speed": 65,
+      "special_attack": 130,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 801,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "height": 1.0,
+      "weight": 80.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Artificial Pok\u00e9mon",
+      "flavor_text": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.",
+      "abilities": [
+        "Soul-Heart"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        301,
+        401
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Crafty Shield"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Gear Up"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Iron Head"
+        ],
+        [
+          1,
+          "Psybeam"
+        ],
+        [
+          1,
+          "Shift Gear"
+        ],
+        [
+          1,
+          "Sonic Boom"
+        ],
+        [
+          9,
+          "Lucky Chant"
+        ],
+        [
+          17,
+          "Aurora Beam"
+        ],
+        [
+          25,
+          "Mirror Shot"
+        ],
+        [
+          33,
+          "Mind Reader"
+        ],
+        [
+          41,
+          "Flash Cannon"
+        ],
+        [
+          49,
+          "Fleur Cannon"
+        ],
+        [
+          57,
+          "Iron Defense"
+        ],
+        [
+          65,
+          "Pain Split"
+        ],
+        [
+          73,
+          "Synchronoise"
+        ],
+        [
+          81,
+          "Aura Sphere"
+        ],
+        [
+          89,
+          "Heart Swap"
+        ],
+        [
+          97,
+          "Trump Card"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "After You",
+        "Heal Bell",
+        "Helping Hand",
+        "Iron Defense",
+        "Iron Head",
+        "Last Resort",
+        "Magnet Rise",
+        "Pain Split",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

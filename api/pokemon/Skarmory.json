@@ -1,0 +1,305 @@
+[
+  {
+    "species_name": "Skarmory",
+    "variant_name": "Skarmory",
+    "base_stats": {
+      "hp": 65,
+      "attack": 80,
+      "defense": 140,
+      "speed": 70,
+      "special_attack": 40,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 227,
+      "types": [
+        "Steel",
+        "Flying"
+      ],
+      "height": 1.7,
+      "weight": 50.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Armor Bird Pok\u00e9mon",
+      "flavor_text": "Its body is draped in steel armor. It looks heavy, but it can fly at speeds of up to 185 miles an hour!",
+      "abilities": [
+        "Keen Eye",
+        "Sturdy"
+      ],
+      "hidden_abilities": [
+        "Weak Armor"
+      ],
+      "regional_dex_nums": [
+        198,
+        115,
+        203,
+        203,
+        112,
+        120,
+        208,
+        270
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 163,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 25,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          6,
+          "Sand Attack"
+        ],
+        [
+          9,
+          "Metal Claw"
+        ],
+        [
+          12,
+          "Air Cutter"
+        ],
+        [
+          17,
+          "Fury Attack"
+        ],
+        [
+          20,
+          "Feint"
+        ],
+        [
+          23,
+          "Swift"
+        ],
+        [
+          28,
+          "Spikes"
+        ],
+        [
+          31,
+          "Agility"
+        ],
+        [
+          34,
+          "Steel Wing"
+        ],
+        [
+          39,
+          "Slash"
+        ],
+        [
+          42,
+          "Metal Sound"
+        ],
+        [
+          45,
+          "Air Slash"
+        ],
+        [
+          50,
+          "Autotomize"
+        ],
+        [
+          53,
+          "Night Slash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Brave Bird",
+        "Curse",
+        "Drill Peck",
+        "Endure",
+        "Guard Swap",
+        "Pursuit",
+        "Sky Attack",
+        "Stealth Rock",
+        "Whirlwind"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Head",
+        "Sky Attack",
+        "Snore",
+        "Stealth Rock",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Detect",
+        "Double-Edge",
+        "Flash",
+        "Fury Cutter",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Rock Smash",
+        "Secret Power",
+        "Twister"
+      ]
+    }
+  }
+]

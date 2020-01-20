@@ -1,0 +1,518 @@
+[
+  {
+    "species_name": "Lycanroc",
+    "variant_name": "Midday Form",
+    "base_stats": {
+      "hp": 75,
+      "attack": 115,
+      "defense": 65,
+      "speed": 112,
+      "special_attack": 55,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 745,
+      "types": [
+        "Rock"
+      ],
+      "height": 0.8,
+      "weight": 25.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Wolf Pok\u00e9mon",
+      "flavor_text": "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
+      "abilities": [
+        "Keen Eye",
+        "Sand Rush"
+      ],
+      "hidden_abilities": [
+        "Steadfast"
+      ],
+      "regional_dex_nums": [
+        104,
+        127
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 170,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crush Claw",
+        "Fire Fang",
+        "Sucker Punch",
+        "Thrash",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Lycanroc",
+    "variant_name": "Midnight Form",
+    "base_stats": {
+      "hp": 85,
+      "attack": 115,
+      "defense": 75,
+      "speed": 82,
+      "special_attack": 55,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 745,
+      "types": [
+        "Rock"
+      ],
+      "height": 1.1,
+      "weight": 25.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Wolf Pok\u00e9mon",
+      "flavor_text": "They live alone without forming packs. They will only listen to orders from Trainers who can draw out their true power.",
+      "abilities": [
+        "Keen Eye",
+        "Vital Spirit"
+      ],
+      "hidden_abilities": [
+        "No Guard"
+      ],
+      "regional_dex_nums": [
+        104,
+        127
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 170,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crush Claw",
+        "Fire Fang",
+        "Sucker Punch",
+        "Thrash",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Lycanroc",
+    "variant_name": "Dusk Form",
+    "base_stats": {
+      "hp": 75,
+      "attack": 117,
+      "defense": 65,
+      "speed": 110,
+      "special_attack": 55,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 745,
+      "types": [
+        "Rock"
+      ],
+      "height": 0.8,
+      "weight": 25.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Wolf Pok\u00e9mon",
+      "flavor_text": "This strange form is the result of its evolving at dusk. It\u2019s very rare in Alola.",
+      "abilities": [
+        "Tough Claws"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        104,
+        127
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 170,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crush Claw",
+        "Fire Fang",
+        "Sucker Punch",
+        "Thrash",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "species_name": "Cascoon",
+    "variant_name": "Cascoon",
+    "base_stats": {
+      "hp": 50,
+      "attack": 35,
+      "defense": 55,
+      "speed": 15,
+      "special_attack": 25,
+      "special_defense": 25
+    },
+    "dex_entry": {
+      "national_dex_num": 268,
+      "types": [
+        "Bug"
+      ],
+      "height": 0.7,
+      "weight": 11.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cocoon Pok\u00e9mon",
+      "flavor_text": "If it is attacked, Cascoon remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This Pok\u00e9mon will also not forget the pain it endured.",
+      "abilities": [
+        "Shed Skin"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        17,
+        51,
+        51,
+        17
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 72,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ]
+      ],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bug Bite",
+        "Electroweb",
+        "Iron Defense"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

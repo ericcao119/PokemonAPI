@@ -1,0 +1,360 @@
+[
+  {
+    "species_name": "Slaking",
+    "variant_name": "Slaking",
+    "base_stats": {
+      "hp": 150,
+      "attack": 160,
+      "defense": 100,
+      "speed": 100,
+      "special_attack": 95,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 289,
+      "types": [
+        "Normal"
+      ],
+      "height": 2.0,
+      "weight": 130.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Lazy Pok\u00e9mon",
+      "flavor_text": "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pok\u00e9mon as it eats all the grass within reach while lying prone on the ground.",
+      "abilities": [
+        "Truant"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        38,
+        278,
+        39
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 252,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Encore"
+        ],
+        [
+          1,
+          "Fling"
+        ],
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Punishment"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Slack Off"
+        ],
+        [
+          1,
+          "Swagger"
+        ],
+        [
+          1,
+          "Yawn"
+        ],
+        [
+          6,
+          "Encore"
+        ],
+        [
+          9,
+          "Slack Off"
+        ],
+        [
+          14,
+          "Feint Attack"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          23,
+          "Covet"
+        ],
+        [
+          27,
+          "Chip Away"
+        ],
+        [
+          33,
+          "Counter"
+        ],
+        [
+          39,
+          "Flail"
+        ],
+        [
+          47,
+          "Fling"
+        ],
+        [
+          53,
+          "Punishment"
+        ],
+        [
+          61,
+          "Hammer Arm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "After You",
+        "Body Slam",
+        "Crush Claw",
+        "Curse",
+        "Hammer Arm",
+        "Night Slash",
+        "Pursuit",
+        "Slash",
+        "Sleep Talk",
+        "Snore",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Block",
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Gunk Shot",
+        "Ice Punch",
+        "Icy Wind",
+        "Low Kick",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum",
+        "Thunder Punch",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Sucker Punch"
+      ]
+    }
+  }
+]

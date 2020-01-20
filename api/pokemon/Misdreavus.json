@@ -1,0 +1,316 @@
+[
+  {
+    "species_name": "Misdreavus",
+    "variant_name": "Misdreavus",
+    "base_stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 60,
+      "speed": 85,
+      "special_attack": 85,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 200,
+      "types": [
+        "Ghost"
+      ],
+      "height": 0.7,
+      "weight": 1.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Screech Pok\u00e9mon",
+      "flavor_text": "What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn\u2019t deal well with folks who aren\u2019t easily frightened.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        214,
+        72,
+        72,
+        219,
+        66,
+        372
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 87,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Psywave"
+        ],
+        [
+          5,
+          "Spite"
+        ],
+        [
+          10,
+          "Astonish"
+        ],
+        [
+          14,
+          "Confuse Ray"
+        ],
+        [
+          19,
+          "Mean Look"
+        ],
+        [
+          23,
+          "Hex"
+        ],
+        [
+          28,
+          "Psybeam"
+        ],
+        [
+          32,
+          "Pain Split"
+        ],
+        [
+          37,
+          "Payback"
+        ],
+        [
+          41,
+          "Shadow Ball"
+        ],
+        [
+          46,
+          "Perish Song"
+        ],
+        [
+          50,
+          "Grudge"
+        ],
+        [
+          55,
+          "Power Gem"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Curse",
+        "Destiny Bond",
+        "Imprison",
+        "Me First",
+        "Memento",
+        "Nasty Plot",
+        "Ominous Wind",
+        "Screech",
+        "Shadow Sneak",
+        "Skill Swap",
+        "Spite",
+        "Sucker Punch",
+        "Wonder Room"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Foul Play",
+        "Heal Bell",
+        "Hyper Voice",
+        "Icy Wind",
+        "Magic Coat",
+        "Magic Room",
+        "Pain Split",
+        "Shock Wave",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Telekinesis",
+        "Trick",
+        "Uproar",
+        "Wonder Room"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Defense Curl",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Nightmare",
+        "Secret Power",
+        "Swift",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "species_name": "Escavalier",
+    "variant_name": "Escavalier",
+    "base_stats": {
+      "hp": 70,
+      "attack": 135,
+      "defense": 105,
+      "speed": 20,
+      "special_attack": 60,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 589,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "height": 1.0,
+      "weight": 33.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cavalry Pok\u00e9mon",
+      "flavor_text": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch\u2019d.",
+      "abilities": [
+        "Swarm",
+        "Shell Armor"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        95,
+        156,
+        23,
+        274
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Double-Edge"
+        ],
+        [
+          1,
+          "Fell Stinger"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Quick Guard"
+        ],
+        [
+          1,
+          "Twineedle"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          8,
+          "Quick Guard"
+        ],
+        [
+          13,
+          "Twineedle"
+        ],
+        [
+          16,
+          "Fury Attack"
+        ],
+        [
+          20,
+          "Headbutt"
+        ],
+        [
+          25,
+          "False Swipe"
+        ],
+        [
+          28,
+          "Bug Buzz"
+        ],
+        [
+          32,
+          "Slash"
+        ],
+        [
+          37,
+          "Iron Head"
+        ],
+        [
+          40,
+          "Iron Defense"
+        ],
+        [
+          44,
+          "X-Scissor"
+        ],
+        [
+          49,
+          "Reversal"
+        ],
+        [
+          52,
+          "Swords Dance"
+        ],
+        [
+          56,
+          "Giga Impact"
+        ],
+        [
+          60,
+          "Fell Stinger"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bug Bite",
+        "Counter",
+        "Drill Run",
+        "Feint Attack",
+        "Horn Attack",
+        "Knock Off",
+        "Megahorn",
+        "Pursuit",
+        "Screech"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Drill Run",
+        "Giga Drain",
+        "Iron Defense",
+        "Iron Head",
+        "Knock Off",
+        "Laser Focus",
+        "Signal Beam",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Rock Smash",
+        "Secret Power",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

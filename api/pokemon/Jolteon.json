@@ -1,0 +1,331 @@
+[
+  {
+    "species_name": "Jolteon",
+    "variant_name": "Jolteon",
+    "base_stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 60,
+      "speed": 130,
+      "special_attack": 110,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 135,
+      "types": [
+        "Electric"
+      ],
+      "height": 0.8,
+      "weight": 24.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Lightning Pok\u00e9mon",
+      "flavor_text": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
+      "abilities": [
+        "Volt Absorb"
+      ],
+      "hidden_abilities": [
+        "Quick Feet"
+      ],
+      "regional_dex_nums": [
+        135,
+        182,
+        135,
+        165,
+        186,
+        93,
+        79,
+        125,
+        155,
+        135,
+        198
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 184,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Baton Pass"
+        ],
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Copycat"
+        ],
+        [
+          1,
+          "Covet"
+        ],
+        [
+          1,
+          "Double-Edge"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Swift"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Take Down"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          10,
+          "Quick Attack"
+        ],
+        [
+          15,
+          "Baby-Doll Eyes"
+        ],
+        [
+          20,
+          "Thunder Wave"
+        ],
+        [
+          25,
+          "Double Kick"
+        ],
+        [
+          30,
+          "Thunder Fang"
+        ],
+        [
+          35,
+          "Pin Missile"
+        ],
+        [
+          40,
+          "Discharge"
+        ],
+        [
+          45,
+          "Agility"
+        ],
+        [
+          50,
+          "Thunder"
+        ],
+        [
+          55,
+          "Last Resort"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          7,
+          "Pin Missile"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          80,
+          "Volt Switch"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

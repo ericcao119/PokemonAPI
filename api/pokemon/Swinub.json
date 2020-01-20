@@ -1,0 +1,271 @@
+[
+  {
+    "species_name": "Swinub",
+    "variant_name": "Swinub",
+    "base_stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 40,
+      "speed": 50,
+      "special_attack": 30,
+      "special_defense": 30
+    },
+    "dex_entry": {
+      "national_dex_num": 220,
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "height": 0.4,
+      "weight": 6.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Pig Pok\u00e9mon",
+      "flavor_text": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
+      "abilities": [
+        "Oblivious",
+        "Snow Cloak"
+      ],
+      "hidden_abilities": [
+        "Thick Fat"
+      ],
+      "regional_dex_nums": [
+        191,
+        203,
+        195,
+        258,
+        76,
+        75
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 50,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 225,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Odor Sleuth"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Mud Sport"
+        ],
+        [
+          8,
+          "Powder Snow"
+        ],
+        [
+          11,
+          "Mud-Slap"
+        ],
+        [
+          14,
+          "Endure"
+        ],
+        [
+          18,
+          "Mud Bomb"
+        ],
+        [
+          21,
+          "Icy Wind"
+        ],
+        [
+          24,
+          "Ice Shard"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          35,
+          "Mist"
+        ],
+        [
+          37,
+          "Earthquake"
+        ],
+        [
+          40,
+          "Flail"
+        ],
+        [
+          44,
+          "Blizzard"
+        ],
+        [
+          48,
+          "Amnesia"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Avalanche",
+        "Bite",
+        "Body Slam",
+        "Curse",
+        "Double-Edge",
+        "Fissure",
+        "Freeze-Dry",
+        "Icicle Crash",
+        "Icicle Spear",
+        "Mud Shot",
+        "Stealth Rock",
+        "Take Down"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Endeavor",
+        "Icy Wind",
+        "Snore",
+        "Stealth Rock",
+        "Superpower"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Defense Curl",
+        "Detect",
+        "Dig",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

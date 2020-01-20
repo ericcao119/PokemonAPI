@@ -1,0 +1,274 @@
+[
+  {
+    "species_name": "Simisear",
+    "variant_name": "Simisear",
+    "base_stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 63,
+      "speed": 101,
+      "special_attack": 98,
+      "special_defense": 63
+    },
+    "dex_entry": {
+      "national_dex_num": 514,
+      "types": [
+        "Fire"
+      ],
+      "height": 1.0,
+      "weight": 28.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Ember Pok\u00e9mon",
+      "flavor_text": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
+      "abilities": [
+        "Gluttony"
+      ],
+      "hidden_abilities": [
+        "Blaze"
+      ],
+      "regional_dex_nums": [
+        20,
+        40,
+        32
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 174,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Flame Burst"
+        ],
+        [
+          1,
+          "Fury Swipes"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Lick"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Belch",
+        "Covet",
+        "Disarming Voice",
+        "Fire Punch",
+        "Fire Spin",
+        "Flare Blitz",
+        "Heat Wave",
+        "Low Kick",
+        "Nasty Plot",
+        "Role Play",
+        "Sleep Talk",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Endeavor",
+        "Fire Pledge",
+        "Fire Punch",
+        "Focus Punch",
+        "Gastro Acid",
+        "Gunk Shot",
+        "Heat Wave",
+        "Helping Hand",
+        "Iron Tail",
+        "Knock Off",
+        "Low Kick",
+        "Recycle",
+        "Role Play",
+        "Snore",
+        "Superpower",
+        "Throat Chop",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Hone Claws",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

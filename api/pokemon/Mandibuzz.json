@@ -1,0 +1,319 @@
+[
+  {
+    "species_name": "Mandibuzz",
+    "variant_name": "Mandibuzz",
+    "base_stats": {
+      "hp": 110,
+      "attack": 65,
+      "defense": 105,
+      "speed": 80,
+      "special_attack": 55,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 630,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "height": 1.2,
+      "weight": 39.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bone Vulture Pok\u00e9mon",
+      "flavor_text": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
+      "abilities": [
+        "Big Pecks",
+        "Overcoat"
+      ],
+      "hidden_abilities": [
+        "Weak Armor"
+      ],
+      "regional_dex_nums": [
+        136,
+        112,
+        78,
+        92,
+        284
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 179,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bone Rush"
+        ],
+        [
+          1,
+          "Brave Bird"
+        ],
+        [
+          1,
+          "Fury Attack"
+        ],
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Mirror Move"
+        ],
+        [
+          1,
+          "Pluck"
+        ],
+        [
+          1,
+          "Whirlwind"
+        ],
+        [
+          5,
+          "Fury Attack"
+        ],
+        [
+          10,
+          "Pluck"
+        ],
+        [
+          14,
+          "Nasty Plot"
+        ],
+        [
+          19,
+          "Flatter"
+        ],
+        [
+          23,
+          "Feint Attack"
+        ],
+        [
+          28,
+          "Punishment"
+        ],
+        [
+          32,
+          "Defog"
+        ],
+        [
+          37,
+          "Tailwind"
+        ],
+        [
+          41,
+          "Air Slash"
+        ],
+        [
+          46,
+          "Dark Pulse"
+        ],
+        [
+          50,
+          "Embargo"
+        ],
+        [
+          57,
+          "Whirlwind"
+        ],
+        [
+          63,
+          "Brave Bird"
+        ],
+        [
+          70,
+          "Mirror Move"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Fake Tears",
+        "Foul Play",
+        "Knock Off",
+        "Mean Look",
+        "Roost",
+        "Scary Face",
+        "Steel Wing"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Defog",
+        "Foul Play",
+        "Heat Wave",
+        "Iron Defense",
+        "Knock Off",
+        "Sky Attack",
+        "Snatch",
+        "Snore",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Incinerate",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

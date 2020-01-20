@@ -1,0 +1,245 @@
+[
+  {
+    "species_name": "Shiinotic",
+    "variant_name": "Shiinotic",
+    "base_stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 80,
+      "speed": 30,
+      "special_attack": 90,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 756,
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "height": 1.0,
+      "weight": 11.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Illuminating Pok\u00e9mon",
+      "flavor_text": "If you see a light deep in a forest at night, don\u2019t go near. Shiinotic will make you fall fast asleep.",
+      "abilities": [
+        "Illuminate",
+        "Effect Spore"
+      ],
+      "hidden_abilities": [
+        "Rain Dish"
+      ],
+      "regional_dex_nums": [
+        146,
+        179,
+        341
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 142,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Ingrain"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          16,
+          "Sleep Powder"
+        ],
+        [
+          20,
+          "Moonlight"
+        ],
+        [
+          27,
+          "Strength Sap"
+        ],
+        [
+          32,
+          "Giga Drain"
+        ],
+        [
+          38,
+          "Dazzling Gleam"
+        ],
+        [
+          44,
+          "Spore"
+        ],
+        [
+          50,
+          "Moonblast"
+        ],
+        [
+          56,
+          "Dream Eater"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ]
+      ],
+      "tr_moves": [
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ],
+        [
+          96,
+          "Pollen Puff"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

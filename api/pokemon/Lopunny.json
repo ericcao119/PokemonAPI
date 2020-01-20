@@ -1,0 +1,692 @@
+[
+  {
+    "species_name": "Lopunny",
+    "variant_name": "Lopunny",
+    "base_stats": {
+      "hp": 65,
+      "attack": 76,
+      "defense": 84,
+      "speed": 105,
+      "special_attack": 54,
+      "special_defense": 96
+    },
+    "dex_entry": {
+      "national_dex_num": 428,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.2,
+      "weight": 33.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rabbit Pok\u00e9mon",
+      "flavor_text": "It\u2019s notably wary and has a dislike of fighting, but at the same time, it can deliver powerful kicks with its lithe legs.",
+      "abilities": [
+        "Cute Charm",
+        "Klutz"
+      ],
+      "hidden_abilities": [
+        "Limber"
+      ],
+      "regional_dex_nums": [
+        68,
+        68,
+        81,
+        25
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 140
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bounce"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Healing Wish"
+        ],
+        [
+          1,
+          "Magic Coat"
+        ],
+        [
+          1,
+          "Mirror Coat"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Return"
+        ],
+        [
+          1,
+          "Rototiller"
+        ],
+        [
+          1,
+          "Splash"
+        ],
+        [
+          6,
+          "Endure"
+        ],
+        [
+          13,
+          "Baby-Doll Eyes"
+        ],
+        [
+          16,
+          "Quick Attack"
+        ],
+        [
+          23,
+          "Jump Kick"
+        ],
+        [
+          26,
+          "Baton Pass"
+        ],
+        [
+          33,
+          "Agility"
+        ],
+        [
+          36,
+          "Dizzy Punch"
+        ],
+        [
+          43,
+          "After You"
+        ],
+        [
+          46,
+          "Charm"
+        ],
+        [
+          53,
+          "Entrainment"
+        ],
+        [
+          56,
+          "Bounce"
+        ],
+        [
+          63,
+          "Healing Wish"
+        ],
+        [
+          66,
+          "High Jump Kick"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Circle Throw",
+        "Copycat",
+        "Cosmic Power",
+        "Double Hit",
+        "Encore",
+        "Fake Out",
+        "Fake Tears",
+        "Fire Punch",
+        "Flail",
+        "Focus Punch",
+        "Ice Punch",
+        "Low Kick",
+        "Mud Sport",
+        "Power-Up Punch",
+        "Sky Uppercut",
+        "Sweet Kiss",
+        "Switcheroo",
+        "Teeter Dance",
+        "Thunder Punch"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Bounce",
+        "Covet",
+        "Drain Punch",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Iron Tail",
+        "Laser Focus",
+        "Last Resort",
+        "Low Kick",
+        "Magic Coat",
+        "Shock Wave",
+        "Snore",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Fury Cutter",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  },
+  {
+    "species_name": "Lopunny",
+    "variant_name": "Mega Lopunny",
+    "base_stats": {
+      "hp": 65,
+      "attack": 136,
+      "defense": 94,
+      "speed": 135,
+      "special_attack": 54,
+      "special_defense": 96
+    },
+    "dex_entry": {
+      "national_dex_num": 428,
+      "types": [
+        "Normal",
+        "Fighting"
+      ],
+      "height": 1.3,
+      "weight": 28.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rabbit Pok\u00e9mon",
+      "flavor_text": "Mega Evolution awakens its combative instincts. It has shed any fur that got in the way of its attacks.",
+      "abilities": [
+        "Scrappy"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        68,
+        68,
+        81,
+        25
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 203,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 140
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bounce"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Healing Wish"
+        ],
+        [
+          1,
+          "Magic Coat"
+        ],
+        [
+          1,
+          "Mirror Coat"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Return"
+        ],
+        [
+          1,
+          "Rototiller"
+        ],
+        [
+          1,
+          "Splash"
+        ],
+        [
+          6,
+          "Endure"
+        ],
+        [
+          13,
+          "Baby-Doll Eyes"
+        ],
+        [
+          16,
+          "Quick Attack"
+        ],
+        [
+          23,
+          "Jump Kick"
+        ],
+        [
+          26,
+          "Baton Pass"
+        ],
+        [
+          33,
+          "Agility"
+        ],
+        [
+          36,
+          "Dizzy Punch"
+        ],
+        [
+          43,
+          "After You"
+        ],
+        [
+          46,
+          "Charm"
+        ],
+        [
+          53,
+          "Entrainment"
+        ],
+        [
+          56,
+          "Bounce"
+        ],
+        [
+          63,
+          "Healing Wish"
+        ],
+        [
+          66,
+          "High Jump Kick"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Circle Throw",
+        "Copycat",
+        "Cosmic Power",
+        "Double Hit",
+        "Encore",
+        "Fake Out",
+        "Fake Tears",
+        "Fire Punch",
+        "Flail",
+        "Focus Punch",
+        "Ice Punch",
+        "Low Kick",
+        "Mud Sport",
+        "Power-Up Punch",
+        "Sky Uppercut",
+        "Sweet Kiss",
+        "Switcheroo",
+        "Teeter Dance",
+        "Thunder Punch"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Bounce",
+        "Covet",
+        "Drain Punch",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Iron Tail",
+        "Laser Focus",
+        "Last Resort",
+        "Low Kick",
+        "Magic Coat",
+        "Shock Wave",
+        "Snore",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Fury Cutter",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "species_name": "Grookey",
+    "variant_name": "Grookey",
+    "base_stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 50,
+      "speed": 65,
+      "special_attack": 40,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 810,
+      "types": [
+        "Grass"
+      ],
+      "height": 0.3,
+      "weight": 5.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Chimp Pok\u00e9mon",
+      "flavor_text": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
+      "abilities": [
+        "Overgrow"
+      ],
+      "hidden_abilities": [
+        "Grassy Surge"
+      ],
+      "regional_dex_nums": [
+        1
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Grass"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          6,
+          "Branch Poke"
+        ],
+        [
+          8,
+          "Taunt"
+        ],
+        [
+          12,
+          "Razor Leaf"
+        ],
+        [
+          17,
+          "Screech"
+        ],
+        [
+          20,
+          "Knock Off"
+        ],
+        [
+          24,
+          "Slam"
+        ],
+        [
+          28,
+          "Uproar"
+        ],
+        [
+          32,
+          "Wood Hammer"
+        ],
+        [
+          36,
+          "Endeavor"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          12,
+          "Solar Blade"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          94,
+          "False Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "Fake Out",
+        "Growth",
+        "Hammer Arm",
+        "Leech Seed",
+        "Nature Power",
+        "Strength",
+        "Worry Seed"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

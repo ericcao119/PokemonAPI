@@ -1,0 +1,488 @@
+[
+  {
+    "species_name": "Wishiwashi",
+    "variant_name": "Solo Form",
+    "base_stats": {
+      "hp": 45,
+      "attack": 20,
+      "defense": 20,
+      "speed": 40,
+      "special_attack": 25,
+      "special_defense": 25
+    },
+    "dex_entry": {
+      "national_dex_num": 746,
+      "types": [
+        "Water"
+      ],
+      "height": 0.2,
+      "weight": 0.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Small Fry Pok\u00e9mon",
+      "flavor_text": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.",
+      "abilities": [
+        "Schooling"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        110,
+        133,
+        155
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          4,
+          "Helping Hand"
+        ],
+        [
+          8,
+          "Beat Up"
+        ],
+        [
+          12,
+          "Brine"
+        ],
+        [
+          16,
+          "Tearful Look"
+        ],
+        [
+          20,
+          "Dive"
+        ],
+        [
+          24,
+          "Soak"
+        ],
+        [
+          28,
+          "Uproar"
+        ],
+        [
+          32,
+          "Aqua Tail"
+        ],
+        [
+          36,
+          "Aqua Ring"
+        ],
+        [
+          40,
+          "Endeavor"
+        ],
+        [
+          44,
+          "Hydro Pump"
+        ],
+        [
+          48,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Mist",
+        "Take Down",
+        "Water Pulse"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Wishiwashi",
+    "variant_name": "School Form",
+    "base_stats": {
+      "hp": 45,
+      "attack": 140,
+      "defense": 130,
+      "speed": 30,
+      "special_attack": 140,
+      "special_defense": 135
+    },
+    "dex_entry": {
+      "national_dex_num": 746,
+      "types": [
+        "Water"
+      ],
+      "height": 8.2,
+      "weight": 78.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Small Fry Pok\u00e9mon",
+      "flavor_text": "When facing tough opponents, they get into formation. But if they get wounded in battle, they\u2019ll scatter and become solitary again.",
+      "abilities": [
+        "Schooling"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        110,
+        133,
+        155
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 217,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          4,
+          "Helping Hand"
+        ],
+        [
+          8,
+          "Beat Up"
+        ],
+        [
+          12,
+          "Brine"
+        ],
+        [
+          16,
+          "Tearful Look"
+        ],
+        [
+          20,
+          "Dive"
+        ],
+        [
+          24,
+          "Soak"
+        ],
+        [
+          28,
+          "Uproar"
+        ],
+        [
+          32,
+          "Aqua Tail"
+        ],
+        [
+          36,
+          "Aqua Ring"
+        ],
+        [
+          40,
+          "Endeavor"
+        ],
+        [
+          44,
+          "Hydro Pump"
+        ],
+        [
+          48,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Mist",
+        "Take Down",
+        "Water Pulse"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

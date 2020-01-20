@@ -1,0 +1,290 @@
+[
+  {
+    "species_name": "Galvantula",
+    "variant_name": "Galvantula",
+    "base_stats": {
+      "hp": 70,
+      "attack": 77,
+      "defense": 60,
+      "speed": 108,
+      "special_attack": 97,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 596,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "height": 0.8,
+      "weight": 14.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "EleSpider Pok\u00e9mon",
+      "flavor_text": "It lays traps of electrified threads near the nests of bird Pok\u00e9mon, aiming to snare chicks that are not yet good at flying.",
+      "abilities": [
+        "Compound Eyes",
+        "Unnerve"
+      ],
+      "hidden_abilities": [
+        "Swarm"
+      ],
+      "regional_dex_nums": [
+        102,
+        174,
+        65
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 165,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Spider Web"
+        ],
+        [
+          1,
+          "Sticky Web"
+        ],
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          4,
+          "Thunder Wave"
+        ],
+        [
+          7,
+          "Screech"
+        ],
+        [
+          12,
+          "Fury Cutter"
+        ],
+        [
+          15,
+          "Electroweb"
+        ],
+        [
+          18,
+          "Bug Bite"
+        ],
+        [
+          23,
+          "Gastro Acid"
+        ],
+        [
+          26,
+          "Slash"
+        ],
+        [
+          29,
+          "Electro Ball"
+        ],
+        [
+          34,
+          "Signal Beam"
+        ],
+        [
+          40,
+          "Agility"
+        ],
+        [
+          46,
+          "Sucker Punch"
+        ],
+        [
+          54,
+          "Discharge"
+        ],
+        [
+          60,
+          "Bug Buzz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Camouflage",
+        "Cross Poison",
+        "Disable",
+        "Feint Attack",
+        "Lunge",
+        "Pin Missile",
+        "Poison Sting",
+        "Pursuit",
+        "Rock Climb"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Bug Bite",
+        "Electroweb",
+        "Gastro Acid",
+        "Giga Drain",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Secret Power",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

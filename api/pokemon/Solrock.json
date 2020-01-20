@@ -1,0 +1,352 @@
+[
+  {
+    "species_name": "Solrock",
+    "variant_name": "Solrock",
+    "base_stats": {
+      "hp": 90,
+      "attack": 95,
+      "defense": 85,
+      "speed": 70,
+      "special_attack": 55,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 338,
+      "types": [
+        "Rock",
+        "Psychic"
+      ],
+      "height": 1.2,
+      "weight": 154.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Meteorite Pok\u00e9mon",
+      "flavor_text": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        126,
+        215,
+        13,
+        131,
+        363
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 161,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Flare Blitz"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Rock Throw"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Fire Spin"
+        ],
+        [
+          9,
+          "Rock Polish"
+        ],
+        [
+          13,
+          "Psywave"
+        ],
+        [
+          17,
+          "Embargo"
+        ],
+        [
+          21,
+          "Rock Slide"
+        ],
+        [
+          25,
+          "Cosmic Power"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          33,
+          "Heal Block"
+        ],
+        [
+          37,
+          "Stone Edge"
+        ],
+        [
+          41,
+          "Solar Beam"
+        ],
+        [
+          45,
+          "Explosion"
+        ],
+        [
+          49,
+          "Wonder Room"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Earth Power",
+        "Gravity",
+        "Heat Wave",
+        "Helping Hand",
+        "Iron Defense",
+        "Iron Head",
+        "Laser Focus",
+        "Magic Coat",
+        "Pain Split",
+        "Recycle",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Defense Curl",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Incinerate",
+        "Mimic",
+        "Natural Gift",
+        "Rollout",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

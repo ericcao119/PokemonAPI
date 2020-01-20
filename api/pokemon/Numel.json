@@ -1,0 +1,276 @@
+[
+  {
+    "species_name": "Numel",
+    "variant_name": "Numel",
+    "base_stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 40,
+      "speed": 35,
+      "special_attack": 65,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 322,
+      "types": [
+        "Fire",
+        "Ground"
+      ],
+      "height": 0.7,
+      "weight": 24.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Numb Pok\u00e9mon",
+      "flavor_text": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pok\u00e9mon\u2019s body grows heavy and its movements become sluggish.",
+      "abilities": [
+        "Oblivious",
+        "Simple"
+      ],
+      "hidden_abilities": [
+        "Own Tempo"
+      ],
+      "regional_dex_nums": [
+        101,
+        204,
+        106
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Ember"
+        ],
+        [
+          8,
+          "Focus Energy"
+        ],
+        [
+          12,
+          "Magnitude"
+        ],
+        [
+          15,
+          "Flame Burst"
+        ],
+        [
+          19,
+          "Amnesia"
+        ],
+        [
+          22,
+          "Lava Plume"
+        ],
+        [
+          26,
+          "Earth Power"
+        ],
+        [
+          29,
+          "Curse"
+        ],
+        [
+          31,
+          "Take Down"
+        ],
+        [
+          36,
+          "Yawn"
+        ],
+        [
+          40,
+          "Earthquake"
+        ],
+        [
+          43,
+          "Flamethrower"
+        ],
+        [
+          47,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Defense Curl",
+        "Endure",
+        "Growth",
+        "Heat Wave",
+        "Heavy Slam",
+        "Howl",
+        "Iron Head",
+        "Mud Bomb",
+        "Rollout",
+        "Scary Face",
+        "Spit Up",
+        "Stockpile",
+        "Stomp",
+        "Swallow",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Earth Power",
+        "Heat Wave",
+        "Iron Head",
+        "Snore",
+        "Stealth Rock"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Headbutt",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

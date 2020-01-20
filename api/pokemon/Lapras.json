@@ -1,0 +1,329 @@
+[
+  {
+    "species_name": "Lapras",
+    "variant_name": "Lapras",
+    "base_stats": {
+      "hp": 130,
+      "attack": 85,
+      "defense": 80,
+      "speed": 60,
+      "special_attack": 85,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 131,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "height": 2.5,
+      "weight": 220.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Transport Pok\u00e9mon",
+      "flavor_text": "Crossing icy seas is no issue for this cold-resistant Pok\u00e9mon. Its smooth skin is a little cool to the touch.",
+      "abilities": [
+        "Water Absorb",
+        "Shell Armor"
+      ],
+      "hidden_abilities": [
+        "Hydration"
+      ],
+      "regional_dex_nums": [
+        131,
+        219,
+        131,
+        224,
+        242,
+        150,
+        268,
+        353,
+        131,
+        361
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 187,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Sing"
+        ],
+        [
+          10,
+          "Mist"
+        ],
+        [
+          15,
+          "Life Dew"
+        ],
+        [
+          20,
+          "Ice Shard"
+        ],
+        [
+          25,
+          "Confuse Ray"
+        ],
+        [
+          30,
+          "Water Pulse"
+        ],
+        [
+          35,
+          "Brine"
+        ],
+        [
+          40,
+          "Body Slam"
+        ],
+        [
+          45,
+          "Ice Beam"
+        ],
+        [
+          50,
+          "Rain Dance"
+        ],
+        [
+          55,
+          "Hydro Pump"
+        ],
+        [
+          60,
+          "Perish Song"
+        ],
+        [
+          65,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          28,
+          "Megahorn"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          87,
+          "Drill Run"
+        ],
+        [
+          98,
+          "Liquidation"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [
+        "Ancient Power",
+        "Curse",
+        "Fissure",
+        "Freeze-Dry",
+        "Horn Drill",
+        "Sparkling Aria",
+        "Tickle"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

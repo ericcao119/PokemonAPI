@@ -1,0 +1,340 @@
+[
+  {
+    "species_name": "Empoleon",
+    "variant_name": "Empoleon",
+    "base_stats": {
+      "hp": 84,
+      "attack": 86,
+      "defense": 88,
+      "speed": 60,
+      "special_attack": 111,
+      "special_defense": 101
+    },
+    "dex_entry": {
+      "national_dex_num": 395,
+      "types": [
+        "Water",
+        "Steel"
+      ],
+      "height": 1.7,
+      "weight": 84.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Emperor Pok\u00e9mon",
+      "flavor_text": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+      "abilities": [
+        "Torrent"
+      ],
+      "hidden_abilities": [
+        "Defiant"
+      ],
+      "regional_dex_nums": [
+        9,
+        9
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 239,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aqua Jet"
+        ],
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          8,
+          "Bubble"
+        ],
+        [
+          11,
+          "Swords Dance"
+        ],
+        [
+          15,
+          "Peck"
+        ],
+        [
+          19,
+          "Bubble Beam"
+        ],
+        [
+          24,
+          "Swagger"
+        ],
+        [
+          28,
+          "Fury Attack"
+        ],
+        [
+          33,
+          "Brine"
+        ],
+        [
+          39,
+          "Whirlpool"
+        ],
+        [
+          46,
+          "Mist"
+        ],
+        [
+          52,
+          "Drill Peck"
+        ],
+        [
+          59,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Aqua Ring",
+        "Bide",
+        "Double Hit",
+        "Feather Dance",
+        "Flail",
+        "Hydro Pump",
+        "Icy Wind",
+        "Mud Sport",
+        "Mud-Slap",
+        "Power Trip",
+        "Snore",
+        "Supersonic",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Defog",
+        "Hydro Cannon",
+        "Icy Wind",
+        "Iron Defense",
+        "Knock Off",
+        "Laser Focus",
+        "Liquidation",
+        "Signal Beam",
+        "Snore",
+        "Stealth Rock",
+        "Throat Chop",
+        "Water Pledge",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Dive",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Natural Gift",
+        "Pluck",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

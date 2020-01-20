@@ -1,0 +1,705 @@
+[
+  {
+    "species_name": "Aerodactyl",
+    "variant_name": "Aerodactyl",
+    "base_stats": {
+      "hp": 80,
+      "attack": 105,
+      "defense": 65,
+      "speed": 130,
+      "special_attack": 60,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 142,
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "height": 1.8,
+      "weight": 59.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fossil Pok\u00e9mon",
+      "flavor_text": "A savage Pok\u00e9mon that died out in ancient times. It was resurrected using DNA taken from amber.",
+      "abilities": [
+        "Rock Head",
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        142,
+        224,
+        142,
+        229,
+        68,
+        284,
+        382,
+        142
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 180,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Iron Head"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          1,
+          "Wing Attack"
+        ],
+        [
+          9,
+          "Roar"
+        ],
+        [
+          17,
+          "Agility"
+        ],
+        [
+          25,
+          "Ancient Power"
+        ],
+        [
+          33,
+          "Crunch"
+        ],
+        [
+          41,
+          "Take Down"
+        ],
+        [
+          49,
+          "Sky Drop"
+        ],
+        [
+          57,
+          "Iron Head"
+        ],
+        [
+          65,
+          "Hyper Beam"
+        ],
+        [
+          73,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Curse",
+        "Dragon Breath",
+        "Foresight",
+        "Pursuit",
+        "Roost",
+        "Steel Wing",
+        "Tailwind",
+        "Whirlwind",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Defog",
+        "Dragon Pulse",
+        "Earth Power",
+        "Heat Wave",
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Sky Attack",
+        "Snore",
+        "Stealth Rock",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Bide",
+        "Captivate",
+        "Detect",
+        "Double-Edge",
+        "Dragon Rage",
+        "Endure",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Twister"
+      ]
+    }
+  },
+  {
+    "species_name": "Aerodactyl",
+    "variant_name": "Mega Aerodactyl",
+    "base_stats": {
+      "hp": 80,
+      "attack": 135,
+      "defense": 85,
+      "speed": 150,
+      "special_attack": 70,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 142,
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "height": 2.1,
+      "weight": 79.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fossil Pok\u00e9mon",
+      "flavor_text": "The power of Mega Evolution has completely restored its genes. The rocks on its body are harder than diamond.",
+      "abilities": [
+        "Tough Claws"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        142,
+        224,
+        142,
+        229,
+        68,
+        284,
+        382,
+        142
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 215,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Iron Head"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          1,
+          "Wing Attack"
+        ],
+        [
+          9,
+          "Roar"
+        ],
+        [
+          17,
+          "Agility"
+        ],
+        [
+          25,
+          "Ancient Power"
+        ],
+        [
+          33,
+          "Crunch"
+        ],
+        [
+          41,
+          "Take Down"
+        ],
+        [
+          49,
+          "Sky Drop"
+        ],
+        [
+          57,
+          "Iron Head"
+        ],
+        [
+          65,
+          "Hyper Beam"
+        ],
+        [
+          73,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Curse",
+        "Dragon Breath",
+        "Foresight",
+        "Pursuit",
+        "Roost",
+        "Steel Wing",
+        "Tailwind",
+        "Whirlwind",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Defog",
+        "Dragon Pulse",
+        "Earth Power",
+        "Heat Wave",
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Sky Attack",
+        "Snore",
+        "Stealth Rock",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Bide",
+        "Captivate",
+        "Detect",
+        "Double-Edge",
+        "Dragon Rage",
+        "Endure",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

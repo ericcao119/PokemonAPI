@@ -1,0 +1,258 @@
+[
+  {
+    "species_name": "Raboot",
+    "variant_name": "Raboot",
+    "base_stats": {
+      "hp": 65,
+      "attack": 86,
+      "defense": 60,
+      "speed": 94,
+      "special_attack": 55,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 814,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.6,
+      "weight": 9.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rabbit Pok\u00e9mon",
+      "flavor_text": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Libero"
+      ],
+      "regional_dex_nums": [
+        5
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Humanlike"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          12,
+          "Double Kick"
+        ],
+        [
+          19,
+          "Flame Charge"
+        ],
+        [
+          24,
+          "Agility"
+        ],
+        [
+          30,
+          "Headbutt"
+        ],
+        [
+          36,
+          "Counter"
+        ],
+        [
+          42,
+          "Bounce"
+        ],
+        [
+          48,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ]
+      ],
+      "tr_moves": [
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "species_name": "Braixen",
+    "variant_name": "Braixen",
+    "base_stats": {
+      "hp": 59,
+      "attack": 59,
+      "defense": 58,
+      "speed": 73,
+      "special_attack": 90,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 654,
+      "types": [
+        "Fire"
+      ],
+      "height": 1.0,
+      "weight": 14.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fox Pok\u00e9mon",
+      "flavor_text": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Magician"
+      ],
+      "regional_dex_nums": [
+        5
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 143,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Ember"
+        ],
+        [
+          11,
+          "Howl"
+        ],
+        [
+          14,
+          "Flame Charge"
+        ],
+        [
+          18,
+          "Psybeam"
+        ],
+        [
+          22,
+          "Fire Spin"
+        ],
+        [
+          28,
+          "Lucky Chant"
+        ],
+        [
+          31,
+          "Light Screen"
+        ],
+        [
+          36,
+          "Psyshock"
+        ],
+        [
+          41,
+          "Flamethrower"
+        ],
+        [
+          45,
+          "Will-O-Wisp"
+        ],
+        [
+          49,
+          "Psychic"
+        ],
+        [
+          52,
+          "Sunny Day"
+        ],
+        [
+          56,
+          "Magic Room"
+        ],
+        [
+          59,
+          "Fire Blast"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Heat Wave",
+        "Hypnosis",
+        "Magic Coat",
+        "Psychic Terrain",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Covet",
+        "Fire Pledge",
+        "Fire Punch",
+        "Foul Play",
+        "Heat Wave",
+        "Iron Tail",
+        "Laser Focus",
+        "Low Kick",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Shock Wave",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Thunder Punch",
+        "Trick",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Incinerate",
+        "Power-Up Punch",
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "species_name": "Honedge",
+    "variant_name": "Honedge",
+    "base_stats": {
+      "hp": 45,
+      "attack": 80,
+      "defense": 100,
+      "speed": 28,
+      "special_attack": 35,
+      "special_defense": 37
+    },
+    "dex_entry": {
+      "national_dex_num": 679,
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "height": 0.8,
+      "weight": 2.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sword Pok\u00e9mon",
+      "flavor_text": "The blue eye on the sword\u2019s handguard is the true body of Honedge. With its old cloth, it drains people\u2019s lives away.",
+      "abilities": [
+        "No Guard"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        117,
+        330
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 65,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 180,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Fury Cutter"
+        ],
+        [
+          8,
+          "Metal Sound"
+        ],
+        [
+          13,
+          "Pursuit"
+        ],
+        [
+          18,
+          "Autotomize"
+        ],
+        [
+          20,
+          "Shadow Sneak"
+        ],
+        [
+          22,
+          "Aerial Ace"
+        ],
+        [
+          26,
+          "Retaliate"
+        ],
+        [
+          29,
+          "Slash"
+        ],
+        [
+          32,
+          "Iron Defense"
+        ],
+        [
+          35,
+          "Night Slash"
+        ],
+        [
+          39,
+          "Power Trick"
+        ],
+        [
+          42,
+          "Iron Head"
+        ],
+        [
+          47,
+          "Sacred Sword"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Destiny Bond",
+        "Metal Sound",
+        "Shadow Sneak",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Iron Defense",
+        "Iron Head",
+        "Laser Focus",
+        "Magnet Rise",
+        "Shock Wave",
+        "Snore",
+        "Spite"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

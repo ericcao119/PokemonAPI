@@ -1,0 +1,252 @@
+[
+  {
+    "species_name": "Skrelp",
+    "variant_name": "Skrelp",
+    "base_stats": {
+      "hp": 50,
+      "attack": 60,
+      "defense": 60,
+      "speed": 30,
+      "special_attack": 60,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 690,
+      "types": [
+        "Poison",
+        "Water"
+      ],
+      "height": 0.5,
+      "weight": 7.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mock Kelp Pok\u00e9mon",
+      "flavor_text": "It\u2019s not good at swimming, so it clings to the seaweed. In the Alola region, it\u2019s often found near Dhelmise.",
+      "abilities": [
+        "Poison Point",
+        "Poison Touch"
+      ],
+      "hidden_abilities": [
+        "Adaptability"
+      ],
+      "regional_dex_nums": [
+        30,
+        347
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 225,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Feint Attack"
+        ],
+        [
+          9,
+          "Tail Whip"
+        ],
+        [
+          12,
+          "Bubble"
+        ],
+        [
+          15,
+          "Acid"
+        ],
+        [
+          19,
+          "Camouflage"
+        ],
+        [
+          23,
+          "Poison Tail"
+        ],
+        [
+          25,
+          "Water Pulse"
+        ],
+        [
+          28,
+          "Double Team"
+        ],
+        [
+          32,
+          "Toxic"
+        ],
+        [
+          35,
+          "Aqua Tail"
+        ],
+        [
+          38,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Hydro Pump"
+        ],
+        [
+          49,
+          "Dragon Pulse"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Armor",
+        "Haze",
+        "Play Rough",
+        "Toxic Spikes",
+        "Venom Drench"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Dragon Pulse",
+        "Gunk Shot",
+        "Icy Wind",
+        "Iron Tail",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Dive",
+        "Secret Power"
+      ]
+    }
+  }
+]

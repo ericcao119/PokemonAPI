@@ -1,0 +1,375 @@
+[
+  {
+    "species_name": "Dusknoir",
+    "variant_name": "Dusknoir",
+    "base_stats": {
+      "hp": 45,
+      "attack": 100,
+      "defense": 135,
+      "speed": 45,
+      "special_attack": 65,
+      "special_defense": 135
+    },
+    "dex_entry": {
+      "national_dex_num": 477,
+      "types": [
+        "Ghost"
+      ],
+      "height": 2.2,
+      "weight": 106.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Gripper Pok\u00e9mon",
+      "flavor_text": "With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten\u2014 Dusknoir disgorges the body before departing.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Frisk"
+      ],
+      "regional_dex_nums": [
+        191,
+        155,
+        137
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 236,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Bind"
+        ],
+        [
+          1,
+          "Disable"
+        ],
+        [
+          1,
+          "Fire Punch"
+        ],
+        [
+          1,
+          "Future Sight"
+        ],
+        [
+          1,
+          "Gravity"
+        ],
+        [
+          1,
+          "Ice Punch"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Shade"
+        ],
+        [
+          1,
+          "Shadow Punch"
+        ],
+        [
+          1,
+          "Thunder Punch"
+        ],
+        [
+          6,
+          "Disable"
+        ],
+        [
+          9,
+          "Astonish"
+        ],
+        [
+          14,
+          "Foresight"
+        ],
+        [
+          17,
+          "Shadow Sneak"
+        ],
+        [
+          22,
+          "Pursuit"
+        ],
+        [
+          25,
+          "Will-O-Wisp"
+        ],
+        [
+          30,
+          "Confuse Ray"
+        ],
+        [
+          33,
+          "Curse"
+        ],
+        [
+          40,
+          "Hex"
+        ],
+        [
+          45,
+          "Shadow Ball"
+        ],
+        [
+          52,
+          "Mean Look"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          64,
+          "Future Sight"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Dark Pulse",
+        "Destiny Bond",
+        "Feint Attack",
+        "Grudge",
+        "Haze",
+        "Imprison",
+        "Memento",
+        "Ominous Wind",
+        "Pain Split",
+        "Skill Swap"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bind",
+        "Fire Punch",
+        "Focus Punch",
+        "Gravity",
+        "Ice Punch",
+        "Icy Wind",
+        "Laser Focus",
+        "Pain Split",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Telekinesis",
+        "Thunder Punch",
+        "Trick",
+        "Wonder Room"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Sucker Punch"
+      ]
+    }
+  }
+]

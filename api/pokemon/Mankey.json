@@ -1,0 +1,364 @@
+[
+  {
+    "species_name": "Mankey",
+    "variant_name": "Mankey",
+    "base_stats": {
+      "hp": 40,
+      "attack": 80,
+      "defense": 35,
+      "speed": 70,
+      "special_attack": 35,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 56,
+      "types": [
+        "Fighting"
+      ],
+      "height": 0.5,
+      "weight": 28.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Pig Monkey Pok\u00e9mon",
+      "flavor_text": "An agile Pok\u00e9mon that lives in trees. It angers easily and will not hesitate to attack anything.",
+      "abilities": [
+        "Vital Spirit",
+        "Anger Point"
+      ],
+      "hidden_abilities": [
+        "Defiant"
+      ],
+      "regional_dex_nums": [
+        56,
+        134,
+        56,
+        136,
+        79,
+        93,
+        56
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Covet"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Low Kick"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          5,
+          "Fury Swipes"
+        ],
+        [
+          8,
+          "Karate Chop"
+        ],
+        [
+          12,
+          "Pursuit"
+        ],
+        [
+          15,
+          "Seismic Toss"
+        ],
+        [
+          19,
+          "Swagger"
+        ],
+        [
+          22,
+          "Cross Chop"
+        ],
+        [
+          26,
+          "Assurance"
+        ],
+        [
+          29,
+          "Punishment"
+        ],
+        [
+          33,
+          "Thrash"
+        ],
+        [
+          36,
+          "Close Combat"
+        ],
+        [
+          40,
+          "Screech"
+        ],
+        [
+          43,
+          "Stomping Tantrum"
+        ],
+        [
+          47,
+          "Outrage"
+        ],
+        [
+          50,
+          "Final Gambit"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Beat Up",
+        "Close Combat",
+        "Counter",
+        "Encore",
+        "Focus Punch",
+        "Foresight",
+        "Meditate",
+        "Night Slash",
+        "Power Trip",
+        "Revenge",
+        "Reversal",
+        "Sleep Talk",
+        "Smelling Salts"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Dual Chop",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Gunk Shot",
+        "Helping Hand",
+        "Ice Punch",
+        "Iron Tail",
+        "Low Kick",
+        "Outrage",
+        "Role Play",
+        "Seed Bomb",
+        "Snore",
+        "Spite",
+        "Stomping Tantrum",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Defense Curl",
+        "Detect",
+        "Dig",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Headbutt",
+        "Hone Claws",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Pay Day",
+        "Power-Up Punch",
+        "Psych Up",
+        "Rage",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Skull Bash",
+        "Strength",
+        "Submission",
+        "Swift",
+        "Take Down",
+        "Vacuum Wave"
+      ]
+    }
+  }
+]

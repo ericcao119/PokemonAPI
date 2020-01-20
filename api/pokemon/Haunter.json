@@ -1,0 +1,310 @@
+[
+  {
+    "species_name": "Haunter",
+    "variant_name": "Haunter",
+    "base_stats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 45,
+      "speed": 95,
+      "special_attack": 115,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 93,
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "height": 1.6,
+      "weight": 0.1,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Gas Pok\u00e9mon",
+      "flavor_text": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        93,
+        59,
+        93,
+        70,
+        70,
+        59,
+        31,
+        62,
+        74,
+        93,
+        142
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 142,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Hypnosis"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Mean Look"
+        ],
+        [
+          1,
+          "Shadow Punch"
+        ],
+        [
+          12,
+          "Payback"
+        ],
+        [
+          16,
+          "Spite"
+        ],
+        [
+          20,
+          "Curse"
+        ],
+        [
+          24,
+          "Hex"
+        ],
+        [
+          30,
+          "Night Shade"
+        ],
+        [
+          36,
+          "Sucker Punch"
+        ],
+        [
+          42,
+          "Dark Pulse"
+        ],
+        [
+          48,
+          "Shadow Ball"
+        ],
+        [
+          54,
+          "Destiny Bond"
+        ],
+        [
+          60,
+          "Dream Eater"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          77,
+          "Hex"
+        ]
+      ],
+      "tr_moves": [
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

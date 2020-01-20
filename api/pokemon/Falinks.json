@@ -1,0 +1,270 @@
+[
+  {
+    "species_name": "Falinks",
+    "variant_name": "Falinks",
+    "base_stats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 100,
+      "speed": 75,
+      "special_attack": 70,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 870,
+      "types": [
+        "Fighting"
+      ],
+      "height": 3.0,
+      "weight": 62.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Formation Pok\u00e9mon",
+      "flavor_text": "The six of them work together as one Pok\u00e9mon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
+      "abilities": [
+        "Battle Armor"
+      ],
+      "hidden_abilities": [
+        "Defiant"
+      ],
+      "regional_dex_nums": [
+        345
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Rock Smash"
+        ],
+        [
+          10,
+          "Focus Energy"
+        ],
+        [
+          15,
+          "Headbutt"
+        ],
+        [
+          20,
+          "Bulk Up"
+        ],
+        [
+          25,
+          "Endure"
+        ],
+        [
+          30,
+          "Reversal"
+        ],
+        [
+          35,
+          "First Impression"
+        ],
+        [
+          40,
+          "No Retreat"
+        ],
+        [
+          45,
+          "Iron Defense"
+        ],
+        [
+          50,
+          "Close Combat"
+        ],
+        [
+          55,
+          "Megahorn"
+        ],
+        [
+          60,
+          "Counter"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          28,
+          "Megahorn"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

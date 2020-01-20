@@ -1,0 +1,332 @@
+[
+  {
+    "species_name": "Azelf",
+    "variant_name": "Azelf",
+    "base_stats": {
+      "hp": 75,
+      "attack": 125,
+      "defense": 70,
+      "speed": 115,
+      "special_attack": 125,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 482,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.3,
+      "weight": 0.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Willpower Pok\u00e9mon",
+      "flavor_text": "It is thought that Uxie, Mesprit, and Azelf all came from the same egg.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        148,
+        148
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 140
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Last Resort"
+        ],
+        [
+          1,
+          "Natural Gift"
+        ],
+        [
+          1,
+          "Rest"
+        ],
+        [
+          6,
+          "Imprison"
+        ],
+        [
+          16,
+          "Detect"
+        ],
+        [
+          21,
+          "Swift"
+        ],
+        [
+          31,
+          "Uproar"
+        ],
+        [
+          36,
+          "Future Sight"
+        ],
+        [
+          46,
+          "Nasty Plot"
+        ],
+        [
+          50,
+          "Extrasensory"
+        ],
+        [
+          61,
+          "Last Resort"
+        ],
+        [
+          66,
+          "Natural Gift"
+        ],
+        [
+          76,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Fire Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Iron Tail",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Telekinesis",
+        "Thunder Punch",
+        "Trick",
+        "Uproar",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Incinerate",
+        "Mud-Slap",
+        "Power-Up Punch",
+        "Secret Power"
+      ]
+    }
+  }
+]

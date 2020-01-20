@@ -1,0 +1,304 @@
+[
+  {
+    "species_name": "Leavanny",
+    "variant_name": "Leavanny",
+    "base_stats": {
+      "hp": 75,
+      "attack": 103,
+      "defense": 80,
+      "speed": 92,
+      "special_attack": 70,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 542,
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "height": 1.2,
+      "weight": 20.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Nurturing Pok\u00e9mon",
+      "flavor_text": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+      "abilities": [
+        "Swarm",
+        "Chlorophyll"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        48,
+        19
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 225,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bug Bite"
+        ],
+        [
+          1,
+          "False Swipe"
+        ],
+        [
+          1,
+          "Razor Leaf"
+        ],
+        [
+          1,
+          "Slash"
+        ],
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          8,
+          "Bug Bite"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          22,
+          "Struggle Bug"
+        ],
+        [
+          29,
+          "Fell Stinger"
+        ],
+        [
+          32,
+          "Helping Hand"
+        ],
+        [
+          36,
+          "Leaf Blade"
+        ],
+        [
+          39,
+          "X-Scissor"
+        ],
+        [
+          43,
+          "Entrainment"
+        ],
+        [
+          46,
+          "Swords Dance"
+        ],
+        [
+          50,
+          "Leaf Storm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Air Slash",
+        "Baton Pass",
+        "Camouflage",
+        "Grassy Terrain",
+        "Me First",
+        "Mind Reader",
+        "Razor Wind",
+        "Screech",
+        "Silver Wind"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Electroweb",
+        "Giga Drain",
+        "Heal Bell",
+        "Helping Hand",
+        "Iron Defense",
+        "Knock Off",
+        "Laser Focus",
+        "Magic Coat",
+        "Seed Bomb",
+        "Signal Beam",
+        "Snore",
+        "Synthesis",
+        "Throat Chop",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Hone Claws",
+        "Retaliate",
+        "Secret Power"
+      ]
+    }
+  }
+]

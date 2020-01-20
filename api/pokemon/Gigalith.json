@@ -1,0 +1,280 @@
+[
+  {
+    "species_name": "Gigalith",
+    "variant_name": "Gigalith",
+    "base_stats": {
+      "hp": 85,
+      "attack": 135,
+      "defense": 130,
+      "speed": 25,
+      "special_attack": 60,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 526,
+      "types": [
+        "Rock"
+      ],
+      "height": 1.7,
+      "weight": 260.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Compressed Pok\u00e9mon",
+      "flavor_text": "Although its energy blasts can blow away a dump truck, they have a limitation\u2014 they can only be fired when the sun is out.",
+      "abilities": [
+        "Sturdy",
+        "Sand Stream"
+      ],
+      "hidden_abilities": [
+        "Sand Force"
+      ],
+      "regional_dex_nums": [
+        32,
+        70,
+        122,
+        100,
+        122,
+        170
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 232,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Power Gem"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Harden"
+        ],
+        [
+          7,
+          "Sand Attack"
+        ],
+        [
+          10,
+          "Headbutt"
+        ],
+        [
+          14,
+          "Rock Blast"
+        ],
+        [
+          17,
+          "Mud-Slap"
+        ],
+        [
+          20,
+          "Iron Defense"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          30,
+          "Rock Slide"
+        ],
+        [
+          36,
+          "Stealth Rock"
+        ],
+        [
+          42,
+          "Sandstorm"
+        ],
+        [
+          48,
+          "Stone Edge"
+        ],
+        [
+          55,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Autotomize",
+        "Curse",
+        "Gravity",
+        "Heavy Slam",
+        "Lock-On",
+        "Magnitude",
+        "Rock Tomb",
+        "Take Down",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Earth Power",
+        "Gravity",
+        "Iron Defense",
+        "Iron Head",
+        "Laser Focus",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

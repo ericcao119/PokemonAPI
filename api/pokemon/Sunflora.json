@@ -1,0 +1,278 @@
+[
+  {
+    "species_name": "Sunflora",
+    "variant_name": "Sunflora",
+    "base_stats": {
+      "hp": 75,
+      "attack": 75,
+      "defense": 55,
+      "speed": 30,
+      "special_attack": 105,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 192,
+      "types": [
+        "Grass"
+      ],
+      "height": 0.8,
+      "weight": 8.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sun Pok\u00e9mon",
+      "flavor_text": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
+      "abilities": [
+        "Chlorophyll",
+        "Solar Power"
+      ],
+      "hidden_abilities": [
+        "Early Bird"
+      ],
+      "regional_dex_nums": [
+        103,
+        104,
+        21
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 149,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Flower Shield"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          4,
+          "Ingrain"
+        ],
+        [
+          7,
+          "Grass Whistle"
+        ],
+        [
+          10,
+          "Mega Drain"
+        ],
+        [
+          13,
+          "Leech Seed"
+        ],
+        [
+          16,
+          "Razor Leaf"
+        ],
+        [
+          19,
+          "Worry Seed"
+        ],
+        [
+          22,
+          "Giga Drain"
+        ],
+        [
+          25,
+          "Bullet Seed"
+        ],
+        [
+          28,
+          "Petal Dance"
+        ],
+        [
+          31,
+          "Natural Gift"
+        ],
+        [
+          34,
+          "Solar Beam"
+        ],
+        [
+          37,
+          "Double-Edge"
+        ],
+        [
+          40,
+          "Sunny Day"
+        ],
+        [
+          43,
+          "Leaf Storm"
+        ],
+        [
+          50,
+          "Petal Blizzard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bide",
+        "Curse",
+        "Encore",
+        "Endure",
+        "Grass Whistle",
+        "Grassy Terrain",
+        "Helping Hand",
+        "Ingrain",
+        "Leech Seed",
+        "Morning Sun",
+        "Natural Gift",
+        "Nature Power",
+        "Sweet Scent"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Earth Power",
+        "Endeavor",
+        "Giga Drain",
+        "Helping Hand",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Flash",
+        "Mimic",
+        "Secret Power"
+      ]
+    }
+  }
+]

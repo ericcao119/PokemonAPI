@@ -1,0 +1,283 @@
+[
+  {
+    "species_name": "Ninjask",
+    "variant_name": "Ninjask",
+    "base_stats": {
+      "hp": 61,
+      "attack": 90,
+      "defense": 45,
+      "speed": 160,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 291,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 0.8,
+      "weight": 12.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Ninja Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+      "abilities": [
+        "Speed Boost"
+      ],
+      "hidden_abilities": [
+        "Infiltrator"
+      ],
+      "regional_dex_nums": [
+        43,
+        112,
+        44,
+        105
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 160,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Bug Bite"
+        ],
+        [
+          1,
+          "Double Team"
+        ],
+        [
+          1,
+          "Fury Cutter"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Screech"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          9,
+          "Sand Attack"
+        ],
+        [
+          13,
+          "Fury Swipes"
+        ],
+        [
+          17,
+          "Agility"
+        ],
+        [
+          23,
+          "Slash"
+        ],
+        [
+          29,
+          "Mind Reader"
+        ],
+        [
+          35,
+          "Baton Pass"
+        ],
+        [
+          41,
+          "Swords Dance"
+        ],
+        [
+          47,
+          "X-Scissor"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bug Bite",
+        "Bug Buzz",
+        "Endure",
+        "Feint Attack",
+        "Final Gambit",
+        "Gust",
+        "Night Slash",
+        "Silver Wind"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Giga Drain",
+        "Laser Focus",
+        "Snore",
+        "Spite",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Cut",
+        "Double-Edge",
+        "Flash",
+        "Hone Claws",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Secret Power",
+        "String Shot",
+        "Struggle Bug",
+        "Swift"
+      ]
+    }
+  }
+]

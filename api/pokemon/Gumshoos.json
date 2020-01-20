@@ -1,0 +1,276 @@
+[
+  {
+    "species_name": "Gumshoos",
+    "variant_name": "Gumshoos",
+    "base_stats": {
+      "hp": 88,
+      "attack": 110,
+      "defense": 60,
+      "speed": 45,
+      "special_attack": 55,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 735,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.7,
+      "weight": 14.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Stakeout Pok\u00e9mon",
+      "flavor_text": "Patient by nature, this Pok\u00e9mon loses control of itself and pounces when it spots its favorite meal\u2014Rattata!",
+      "abilities": [
+        "Strong Jaw",
+        "Stakeout"
+      ],
+      "hidden_abilities": [
+        "Adaptability"
+      ],
+      "regional_dex_nums": [
+        14,
+        14
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 146,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 127,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Pursuit"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Leer"
+        ],
+        [
+          7,
+          "Pursuit"
+        ],
+        [
+          10,
+          "Sand Attack"
+        ],
+        [
+          13,
+          "Odor Sleuth"
+        ],
+        [
+          16,
+          "Bide"
+        ],
+        [
+          19,
+          "Bite"
+        ],
+        [
+          23,
+          "Mud-Slap"
+        ],
+        [
+          27,
+          "Super Fang"
+        ],
+        [
+          31,
+          "Take Down"
+        ],
+        [
+          35,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Crunch"
+        ],
+        [
+          43,
+          "Hyper Fang"
+        ],
+        [
+          47,
+          "Yawn"
+        ],
+        [
+          51,
+          "Thrash"
+        ],
+        [
+          55,
+          "Rest"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Fire Fang",
+        "Ice Fang",
+        "Last Resort",
+        "Revenge",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Dual Chop",
+        "Endeavor",
+        "Fire Punch",
+        "Ice Punch",
+        "Iron Head",
+        "Iron Tail",
+        "Last Resort",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum",
+        "Super Fang",
+        "Thunder Punch",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

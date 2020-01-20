@@ -1,0 +1,264 @@
+[
+  {
+    "species_name": "Buizel",
+    "variant_name": "Buizel",
+    "base_stats": {
+      "hp": 55,
+      "attack": 65,
+      "defense": 35,
+      "speed": 85,
+      "special_attack": 60,
+      "special_defense": 30
+    },
+    "dex_entry": {
+      "national_dex_num": 418,
+      "types": [
+        "Water"
+      ],
+      "height": 0.7,
+      "weight": 29.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sea Weasel Pok\u00e9mon",
+      "flavor_text": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+      "abilities": [
+        "Swift Swim"
+      ],
+      "hidden_abilities": [
+        "Water Veil"
+      ],
+      "regional_dex_nums": [
+        56,
+        56,
+        149,
+        58
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Sonic Boom"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          7,
+          "Water Sport"
+        ],
+        [
+          11,
+          "Quick Attack"
+        ],
+        [
+          15,
+          "Water Gun"
+        ],
+        [
+          18,
+          "Pursuit"
+        ],
+        [
+          21,
+          "Swift"
+        ],
+        [
+          24,
+          "Aqua Jet"
+        ],
+        [
+          27,
+          "Double Hit"
+        ],
+        [
+          31,
+          "Whirlpool"
+        ],
+        [
+          35,
+          "Razor Wind"
+        ],
+        [
+          38,
+          "Aqua Tail"
+        ],
+        [
+          41,
+          "Agility"
+        ],
+        [
+          45,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Ring",
+        "Aqua Tail",
+        "Baton Pass",
+        "Double Slap",
+        "Fury Cutter",
+        "Fury Swipes",
+        "Headbutt",
+        "Helping Hand",
+        "Me First",
+        "Mud-Slap",
+        "Odor Sleuth",
+        "Slash",
+        "Soak",
+        "Switcheroo",
+        "Tail Slap"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Brine",
+        "Captivate",
+        "Dig",
+        "Dive",
+        "Endure",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

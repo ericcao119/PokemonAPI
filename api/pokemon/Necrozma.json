@@ -1,0 +1,1405 @@
+[
+  {
+    "species_name": "Necrozma",
+    "variant_name": "Necrozma",
+    "base_stats": {
+      "hp": 97,
+      "attack": 107,
+      "defense": 101,
+      "speed": 79,
+      "special_attack": 127,
+      "special_defense": 89
+    },
+    "dex_entry": {
+      "national_dex_num": 800,
+      "types": [
+        "Psychic"
+      ],
+      "height": 2.4,
+      "weight": 230.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Prism Pok\u00e9mon",
+      "flavor_text": "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces.",
+      "abilities": [
+        "Prism Armor"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        300,
+        400
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge Beam"
+        ],
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Gravity"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Moonlight"
+        ],
+        [
+          1,
+          "Morning Sun"
+        ],
+        [
+          8,
+          "Stealth Rock"
+        ],
+        [
+          16,
+          "Slash"
+        ],
+        [
+          24,
+          "Night Slash"
+        ],
+        [
+          32,
+          "Psycho Cut"
+        ],
+        [
+          40,
+          "Stored Power"
+        ],
+        [
+          48,
+          "Rock Blast"
+        ],
+        [
+          56,
+          "Iron Defense"
+        ],
+        [
+          64,
+          "Power Gem"
+        ],
+        [
+          72,
+          "Photon Geyser"
+        ],
+        [
+          80,
+          "Autotomize"
+        ],
+        [
+          88,
+          "Prismatic Laser"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          44,
+          "Cosmic Power"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          63,
+          "Power Gem"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Necrozma",
+    "variant_name": "Dusk Mane Necrozma",
+    "base_stats": {
+      "hp": 97,
+      "attack": 157,
+      "defense": 127,
+      "speed": 77,
+      "special_attack": 113,
+      "special_defense": 109
+    },
+    "dex_entry": {
+      "national_dex_num": 800,
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "height": 3.8,
+      "weight": 460.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Prism Pok\u00e9mon",
+      "flavor_text": "Necrozma has attached itself to Solgaleo. It siphons away its host\u2019s limitless energy, exploiting that energy to fuel a rampage.",
+      "abilities": [
+        "Prism Armor"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        300,
+        400
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge Beam"
+        ],
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Gravity"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Moonlight"
+        ],
+        [
+          1,
+          "Morning Sun"
+        ],
+        [
+          8,
+          "Stealth Rock"
+        ],
+        [
+          16,
+          "Slash"
+        ],
+        [
+          24,
+          "Night Slash"
+        ],
+        [
+          32,
+          "Psycho Cut"
+        ],
+        [
+          40,
+          "Stored Power"
+        ],
+        [
+          48,
+          "Rock Blast"
+        ],
+        [
+          56,
+          "Iron Defense"
+        ],
+        [
+          64,
+          "Power Gem"
+        ],
+        [
+          72,
+          "Photon Geyser"
+        ],
+        [
+          80,
+          "Autotomize"
+        ],
+        [
+          88,
+          "Prismatic Laser"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          44,
+          "Cosmic Power"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          63,
+          "Power Gem"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Necrozma",
+    "variant_name": "Dawn Wings Necrozma",
+    "base_stats": {
+      "hp": 97,
+      "attack": 113,
+      "defense": 109,
+      "speed": 77,
+      "special_attack": 157,
+      "special_defense": 127
+    },
+    "dex_entry": {
+      "national_dex_num": 800,
+      "types": [
+        "Psychic",
+        "Ghost"
+      ],
+      "height": 4.2,
+      "weight": 350.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Prism Pok\u00e9mon",
+      "flavor_text": "When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers.",
+      "abilities": [
+        "Prism Armor"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        300,
+        400
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge Beam"
+        ],
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Gravity"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Moonlight"
+        ],
+        [
+          1,
+          "Morning Sun"
+        ],
+        [
+          8,
+          "Stealth Rock"
+        ],
+        [
+          16,
+          "Slash"
+        ],
+        [
+          24,
+          "Night Slash"
+        ],
+        [
+          32,
+          "Psycho Cut"
+        ],
+        [
+          40,
+          "Stored Power"
+        ],
+        [
+          48,
+          "Rock Blast"
+        ],
+        [
+          56,
+          "Iron Defense"
+        ],
+        [
+          64,
+          "Power Gem"
+        ],
+        [
+          72,
+          "Photon Geyser"
+        ],
+        [
+          80,
+          "Autotomize"
+        ],
+        [
+          88,
+          "Prismatic Laser"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          44,
+          "Cosmic Power"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          63,
+          "Power Gem"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Necrozma",
+    "variant_name": "Ultra Necrozma",
+    "base_stats": {
+      "hp": 97,
+      "attack": 167,
+      "defense": 97,
+      "speed": 129,
+      "special_attack": 167,
+      "special_defense": 97
+    },
+    "dex_entry": {
+      "national_dex_num": 800,
+      "types": [
+        "Psychic",
+        "Dragon"
+      ],
+      "height": 7.5,
+      "weight": 230.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Prism Pok\u00e9mon",
+      "flavor_text": "The light pouring out from all over its body affects living things and nature, impacting them in various ways.",
+      "abilities": [
+        "Neuroforce"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        300,
+        400
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 339,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge Beam"
+        ],
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Gravity"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Moonlight"
+        ],
+        [
+          1,
+          "Morning Sun"
+        ],
+        [
+          8,
+          "Stealth Rock"
+        ],
+        [
+          16,
+          "Slash"
+        ],
+        [
+          24,
+          "Night Slash"
+        ],
+        [
+          32,
+          "Psycho Cut"
+        ],
+        [
+          40,
+          "Stored Power"
+        ],
+        [
+          48,
+          "Rock Blast"
+        ],
+        [
+          56,
+          "Iron Defense"
+        ],
+        [
+          64,
+          "Power Gem"
+        ],
+        [
+          72,
+          "Photon Geyser"
+        ],
+        [
+          80,
+          "Autotomize"
+        ],
+        [
+          88,
+          "Prismatic Laser"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          44,
+          "Cosmic Power"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          63,
+          "Power Gem"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

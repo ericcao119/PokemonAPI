@@ -1,0 +1,357 @@
+[
+  {
+    "species_name": "Silvally",
+    "variant_name": "Silvally",
+    "base_stats": {
+      "hp": 95,
+      "attack": 95,
+      "defense": 95,
+      "speed": 95,
+      "special_attack": 95,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 773,
+      "types": [
+        "Normal"
+      ],
+      "height": 2.3,
+      "weight": 100.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Synthetic Pok\u00e9mon",
+      "flavor_text": "The final factor needed to release this Pok\u00e9mon\u2019s true power was a strong bond with a Trainer it trusts.",
+      "abilities": [
+        "RKS System"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        204,
+        260,
+        382
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aerial Ace"
+        ],
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Explosion"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Imprison"
+        ],
+        [
+          1,
+          "Iron Head"
+        ],
+        [
+          1,
+          "Multi-Attack"
+        ],
+        [
+          1,
+          "Poison Fang"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          15,
+          "Double Hit"
+        ],
+        [
+          20,
+          "Metal Sound"
+        ],
+        [
+          25,
+          "Crush Claw"
+        ],
+        [
+          30,
+          "Air Slash"
+        ],
+        [
+          35,
+          "Tri Attack"
+        ],
+        [
+          40,
+          "X-Scissor"
+        ],
+        [
+          45,
+          "Crunch"
+        ],
+        [
+          50,
+          "Take Down"
+        ],
+        [
+          55,
+          "Double-Edge"
+        ],
+        [
+          60,
+          "Parting Shot"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          95,
+          "Air Slash"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          19,
+          "Tri Attack"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

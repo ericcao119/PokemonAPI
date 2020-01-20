@@ -1,0 +1,335 @@
+[
+  {
+    "species_name": "Palkia",
+    "variant_name": "Palkia",
+    "base_stats": {
+      "hp": 90,
+      "attack": 120,
+      "defense": 100,
+      "speed": 100,
+      "special_attack": 150,
+      "special_defense": 120
+    },
+    "dex_entry": {
+      "national_dex_num": 484,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "height": 4.2,
+      "weight": 336.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Spatial Pok\u00e9mon",
+      "flavor_text": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Telepathy"
+      ],
+      "regional_dex_nums": [
+        150,
+        150
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          6,
+          "Water Pulse"
+        ],
+        [
+          10,
+          "Ancient Power"
+        ],
+        [
+          15,
+          "Slash"
+        ],
+        [
+          19,
+          "Power Gem"
+        ],
+        [
+          24,
+          "Aqua Ring"
+        ],
+        [
+          28,
+          "Dragon Claw"
+        ],
+        [
+          33,
+          "Earth Power"
+        ],
+        [
+          37,
+          "Aura Sphere"
+        ],
+        [
+          42,
+          "Aqua Tail"
+        ],
+        [
+          46,
+          "Spacial Rend"
+        ],
+        [
+          50,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Focus Punch",
+        "Gravity",
+        "Hyper Voice",
+        "Liquidation",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Brine",
+        "Cut",
+        "Dive",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Heal Block",
+        "Hone Claws",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Twister",
+        "Whirlpool"
+      ]
+    }
+  }
+]

@@ -1,0 +1,301 @@
+[
+  {
+    "species_name": "Walrein",
+    "variant_name": "Walrein",
+    "base_stats": {
+      "hp": 110,
+      "attack": 80,
+      "defense": 90,
+      "speed": 65,
+      "special_attack": 95,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 365,
+      "types": [
+        "Ice",
+        "Water"
+      ],
+      "height": 1.4,
+      "weight": 150.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Ice Break Pok\u00e9mon",
+      "flavor_text": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
+      "abilities": [
+        "Thick Fat",
+        "Ice Body"
+      ],
+      "hidden_abilities": [
+        "Oblivious"
+      ],
+      "regional_dex_nums": [
+        175,
+        245,
+        184
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 239,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Crunch"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          1,
+          "Swagger"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Encore"
+        ],
+        [
+          7,
+          "Rollout"
+        ],
+        [
+          13,
+          "Ice Ball"
+        ],
+        [
+          19,
+          "Aurora Beam"
+        ],
+        [
+          19,
+          "Brine"
+        ],
+        [
+          25,
+          "Body Slam"
+        ],
+        [
+          31,
+          "Rest"
+        ],
+        [
+          31,
+          "Snore"
+        ],
+        [
+          38,
+          "Hail"
+        ],
+        [
+          49,
+          "Blizzard"
+        ],
+        [
+          60,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Ring",
+        "Belly Drum",
+        "Curse",
+        "Fissure",
+        "Rollout",
+        "Signal Beam",
+        "Sleep Talk",
+        "Spit Up",
+        "Stockpile",
+        "Swallow",
+        "Water Pulse",
+        "Water Sport",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Block",
+        "Icy Wind",
+        "Iron Head",
+        "Iron Tail",
+        "Signal Beam",
+        "Snore",
+        "Stomping Tantrum",
+        "Super Fang",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Captivate",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "species_name": "Venusaur",
+    "variant_name": "Venusaur",
+    "base_stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "speed": 80,
+      "special_attack": 100,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 3,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "height": 2.0,
+      "weight": 100.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Seed Pok\u00e9mon",
+      "flavor_text": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+      "abilities": [
+        "Overgrow"
+      ],
+      "hidden_abilities": [
+        "Chlorophyll"
+      ],
+      "regional_dex_nums": [
+        3,
+        228,
+        3,
+        233,
+        82,
+        3
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 236,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 1
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Petal Blizzard"
+        ],
+        [
+          1,
+          "Petal Dance"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Vine Whip"
+        ],
+        [
+          9,
+          "Leech Seed"
+        ],
+        [
+          12,
+          "Razor Leaf"
+        ],
+        [
+          15,
+          "Poison Powder"
+        ],
+        [
+          15,
+          "Sleep Powder"
+        ],
+        [
+          20,
+          "Seed Bomb"
+        ],
+        [
+          25,
+          "Take Down"
+        ],
+        [
+          30,
+          "Sweet Scent"
+        ],
+        [
+          37,
+          "Synthesis"
+        ],
+        [
+          44,
+          "Worry Seed"
+        ],
+        [
+          51,
+          "Double-Edge"
+        ],
+        [
+          58,
+          "Solar Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          88,
+          "Grassy Terrain"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          71,
+          "Leaf Storm"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Venusaur",
+    "variant_name": "Mega Venusaur",
+    "base_stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 123,
+      "speed": 80,
+      "special_attack": 122,
+      "special_defense": 120
+    },
+    "dex_entry": {
+      "national_dex_num": 3,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "height": 2.4,
+      "weight": 155.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Seed Pok\u00e9mon",
+      "flavor_text": "In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.",
+      "abilities": [
+        "Thick Fat"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        3,
+        228,
+        3,
+        233,
+        82,
+        3
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 281,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 1
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Petal Blizzard"
+        ],
+        [
+          1,
+          "Petal Dance"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Vine Whip"
+        ],
+        [
+          9,
+          "Leech Seed"
+        ],
+        [
+          12,
+          "Razor Leaf"
+        ],
+        [
+          15,
+          "Poison Powder"
+        ],
+        [
+          15,
+          "Sleep Powder"
+        ],
+        [
+          20,
+          "Seed Bomb"
+        ],
+        [
+          25,
+          "Take Down"
+        ],
+        [
+          30,
+          "Sweet Scent"
+        ],
+        [
+          37,
+          "Synthesis"
+        ],
+        [
+          44,
+          "Worry Seed"
+        ],
+        [
+          51,
+          "Double-Edge"
+        ],
+        [
+          58,
+          "Solar Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          88,
+          "Grassy Terrain"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          71,
+          "Leaf Storm"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

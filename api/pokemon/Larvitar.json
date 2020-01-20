@@ -1,0 +1,293 @@
+[
+  {
+    "species_name": "Larvitar",
+    "variant_name": "Larvitar",
+    "base_stats": {
+      "hp": 50,
+      "attack": 64,
+      "defense": 50,
+      "speed": 41,
+      "special_attack": 45,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 246,
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "height": 0.6,
+      "weight": 72.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rock Skin Pok\u00e9mon",
+      "flavor_text": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+      "abilities": [
+        "Guts"
+      ],
+      "hidden_abilities": [
+        "Sand Veil"
+      ],
+      "regional_dex_nums": [
+        244,
+        249,
+        292,
+        102,
+        247,
+        383
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          5,
+          "Sandstorm"
+        ],
+        [
+          10,
+          "Screech"
+        ],
+        [
+          14,
+          "Chip Away"
+        ],
+        [
+          19,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Scary Face"
+        ],
+        [
+          28,
+          "Thrash"
+        ],
+        [
+          32,
+          "Dark Pulse"
+        ],
+        [
+          37,
+          "Payback"
+        ],
+        [
+          41,
+          "Crunch"
+        ],
+        [
+          46,
+          "Earthquake"
+        ],
+        [
+          50,
+          "Stone Edge"
+        ],
+        [
+          55,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Assurance",
+        "Curse",
+        "Dragon Dance",
+        "Focus Energy",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Pursuit",
+        "Stealth Rock",
+        "Stomp"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Superpower",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Detect",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

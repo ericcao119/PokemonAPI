@@ -1,0 +1,218 @@
+[
+  {
+    "species_name": "Meowth",
+    "variant_name": "Meowth",
+    "base_stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "speed": 90,
+      "special_attack": 40,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 52,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.4,
+      "weight": 4.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Scratch Cat Pok\u00e9mon",
+      "flavor_text": "It washes its face regularly to keep the coin on its forehead spotless. It doesn\u2019t get along with Galarian Meowth.",
+      "abilities": [
+        "Pickup",
+        "Technician"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        52,
+        136,
+        52,
+        138,
+        45,
+        52,
+        52,
+        182
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 58,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Meowth",
+    "variant_name": "Alolan Meowth",
+    "base_stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 35,
+      "speed": 90,
+      "special_attack": 50,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 52,
+      "types": [
+        "Dark"
+      ],
+      "height": 0.4,
+      "weight": 4.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Scratch Cat Pok\u00e9mon",
+      "flavor_text": "Highly intelligent and prideful, it\u2019s famously difficult to handle\u2014but that\u2019s also a reason for its popularity.",
+      "abilities": [
+        "Pickup",
+        "Technician"
+      ],
+      "hidden_abilities": [
+        "Rattled"
+      ],
+      "regional_dex_nums": [
+        52,
+        136,
+        52,
+        138,
+        45,
+        52,
+        52,
+        182
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 58,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Meowth",
+    "variant_name": "Galarian Meowth",
+    "base_stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 55,
+      "speed": 40,
+      "special_attack": 40,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 52,
+      "types": [
+        "Steel"
+      ],
+      "height": 0.4,
+      "weight": 7.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Scratch Cat Pok\u00e9mon",
+      "flavor_text": "It washes its face regularly to keep the coin on its forehead spotless. It doesn\u2019t get along with Galarian Meowth.",
+      "abilities": [
+        "Pickup",
+        "Tough Claws"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        52,
+        136,
+        52,
+        138,
+        45,
+        52,
+        52,
+        182
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

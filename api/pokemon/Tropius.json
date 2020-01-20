@@ -1,0 +1,308 @@
+[
+  {
+    "species_name": "Tropius",
+    "variant_name": "Tropius",
+    "base_stats": {
+      "hp": 99,
+      "attack": 68,
+      "defense": 83,
+      "speed": 51,
+      "special_attack": 72,
+      "special_defense": 87
+    },
+    "dex_entry": {
+      "national_dex_num": 357,
+      "types": [
+        "Grass",
+        "Flying"
+      ],
+      "height": 2.0,
+      "weight": 100.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fruit Pok\u00e9mon",
+      "flavor_text": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
+      "abilities": [
+        "Chlorophyll",
+        "Solar Power"
+      ],
+      "hidden_abilities": [
+        "Harvest"
+      ],
+      "regional_dex_nums": [
+        150,
+        185,
+        288,
+        156,
+        354
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 161,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Leaf Storm"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Razor Leaf"
+        ],
+        [
+          6,
+          "Sweet Scent"
+        ],
+        [
+          10,
+          "Stomp"
+        ],
+        [
+          16,
+          "Magical Leaf"
+        ],
+        [
+          21,
+          "Whirlwind"
+        ],
+        [
+          26,
+          "Leaf Tornado"
+        ],
+        [
+          30,
+          "Natural Gift"
+        ],
+        [
+          36,
+          "Air Slash"
+        ],
+        [
+          41,
+          "Body Slam"
+        ],
+        [
+          46,
+          "Bestow"
+        ],
+        [
+          50,
+          "Synthesis"
+        ],
+        [
+          56,
+          "Solar Beam"
+        ],
+        [
+          61,
+          "Leaf Storm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bullet Seed",
+        "Curse",
+        "Dragon Dance",
+        "Dragon Hammer",
+        "Headbutt",
+        "Leaf Blade",
+        "Leaf Storm",
+        "Leech Seed",
+        "Natural Gift",
+        "Nature Power",
+        "Razor Wind",
+        "Slam",
+        "Synthesis"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Dragon Pulse",
+        "Giga Drain",
+        "Outrage",
+        "Seed Bomb",
+        "Snore",
+        "Stomping Tantrum",
+        "Synthesis",
+        "Tailwind",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Cut",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Mimic",
+        "Mud-Slap",
+        "Ominous Wind",
+        "Rock Smash",
+        "Secret Power",
+        "Silver Wind",
+        "Strength",
+        "Twister"
+      ]
+    }
+  }
+]

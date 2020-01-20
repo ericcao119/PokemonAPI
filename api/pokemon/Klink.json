@@ -1,0 +1,234 @@
+[
+  {
+    "species_name": "Klink",
+    "variant_name": "Klink",
+    "base_stats": {
+      "hp": 40,
+      "attack": 55,
+      "defense": 70,
+      "speed": 30,
+      "special_attack": 45,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 599,
+      "types": [
+        "Steel"
+      ],
+      "height": 0.3,
+      "weight": 21.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Gear Pok\u00e9mon",
+      "flavor_text": "It\u2019s suspected that Klink were the inspiration behind ancient people\u2019s invention of the first gears.",
+      "abilities": [
+        "Plus",
+        "Minus"
+      ],
+      "hidden_abilities": [
+        "Clear Body"
+      ],
+      "regional_dex_nums": [
+        105,
+        130,
+        113
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 130,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Vise Grip"
+        ],
+        [
+          6,
+          "Charge"
+        ],
+        [
+          11,
+          "Thunder Shock"
+        ],
+        [
+          16,
+          "Gear Grind"
+        ],
+        [
+          21,
+          "Bind"
+        ],
+        [
+          26,
+          "Charge Beam"
+        ],
+        [
+          31,
+          "Autotomize"
+        ],
+        [
+          36,
+          "Mirror Shot"
+        ],
+        [
+          39,
+          "Screech"
+        ],
+        [
+          42,
+          "Discharge"
+        ],
+        [
+          45,
+          "Metal Sound"
+        ],
+        [
+          48,
+          "Shift Gear"
+        ],
+        [
+          50,
+          "Lock-On"
+        ],
+        [
+          54,
+          "Zap Cannon"
+        ],
+        [
+          57,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bind",
+        "Gravity",
+        "Iron Defense",
+        "Magic Coat",
+        "Magnet Rise",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Telekinesis",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

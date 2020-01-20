@@ -1,0 +1,748 @@
+[
+  {
+    "species_name": "Audino",
+    "variant_name": "Audino",
+    "base_stats": {
+      "hp": 103,
+      "attack": 60,
+      "defense": 86,
+      "speed": 50,
+      "special_attack": 60,
+      "special_defense": 86
+    },
+    "dex_entry": {
+      "national_dex_num": 531,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.1,
+      "weight": 31.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hearing Pok\u00e9mon",
+      "flavor_text": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+      "abilities": [
+        "Healer",
+        "Regenerator"
+      ],
+      "hidden_abilities": [
+        "Klutz"
+      ],
+      "regional_dex_nums": [
+        37,
+        36,
+        123
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 390,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Hyper Voice"
+        ],
+        [
+          1,
+          "Last Resort"
+        ],
+        [
+          1,
+          "Misty Terrain"
+        ],
+        [
+          1,
+          "Play Nice"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          5,
+          "Baby-Doll Eyes"
+        ],
+        [
+          9,
+          "Refresh"
+        ],
+        [
+          13,
+          "Disarming Voice"
+        ],
+        [
+          17,
+          "Double Slap"
+        ],
+        [
+          21,
+          "Attract"
+        ],
+        [
+          25,
+          "Secret Power"
+        ],
+        [
+          29,
+          "Entrainment"
+        ],
+        [
+          33,
+          "Take Down"
+        ],
+        [
+          37,
+          "Heal Pulse"
+        ],
+        [
+          41,
+          "After You"
+        ],
+        [
+          45,
+          "Simple Beam"
+        ],
+        [
+          49,
+          "Double-Edge"
+        ],
+        [
+          53,
+          "Hyper Voice"
+        ],
+        [
+          57,
+          "Last Resort"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Bestow",
+        "Draining Kiss",
+        "Encore",
+        "Heal Bell",
+        "Healing Wish",
+        "Lucky Chant",
+        "Sleep Talk",
+        "Sweet Kiss",
+        "Wish",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Covet",
+        "Drain Punch",
+        "Fire Punch",
+        "Focus Punch",
+        "Gravity",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Low Kick",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Throat Chop",
+        "Thunder Punch",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Flash",
+        "Incinerate",
+        "Power-Up Punch",
+        "Retaliate"
+      ]
+    }
+  },
+  {
+    "species_name": "Audino",
+    "variant_name": "Mega Audino",
+    "base_stats": {
+      "hp": 103,
+      "attack": 60,
+      "defense": 126,
+      "speed": 50,
+      "special_attack": 80,
+      "special_defense": 126
+    },
+    "dex_entry": {
+      "national_dex_num": 531,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "height": 1.5,
+      "weight": 32.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hearing Pok\u00e9mon",
+      "flavor_text": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+      "abilities": [
+        "Healer"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        37,
+        36,
+        123
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 425,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Hyper Voice"
+        ],
+        [
+          1,
+          "Last Resort"
+        ],
+        [
+          1,
+          "Misty Terrain"
+        ],
+        [
+          1,
+          "Play Nice"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          5,
+          "Baby-Doll Eyes"
+        ],
+        [
+          9,
+          "Refresh"
+        ],
+        [
+          13,
+          "Disarming Voice"
+        ],
+        [
+          17,
+          "Double Slap"
+        ],
+        [
+          21,
+          "Attract"
+        ],
+        [
+          25,
+          "Secret Power"
+        ],
+        [
+          29,
+          "Entrainment"
+        ],
+        [
+          33,
+          "Take Down"
+        ],
+        [
+          37,
+          "Heal Pulse"
+        ],
+        [
+          41,
+          "After You"
+        ],
+        [
+          45,
+          "Simple Beam"
+        ],
+        [
+          49,
+          "Double-Edge"
+        ],
+        [
+          53,
+          "Hyper Voice"
+        ],
+        [
+          57,
+          "Last Resort"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Bestow",
+        "Draining Kiss",
+        "Encore",
+        "Heal Bell",
+        "Healing Wish",
+        "Lucky Chant",
+        "Sleep Talk",
+        "Sweet Kiss",
+        "Wish",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Covet",
+        "Drain Punch",
+        "Fire Punch",
+        "Focus Punch",
+        "Gravity",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Low Kick",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Throat Chop",
+        "Thunder Punch",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Flash",
+        "Incinerate",
+        "Power-Up Punch",
+        "Retaliate"
+      ]
+    }
+  }
+]

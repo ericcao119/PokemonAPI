@@ -1,0 +1,672 @@
+[
+  {
+    "species_name": "Salamence",
+    "variant_name": "Salamence",
+    "base_stats": {
+      "hp": 95,
+      "attack": 135,
+      "defense": 80,
+      "speed": 100,
+      "special_attack": 110,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 373,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "height": 1.5,
+      "weight": 102.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Dragon Pok\u00e9mon",
+      "flavor_text": "Thanks to its fervent wishes, the cells in its body finally mutated, and at last it has its heart\u2019s desire\u2014wings.",
+      "abilities": [
+        "Intimidate"
+      ],
+      "hidden_abilities": [
+        "Moxie"
+      ],
+      "regional_dex_nums": [
+        189,
+        16,
+        198,
+        119,
+        149
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Dragon Tail"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Fly"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Rage"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          4,
+          "Ember"
+        ],
+        [
+          7,
+          "Leer"
+        ],
+        [
+          10,
+          "Bite"
+        ],
+        [
+          13,
+          "Dragon Breath"
+        ],
+        [
+          17,
+          "Headbutt"
+        ],
+        [
+          21,
+          "Focus Energy"
+        ],
+        [
+          25,
+          "Crunch"
+        ],
+        [
+          29,
+          "Dragon Claw"
+        ],
+        [
+          35,
+          "Zen Headbutt"
+        ],
+        [
+          42,
+          "Scary Face"
+        ],
+        [
+          49,
+          "Flamethrower"
+        ],
+        [
+          63,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Defense Curl",
+        "Dragon Dance",
+        "Dragon Pulse",
+        "Dragon Rage",
+        "Dragon Rush",
+        "Endure",
+        "Fire Fang",
+        "Hydro Pump",
+        "Thrash",
+        "Twister"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Tail",
+        "Laser Focus",
+        "Outrage",
+        "Snore",
+        "Tailwind",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Body Slam",
+        "Captivate",
+        "Cut",
+        "Fury Cutter",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  },
+  {
+    "species_name": "Salamence",
+    "variant_name": "Mega Salamence",
+    "base_stats": {
+      "hp": 95,
+      "attack": 145,
+      "defense": 130,
+      "speed": 120,
+      "special_attack": 120,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 373,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "height": 1.8,
+      "weight": 112.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Dragon Pok\u00e9mon",
+      "flavor_text": "It puts its forelegs inside its shell to streamline itself for flight. Salamence flies at high speeds over all kinds of topographical features.",
+      "abilities": [
+        "Aerilate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        189,
+        16,
+        198,
+        119,
+        149
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 315,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Dragon Tail"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Fly"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Rage"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          4,
+          "Ember"
+        ],
+        [
+          7,
+          "Leer"
+        ],
+        [
+          10,
+          "Bite"
+        ],
+        [
+          13,
+          "Dragon Breath"
+        ],
+        [
+          17,
+          "Headbutt"
+        ],
+        [
+          21,
+          "Focus Energy"
+        ],
+        [
+          25,
+          "Crunch"
+        ],
+        [
+          29,
+          "Dragon Claw"
+        ],
+        [
+          35,
+          "Zen Headbutt"
+        ],
+        [
+          42,
+          "Scary Face"
+        ],
+        [
+          49,
+          "Flamethrower"
+        ],
+        [
+          63,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Defense Curl",
+        "Dragon Dance",
+        "Dragon Pulse",
+        "Dragon Rage",
+        "Dragon Rush",
+        "Endure",
+        "Fire Fang",
+        "Hydro Pump",
+        "Thrash",
+        "Twister"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Tail",
+        "Laser Focus",
+        "Outrage",
+        "Snore",
+        "Tailwind",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Body Slam",
+        "Captivate",
+        "Cut",
+        "Fury Cutter",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

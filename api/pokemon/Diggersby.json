@@ -1,0 +1,340 @@
+[
+  {
+    "species_name": "Diggersby",
+    "variant_name": "Diggersby",
+    "base_stats": {
+      "hp": 85,
+      "attack": 56,
+      "defense": 77,
+      "speed": 78,
+      "special_attack": 50,
+      "special_defense": 77
+    },
+    "dex_entry": {
+      "national_dex_num": 660,
+      "types": [
+        "Normal",
+        "Ground"
+      ],
+      "height": 1.0,
+      "weight": 42.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Digging Pok\u00e9mon",
+      "flavor_text": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pok\u00e9mon.",
+      "abilities": [
+        "Pickup",
+        "Cheek Pouch"
+      ],
+      "hidden_abilities": [
+        "Huge Power"
+      ],
+      "regional_dex_nums": [
+        11,
+        49
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 148,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 127,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Agility"
+        ],
+        [
+          1,
+          "Bulldoze"
+        ],
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Rototiller"
+        ],
+        [
+          1,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          7,
+          "Quick Attack"
+        ],
+        [
+          13,
+          "Double Slap"
+        ],
+        [
+          13,
+          "Mud-Slap"
+        ],
+        [
+          15,
+          "Take Down"
+        ],
+        [
+          18,
+          "Mud Shot"
+        ],
+        [
+          21,
+          "Double Kick"
+        ],
+        [
+          27,
+          "Odor Sleuth"
+        ],
+        [
+          32,
+          "Flail"
+        ],
+        [
+          37,
+          "Dig"
+        ],
+        [
+          43,
+          "Bounce"
+        ],
+        [
+          48,
+          "Super Fang"
+        ],
+        [
+          54,
+          "Facade"
+        ],
+        [
+          57,
+          "Earthquake"
+        ],
+        [
+          60,
+          "Hammer Arm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Defense Curl",
+        "Rollout",
+        "Spikes"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Earth Power",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Gastro Acid",
+        "Gunk Shot",
+        "Ice Punch",
+        "Iron Head",
+        "Iron Tail",
+        "Knock Off",
+        "Last Resort",
+        "Low Kick",
+        "Recycle",
+        "Snatch",
+        "Snore",
+        "Stomping Tantrum",
+        "Super Fang",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

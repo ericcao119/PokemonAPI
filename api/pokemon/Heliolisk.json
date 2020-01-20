@@ -1,0 +1,271 @@
+[
+  {
+    "species_name": "Heliolisk",
+    "variant_name": "Heliolisk",
+    "base_stats": {
+      "hp": 62,
+      "attack": 55,
+      "defense": 52,
+      "speed": 109,
+      "special_attack": 109,
+      "special_defense": 94
+    },
+    "dex_entry": {
+      "national_dex_num": 695,
+      "types": [
+        "Electric",
+        "Normal"
+      ],
+      "height": 1.0,
+      "weight": 21.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Generator Pok\u00e9mon",
+      "flavor_text": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
+      "abilities": [
+        "Dry Skin",
+        "Sand Veil"
+      ],
+      "hidden_abilities": [
+        "Solar Power"
+      ],
+      "regional_dex_nums": [
+        47,
+        319
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge"
+        ],
+        [
+          1,
+          "Eerie Impulse"
+        ],
+        [
+          1,
+          "Electrify"
+        ],
+        [
+          1,
+          "Parabolic Charge"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Razor Wind"
+        ],
+        [
+          1,
+          "Thunder"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Camouflage",
+        "Electric Terrain",
+        "Glare"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Dragon Pulse",
+        "Electroweb",
+        "Fire Punch",
+        "Hyper Voice",
+        "Iron Tail",
+        "Low Kick",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

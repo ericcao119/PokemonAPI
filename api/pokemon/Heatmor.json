@@ -1,0 +1,303 @@
+[
+  {
+    "species_name": "Heatmor",
+    "variant_name": "Heatmor",
+    "base_stats": {
+      "hp": 85,
+      "attack": 97,
+      "defense": 66,
+      "speed": 65,
+      "special_attack": 105,
+      "special_defense": 66
+    },
+    "dex_entry": {
+      "national_dex_num": 631,
+      "types": [
+        "Fire"
+      ],
+      "height": 1.4,
+      "weight": 58.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Anteater Pok\u00e9mon",
+      "flavor_text": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+      "abilities": [
+        "Gluttony",
+        "Flash Fire"
+      ],
+      "hidden_abilities": [
+        "White Smoke"
+      ],
+      "regional_dex_nums": [
+        137,
+        193,
+        105,
+        317
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 169,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Hone Claws"
+        ],
+        [
+          1,
+          "Incinerate"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Odor Sleuth"
+        ],
+        [
+          11,
+          "Bind"
+        ],
+        [
+          16,
+          "Fire Spin"
+        ],
+        [
+          21,
+          "Fury Swipes"
+        ],
+        [
+          26,
+          "Snatch"
+        ],
+        [
+          31,
+          "Flame Burst"
+        ],
+        [
+          36,
+          "Bug Bite"
+        ],
+        [
+          41,
+          "Slash"
+        ],
+        [
+          44,
+          "Fire Lash"
+        ],
+        [
+          47,
+          "Amnesia"
+        ],
+        [
+          50,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Spit Up"
+        ],
+        [
+          56,
+          "Stockpile"
+        ],
+        [
+          56,
+          "Swallow"
+        ],
+        [
+          61,
+          "Flare Blitz"
+        ],
+        [
+          66,
+          "Inferno"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belch",
+        "Body Slam",
+        "Curse",
+        "Feint Attack",
+        "Heat Wave",
+        "Night Slash",
+        "Pursuit",
+        "Sleep Talk",
+        "Sucker Punch",
+        "Tickle",
+        "Wrap"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Bug Bite",
+        "Fire Punch",
+        "Focus Punch",
+        "Gastro Acid",
+        "Giga Drain",
+        "Heat Wave",
+        "Knock Off",
+        "Low Kick",
+        "Recycle",
+        "Snatch",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Throat Chop",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

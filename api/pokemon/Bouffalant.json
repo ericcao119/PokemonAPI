@@ -1,0 +1,276 @@
+[
+  {
+    "species_name": "Bouffalant",
+    "variant_name": "Bouffalant",
+    "base_stats": {
+      "hp": 95,
+      "attack": 110,
+      "defense": 95,
+      "speed": 55,
+      "special_attack": 40,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 626,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.6,
+      "weight": 94.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bash Buffalo Pok\u00e9mon",
+      "flavor_text": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+      "abilities": [
+        "Reckless",
+        "Sap Sipper"
+      ],
+      "hidden_abilities": [
+        "Soundproof"
+      ],
+      "regional_dex_nums": [
+        132,
+        269
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Pursuit"
+        ],
+        [
+          6,
+          "Rage"
+        ],
+        [
+          11,
+          "Fury Attack"
+        ],
+        [
+          16,
+          "Horn Attack"
+        ],
+        [
+          21,
+          "Scary Face"
+        ],
+        [
+          26,
+          "Revenge"
+        ],
+        [
+          31,
+          "Head Charge"
+        ],
+        [
+          36,
+          "Focus Energy"
+        ],
+        [
+          41,
+          "Megahorn"
+        ],
+        [
+          46,
+          "Reversal"
+        ],
+        [
+          50,
+          "Thrash"
+        ],
+        [
+          56,
+          "Swords Dance"
+        ],
+        [
+          61,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Belch",
+        "Cotton Guard",
+        "Headbutt",
+        "Iron Head",
+        "Mud Shot",
+        "Mud-Slap",
+        "Rock Climb",
+        "Skull Bash",
+        "Stomp"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Iron Head",
+        "Outrage",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

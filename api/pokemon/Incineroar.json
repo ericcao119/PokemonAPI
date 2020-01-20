@@ -1,0 +1,383 @@
+[
+  {
+    "species_name": "Incineroar",
+    "variant_name": "Incineroar",
+    "base_stats": {
+      "hp": 95,
+      "attack": 115,
+      "defense": 90,
+      "speed": 60,
+      "special_attack": 80,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 727,
+      "types": [
+        "Fire",
+        "Dark"
+      ],
+      "height": 1.8,
+      "weight": 83.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Heel Pok\u00e9mon",
+      "flavor_text": "Incineroar\u2019s rough and aggressive behavior is its most notable trait, but the way it helps out small Pok\u00e9mon shows that it has a kind side as well.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Intimidate"
+      ],
+      "regional_dex_nums": [
+        6,
+        6
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 239,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bulk Up"
+        ],
+        [
+          1,
+          "Cross Chop"
+        ],
+        [
+          1,
+          "Darkest Lariat"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Throat Chop"
+        ],
+        [
+          9,
+          "Roar"
+        ],
+        [
+          12,
+          "Fury Swipes"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          20,
+          "Double Kick"
+        ],
+        [
+          25,
+          "Fire Fang"
+        ],
+        [
+          30,
+          "Scary Face"
+        ],
+        [
+          32,
+          "Swagger"
+        ],
+        [
+          44,
+          "Flamethrower"
+        ],
+        [
+          51,
+          "Thrash"
+        ],
+        [
+          58,
+          "Flare Blitz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ],
+        [
+          93,
+          "Darkest Lariat"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

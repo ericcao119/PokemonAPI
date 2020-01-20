@@ -1,0 +1,270 @@
+[
+  {
+    "species_name": "Mantyke",
+    "variant_name": "Mantyke",
+    "base_stats": {
+      "hp": 45,
+      "attack": 20,
+      "defense": 50,
+      "speed": 50,
+      "special_attack": 60,
+      "special_defense": 120
+    },
+    "dex_entry": {
+      "national_dex_num": 458,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "height": 1.0,
+      "weight": 65.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Kite Pok\u00e9mon",
+      "flavor_text": "It swims along with a school of Remoraid, and they\u2019ll all fight together to repel attackers.",
+      "abilities": [
+        "Swift Swim",
+        "Water Absorb"
+      ],
+      "hidden_abilities": [
+        "Water Veil"
+      ],
+      "regional_dex_nums": [
+        140,
+        140,
+        233,
+        139,
+        145,
+        354
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 69,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 25,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Supersonic"
+        ],
+        [
+          7,
+          "Bubble Beam"
+        ],
+        [
+          11,
+          "Confuse Ray"
+        ],
+        [
+          14,
+          "Wing Attack"
+        ],
+        [
+          16,
+          "Headbutt"
+        ],
+        [
+          19,
+          "Water Pulse"
+        ],
+        [
+          23,
+          "Wide Guard"
+        ],
+        [
+          27,
+          "Take Down"
+        ],
+        [
+          32,
+          "Agility"
+        ],
+        [
+          36,
+          "Air Slash"
+        ],
+        [
+          39,
+          "Aqua Ring"
+        ],
+        [
+          46,
+          "Bounce"
+        ],
+        [
+          49,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Haze",
+        "Hydro Pump",
+        "Mirror Coat",
+        "Mud Sport",
+        "Signal Beam",
+        "Slam",
+        "Splash",
+        "Tailwind",
+        "Twister",
+        "Water Sport",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Helping Hand",
+        "Icy Wind",
+        "Signal Beam",
+        "Snore",
+        "Tailwind",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Dive",
+        "Endure",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Swift",
+        "Whirlpool"
+      ]
+    }
+  }
+]

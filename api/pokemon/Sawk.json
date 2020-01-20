@@ -1,0 +1,281 @@
+[
+  {
+    "species_name": "Sawk",
+    "variant_name": "Sawk",
+    "base_stats": {
+      "hp": 75,
+      "attack": 125,
+      "defense": 75,
+      "speed": 85,
+      "special_attack": 30,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 539,
+      "types": [
+        "Fighting"
+      ],
+      "height": 1.4,
+      "weight": 51.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Karate Pok\u00e9mon",
+      "flavor_text": "The karate chops of a Sawk that\u2019s trained itself to the limit can cleave the ocean itself.",
+      "abilities": [
+        "Sturdy",
+        "Inner Focus"
+      ],
+      "hidden_abilities": [
+        "Mold Breaker"
+      ],
+      "regional_dex_nums": [
+        45,
+        268,
+        98,
+        249
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 163,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bide"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Rock Smash"
+        ],
+        [
+          5,
+          "Double Kick"
+        ],
+        [
+          9,
+          "Low Sweep"
+        ],
+        [
+          13,
+          "Counter"
+        ],
+        [
+          17,
+          "Karate Chop"
+        ],
+        [
+          21,
+          "Brick Break"
+        ],
+        [
+          25,
+          "Bulk Up"
+        ],
+        [
+          29,
+          "Retaliate"
+        ],
+        [
+          33,
+          "Endure"
+        ],
+        [
+          37,
+          "Quick Guard"
+        ],
+        [
+          41,
+          "Close Combat"
+        ],
+        [
+          45,
+          "Reversal"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Block",
+        "Dual Chop",
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Pain Split",
+        "Snore",
+        "Superpower",
+        "Throat Chop",
+        "Thunder Punch",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Power-Up Punch",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

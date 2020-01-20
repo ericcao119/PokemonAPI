@@ -1,0 +1,274 @@
+[
+  {
+    "species_name": "Salandit",
+    "variant_name": "Salandit",
+    "base_stats": {
+      "hp": 48,
+      "attack": 44,
+      "defense": 40,
+      "speed": 77,
+      "special_attack": 71,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 757,
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "height": 0.6,
+      "weight": 4.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Toxic Lizard Pok\u00e9mon",
+      "flavor_text": "This sneaky Pok\u00e9mon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
+      "abilities": [
+        "Corrosion"
+      ],
+      "hidden_abilities": [
+        "Oblivious"
+      ],
+      "regional_dex_nums": [
+        161,
+        195,
+        244
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Poison Gas"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          5,
+          "Smog"
+        ],
+        [
+          10,
+          "Ember"
+        ],
+        [
+          15,
+          "Poison Fang"
+        ],
+        [
+          20,
+          "Sweet Scent"
+        ],
+        [
+          25,
+          "Nasty Plot"
+        ],
+        [
+          30,
+          "Incinerate"
+        ],
+        [
+          35,
+          "Venoshock"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          45,
+          "Venom Drench"
+        ],
+        [
+          50,
+          "Flamethrower"
+        ],
+        [
+          55,
+          "Toxic"
+        ],
+        [
+          60,
+          "Endeavor"
+        ]
+      ],
+      "tm_moves": [
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          91,
+          "Venom Drench"
+        ]
+      ],
+      "egg_moves": [
+        "Belch",
+        "Fake Out",
+        "Mud-Slap",
+        "Sand Attack"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

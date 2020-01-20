@@ -1,0 +1,698 @@
+[
+  {
+    "species_name": "Altaria",
+    "variant_name": "Altaria",
+    "base_stats": {
+      "hp": 75,
+      "attack": 70,
+      "defense": 90,
+      "speed": 80,
+      "special_attack": 70,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 334,
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "height": 1.1,
+      "weight": 20.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Humming Pok\u00e9mon",
+      "flavor_text": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pok\u00e9mon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
+      "abilities": [
+        "Natural Cure"
+      ],
+      "hidden_abilities": [
+        "Cloud Nine"
+      ],
+      "regional_dex_nums": [
+        122,
+        172,
+        247,
+        140,
+        127
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Pluck"
+        ],
+        [
+          1,
+          "Sing"
+        ],
+        [
+          1,
+          "Sky Attack"
+        ],
+        [
+          3,
+          "Astonish"
+        ],
+        [
+          5,
+          "Sing"
+        ],
+        [
+          7,
+          "Fury Attack"
+        ],
+        [
+          9,
+          "Safeguard"
+        ],
+        [
+          11,
+          "Disarming Voice"
+        ],
+        [
+          14,
+          "Mist"
+        ],
+        [
+          17,
+          "Round"
+        ],
+        [
+          20,
+          "Natural Gift"
+        ],
+        [
+          23,
+          "Take Down"
+        ],
+        [
+          26,
+          "Refresh"
+        ],
+        [
+          30,
+          "Dragon Dance"
+        ],
+        [
+          34,
+          "Cotton Guard"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          46,
+          "Perish Song"
+        ],
+        [
+          52,
+          "Moonblast"
+        ],
+        [
+          59,
+          "Sky Attack"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Dragon Rush",
+        "Feather Dance",
+        "Haze",
+        "Hyper Voice",
+        "Play Rough",
+        "Power Swap",
+        "Pursuit",
+        "Rage",
+        "Roost",
+        "Steel Wing"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Heal Bell",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Tail",
+        "Outrage",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar",
+        "Wonder Room"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Ominous Wind",
+        "Rock Smash",
+        "Secret Power",
+        "Swift",
+        "Twister"
+      ]
+    }
+  },
+  {
+    "species_name": "Altaria",
+    "variant_name": "Mega Altaria",
+    "base_stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 110,
+      "speed": 80,
+      "special_attack": 110,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 334,
+      "types": [
+        "Dragon",
+        "Fairy"
+      ],
+      "height": 1.5,
+      "weight": 20.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Humming Pok\u00e9mon",
+      "flavor_text": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pok\u00e9mon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
+      "abilities": [
+        "Pixilate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        122,
+        172,
+        247,
+        140,
+        127
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 207,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Pluck"
+        ],
+        [
+          1,
+          "Sing"
+        ],
+        [
+          1,
+          "Sky Attack"
+        ],
+        [
+          3,
+          "Astonish"
+        ],
+        [
+          5,
+          "Sing"
+        ],
+        [
+          7,
+          "Fury Attack"
+        ],
+        [
+          9,
+          "Safeguard"
+        ],
+        [
+          11,
+          "Disarming Voice"
+        ],
+        [
+          14,
+          "Mist"
+        ],
+        [
+          17,
+          "Round"
+        ],
+        [
+          20,
+          "Natural Gift"
+        ],
+        [
+          23,
+          "Take Down"
+        ],
+        [
+          26,
+          "Refresh"
+        ],
+        [
+          30,
+          "Dragon Dance"
+        ],
+        [
+          34,
+          "Cotton Guard"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          46,
+          "Perish Song"
+        ],
+        [
+          52,
+          "Moonblast"
+        ],
+        [
+          59,
+          "Sky Attack"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Dragon Rush",
+        "Feather Dance",
+        "Haze",
+        "Hyper Voice",
+        "Play Rough",
+        "Power Swap",
+        "Pursuit",
+        "Rage",
+        "Roost",
+        "Steel Wing"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Heal Bell",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Tail",
+        "Outrage",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar",
+        "Wonder Room"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Ominous Wind",
+        "Rock Smash",
+        "Secret Power",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

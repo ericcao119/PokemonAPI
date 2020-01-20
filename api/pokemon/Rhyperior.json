@@ -1,0 +1,403 @@
+[
+  {
+    "species_name": "Rhyperior",
+    "variant_name": "Rhyperior",
+    "base_stats": {
+      "hp": 115,
+      "attack": 140,
+      "defense": 130,
+      "speed": 40,
+      "special_attack": 55,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 464,
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "height": 2.4,
+      "weight": 282.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Drill Pok\u00e9mon",
+      "flavor_text": "It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.",
+      "abilities": [
+        "Lightning Rod",
+        "Solid Rock"
+      ],
+      "hidden_abilities": [
+        "Reckless"
+      ],
+      "regional_dex_nums": [
+        188,
+        52,
+        178,
+        266
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 241,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fury Attack"
+        ],
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Horn Attack"
+        ],
+        [
+          1,
+          "Horn Drill"
+        ],
+        [
+          1,
+          "Poison Jab"
+        ],
+        [
+          1,
+          "Rock Wrecker"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Fury Attack"
+        ],
+        [
+          9,
+          "Scary Face"
+        ],
+        [
+          13,
+          "Smack Down"
+        ],
+        [
+          17,
+          "Stomp"
+        ],
+        [
+          21,
+          "Bulldoze"
+        ],
+        [
+          25,
+          "Chip Away"
+        ],
+        [
+          29,
+          "Rock Blast"
+        ],
+        [
+          33,
+          "Drill Run"
+        ],
+        [
+          37,
+          "Take Down"
+        ],
+        [
+          41,
+          "Stone Edge"
+        ],
+        [
+          48,
+          "Earthquake"
+        ],
+        [
+          55,
+          "Megahorn"
+        ],
+        [
+          62,
+          "Horn Drill"
+        ],
+        [
+          69,
+          "Rock Wrecker"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Counter",
+        "Crunch",
+        "Crush Claw",
+        "Curse",
+        "Dragon Rush",
+        "Fire Fang",
+        "Guard Split",
+        "Ice Fang",
+        "Iron Tail",
+        "Magnitude",
+        "Metal Burst",
+        "Reversal",
+        "Rock Climb",
+        "Rototiller",
+        "Skull Bash",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Block",
+        "Dragon Pulse",
+        "Drill Run",
+        "Earth Power",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Avalanche",
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

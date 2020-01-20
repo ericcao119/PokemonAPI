@@ -1,0 +1,307 @@
+[
+  {
+    "species_name": "Ekans",
+    "variant_name": "Ekans",
+    "base_stats": {
+      "hp": 35,
+      "attack": 60,
+      "defense": 44,
+      "speed": 55,
+      "special_attack": 40,
+      "special_defense": 54
+    },
+    "dex_entry": {
+      "national_dex_num": 23,
+      "types": [
+        "Poison"
+      ],
+      "height": 2.0,
+      "weight": 6.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Snake Pok\u00e9mon",
+      "flavor_text": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+      "abilities": [
+        "Intimidate",
+        "Shed Skin"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        23,
+        50,
+        23,
+        50,
+        37,
+        61,
+        23
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 58,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Wrap"
+        ],
+        [
+          4,
+          "Poison Sting"
+        ],
+        [
+          9,
+          "Bite"
+        ],
+        [
+          12,
+          "Glare"
+        ],
+        [
+          17,
+          "Screech"
+        ],
+        [
+          20,
+          "Acid"
+        ],
+        [
+          25,
+          "Spit Up"
+        ],
+        [
+          25,
+          "Stockpile"
+        ],
+        [
+          25,
+          "Swallow"
+        ],
+        [
+          28,
+          "Acid Spray"
+        ],
+        [
+          33,
+          "Mud Bomb"
+        ],
+        [
+          36,
+          "Gastro Acid"
+        ],
+        [
+          38,
+          "Belch"
+        ],
+        [
+          41,
+          "Haze"
+        ],
+        [
+          44,
+          "Coil"
+        ],
+        [
+          49,
+          "Gunk Shot"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Beat Up",
+        "Disable",
+        "Iron Tail",
+        "Poison Fang",
+        "Poison Tail",
+        "Pursuit",
+        "Scary Face",
+        "Slam",
+        "Snatch",
+        "Spite",
+        "Sucker Punch",
+        "Switcheroo"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Gastro Acid",
+        "Giga Drain",
+        "Gunk Shot",
+        "Iron Tail",
+        "Seed Bomb",
+        "Snatch",
+        "Snore",
+        "Spite"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Captivate",
+        "Crunch",
+        "Curse",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Fissure",
+        "Headbutt",
+        "Mega Drain",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Secret Power",
+        "Skull Bash",
+        "Strength",
+        "Take Down"
+      ]
+    }
+  }
+]

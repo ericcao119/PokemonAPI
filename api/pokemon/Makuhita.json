@@ -1,0 +1,302 @@
+[
+  {
+    "species_name": "Makuhita",
+    "variant_name": "Makuhita",
+    "base_stats": {
+      "hp": 72,
+      "attack": 60,
+      "defense": 30,
+      "speed": 25,
+      "special_attack": 20,
+      "special_defense": 30
+    },
+    "dex_entry": {
+      "national_dex_num": 296,
+      "types": [
+        "Fighting"
+      ],
+      "height": 1.0,
+      "weight": 86.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Guts Pok\u00e9mon",
+      "flavor_text": "There\u2019s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita.",
+      "abilities": [
+        "Thick Fat",
+        "Guts"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        48,
+        95,
+        49,
+        56,
+        68
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fluctuating",
+      "base_exp_yield": 47,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 180,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 75.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Sand Attack"
+        ],
+        [
+          7,
+          "Arm Thrust"
+        ],
+        [
+          10,
+          "Fake Out"
+        ],
+        [
+          13,
+          "Force Palm"
+        ],
+        [
+          16,
+          "Whirlwind"
+        ],
+        [
+          19,
+          "Knock Off"
+        ],
+        [
+          22,
+          "Vital Throw"
+        ],
+        [
+          25,
+          "Belly Drum"
+        ],
+        [
+          28,
+          "Smelling Salts"
+        ],
+        [
+          31,
+          "Seismic Toss"
+        ],
+        [
+          34,
+          "Wake-Up Slap"
+        ],
+        [
+          37,
+          "Endure"
+        ],
+        [
+          40,
+          "Close Combat"
+        ],
+        [
+          43,
+          "Reversal"
+        ],
+        [
+          46,
+          "Heavy Slam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bullet Punch",
+        "Chip Away",
+        "Counter",
+        "Cross Chop",
+        "Detect",
+        "Dynamic Punch",
+        "Feint",
+        "Feint Attack",
+        "Focus Punch",
+        "Foresight",
+        "Helping Hand",
+        "Revenge",
+        "Wake-Up Slap",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Knock Off",
+        "Low Kick",
+        "Role Play",
+        "Snore",
+        "Superpower",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Dig",
+        "Double-Edge",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Vacuum Wave",
+        "Whirlpool"
+      ]
+    }
+  }
+]

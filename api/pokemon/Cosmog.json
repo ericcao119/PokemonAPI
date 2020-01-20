@@ -1,0 +1,74 @@
+[
+  {
+    "species_name": "Cosmog",
+    "variant_name": "Cosmog",
+    "base_stats": {
+      "hp": 43,
+      "attack": 29,
+      "defense": 31,
+      "speed": 37,
+      "special_attack": 29,
+      "special_defense": 31
+    },
+    "dex_entry": {
+      "national_dex_num": 789,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.2,
+      "weight": 0.1,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Nebula Pok\u00e9mon",
+      "flavor_text": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away.",
+      "abilities": [
+        "Unaware"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        289,
+        387
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 40,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Splash"
+        ],
+        [
+          1,
+          "Teleport"
+        ]
+      ],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

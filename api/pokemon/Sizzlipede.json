@@ -1,0 +1,208 @@
+[
+  {
+    "species_name": "Sizzlipede",
+    "variant_name": "Sizzlipede",
+    "base_stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 45,
+      "speed": 45,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 850,
+      "types": [
+        "Fire",
+        "Bug"
+      ],
+      "height": 0.7,
+      "weight": 1.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Radiator Pok\u00e9mon",
+      "flavor_text": "It wraps prey up with its heated body, cooking them in its coils. Once they\u2019re well-done, it will voraciously nibble them down to the last morsel.",
+      "abilities": [
+        "Flash Fire",
+        "White Smoke"
+      ],
+      "hidden_abilities": [
+        "Flame Body"
+      ],
+      "regional_dex_nums": [
+        159
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          5,
+          "Wrap"
+        ],
+        [
+          10,
+          "Bite"
+        ],
+        [
+          15,
+          "Flame Wheel"
+        ],
+        [
+          20,
+          "Bug Bite"
+        ],
+        [
+          25,
+          "Coil"
+        ],
+        [
+          30,
+          "Slam"
+        ],
+        [
+          35,
+          "Fire Spin"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          45,
+          "Fire Lash"
+        ],
+        [
+          50,
+          "Lunge"
+        ],
+        [
+          55,
+          "Burn Up"
+        ]
+      ],
+      "tm_moves": [
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          61,
+          "Bug Buzz"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ]
+      ],
+      "egg_moves": [
+        "Defense Curl",
+        "Knock Off",
+        "Rollout",
+        "Struggle Bug"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "species_name": "Azurill",
+    "variant_name": "Azurill",
+    "base_stats": {
+      "hp": 50,
+      "attack": 20,
+      "defense": 40,
+      "speed": 20,
+      "special_attack": 20,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 298,
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "height": 0.2,
+      "weight": 2.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Polka Dot Pok\u00e9mon",
+      "flavor_text": "Azurill\u2019s tail is large and bouncy. It is packed full of the nutrients this Pok\u00e9mon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
+      "abilities": [
+        "Thick Fat",
+        "Huge Power"
+      ],
+      "hidden_abilities": [
+        "Sap Sipper"
+      ],
+      "regional_dex_nums": [
+        54,
+        124,
+        124,
+        30,
+        41,
+        55
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 38,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 150,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Splash"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          2,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Water Sport"
+        ],
+        [
+          7,
+          "Bubble"
+        ],
+        [
+          10,
+          "Charm"
+        ],
+        [
+          13,
+          "Bubble Beam"
+        ],
+        [
+          16,
+          "Helping Hand"
+        ],
+        [
+          20,
+          "Slam"
+        ],
+        [
+          23,
+          "Bounce"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Camouflage",
+        "Copycat",
+        "Encore",
+        "Fake Tears",
+        "Muddy Water",
+        "Refresh",
+        "Sing",
+        "Slam",
+        "Soak",
+        "Tickle",
+        "Water Sport"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Covet",
+        "Helping Hand",
+        "Hyper Voice",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Snore",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Defense Curl",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rollout",
+        "Secret Power",
+        "Swift",
+        "Whirlpool"
+      ]
+    }
+  }
+]

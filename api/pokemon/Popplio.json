@@ -1,0 +1,267 @@
+[
+  {
+    "species_name": "Popplio",
+    "variant_name": "Popplio",
+    "base_stats": {
+      "hp": 50,
+      "attack": 54,
+      "defense": 54,
+      "speed": 40,
+      "special_attack": 66,
+      "special_defense": 56
+    },
+    "dex_entry": {
+      "national_dex_num": 728,
+      "types": [
+        "Water"
+      ],
+      "height": 0.4,
+      "weight": 7.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sea Lion Pok\u00e9mon",
+      "flavor_text": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pok\u00e9mon to develop their skills.",
+      "abilities": [
+        "Torrent"
+      ],
+      "hidden_abilities": [
+        "Liquid Voice"
+      ],
+      "regional_dex_nums": [
+        7,
+        7
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          3,
+          "Water Gun"
+        ],
+        [
+          6,
+          "Disarming Voice"
+        ],
+        [
+          9,
+          "Aqua Jet"
+        ],
+        [
+          12,
+          "Baby-Doll Eyes"
+        ],
+        [
+          15,
+          "Icy Wind"
+        ],
+        [
+          18,
+          "Sing"
+        ],
+        [
+          21,
+          "Bubble Beam"
+        ],
+        [
+          24,
+          "Encore"
+        ],
+        [
+          27,
+          "Misty Terrain"
+        ],
+        [
+          30,
+          "Hyper Voice"
+        ],
+        [
+          33,
+          "Moonblast"
+        ],
+        [
+          36,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ],
+        [
+          89,
+          "Misty Terrain"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          90,
+          "Play Rough"
+        ]
+      ],
+      "egg_moves": [
+        "Aqua Ring",
+        "Life Dew",
+        "Perish Song"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

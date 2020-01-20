@@ -1,0 +1,524 @@
+[
+  {
+    "species_name": "Eternatus",
+    "variant_name": "Eternatus",
+    "base_stats": {
+      "hp": 140,
+      "attack": 85,
+      "defense": 95,
+      "speed": 130,
+      "special_attack": 145,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 890,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "height": 20.0,
+      "weight": 950.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Gigantic Pok\u00e9mon",
+      "flavor_text": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pok\u00e9mon and the Dynamax phenomenon.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        400
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Agility"
+        ],
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Dragon Tail"
+        ],
+        [
+          1,
+          "Poison Tail"
+        ],
+        [
+          8,
+          "Toxic"
+        ],
+        [
+          16,
+          "Venoshock"
+        ],
+        [
+          24,
+          "Dragon Dance"
+        ],
+        [
+          32,
+          "Cross Poison"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          48,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Dynamax Cannon"
+        ],
+        [
+          64,
+          "Cosmic Power"
+        ],
+        [
+          72,
+          "Recover"
+        ],
+        [
+          80,
+          "Hyper Beam"
+        ],
+        [
+          88,
+          "Eternabeam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Fly"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          73,
+          "Cross Poison"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          44,
+          "Cosmic Power"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          54,
+          "Toxic Spikes"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          91,
+          "Venom Drench"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Eternatus",
+    "variant_name": "Eternamax",
+    "base_stats": {
+      "hp": 255,
+      "attack": 115,
+      "defense": 250,
+      "speed": 130,
+      "special_attack": 125,
+      "special_defense": 250
+    },
+    "dex_entry": {
+      "national_dex_num": 890,
+      "types": [
+        "Poison",
+        "Dragon"
+      ],
+      "height": 100.0,
+      "weight": null,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Gigantic Pok\u00e9mon",
+      "flavor_text": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pok\u00e9mon and the Dynamax phenomenon.",
+      "abilities": [],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        400
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Agility"
+        ],
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Dragon Tail"
+        ],
+        [
+          1,
+          "Poison Tail"
+        ],
+        [
+          8,
+          "Toxic"
+        ],
+        [
+          16,
+          "Venoshock"
+        ],
+        [
+          24,
+          "Dragon Dance"
+        ],
+        [
+          32,
+          "Cross Poison"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          48,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Dynamax Cannon"
+        ],
+        [
+          64,
+          "Cosmic Power"
+        ],
+        [
+          72,
+          "Recover"
+        ],
+        [
+          80,
+          "Hyper Beam"
+        ],
+        [
+          88,
+          "Eternabeam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Fly"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          73,
+          "Cross Poison"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          44,
+          "Cosmic Power"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          54,
+          "Toxic Spikes"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          91,
+          "Venom Drench"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

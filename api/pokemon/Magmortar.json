@@ -1,0 +1,325 @@
+[
+  {
+    "species_name": "Magmortar",
+    "variant_name": "Magmortar",
+    "base_stats": {
+      "hp": 75,
+      "attack": 95,
+      "defense": 67,
+      "speed": 83,
+      "special_attack": 125,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 467,
+      "types": [
+        "Fire"
+      ],
+      "height": 1.6,
+      "weight": 68.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Blast Pok\u00e9mon",
+      "flavor_text": "Magmortar takes down its enemies by shooting fireballs, which burn them to a blackened crisp. It avoids this method when hunting prey.",
+      "abilities": [
+        "Flame Body"
+      ],
+      "hidden_abilities": [
+        "Vital Spirit"
+      ],
+      "regional_dex_nums": [
+        202,
+        55,
+        168,
+        202
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 243,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 75.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Smog"
+        ],
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          1,
+          "Thunder Punch"
+        ],
+        [
+          5,
+          "Ember"
+        ],
+        [
+          8,
+          "Smokescreen"
+        ],
+        [
+          12,
+          "Feint Attack"
+        ],
+        [
+          15,
+          "Fire Spin"
+        ],
+        [
+          19,
+          "Clear Smog"
+        ],
+        [
+          22,
+          "Flame Burst"
+        ],
+        [
+          26,
+          "Confuse Ray"
+        ],
+        [
+          29,
+          "Fire Punch"
+        ],
+        [
+          36,
+          "Lava Plume"
+        ],
+        [
+          42,
+          "Sunny Day"
+        ],
+        [
+          49,
+          "Flamethrower"
+        ],
+        [
+          55,
+          "Fire Blast"
+        ],
+        [
+          62,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Barrier",
+        "Belch",
+        "Belly Drum",
+        "Cross Chop",
+        "Dynamic Punch",
+        "Flare Blitz",
+        "Focus Energy",
+        "Iron Tail",
+        "Karate Chop",
+        "Mach Punch",
+        "Mega Punch",
+        "Power Swap",
+        "Screech",
+        "Thunder Punch"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Dual Chop",
+        "Fire Punch",
+        "Focus Punch",
+        "Heat Wave",
+        "Helping Hand",
+        "Iron Tail",
+        "Low Kick",
+        "Snore",
+        "Stomping Tantrum",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "species_name": "Tornadus",
+    "variant_name": "Incarnate Forme",
+    "base_stats": {
+      "hp": 79,
+      "attack": 115,
+      "defense": 70,
+      "speed": 111,
+      "special_attack": 125,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 641,
+      "types": [
+        "Flying"
+      ],
+      "height": 1.5,
+      "weight": 63.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cyclone Pok\u00e9mon",
+      "flavor_text": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+      "abilities": [
+        "Prankster"
+      ],
+      "hidden_abilities": [
+        "Defiant"
+      ],
+      "regional_dex_nums": [
+        147,
+        198
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 90
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Hurricane"
+        ],
+        [
+          1,
+          "Swagger"
+        ],
+        [
+          1,
+          "Thrash"
+        ],
+        [
+          1,
+          "Uproar"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          13,
+          "Revenge"
+        ],
+        [
+          19,
+          "Air Cutter"
+        ],
+        [
+          25,
+          "Extrasensory"
+        ],
+        [
+          31,
+          "Agility"
+        ],
+        [
+          37,
+          "Air Slash"
+        ],
+        [
+          43,
+          "Crunch"
+        ],
+        [
+          49,
+          "Tailwind"
+        ],
+        [
+          55,
+          "Rain Dance"
+        ],
+        [
+          61,
+          "Hurricane"
+        ],
+        [
+          67,
+          "Dark Pulse"
+        ],
+        [
+          73,
+          "Hammer Arm"
+        ],
+        [
+          79,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Foul Play",
+        "Heat Wave",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Role Play",
+        "Snore",
+        "Superpower",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  },
+  {
+    "species_name": "Tornadus",
+    "variant_name": "Therian Forme",
+    "base_stats": {
+      "hp": 79,
+      "attack": 100,
+      "defense": 80,
+      "speed": 121,
+      "special_attack": 110,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 641,
+      "types": [
+        "Flying"
+      ],
+      "height": 1.4,
+      "weight": 63.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cyclone Pok\u00e9mon",
+      "flavor_text": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+      "abilities": [
+        "Regenerator"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        147,
+        198
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 90
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Hurricane"
+        ],
+        [
+          1,
+          "Swagger"
+        ],
+        [
+          1,
+          "Thrash"
+        ],
+        [
+          1,
+          "Uproar"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          13,
+          "Revenge"
+        ],
+        [
+          19,
+          "Air Cutter"
+        ],
+        [
+          25,
+          "Extrasensory"
+        ],
+        [
+          31,
+          "Agility"
+        ],
+        [
+          37,
+          "Air Slash"
+        ],
+        [
+          43,
+          "Crunch"
+        ],
+        [
+          49,
+          "Tailwind"
+        ],
+        [
+          55,
+          "Rain Dance"
+        ],
+        [
+          61,
+          "Hurricane"
+        ],
+        [
+          67,
+          "Dark Pulse"
+        ],
+        [
+          73,
+          "Hammer Arm"
+        ],
+        [
+          79,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Foul Play",
+        "Heat Wave",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Role Play",
+        "Snore",
+        "Superpower",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

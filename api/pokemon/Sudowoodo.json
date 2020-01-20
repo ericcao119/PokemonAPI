@@ -1,0 +1,328 @@
+[
+  {
+    "species_name": "Sudowoodo",
+    "variant_name": "Sudowoodo",
+    "base_stats": {
+      "hp": 70,
+      "attack": 100,
+      "defense": 115,
+      "speed": 30,
+      "special_attack": 30,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 185,
+      "types": [
+        "Rock"
+      ],
+      "height": 1.2,
+      "weight": 38.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Imitation Pok\u00e9mon",
+      "flavor_text": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
+      "abilities": [
+        "Sturdy",
+        "Rock Head"
+      ],
+      "hidden_abilities": [
+        "Rattled"
+      ],
+      "regional_dex_nums": [
+        106,
+        93,
+        93,
+        107,
+        130,
+        31,
+        38,
+        253
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 144,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 65,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Copycat"
+        ],
+        [
+          1,
+          "Flail"
+        ],
+        [
+          1,
+          "Low Kick"
+        ],
+        [
+          1,
+          "Rock Throw"
+        ],
+        [
+          1,
+          "Slam"
+        ],
+        [
+          1,
+          "Wood Hammer"
+        ],
+        [
+          5,
+          "Flail"
+        ],
+        [
+          8,
+          "Low Kick"
+        ],
+        [
+          12,
+          "Rock Throw"
+        ],
+        [
+          15,
+          "Mimic"
+        ],
+        [
+          19,
+          "Feint Attack"
+        ],
+        [
+          22,
+          "Tearful Look"
+        ],
+        [
+          26,
+          "Rock Tomb"
+        ],
+        [
+          29,
+          "Block"
+        ],
+        [
+          33,
+          "Rock Slide"
+        ],
+        [
+          36,
+          "Counter"
+        ],
+        [
+          40,
+          "Sucker Punch"
+        ],
+        [
+          43,
+          "Double-Edge"
+        ],
+        [
+          47,
+          "Stone Edge"
+        ],
+        [
+          50,
+          "Hammer Arm"
+        ],
+        [
+          54,
+          "Head Smash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Curse",
+        "Defense Curl",
+        "Endure",
+        "Harden",
+        "Headbutt",
+        "Rollout",
+        "Sand Tomb",
+        "Self-Destruct",
+        "Stealth Rock"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Block",
+        "Covet",
+        "Earth Power",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Helping Hand",
+        "Ice Punch",
+        "Low Kick",
+        "Role Play",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Dig",
+        "Dynamic Punch",
+        "Mega Kick",
+        "Mega Punch",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength"
+      ]
+    }
+  }
+]

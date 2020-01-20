@@ -1,0 +1,343 @@
+[
+  {
+    "species_name": "Probopass",
+    "variant_name": "Probopass",
+    "base_stats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 145,
+      "speed": 40,
+      "special_attack": 75,
+      "special_defense": 150
+    },
+    "dex_entry": {
+      "national_dex_num": 476,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "height": 1.4,
+      "weight": 340.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Compass Pok\u00e9mon",
+      "flavor_text": "It uses three small units to catch prey and battle enemies. The main body mostly just gives orders.",
+      "abilities": [
+        "Sturdy",
+        "Magnet Pull"
+      ],
+      "hidden_abilities": [
+        "Sand Force"
+      ],
+      "regional_dex_nums": [
+        156,
+        165,
+        94,
+        62,
+        199,
+        255
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 184,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Block"
+        ],
+        [
+          1,
+          "Gravity"
+        ],
+        [
+          1,
+          "Iron Defense"
+        ],
+        [
+          1,
+          "Magnet Bomb"
+        ],
+        [
+          1,
+          "Magnet Rise"
+        ],
+        [
+          1,
+          "Magnetic Flux"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tri Attack"
+        ],
+        [
+          1,
+          "Wide Guard"
+        ],
+        [
+          4,
+          "Iron Defense"
+        ],
+        [
+          7,
+          "Block"
+        ],
+        [
+          10,
+          "Magnet Bomb"
+        ],
+        [
+          13,
+          "Thunder Wave"
+        ],
+        [
+          16,
+          "Rest"
+        ],
+        [
+          19,
+          "Spark"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          25,
+          "Power Gem"
+        ],
+        [
+          28,
+          "Rock Blast"
+        ],
+        [
+          31,
+          "Discharge"
+        ],
+        [
+          34,
+          "Sandstorm"
+        ],
+        [
+          37,
+          "Earth Power"
+        ],
+        [
+          40,
+          "Stone Edge"
+        ],
+        [
+          43,
+          "Lock-On"
+        ],
+        [
+          43,
+          "Zap Cannon"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Block",
+        "Double-Edge",
+        "Endure",
+        "Magnitude",
+        "Rollout",
+        "Stealth Rock",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Block",
+        "Earth Power",
+        "Fire Punch",
+        "Gravity",
+        "Ice Punch",
+        "Iron Defense",
+        "Iron Head",
+        "Magic Coat",
+        "Magnet Rise",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Captivate",
+        "Head Smash",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

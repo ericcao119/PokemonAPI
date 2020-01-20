@@ -1,0 +1,296 @@
+[
+  {
+    "species_name": "Tapu Lele",
+    "variant_name": "Tapu Lele",
+    "base_stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 75,
+      "speed": 95,
+      "special_attack": 130,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 786,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "height": 1.2,
+      "weight": 18.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Land Spirit Pok\u00e9mon",
+      "flavor_text": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
+      "abilities": [
+        "Psychic Surge"
+      ],
+      "hidden_abilities": [
+        "Telepathy"
+      ],
+      "regional_dex_nums": [
+        286,
+        384
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aromatherapy"
+        ],
+        [
+          1,
+          "Aromatic Mist"
+        ],
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Draining Kiss"
+        ],
+        [
+          1,
+          "Mean Look"
+        ],
+        [
+          1,
+          "Psychic Terrain"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          8,
+          "Psywave"
+        ],
+        [
+          14,
+          "Psybeam"
+        ],
+        [
+          20,
+          "Sweet Scent"
+        ],
+        [
+          26,
+          "Skill Swap"
+        ],
+        [
+          32,
+          "Psyshock"
+        ],
+        [
+          38,
+          "Tickle"
+        ],
+        [
+          43,
+          "Nature's Madness"
+        ],
+        [
+          48,
+          "Extrasensory"
+        ],
+        [
+          53,
+          "Flatter"
+        ],
+        [
+          58,
+          "Moonblast"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Gravity",
+        "Iron Defense",
+        "Magic Coat",
+        "Magic Room",
+        "Skill Swap",
+        "Snore",
+        "Telekinesis",
+        "Wonder Room"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

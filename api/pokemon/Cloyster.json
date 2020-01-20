@@ -1,0 +1,311 @@
+[
+  {
+    "species_name": "Cloyster",
+    "variant_name": "Cloyster",
+    "base_stats": {
+      "hp": 50,
+      "attack": 95,
+      "defense": 180,
+      "speed": 70,
+      "special_attack": 85,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 91,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "height": 1.5,
+      "weight": 132.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bivalve Pok\u00e9mon",
+      "flavor_text": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
+      "abilities": [
+        "Shell Armor",
+        "Skill Link"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        91,
+        170,
+        91,
+        172,
+        37,
+        116,
+        139,
+        91,
+        151
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 184,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aurora Beam"
+        ],
+        [
+          1,
+          "Hydro Pump"
+        ],
+        [
+          1,
+          "Ice Beam"
+        ],
+        [
+          1,
+          "Ice Shard"
+        ],
+        [
+          1,
+          "Icicle Crash"
+        ],
+        [
+          1,
+          "Icicle Spear"
+        ],
+        [
+          1,
+          "Iron Defense"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Razor Shell"
+        ],
+        [
+          1,
+          "Shell Smash"
+        ],
+        [
+          1,
+          "Spikes"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Toxic Spikes"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Whirlpool"
+        ],
+        [
+          1,
+          "Withdraw"
+        ]
+      ],
+      "tm_moves": [
+        [
+          7,
+          "Pin Missile"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          51,
+          "Icicle Spear"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          83,
+          "Razor Shell"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          19,
+          "Tri Attack"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          23,
+          "Spikes"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          54,
+          "Toxic Spikes"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

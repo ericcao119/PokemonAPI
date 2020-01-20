@@ -1,0 +1,326 @@
+[
+  {
+    "species_name": "Arcanine",
+    "variant_name": "Arcanine",
+    "base_stats": {
+      "hp": 90,
+      "attack": 110,
+      "defense": 80,
+      "speed": 95,
+      "special_attack": 100,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 59,
+      "types": [
+        "Fire"
+      ],
+      "height": 1.9,
+      "weight": 155.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Legendary Pok\u00e9mon",
+      "flavor_text": "A Pok\u00e9mon that has long been admired for its beauty. It runs agilely as if on wings.",
+      "abilities": [
+        "Intimidate",
+        "Flash Fire"
+      ],
+      "hidden_abilities": [
+        "Justified"
+      ],
+      "regional_dex_nums": [
+        59,
+        128,
+        59,
+        130,
+        52,
+        53,
+        65,
+        59,
+        71
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 194,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 75.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Agility"
+        ],
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Burn Up"
+        ],
+        [
+          1,
+          "Crunch"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Extreme Speed"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Flame Wheel"
+        ],
+        [
+          1,
+          "Flamethrower"
+        ],
+        [
+          1,
+          "Flare Blitz"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Play Rough"
+        ],
+        [
+          1,
+          "Retaliate"
+        ],
+        [
+          1,
+          "Reversal"
+        ],
+        [
+          1,
+          "Roar"
+        ],
+        [
+          1,
+          "Take Down"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Snarl"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

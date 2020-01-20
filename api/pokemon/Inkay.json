@@ -1,0 +1,301 @@
+[
+  {
+    "species_name": "Inkay",
+    "variant_name": "Inkay",
+    "base_stats": {
+      "hp": 53,
+      "attack": 54,
+      "defense": 53,
+      "speed": 45,
+      "special_attack": 37,
+      "special_defense": 46
+    },
+    "dex_entry": {
+      "national_dex_num": 686,
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "height": 0.4,
+      "weight": 3.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Revolving Pok\u00e9mon",
+      "flavor_text": "By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee.",
+      "abilities": [
+        "Contrary",
+        "Suction Cups"
+      ],
+      "hidden_abilities": [
+        "Infiltrator"
+      ],
+      "regional_dex_nums": [
+        10,
+        26,
+        290
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 58,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Constrict"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Reflect"
+        ],
+        [
+          8,
+          "Foul Play"
+        ],
+        [
+          12,
+          "Swagger"
+        ],
+        [
+          13,
+          "Psywave"
+        ],
+        [
+          15,
+          "Topsy-Turvy"
+        ],
+        [
+          18,
+          "Hypnosis"
+        ],
+        [
+          21,
+          "Psybeam"
+        ],
+        [
+          23,
+          "Switcheroo"
+        ],
+        [
+          27,
+          "Payback"
+        ],
+        [
+          31,
+          "Light Screen"
+        ],
+        [
+          35,
+          "Pluck"
+        ],
+        [
+          39,
+          "Psycho Cut"
+        ],
+        [
+          43,
+          "Slash"
+        ],
+        [
+          46,
+          "Night Slash"
+        ],
+        [
+          48,
+          "Superpower"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Camouflage",
+        "Destiny Bond",
+        "Flatter",
+        "Guard Swap",
+        "Power Split",
+        "Simple Beam"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bind",
+        "Foul Play",
+        "Knock Off",
+        "Role Play",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Superpower",
+        "Telekinesis"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Happy Hour",
+        "Retaliate",
+        "Secret Power"
+      ]
+    }
+  }
+]

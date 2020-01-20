@@ -1,0 +1,288 @@
+[
+  {
+    "species_name": "Roselia",
+    "variant_name": "Roselia",
+    "base_stats": {
+      "hp": 50,
+      "attack": 60,
+      "defense": 45,
+      "speed": 65,
+      "special_attack": 100,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 315,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "height": 0.3,
+      "weight": 2.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Thorn Pok\u00e9mon",
+      "flavor_text": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
+      "abilities": [
+        "Natural Cure",
+        "Poison Point"
+      ],
+      "hidden_abilities": [
+        "Leaf Guard"
+      ],
+      "regional_dex_nums": [
+        94,
+        26,
+        26,
+        134,
+        72,
+        98,
+        60
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 140,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 150,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          4,
+          "Growth"
+        ],
+        [
+          7,
+          "Poison Sting"
+        ],
+        [
+          10,
+          "Stun Spore"
+        ],
+        [
+          13,
+          "Mega Drain"
+        ],
+        [
+          16,
+          "Leech Seed"
+        ],
+        [
+          19,
+          "Magical Leaf"
+        ],
+        [
+          22,
+          "Grass Whistle"
+        ],
+        [
+          25,
+          "Giga Drain"
+        ],
+        [
+          28,
+          "Toxic Spikes"
+        ],
+        [
+          31,
+          "Sweet Scent"
+        ],
+        [
+          34,
+          "Ingrain"
+        ],
+        [
+          37,
+          "Petal Blizzard"
+        ],
+        [
+          40,
+          "Toxic"
+        ],
+        [
+          43,
+          "Aromatherapy"
+        ],
+        [
+          46,
+          "Synthesis"
+        ],
+        [
+          50,
+          "Petal Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bullet Seed",
+        "Cotton Spore",
+        "Extrasensory",
+        "Giga Drain",
+        "Grass Whistle",
+        "Leaf Storm",
+        "Mind Reader",
+        "Natural Gift",
+        "Pin Missile",
+        "Power Whip",
+        "Razor Leaf",
+        "Seed Bomb",
+        "Sleep Powder",
+        "Spikes",
+        "Synthesis"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Giga Drain",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Cut",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Mimic",
+        "Mud-Slap",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

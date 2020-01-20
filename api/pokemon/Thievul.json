@@ -1,0 +1,274 @@
+[
+  {
+    "species_name": "Thievul",
+    "variant_name": "Thievul",
+    "base_stats": {
+      "hp": 70,
+      "attack": 58,
+      "defense": 58,
+      "speed": 90,
+      "special_attack": 87,
+      "special_defense": 92
+    },
+    "dex_entry": {
+      "national_dex_num": 828,
+      "types": [
+        "Dark"
+      ],
+      "height": 1.2,
+      "weight": 19.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fox Pok\u00e9mon",
+      "flavor_text": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
+      "abilities": [
+        "Run Away",
+        "Unburden"
+      ],
+      "hidden_abilities": [
+        "Stakeout"
+      ],
+      "regional_dex_nums": [
+        30
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Beat Up"
+        ],
+        [
+          1,
+          "Hone Claws"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Thief"
+        ],
+        [
+          12,
+          "Snarl"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          22,
+          "Nasty Plot"
+        ],
+        [
+          28,
+          "Sucker Punch"
+        ],
+        [
+          34,
+          "Night Slash"
+        ],
+        [
+          40,
+          "Tail Slap"
+        ],
+        [
+          46,
+          "Foul Play"
+        ],
+        [
+          52,
+          "Parting Shot"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          84,
+          "Tail Slap"
+        ],
+        [
+          85,
+          "Snarl"
+        ]
+      ],
+      "tr_moves": [
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          90,
+          "Play Rough"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "species_name": "Ambipom",
+    "variant_name": "Ambipom",
+    "base_stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 66,
+      "speed": 115,
+      "special_attack": 60,
+      "special_defense": 66
+    },
+    "dex_entry": {
+      "national_dex_num": 424,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.2,
+      "weight": 20.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Long Tail Pok\u00e9mon",
+      "flavor_text": "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that\u2019s proof it really likes you.",
+      "abilities": [
+        "Technician",
+        "Pickup"
+      ],
+      "hidden_abilities": [
+        "Skill Link"
+      ],
+      "regional_dex_nums": [
+        64,
+        64,
+        124,
+        369
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 169,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 100
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Dual Chop"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          4,
+          "Sand Attack"
+        ],
+        [
+          8,
+          "Astonish"
+        ],
+        [
+          11,
+          "Baton Pass"
+        ],
+        [
+          15,
+          "Tickle"
+        ],
+        [
+          18,
+          "Fury Swipes"
+        ],
+        [
+          22,
+          "Swift"
+        ],
+        [
+          25,
+          "Screech"
+        ],
+        [
+          29,
+          "Agility"
+        ],
+        [
+          32,
+          "Double Hit"
+        ],
+        [
+          36,
+          "Fling"
+        ],
+        [
+          39,
+          "Nasty Plot"
+        ],
+        [
+          43,
+          "Last Resort"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Beat Up",
+        "Bounce",
+        "Counter",
+        "Covet",
+        "Double Slap",
+        "Fake Out",
+        "Pursuit",
+        "Quick Guard",
+        "Revenge",
+        "Screech",
+        "Slam",
+        "Spite",
+        "Switcheroo",
+        "Tail Slap"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Gunk Shot",
+        "Ice Punch",
+        "Iron Tail",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Low Kick",
+        "Role Play",
+        "Seed Bomb",
+        "Shock Wave",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

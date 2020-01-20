@@ -1,0 +1,274 @@
+[
+  {
+    "species_name": "Klefki",
+    "variant_name": "Klefki",
+    "base_stats": {
+      "hp": 57,
+      "attack": 80,
+      "defense": 91,
+      "speed": 75,
+      "special_attack": 80,
+      "special_defense": 87
+    },
+    "dex_entry": {
+      "national_dex_num": 707,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "height": 0.2,
+      "weight": 3.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Key Ring Pok\u00e9mon",
+      "flavor_text": "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
+      "abilities": [
+        "Prankster"
+      ],
+      "hidden_abilities": [
+        "Magician"
+      ],
+      "regional_dex_nums": [
+        50,
+        241,
+        314
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 165,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fairy Lock"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Fairy Wind"
+        ],
+        [
+          8,
+          "Astonish"
+        ],
+        [
+          12,
+          "Metal Sound"
+        ],
+        [
+          15,
+          "Spikes"
+        ],
+        [
+          18,
+          "Draining Kiss"
+        ],
+        [
+          23,
+          "Crafty Shield"
+        ],
+        [
+          27,
+          "Foul Play"
+        ],
+        [
+          32,
+          "Torment"
+        ],
+        [
+          34,
+          "Mirror Shot"
+        ],
+        [
+          36,
+          "Imprison"
+        ],
+        [
+          40,
+          "Recycle"
+        ],
+        [
+          43,
+          "Play Rough"
+        ],
+        [
+          44,
+          "Magic Room"
+        ],
+        [
+          50,
+          "Heal Block"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Iron Defense",
+        "Lock-On",
+        "Switcheroo",
+        "Thief"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Defog",
+        "Foul Play",
+        "Iron Defense",
+        "Last Resort",
+        "Magic Coat",
+        "Magic Room",
+        "Magnet Rise",
+        "Recycle",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Secret Power"
+      ]
+    }
+  }
+]

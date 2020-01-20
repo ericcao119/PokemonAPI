@@ -1,0 +1,279 @@
+[
+  {
+    "species_name": "Dracovish",
+    "variant_name": "Dracovish",
+    "base_stats": {
+      "hp": 90,
+      "attack": 90,
+      "defense": 100,
+      "speed": 75,
+      "special_attack": 70,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 882,
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "height": 2.3,
+      "weight": 215.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fossil Pok\u00e9mon",
+      "flavor_text": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pok\u00e9mon can\u2019t breathe unless it\u2019s underwater.",
+      "abilities": [
+        "Water Absorb",
+        "Strong Jaw"
+      ],
+      "hidden_abilities": [
+        "Sand Rush"
+      ],
+      "regional_dex_nums": [
+        376
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Protect"
+        ],
+        [
+          14,
+          "Brutal Swing"
+        ],
+        [
+          21,
+          "Ancient Power"
+        ],
+        [
+          28,
+          "Bite"
+        ],
+        [
+          35,
+          "Dragon Breath"
+        ],
+        [
+          42,
+          "Stomp"
+        ],
+        [
+          49,
+          "Super Fang"
+        ],
+        [
+          56,
+          "Crunch"
+        ],
+        [
+          63,
+          "Fishious Rend"
+        ],
+        [
+          70,
+          "Dragon Pulse"
+        ],
+        [
+          77,
+          "Dragon Rush"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

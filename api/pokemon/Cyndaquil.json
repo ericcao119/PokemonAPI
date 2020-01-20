@@ -1,0 +1,265 @@
+[
+  {
+    "species_name": "Cyndaquil",
+    "variant_name": "Cyndaquil",
+    "base_stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "speed": 65,
+      "special_attack": 60,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 155,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.5,
+      "weight": 7.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fire Mouse Pok\u00e9mon",
+      "flavor_text": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pok\u00e9mon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Flash Fire"
+      ],
+      "regional_dex_nums": [
+        4,
+        4
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 62,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Smokescreen"
+        ],
+        [
+          10,
+          "Ember"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          19,
+          "Flame Wheel"
+        ],
+        [
+          22,
+          "Defense Curl"
+        ],
+        [
+          28,
+          "Flame Charge"
+        ],
+        [
+          31,
+          "Swift"
+        ],
+        [
+          37,
+          "Lava Plume"
+        ],
+        [
+          40,
+          "Flamethrower"
+        ],
+        [
+          46,
+          "Inferno"
+        ],
+        [
+          49,
+          "Rollout"
+        ],
+        [
+          55,
+          "Double-Edge"
+        ],
+        [
+          58,
+          "Burn Up"
+        ],
+        [
+          64,
+          "Eruption"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Covet",
+        "Crush Claw",
+        "Double Kick",
+        "Double-Edge",
+        "Extrasensory",
+        "Flame Burst",
+        "Flare Blitz",
+        "Foresight",
+        "Fury Swipes",
+        "Howl",
+        "Nature Power",
+        "Quick Attack",
+        "Reversal",
+        "Thrash"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Fire Pledge",
+        "Heat Wave",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Iron Tail",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Submission"
+      ]
+    }
+  }
+]

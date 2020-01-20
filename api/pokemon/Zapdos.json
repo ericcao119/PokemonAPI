@@ -1,0 +1,295 @@
+[
+  {
+    "species_name": "Zapdos",
+    "variant_name": "Zapdos",
+    "base_stats": {
+      "hp": 90,
+      "attack": 90,
+      "defense": 85,
+      "speed": 100,
+      "special_attack": 125,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 145,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "height": 1.6,
+      "weight": 52.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Electric Pok\u00e9mon",
+      "flavor_text": "This legendary bird Pok\u00e9mon is said to appear when the sky turns dark and lightning showers down.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Static"
+      ],
+      "regional_dex_nums": [
+        145,
+        236,
+        145,
+        241,
+        152,
+        145
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          8,
+          "Thunder Wave"
+        ],
+        [
+          15,
+          "Detect"
+        ],
+        [
+          22,
+          "Pluck"
+        ],
+        [
+          29,
+          "Ancient Power"
+        ],
+        [
+          36,
+          "Charge"
+        ],
+        [
+          43,
+          "Agility"
+        ],
+        [
+          50,
+          "Discharge"
+        ],
+        [
+          57,
+          "Rain Dance"
+        ],
+        [
+          64,
+          "Light Screen"
+        ],
+        [
+          71,
+          "Drill Peck"
+        ],
+        [
+          78,
+          "Thunder"
+        ],
+        [
+          85,
+          "Roost"
+        ],
+        [
+          92,
+          "Magnetic Flux"
+        ],
+        [
+          99,
+          "Zap Cannon"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Laser Focus",
+        "Shock Wave",
+        "Signal Beam",
+        "Sky Attack",
+        "Snore",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Bide",
+        "Curse",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Swift",
+        "Take Down",
+        "Twister",
+        "Whirlwind"
+      ]
+    }
+  }
+]

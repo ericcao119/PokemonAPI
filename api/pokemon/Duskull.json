@@ -1,0 +1,301 @@
+[
+  {
+    "species_name": "Duskull",
+    "variant_name": "Duskull",
+    "base_stats": {
+      "hp": 20,
+      "attack": 40,
+      "defense": 90,
+      "speed": 25,
+      "special_attack": 30,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 355,
+      "types": [
+        "Ghost"
+      ],
+      "height": 0.8,
+      "weight": 15.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Requiem Pok\u00e9mon",
+      "flavor_text": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [
+        "Frisk"
+      ],
+      "regional_dex_nums": [
+        148,
+        189,
+        153,
+        135
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 59,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 190,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Shade"
+        ],
+        [
+          6,
+          "Disable"
+        ],
+        [
+          9,
+          "Astonish"
+        ],
+        [
+          14,
+          "Foresight"
+        ],
+        [
+          17,
+          "Shadow Sneak"
+        ],
+        [
+          22,
+          "Pursuit"
+        ],
+        [
+          25,
+          "Will-O-Wisp"
+        ],
+        [
+          30,
+          "Confuse Ray"
+        ],
+        [
+          33,
+          "Curse"
+        ],
+        [
+          38,
+          "Hex"
+        ],
+        [
+          41,
+          "Shadow Ball"
+        ],
+        [
+          46,
+          "Mean Look"
+        ],
+        [
+          49,
+          "Payback"
+        ],
+        [
+          54,
+          "Future Sight"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Dark Pulse",
+        "Destiny Bond",
+        "Feint Attack",
+        "Grudge",
+        "Haze",
+        "Imprison",
+        "Memento",
+        "Ominous Wind",
+        "Pain Split",
+        "Skill Swap"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Gravity",
+        "Icy Wind",
+        "Pain Split",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Telekinesis",
+        "Trick",
+        "Wonder Room"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power",
+        "Sucker Punch"
+      ]
+    }
+  }
+]

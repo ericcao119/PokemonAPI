@@ -1,0 +1,341 @@
+[
+  {
+    "species_name": "Forretress",
+    "variant_name": "Forretress",
+    "base_stats": {
+      "hp": 75,
+      "attack": 90,
+      "defense": 140,
+      "speed": 40,
+      "special_attack": 60,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 205,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "height": 1.2,
+      "weight": 125.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bagworm Pok\u00e9mon",
+      "flavor_text": "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight.",
+      "abilities": [
+        "Sturdy"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        94,
+        94,
+        269
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 163,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Autotomize"
+        ],
+        [
+          1,
+          "Bug Bite"
+        ],
+        [
+          1,
+          "Heavy Slam"
+        ],
+        [
+          1,
+          "Magnet Rise"
+        ],
+        [
+          1,
+          "Mirror Shot"
+        ],
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Self-Destruct"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Toxic Spikes"
+        ],
+        [
+          1,
+          "Zap Cannon"
+        ],
+        [
+          6,
+          "Self-Destruct"
+        ],
+        [
+          9,
+          "Bug Bite"
+        ],
+        [
+          12,
+          "Take Down"
+        ],
+        [
+          17,
+          "Rapid Spin"
+        ],
+        [
+          20,
+          "Bide"
+        ],
+        [
+          23,
+          "Natural Gift"
+        ],
+        [
+          28,
+          "Spikes"
+        ],
+        [
+          32,
+          "Payback"
+        ],
+        [
+          36,
+          "Explosion"
+        ],
+        [
+          42,
+          "Iron Defense"
+        ],
+        [
+          46,
+          "Gyro Ball"
+        ],
+        [
+          50,
+          "Double-Edge"
+        ],
+        [
+          56,
+          "Magnet Rise"
+        ],
+        [
+          60,
+          "Zap Cannon"
+        ],
+        [
+          64,
+          "Heavy Slam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Counter",
+        "Double-Edge",
+        "Endure",
+        "Flail",
+        "Pin Missile",
+        "Power Trick",
+        "Revenge",
+        "Sand Tomb",
+        "Stealth Rock",
+        "Swift",
+        "Toxic Spikes"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Block",
+        "Bug Bite",
+        "Drill Run",
+        "Giga Drain",
+        "Gravity",
+        "Iron Defense",
+        "Laser Focus",
+        "Magnet Rise",
+        "Pain Split",
+        "Signal Beam",
+        "Snore",
+        "Stealth Rock",
+        "Telekinesis"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Defense Curl",
+        "Dig",
+        "Headbutt",
+        "Mimic",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "String Shot",
+        "Struggle Bug",
+        "Sweet Scent"
+      ]
+    }
+  }
+]

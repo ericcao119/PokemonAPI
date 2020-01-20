@@ -1,0 +1,297 @@
+[
+  {
+    "species_name": "Crustle",
+    "variant_name": "Crustle",
+    "base_stats": {
+      "hp": 70,
+      "attack": 105,
+      "defense": 125,
+      "speed": 45,
+      "special_attack": 65,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 558,
+      "types": [
+        "Bug",
+        "Rock"
+      ],
+      "height": 1.4,
+      "weight": 200.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Stone Home Pok\u00e9mon",
+      "flavor_text": "Its thick claws are its greatest weapons. They\u2019re mighty enough to crack Rhyperior\u2019s carapace.",
+      "abilities": [
+        "Sturdy",
+        "Shell Armor"
+      ],
+      "hidden_abilities": [
+        "Weak Armor"
+      ],
+      "regional_dex_nums": [
+        64,
+        116,
+        24,
+        87
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 170,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Rock Blast"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Shell Smash"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          5,
+          "Rock Blast"
+        ],
+        [
+          7,
+          "Withdraw"
+        ],
+        [
+          11,
+          "Sand Attack"
+        ],
+        [
+          13,
+          "Feint Attack"
+        ],
+        [
+          17,
+          "Smack Down"
+        ],
+        [
+          19,
+          "Rock Polish"
+        ],
+        [
+          23,
+          "Bug Bite"
+        ],
+        [
+          24,
+          "Stealth Rock"
+        ],
+        [
+          29,
+          "Rock Slide"
+        ],
+        [
+          31,
+          "Slash"
+        ],
+        [
+          38,
+          "X-Scissor"
+        ],
+        [
+          43,
+          "Shell Smash"
+        ],
+        [
+          50,
+          "Flail"
+        ],
+        [
+          55,
+          "Rock Wrecker"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Block",
+        "Counter",
+        "Curse",
+        "Endure",
+        "Iron Defense",
+        "Night Slash",
+        "Rototiller",
+        "Sand Tomb",
+        "Spikes",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Bug Bite",
+        "Iron Defense",
+        "Knock Off",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Hone Claws",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

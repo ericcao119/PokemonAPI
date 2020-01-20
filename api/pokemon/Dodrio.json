@@ -1,0 +1,299 @@
+[
+  {
+    "species_name": "Dodrio",
+    "variant_name": "Dodrio",
+    "base_stats": {
+      "hp": 60,
+      "attack": 110,
+      "defense": 70,
+      "speed": 110,
+      "special_attack": 60,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 85,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 1.8,
+      "weight": 85.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Triple Bird Pok\u00e9mon",
+      "flavor_text": "One of Doduo\u2019s two heads splits to form a unique species. It runs close to 40 mph in prairies.",
+      "abilities": [
+        "Run Away",
+        "Early Bird"
+      ],
+      "hidden_abilities": [
+        "Tangled Feet"
+      ],
+      "regional_dex_nums": [
+        85,
+        200,
+        93,
+        85,
+        205,
+        95,
+        96,
+        85
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 165,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Rage"
+        ],
+        [
+          1,
+          "Tri Attack"
+        ],
+        [
+          5,
+          "Quick Attack"
+        ],
+        [
+          8,
+          "Rage"
+        ],
+        [
+          12,
+          "Fury Attack"
+        ],
+        [
+          15,
+          "Pursuit"
+        ],
+        [
+          19,
+          "Pluck"
+        ],
+        [
+          22,
+          "Double Hit"
+        ],
+        [
+          26,
+          "Agility"
+        ],
+        [
+          29,
+          "Uproar"
+        ],
+        [
+          34,
+          "Acupressure"
+        ],
+        [
+          38,
+          "Swords Dance"
+        ],
+        [
+          43,
+          "Jump Kick"
+        ],
+        [
+          47,
+          "Drill Peck"
+        ],
+        [
+          52,
+          "Endeavor"
+        ],
+        [
+          56,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Brave Bird",
+        "Endeavor",
+        "Feint Attack",
+        "Flail",
+        "Haze",
+        "Mirror Move",
+        "Natural Gift",
+        "Quick Attack",
+        "Supersonic"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Knock Off",
+        "Sky Attack",
+        "Snore",
+        "Stomping Tantrum",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Bide",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Reflect",
+        "Secret Power",
+        "Skull Bash",
+        "Swift",
+        "Take Down",
+        "Whirlwind"
+      ]
+    }
+  }
+]

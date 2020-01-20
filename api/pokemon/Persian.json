@@ -1,0 +1,316 @@
+[
+  {
+    "species_name": "Persian",
+    "variant_name": "Persian",
+    "base_stats": {
+      "hp": 65,
+      "attack": 70,
+      "defense": 60,
+      "speed": 115,
+      "special_attack": 65,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 53,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.0,
+      "weight": 32.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Classy Cat Pok\u00e9mon",
+      "flavor_text": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
+      "abilities": [
+        "Limber",
+        "Technician"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        53,
+        137,
+        53,
+        139,
+        46,
+        53,
+        53,
+        184
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 154,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          63,
+          "Power Gem"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Persian",
+    "variant_name": "Alolan Persian",
+    "base_stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 60,
+      "speed": 115,
+      "special_attack": 75,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 53,
+      "types": [
+        "Dark"
+      ],
+      "height": 1.1,
+      "weight": 33.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Classy Cat Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is one tough opponent. Not only does it have formidable physical abilities, but it\u2019s also not above fighting dirty.",
+      "abilities": [
+        "Fur Coat",
+        "Technician"
+      ],
+      "hidden_abilities": [
+        "Rattled"
+      ],
+      "regional_dex_nums": [
+        53,
+        137,
+        53,
+        139,
+        46,
+        53,
+        53,
+        184
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 154,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          63,
+          "Power Gem"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

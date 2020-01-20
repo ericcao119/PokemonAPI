@@ -1,0 +1,325 @@
+[
+  {
+    "species_name": "Dialga",
+    "variant_name": "Dialga",
+    "base_stats": {
+      "hp": 100,
+      "attack": 120,
+      "defense": 120,
+      "speed": 90,
+      "special_attack": 150,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 483,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "height": 5.4,
+      "weight": 683.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Temporal Pok\u00e9mon",
+      "flavor_text": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Telepathy"
+      ],
+      "regional_dex_nums": [
+        149,
+        149
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          6,
+          "Metal Claw"
+        ],
+        [
+          10,
+          "Ancient Power"
+        ],
+        [
+          15,
+          "Slash"
+        ],
+        [
+          19,
+          "Power Gem"
+        ],
+        [
+          24,
+          "Metal Burst"
+        ],
+        [
+          28,
+          "Dragon Claw"
+        ],
+        [
+          33,
+          "Earth Power"
+        ],
+        [
+          37,
+          "Aura Sphere"
+        ],
+        [
+          42,
+          "Iron Tail"
+        ],
+        [
+          46,
+          "Roar of Time"
+        ],
+        [
+          50,
+          "Flash Cannon"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Gravity",
+        "Hyper Voice",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Magnet Rise",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Headbutt",
+        "Heal Block",
+        "Hone Claws",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

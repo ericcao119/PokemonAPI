@@ -1,0 +1,317 @@
+[
+  {
+    "species_name": "Liepard",
+    "variant_name": "Liepard",
+    "base_stats": {
+      "hp": 64,
+      "attack": 88,
+      "defense": 50,
+      "speed": 106,
+      "special_attack": 88,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 510,
+      "types": [
+        "Dark"
+      ],
+      "height": 1.1,
+      "weight": 37.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cruel Pok\u00e9mon",
+      "flavor_text": "This stealthy Pok\u00e9mon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
+      "abilities": [
+        "Limber",
+        "Unburden"
+      ],
+      "hidden_abilities": [
+        "Prankster"
+      ],
+      "regional_dex_nums": [
+        16,
+        13,
+        43,
+        45
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 156,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Assist"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          3,
+          "Growl"
+        ],
+        [
+          6,
+          "Assist"
+        ],
+        [
+          10,
+          "Sand Attack"
+        ],
+        [
+          12,
+          "Fury Swipes"
+        ],
+        [
+          15,
+          "Pursuit"
+        ],
+        [
+          19,
+          "Torment"
+        ],
+        [
+          22,
+          "Fake Out"
+        ],
+        [
+          26,
+          "Hone Claws"
+        ],
+        [
+          31,
+          "Assurance"
+        ],
+        [
+          34,
+          "Slash"
+        ],
+        [
+          38,
+          "Taunt"
+        ],
+        [
+          43,
+          "Night Slash"
+        ],
+        [
+          47,
+          "Snatch"
+        ],
+        [
+          50,
+          "Nasty Plot"
+        ],
+        [
+          55,
+          "Sucker Punch"
+        ],
+        [
+          58,
+          "Play Rough"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Charm",
+        "Copycat",
+        "Covet",
+        "Encore",
+        "Fake Tears",
+        "Feint Attack",
+        "Foul Play",
+        "Pay Day",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Foul Play",
+        "Gunk Shot",
+        "Hyper Voice",
+        "Iron Tail",
+        "Knock Off",
+        "Laser Focus",
+        "Role Play",
+        "Seed Bomb",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Throat Chop",
+        "Trick"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

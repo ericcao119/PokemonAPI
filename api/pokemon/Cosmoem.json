@@ -1,0 +1,79 @@
+[
+  {
+    "species_name": "Cosmoem",
+    "variant_name": "Cosmoem",
+    "base_stats": {
+      "hp": 43,
+      "attack": 29,
+      "defense": 131,
+      "speed": 37,
+      "special_attack": 29,
+      "special_defense": 131
+    },
+    "dex_entry": {
+      "national_dex_num": 790,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.1,
+      "weight": 999.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Protostar Pok\u00e9mon",
+      "flavor_text": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution.",
+      "abilities": [
+        "Sturdy"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        290,
+        388
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 140,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Cosmic Power"
+        ],
+        [
+          1,
+          "Teleport"
+        ]
+      ],
+      "tm_moves": [],
+      "tr_moves": [
+        [
+          44,
+          "Cosmic Power"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

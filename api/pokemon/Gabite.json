@@ -1,0 +1,277 @@
+[
+  {
+    "species_name": "Gabite",
+    "variant_name": "Gabite",
+    "base_stats": {
+      "hp": 68,
+      "attack": 90,
+      "defense": 65,
+      "speed": 82,
+      "special_attack": 50,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 444,
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "height": 1.4,
+      "weight": 56.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cave Pok\u00e9mon",
+      "flavor_text": "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.",
+      "abilities": [
+        "Sand Veil"
+      ],
+      "hidden_abilities": [
+        "Rough Skin"
+      ],
+      "regional_dex_nums": [
+        110,
+        110,
+        7,
+        239,
+        308
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 144,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Dragon Rage"
+        ],
+        [
+          1,
+          "Dual Chop"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Sand Attack"
+        ],
+        [
+          7,
+          "Dragon Rage"
+        ],
+        [
+          13,
+          "Sandstorm"
+        ],
+        [
+          15,
+          "Take Down"
+        ],
+        [
+          19,
+          "Sand Tomb"
+        ],
+        [
+          28,
+          "Slash"
+        ],
+        [
+          33,
+          "Dragon Claw"
+        ],
+        [
+          40,
+          "Dig"
+        ],
+        [
+          49,
+          "Dragon Rush"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Double-Edge",
+        "Dragon Breath",
+        "Iron Head",
+        "Iron Tail",
+        "Metal Claw",
+        "Mud Shot",
+        "Outrage",
+        "Rock Climb",
+        "Sand Tomb",
+        "Scary Face",
+        "Thrash",
+        "Twister"
+      ],
+      "tutor_moves": [
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Dual Chop",
+        "Earth Power",
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Outrage",
+        "Snore",
+        "Stealth Rock"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

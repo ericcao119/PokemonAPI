@@ -1,0 +1,271 @@
+[
+  {
+    "species_name": "Pachirisu",
+    "variant_name": "Pachirisu",
+    "base_stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 70,
+      "speed": 95,
+      "special_attack": 45,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 417,
+      "types": [
+        "Electric"
+      ],
+      "height": 0.4,
+      "weight": 3.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "EleSquirrel Pok\u00e9mon",
+      "flavor_text": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+      "abilities": [
+        "Run Away",
+        "Pickup"
+      ],
+      "hidden_abilities": [
+        "Volt Absorb"
+      ],
+      "regional_dex_nums": [
+        55,
+        55,
+        132
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 142,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 100
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bide"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          5,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Charm"
+        ],
+        [
+          13,
+          "Spark"
+        ],
+        [
+          17,
+          "Endure"
+        ],
+        [
+          19,
+          "Nuzzle"
+        ],
+        [
+          21,
+          "Swift"
+        ],
+        [
+          25,
+          "Electro Ball"
+        ],
+        [
+          29,
+          "Sweet Kiss"
+        ],
+        [
+          33,
+          "Thunder Wave"
+        ],
+        [
+          37,
+          "Super Fang"
+        ],
+        [
+          41,
+          "Discharge"
+        ],
+        [
+          45,
+          "Last Resort"
+        ],
+        [
+          49,
+          "Hyper Fang"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Baby-Doll Eyes",
+        "Bestow",
+        "Bite",
+        "Charge",
+        "Covet",
+        "Defense Curl",
+        "Fake Tears",
+        "Flail",
+        "Flatter",
+        "Follow Me",
+        "Ion Deluge",
+        "Iron Tail",
+        "Rollout",
+        "Tail Whip"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Electroweb",
+        "Gunk Shot",
+        "Helping Hand",
+        "Iron Tail",
+        "Laser Focus",
+        "Last Resort",
+        "Magnet Rise",
+        "Seed Bomb",
+        "Shock Wave",
+        "Snore",
+        "Super Fang",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Flash",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "species_name": "Fearow",
+    "variant_name": "Fearow",
+    "base_stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 65,
+      "speed": 100,
+      "special_attack": 61,
+      "special_defense": 61
+    },
+    "dex_entry": {
+      "national_dex_num": 22,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 1.2,
+      "weight": 38.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Beak Pok\u00e9mon",
+      "flavor_text": "A Pok\u00e9mon that dates back many years. If it senses danger, it flies high and away, instantly.",
+      "abilities": [
+        "Keen Eye"
+      ],
+      "hidden_abilities": [
+        "Sniper"
+      ],
+      "regional_dex_nums": [
+        22,
+        14,
+        22,
+        14,
+        110,
+        74,
+        88,
+        22
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 155,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Drill Run"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Pluck"
+        ],
+        [
+          1,
+          "Pursuit"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          8,
+          "Pursuit"
+        ],
+        [
+          11,
+          "Fury Attack"
+        ],
+        [
+          15,
+          "Aerial Ace"
+        ],
+        [
+          18,
+          "Mirror Move"
+        ],
+        [
+          23,
+          "Assurance"
+        ],
+        [
+          27,
+          "Agility"
+        ],
+        [
+          32,
+          "Focus Energy"
+        ],
+        [
+          36,
+          "Roost"
+        ],
+        [
+          41,
+          "Drill Peck"
+        ],
+        [
+          45,
+          "Drill Run"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Feather Dance",
+        "Feint Attack",
+        "Quick Attack",
+        "Razor Wind",
+        "Scary Face",
+        "Sky Attack",
+        "Steel Wing",
+        "Tri Attack",
+        "Uproar",
+        "Whirlwind"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Drill Run",
+        "Heat Wave",
+        "Laser Focus",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Throat Chop",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Bide",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Rage",
+        "Secret Power",
+        "Swift",
+        "Take Down",
+        "Twister"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1334 @@
+[
+  {
+    "species_name": "Gourgeist",
+    "variant_name": "Average Size",
+    "base_stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 122,
+      "speed": 84,
+      "special_attack": 58,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 711,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "height": 0.9,
+      "weight": 12.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Pumpkin Pok\u00e9mon",
+      "flavor_text": "In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.",
+      "abilities": [
+        "Pickup",
+        "Frisk"
+      ],
+      "hidden_abilities": [
+        "Insomnia"
+      ],
+      "regional_dex_nums": [
+        64,
+        192
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Explosion"
+        ],
+        [
+          1,
+          "Phantom Force"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Trick"
+        ],
+        [
+          4,
+          "Scary Face"
+        ],
+        [
+          6,
+          "Trick-or-Treat"
+        ],
+        [
+          11,
+          "Worry Seed"
+        ],
+        [
+          16,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Leech Seed"
+        ],
+        [
+          23,
+          "Trick-or-Treat"
+        ],
+        [
+          26,
+          "Bullet Seed"
+        ],
+        [
+          30,
+          "Shadow Sneak"
+        ],
+        [
+          36,
+          "Shadow Ball"
+        ],
+        [
+          40,
+          "Trick-or-Treat"
+        ],
+        [
+          42,
+          "Pain Split"
+        ],
+        [
+          48,
+          "Seed Bomb"
+        ],
+        [
+          57,
+          "Phantom Force"
+        ],
+        [
+          63,
+          "Trick-or-Treat"
+        ],
+        [
+          70,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bestow",
+        "Curse",
+        "Destiny Bond",
+        "Disable"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Foul Play",
+        "Giga Drain",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Seed Bomb",
+        "Skill Swap",
+        "Spite",
+        "Synthesis",
+        "Telekinesis",
+        "Trick",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  },
+  {
+    "species_name": "Gourgeist",
+    "variant_name": "Small Size",
+    "base_stats": {
+      "hp": 55,
+      "attack": 85,
+      "defense": 122,
+      "speed": 99,
+      "special_attack": 58,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 711,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "height": 0.7,
+      "weight": 9.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Pumpkin Pok\u00e9mon",
+      "flavor_text": "A small-sized Pumpkaboo evolves into a small-sized Gourgeist. Its bodily proportions also get passed on to its descendants.",
+      "abilities": [
+        "Pickup",
+        "Frisk"
+      ],
+      "hidden_abilities": [
+        "Insomnia"
+      ],
+      "regional_dex_nums": [
+        64,
+        192
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Explosion"
+        ],
+        [
+          1,
+          "Phantom Force"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Trick"
+        ],
+        [
+          4,
+          "Scary Face"
+        ],
+        [
+          6,
+          "Trick-or-Treat"
+        ],
+        [
+          11,
+          "Worry Seed"
+        ],
+        [
+          16,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Leech Seed"
+        ],
+        [
+          23,
+          "Trick-or-Treat"
+        ],
+        [
+          26,
+          "Bullet Seed"
+        ],
+        [
+          30,
+          "Shadow Sneak"
+        ],
+        [
+          36,
+          "Shadow Ball"
+        ],
+        [
+          40,
+          "Trick-or-Treat"
+        ],
+        [
+          42,
+          "Pain Split"
+        ],
+        [
+          48,
+          "Seed Bomb"
+        ],
+        [
+          57,
+          "Phantom Force"
+        ],
+        [
+          63,
+          "Trick-or-Treat"
+        ],
+        [
+          70,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bestow",
+        "Curse",
+        "Destiny Bond",
+        "Disable"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Foul Play",
+        "Giga Drain",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Seed Bomb",
+        "Skill Swap",
+        "Spite",
+        "Synthesis",
+        "Telekinesis",
+        "Trick",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  },
+  {
+    "species_name": "Gourgeist",
+    "variant_name": "Large Size",
+    "base_stats": {
+      "hp": 75,
+      "attack": 95,
+      "defense": 122,
+      "speed": 69,
+      "special_attack": 58,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 711,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "height": 1.1,
+      "weight": 14.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Pumpkin Pok\u00e9mon",
+      "flavor_text": "A large-sized Pumpkaboo evolves into a large-sized Gourgeist. Its bodily proportions also get passed on to its descendants.",
+      "abilities": [
+        "Pickup",
+        "Frisk"
+      ],
+      "hidden_abilities": [
+        "Insomnia"
+      ],
+      "regional_dex_nums": [
+        64,
+        192
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Explosion"
+        ],
+        [
+          1,
+          "Phantom Force"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Trick"
+        ],
+        [
+          4,
+          "Scary Face"
+        ],
+        [
+          6,
+          "Trick-or-Treat"
+        ],
+        [
+          11,
+          "Worry Seed"
+        ],
+        [
+          16,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Leech Seed"
+        ],
+        [
+          23,
+          "Trick-or-Treat"
+        ],
+        [
+          26,
+          "Bullet Seed"
+        ],
+        [
+          30,
+          "Shadow Sneak"
+        ],
+        [
+          36,
+          "Shadow Ball"
+        ],
+        [
+          40,
+          "Trick-or-Treat"
+        ],
+        [
+          42,
+          "Pain Split"
+        ],
+        [
+          48,
+          "Seed Bomb"
+        ],
+        [
+          57,
+          "Phantom Force"
+        ],
+        [
+          63,
+          "Trick-or-Treat"
+        ],
+        [
+          70,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bestow",
+        "Curse",
+        "Destiny Bond",
+        "Disable"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Foul Play",
+        "Giga Drain",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Seed Bomb",
+        "Skill Swap",
+        "Spite",
+        "Synthesis",
+        "Telekinesis",
+        "Trick",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  },
+  {
+    "species_name": "Gourgeist",
+    "variant_name": "Super Size",
+    "base_stats": {
+      "hp": 85,
+      "attack": 100,
+      "defense": 122,
+      "speed": 54,
+      "special_attack": 58,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 711,
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "height": 1.7,
+      "weight": 39.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Pumpkin Pok\u00e9mon",
+      "flavor_text": "A supersized Pumpkaboo evolves into a supersized Gourgeist. Its bodily proportions also get passed on to its descendants.",
+      "abilities": [
+        "Pickup",
+        "Frisk"
+      ],
+      "hidden_abilities": [
+        "Insomnia"
+      ],
+      "regional_dex_nums": [
+        64,
+        192
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Confuse Ray"
+        ],
+        [
+          1,
+          "Explosion"
+        ],
+        [
+          1,
+          "Phantom Force"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Trick"
+        ],
+        [
+          4,
+          "Scary Face"
+        ],
+        [
+          6,
+          "Trick-or-Treat"
+        ],
+        [
+          11,
+          "Worry Seed"
+        ],
+        [
+          16,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Leech Seed"
+        ],
+        [
+          23,
+          "Trick-or-Treat"
+        ],
+        [
+          26,
+          "Bullet Seed"
+        ],
+        [
+          30,
+          "Shadow Sneak"
+        ],
+        [
+          36,
+          "Shadow Ball"
+        ],
+        [
+          40,
+          "Trick-or-Treat"
+        ],
+        [
+          42,
+          "Pain Split"
+        ],
+        [
+          48,
+          "Seed Bomb"
+        ],
+        [
+          57,
+          "Phantom Force"
+        ],
+        [
+          63,
+          "Trick-or-Treat"
+        ],
+        [
+          70,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bestow",
+        "Curse",
+        "Destiny Bond",
+        "Disable"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Foul Play",
+        "Giga Drain",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Seed Bomb",
+        "Skill Swap",
+        "Spite",
+        "Synthesis",
+        "Telekinesis",
+        "Trick",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

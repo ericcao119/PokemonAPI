@@ -1,0 +1,295 @@
+[
+  {
+    "species_name": "Hatterene",
+    "variant_name": "Hatterene",
+    "base_stats": {
+      "hp": 57,
+      "attack": 90,
+      "defense": 95,
+      "speed": 29,
+      "special_attack": 136,
+      "special_defense": 103
+    },
+    "dex_entry": {
+      "national_dex_num": 858,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "height": 2.1,
+      "weight": 5.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Silent Pok\u00e9mon",
+      "flavor_text": "If you\u2019re too loud around it, you risk being torn apart by the claws on its tentacle. This Pok\u00e9mon is also known as the Forest Witch.",
+      "abilities": [
+        "Healer",
+        "Anticipation"
+      ],
+      "hidden_abilities": [
+        "Magic Bounce"
+      ],
+      "regional_dex_nums": [
+        243
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Brutal Swing"
+        ],
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Disarming Voice"
+        ],
+        [
+          1,
+          "Life Dew"
+        ],
+        [
+          1,
+          "Play Nice"
+        ],
+        [
+          1,
+          "Psycho Cut"
+        ],
+        [
+          15,
+          "Aromatherapy"
+        ],
+        [
+          20,
+          "Psybeam"
+        ],
+        [
+          25,
+          "Heal Pulse"
+        ],
+        [
+          30,
+          "Dazzling Gleam"
+        ],
+        [
+          37,
+          "Calm Mind"
+        ],
+        [
+          46,
+          "Psychic"
+        ],
+        [
+          55,
+          "Healing Wish"
+        ],
+        [
+          64,
+          "Magic Powder"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          60,
+          "Power Swap"
+        ],
+        [
+          61,
+          "Guard Swap"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          70,
+          "Trick Room"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          72,
+          "Magic Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          34,
+          "Future Sight"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

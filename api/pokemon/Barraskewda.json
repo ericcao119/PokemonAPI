@@ -1,0 +1,245 @@
+[
+  {
+    "species_name": "Barraskewda",
+    "variant_name": "Barraskewda",
+    "base_stats": {
+      "hp": 61,
+      "attack": 123,
+      "defense": 60,
+      "speed": 136,
+      "special_attack": 60,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 847,
+      "types": [
+        "Water"
+      ],
+      "height": 1.3,
+      "weight": 30.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Skewer Pok\u00e9mon",
+      "flavor_text": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
+      "abilities": [
+        "Swift Swim"
+      ],
+      "hidden_abilities": [
+        "Propeller Tail"
+      ],
+      "regional_dex_nums": [
+        181
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aqua Jet"
+        ],
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Fury Attack"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Throat Chop"
+        ],
+        [
+          18,
+          "Agility"
+        ],
+        [
+          24,
+          "Dive"
+        ],
+        [
+          32,
+          "Laser Focus"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          48,
+          "Liquidation"
+        ],
+        [
+          56,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          87,
+          "Drill Run"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

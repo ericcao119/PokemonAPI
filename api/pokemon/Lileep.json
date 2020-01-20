@@ -1,0 +1,268 @@
+[
+  {
+    "species_name": "Lileep",
+    "variant_name": "Lileep",
+    "base_stats": {
+      "hp": 66,
+      "attack": 41,
+      "defense": 77,
+      "speed": 23,
+      "special_attack": 61,
+      "special_defense": 87
+    },
+    "dex_entry": {
+      "national_dex_num": 345,
+      "types": [
+        "Rock",
+        "Grass"
+      ],
+      "height": 1.0,
+      "weight": 23.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sea Lily Pok\u00e9mon",
+      "flavor_text": "It sticks to rocks with its powerful suckers and can\u2019t be washed away no matter how rough the surf gets.",
+      "abilities": [
+        "Suction Cups"
+      ],
+      "hidden_abilities": [
+        "Storm Drain"
+      ],
+      "regional_dex_nums": [
+        133,
+        138,
+        231
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 71,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water3"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Constrict"
+        ],
+        [
+          5,
+          "Acid"
+        ],
+        [
+          9,
+          "Ingrain"
+        ],
+        [
+          13,
+          "Confuse Ray"
+        ],
+        [
+          17,
+          "Ancient Power"
+        ],
+        [
+          21,
+          "Brine"
+        ],
+        [
+          26,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Gastro Acid"
+        ],
+        [
+          36,
+          "Amnesia"
+        ],
+        [
+          41,
+          "Energy Ball"
+        ],
+        [
+          46,
+          "Spit Up"
+        ],
+        [
+          46,
+          "Stockpile"
+        ],
+        [
+          46,
+          "Swallow"
+        ],
+        [
+          52,
+          "Wring Out"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Barrier",
+        "Curse",
+        "Endure",
+        "Mega Drain",
+        "Mirror Coat",
+        "Recover",
+        "Stealth Rock",
+        "Tickle",
+        "Wring Out"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Earth Power",
+        "Gastro Acid",
+        "Giga Drain",
+        "Pain Split",
+        "Seed Bomb",
+        "Snore",
+        "Stealth Rock",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Bullet Seed",
+        "Captivate",
+        "Double-Edge",
+        "Flash",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Psych Up",
+        "Secret Power",
+        "String Shot"
+      ]
+    }
+  }
+]

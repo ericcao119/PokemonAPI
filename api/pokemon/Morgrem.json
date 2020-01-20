@@ -1,0 +1,264 @@
+[
+  {
+    "species_name": "Morgrem",
+    "variant_name": "Morgrem",
+    "base_stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 45,
+      "speed": 70,
+      "special_attack": 75,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 860,
+      "types": [
+        "Dark",
+        "Fairy"
+      ],
+      "height": 0.8,
+      "weight": 12.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Devious Pok\u00e9mon",
+      "flavor_text": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
+      "abilities": [
+        "Prankster",
+        "Frisk"
+      ],
+      "hidden_abilities": [
+        "Pickpocket"
+      ],
+      "regional_dex_nums": [
+        239
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Humanlike"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Confide"
+        ],
+        [
+          1,
+          "Fake Out"
+        ],
+        [
+          1,
+          "False Surrender"
+        ],
+        [
+          1,
+          "Flatter"
+        ],
+        [
+          12,
+          "Fake Tears"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          20,
+          "Swagger"
+        ],
+        [
+          24,
+          "Sucker Punch"
+        ],
+        [
+          28,
+          "Torment"
+        ],
+        [
+          35,
+          "Dark Pulse"
+        ],
+        [
+          40,
+          "Nasty Plot"
+        ],
+        [
+          46,
+          "Play Rough"
+        ],
+        [
+          52,
+          "Foul Play"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ]
+      ],
+      "tr_moves": [
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

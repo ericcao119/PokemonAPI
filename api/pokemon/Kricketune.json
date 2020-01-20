@@ -1,0 +1,261 @@
+[
+  {
+    "species_name": "Kricketune",
+    "variant_name": "Kricketune",
+    "base_stats": {
+      "hp": 77,
+      "attack": 85,
+      "defense": 51,
+      "speed": 65,
+      "special_attack": 55,
+      "special_defense": 51
+    },
+    "dex_entry": {
+      "national_dex_num": 402,
+      "types": [
+        "Bug"
+      ],
+      "height": 1.0,
+      "weight": 25.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cricket Pok\u00e9mon",
+      "flavor_text": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
+      "abilities": [
+        "Swarm"
+      ],
+      "hidden_abilities": [
+        "Technician"
+      ],
+      "regional_dex_nums": [
+        16,
+        16
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 134,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bide"
+        ],
+        [
+          1,
+          "Fury Cutter"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          14,
+          "Absorb"
+        ],
+        [
+          18,
+          "Sing"
+        ],
+        [
+          22,
+          "Focus Energy"
+        ],
+        [
+          26,
+          "Slash"
+        ],
+        [
+          30,
+          "X-Scissor"
+        ],
+        [
+          34,
+          "Screech"
+        ],
+        [
+          36,
+          "Fell Stinger"
+        ],
+        [
+          38,
+          "Taunt"
+        ],
+        [
+          42,
+          "Night Slash"
+        ],
+        [
+          44,
+          "Sticky Web"
+        ],
+        [
+          46,
+          "Bug Buzz"
+        ],
+        [
+          50,
+          "Perish Song"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bug Bite",
+        "Endeavor",
+        "Heal Bell",
+        "Hyper Voice",
+        "Knock Off",
+        "Laser Focus",
+        "Snore",
+        "Throat Chop",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Flash",
+        "Hone Claws",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Silver Wind",
+        "Strength",
+        "String Shot"
+      ]
+    }
+  }
+]

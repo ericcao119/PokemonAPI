@@ -1,0 +1,151 @@
+[
+  {
+    "species_name": "Grimer",
+    "variant_name": "Grimer",
+    "base_stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 50,
+      "speed": 25,
+      "special_attack": 40,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 88,
+      "types": [
+        "Poison"
+      ],
+      "height": 0.9,
+      "weight": 30.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sludge Pok\u00e9mon",
+      "flavor_text": "Made of congealed sludge. It smells too putrid to touch. Even weeds won\u2019t grow in its path.",
+      "abilities": [
+        "Stench",
+        "Sticky Hold"
+      ],
+      "hidden_abilities": [
+        "Poison Touch"
+      ],
+      "regional_dex_nums": [
+        88,
+        116,
+        106,
+        88,
+        117,
+        64,
+        111,
+        50,
+        57,
+        88
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 65,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Grimer",
+    "variant_name": "Alolan Grimer",
+    "base_stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 50,
+      "speed": 25,
+      "special_attack": 40,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 88,
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "height": 0.7,
+      "weight": 42.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sludge Pok\u00e9mon",
+      "flavor_text": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison.",
+      "abilities": [
+        "Poison Touch",
+        "Gluttony"
+      ],
+      "hidden_abilities": [
+        "Power of Alchemy"
+      ],
+      "regional_dex_nums": [
+        88,
+        116,
+        106,
+        88,
+        117,
+        64,
+        111,
+        50,
+        57,
+        88
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 65,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

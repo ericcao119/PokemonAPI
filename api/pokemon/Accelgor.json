@@ -1,0 +1,278 @@
+[
+  {
+    "species_name": "Accelgor",
+    "variant_name": "Accelgor",
+    "base_stats": {
+      "hp": 80,
+      "attack": 70,
+      "defense": 40,
+      "speed": 145,
+      "special_attack": 100,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 617,
+      "types": [
+        "Bug"
+      ],
+      "height": 0.8,
+      "weight": 25.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Shell Out Pok\u00e9mon",
+      "flavor_text": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+      "abilities": [
+        "Hydration",
+        "Sticky Hold"
+      ],
+      "hidden_abilities": [
+        "Unburden"
+      ],
+      "regional_dex_nums": [
+        123,
+        158,
+        25,
+        276
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Acid Spray"
+        ],
+        [
+          1,
+          "Double Team"
+        ],
+        [
+          1,
+          "Final Gambit"
+        ],
+        [
+          1,
+          "Power Swap"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Water Shuriken"
+        ],
+        [
+          4,
+          "Acid Spray"
+        ],
+        [
+          8,
+          "Double Team"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          16,
+          "Struggle Bug"
+        ],
+        [
+          20,
+          "Mega Drain"
+        ],
+        [
+          25,
+          "Swift"
+        ],
+        [
+          28,
+          "Me First"
+        ],
+        [
+          32,
+          "Agility"
+        ],
+        [
+          37,
+          "Giga Drain"
+        ],
+        [
+          40,
+          "U-turn"
+        ],
+        [
+          44,
+          "Bug Buzz"
+        ],
+        [
+          49,
+          "Recover"
+        ],
+        [
+          52,
+          "Power Swap"
+        ],
+        [
+          56,
+          "Final Gambit"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Baton Pass",
+        "Double-Edge",
+        "Encore",
+        "Endure",
+        "Feint",
+        "Guard Split",
+        "Mind Reader",
+        "Mud-Slap",
+        "Pursuit",
+        "Spikes",
+        "Toxic Spikes"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Gastro Acid",
+        "Giga Drain",
+        "Knock Off",
+        "Laser Focus",
+        "Signal Beam",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "species_name": "Duraludon",
+    "variant_name": "Duraludon",
+    "base_stats": {
+      "hp": 70,
+      "attack": 95,
+      "defense": 115,
+      "speed": 85,
+      "special_attack": 120,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 884,
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "height": 1.8,
+      "weight": 40.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Alloy Pok\u00e9mon",
+      "flavor_text": "The special metal that composes its body is very light, so this Pok\u00e9mon has considerable agility. It lives in caves because it dislikes the rain.",
+      "abilities": [
+        "Light Metal",
+        "Heavy Metal"
+      ],
+      "hidden_abilities": [
+        "Stalwart"
+      ],
+      "regional_dex_nums": [
+        371
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          6,
+          "Rock Smash"
+        ],
+        [
+          12,
+          "Hone Claws"
+        ],
+        [
+          18,
+          "Metal Sound"
+        ],
+        [
+          24,
+          "Breaking Swipe"
+        ],
+        [
+          30,
+          "Dragon Tail"
+        ],
+        [
+          36,
+          "Iron Defense"
+        ],
+        [
+          42,
+          "Laser Focus"
+        ],
+        [
+          48,
+          "Dragon Claw"
+        ],
+        [
+          54,
+          "Flash Cannon"
+        ],
+        [
+          60,
+          "Metal Burst"
+        ],
+        [
+          66,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ],
+        [
+          99,
+          "Breaking Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [
+        "Mirror Coat",
+        "Night Slash",
+        "Slash"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

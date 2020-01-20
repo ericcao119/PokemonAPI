@@ -1,0 +1,339 @@
+[
+  {
+    "species_name": "Flygon",
+    "variant_name": "Flygon",
+    "base_stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 80,
+      "speed": 100,
+      "special_attack": 80,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 330,
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "height": 2.0,
+      "weight": 82.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mystic Pok\u00e9mon",
+      "flavor_text": "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        118,
+        123,
+        5,
+        123,
+        237,
+        306,
+        323
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 234,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bide"
+        ],
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Dragon Claw"
+        ],
+        [
+          1,
+          "Dragon Dance"
+        ],
+        [
+          1,
+          "Feint Attack"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Sonic Boom"
+        ],
+        [
+          5,
+          "Mud-Slap"
+        ],
+        [
+          8,
+          "Bulldoze"
+        ],
+        [
+          12,
+          "Sand Tomb"
+        ],
+        [
+          15,
+          "Rock Slide"
+        ],
+        [
+          19,
+          "Supersonic"
+        ],
+        [
+          22,
+          "Screech"
+        ],
+        [
+          26,
+          "Earth Power"
+        ],
+        [
+          29,
+          "Dragon Tail"
+        ],
+        [
+          33,
+          "Earthquake"
+        ],
+        [
+          36,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Uproar"
+        ],
+        [
+          43,
+          "Hyper Beam"
+        ],
+        [
+          47,
+          "Dragon Rush"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bug Bite",
+        "Earth Power",
+        "Endure",
+        "Flail",
+        "Focus Energy",
+        "Fury Cutter",
+        "Gust",
+        "Mud Shot",
+        "Quick Attack",
+        "Signal Beam"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Fire Punch",
+        "Giga Drain",
+        "Heat Wave",
+        "Iron Tail",
+        "Laser Focus",
+        "Outrage",
+        "Signal Beam",
+        "Snore",
+        "Superpower",
+        "Tailwind",
+        "Throat Chop",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Silver Wind",
+        "Strength",
+        "Struggle Bug",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

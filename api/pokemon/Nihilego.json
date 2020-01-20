@@ -1,0 +1,289 @@
+[
+  {
+    "species_name": "Nihilego",
+    "variant_name": "Nihilego",
+    "base_stats": {
+      "hp": 109,
+      "attack": 53,
+      "defense": 47,
+      "speed": 103,
+      "special_attack": 127,
+      "special_defense": 131
+    },
+    "dex_entry": {
+      "national_dex_num": 793,
+      "types": [
+        "Rock",
+        "Poison"
+      ],
+      "height": 1.2,
+      "weight": 55.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Parasite Pok\u00e9mon",
+      "flavor_text": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pok\u00e9mon.",
+      "abilities": [
+        "Beast Boost"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        293,
+        393
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Acid"
+        ],
+        [
+          1,
+          "Constrict"
+        ],
+        [
+          1,
+          "Guard Split"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Power Split"
+        ],
+        [
+          1,
+          "Tickle"
+        ],
+        [
+          7,
+          "Clear Smog"
+        ],
+        [
+          13,
+          "Psywave"
+        ],
+        [
+          19,
+          "Headbutt"
+        ],
+        [
+          23,
+          "Venoshock"
+        ],
+        [
+          29,
+          "Toxic Spikes"
+        ],
+        [
+          31,
+          "Safeguard"
+        ],
+        [
+          37,
+          "Power Gem"
+        ],
+        [
+          43,
+          "Mirror Coat"
+        ],
+        [
+          47,
+          "Acid Spray"
+        ],
+        [
+          53,
+          "Venom Drench"
+        ],
+        [
+          59,
+          "Stealth Rock"
+        ],
+        [
+          67,
+          "Wonder Room"
+        ],
+        [
+          73,
+          "Head Smash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bind",
+        "Foul Play",
+        "Gunk Shot",
+        "Iron Head",
+        "Knock Off",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Telekinesis",
+        "Wonder Room",
+        "Worry Seed",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

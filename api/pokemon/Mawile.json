@@ -1,0 +1,739 @@
+[
+  {
+    "species_name": "Mawile",
+    "variant_name": "Mawile",
+    "base_stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 85,
+      "speed": 50,
+      "special_attack": 55,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 303,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "height": 0.6,
+      "weight": 11.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Deceiver Pok\u00e9mon",
+      "flavor_text": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+      "abilities": [
+        "Hyper Cutter",
+        "Intimidate"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        69,
+        63,
+        71,
+        125,
+        295
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 133,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Fairy Wind"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Iron Head"
+        ],
+        [
+          1,
+          "Play Rough"
+        ],
+        [
+          1,
+          "Taunt"
+        ],
+        [
+          5,
+          "Fake Tears"
+        ],
+        [
+          9,
+          "Bite"
+        ],
+        [
+          13,
+          "Sweet Scent"
+        ],
+        [
+          17,
+          "Vise Grip"
+        ],
+        [
+          21,
+          "Feint Attack"
+        ],
+        [
+          25,
+          "Baton Pass"
+        ],
+        [
+          29,
+          "Crunch"
+        ],
+        [
+          33,
+          "Iron Defense"
+        ],
+        [
+          37,
+          "Sucker Punch"
+        ],
+        [
+          41,
+          "Spit Up"
+        ],
+        [
+          41,
+          "Stockpile"
+        ],
+        [
+          41,
+          "Swallow"
+        ],
+        [
+          45,
+          "Iron Head"
+        ],
+        [
+          49,
+          "Play Rough"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Captivate",
+        "Fire Fang",
+        "Guard Swap",
+        "Ice Fang",
+        "Metal Burst",
+        "Misty Terrain",
+        "Poison Fang",
+        "Power-Up Punch",
+        "Punishment",
+        "Seismic Toss",
+        "Slam",
+        "Sucker Punch",
+        "Thunder Fang",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Head",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Magnet Rise",
+        "Pain Split",
+        "Snatch",
+        "Snore",
+        "Stealth Rock",
+        "Super Fang",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Counter",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  },
+  {
+    "species_name": "Mawile",
+    "variant_name": "Mega Mawile",
+    "base_stats": {
+      "hp": 50,
+      "attack": 105,
+      "defense": 125,
+      "speed": 50,
+      "special_attack": 55,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 303,
+      "types": [
+        "Steel",
+        "Fairy"
+      ],
+      "height": 1.0,
+      "weight": 23.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Deceiver Pok\u00e9mon",
+      "flavor_text": "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.",
+      "abilities": [
+        "Huge Power"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        69,
+        63,
+        71,
+        125,
+        295
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Fairy Wind"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Iron Head"
+        ],
+        [
+          1,
+          "Play Rough"
+        ],
+        [
+          1,
+          "Taunt"
+        ],
+        [
+          5,
+          "Fake Tears"
+        ],
+        [
+          9,
+          "Bite"
+        ],
+        [
+          13,
+          "Sweet Scent"
+        ],
+        [
+          17,
+          "Vise Grip"
+        ],
+        [
+          21,
+          "Feint Attack"
+        ],
+        [
+          25,
+          "Baton Pass"
+        ],
+        [
+          29,
+          "Crunch"
+        ],
+        [
+          33,
+          "Iron Defense"
+        ],
+        [
+          37,
+          "Sucker Punch"
+        ],
+        [
+          41,
+          "Spit Up"
+        ],
+        [
+          41,
+          "Stockpile"
+        ],
+        [
+          41,
+          "Swallow"
+        ],
+        [
+          45,
+          "Iron Head"
+        ],
+        [
+          49,
+          "Play Rough"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Captivate",
+        "Fire Fang",
+        "Guard Swap",
+        "Ice Fang",
+        "Metal Burst",
+        "Misty Terrain",
+        "Poison Fang",
+        "Power-Up Punch",
+        "Punishment",
+        "Seismic Toss",
+        "Slam",
+        "Sucker Punch",
+        "Thunder Fang",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Head",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Magnet Rise",
+        "Pain Split",
+        "Snatch",
+        "Snore",
+        "Stealth Rock",
+        "Super Fang",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Counter",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

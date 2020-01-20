@@ -1,0 +1,607 @@
+[
+  {
+    "species_name": "Glalie",
+    "variant_name": "Glalie",
+    "base_stats": {
+      "hp": 80,
+      "attack": 80,
+      "defense": 80,
+      "speed": 80,
+      "special_attack": 80,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 362,
+      "types": [
+        "Ice"
+      ],
+      "height": 1.5,
+      "weight": 256.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Face Pok\u00e9mon",
+      "flavor_text": "It can instantly freeze moisture in the atmosphere. It uses this power to freeze its foes.",
+      "abilities": [
+        "Inner Focus",
+        "Ice Body"
+      ],
+      "hidden_abilities": [
+        "Moody"
+      ],
+      "regional_dex_nums": [
+        172,
+        207,
+        180,
+        247,
+        324,
+        80
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Double Team"
+        ],
+        [
+          1,
+          "Freeze-Dry"
+        ],
+        [
+          1,
+          "Ice Shard"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          1,
+          "Sheer Cold"
+        ],
+        [
+          5,
+          "Double Team"
+        ],
+        [
+          10,
+          "Ice Shard"
+        ],
+        [
+          14,
+          "Icy Wind"
+        ],
+        [
+          19,
+          "Bite"
+        ],
+        [
+          23,
+          "Ice Fang"
+        ],
+        [
+          28,
+          "Headbutt"
+        ],
+        [
+          32,
+          "Protect"
+        ],
+        [
+          37,
+          "Frost Breath"
+        ],
+        [
+          41,
+          "Crunch"
+        ],
+        [
+          48,
+          "Blizzard"
+        ],
+        [
+          54,
+          "Hail"
+        ],
+        [
+          61,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Avalanche",
+        "Bide",
+        "Block",
+        "Disable",
+        "Fake Tears",
+        "Hex",
+        "Rollout",
+        "Spikes",
+        "Switcheroo",
+        "Weather Ball"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Icy Wind",
+        "Iron Head",
+        "Laser Focus",
+        "Signal Beam",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Defense Curl",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power"
+      ]
+    }
+  },
+  {
+    "species_name": "Glalie",
+    "variant_name": "Mega Glalie",
+    "base_stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 80,
+      "speed": 100,
+      "special_attack": 120,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 362,
+      "types": [
+        "Ice"
+      ],
+      "height": 2.1,
+      "weight": 350.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Face Pok\u00e9mon",
+      "flavor_text": "The power of Mega Evolution was so strong that it smashed Glalie\u2019s jaw. Its inability to eat very well leaves Glalie irritated.",
+      "abilities": [
+        "Refrigerate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        172,
+        207,
+        180,
+        247,
+        324,
+        80
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 203,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Double Team"
+        ],
+        [
+          1,
+          "Freeze-Dry"
+        ],
+        [
+          1,
+          "Ice Shard"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          1,
+          "Sheer Cold"
+        ],
+        [
+          5,
+          "Double Team"
+        ],
+        [
+          10,
+          "Ice Shard"
+        ],
+        [
+          14,
+          "Icy Wind"
+        ],
+        [
+          19,
+          "Bite"
+        ],
+        [
+          23,
+          "Ice Fang"
+        ],
+        [
+          28,
+          "Headbutt"
+        ],
+        [
+          32,
+          "Protect"
+        ],
+        [
+          37,
+          "Frost Breath"
+        ],
+        [
+          41,
+          "Crunch"
+        ],
+        [
+          48,
+          "Blizzard"
+        ],
+        [
+          54,
+          "Hail"
+        ],
+        [
+          61,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Avalanche",
+        "Bide",
+        "Block",
+        "Disable",
+        "Fake Tears",
+        "Hex",
+        "Rollout",
+        "Spikes",
+        "Switcheroo",
+        "Weather Ball"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Icy Wind",
+        "Iron Head",
+        "Laser Focus",
+        "Signal Beam",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Defense Curl",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power"
+      ]
+    }
+  }
+]

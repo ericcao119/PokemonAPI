@@ -1,0 +1,338 @@
+[
+  {
+    "species_name": "Ralts",
+    "variant_name": "Ralts",
+    "base_stats": {
+      "hp": 28,
+      "attack": 25,
+      "defense": 25,
+      "speed": 40,
+      "special_attack": 45,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 280,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "height": 0.4,
+      "weight": 6.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Feeling Pok\u00e9mon",
+      "flavor_text": "If its horns capture the warm feelings of people or Pok\u00e9mon, its body warms up slightly.",
+      "abilities": [
+        "Synchronize",
+        "Trace"
+      ],
+      "hidden_abilities": [
+        "Telepathy"
+      ],
+      "regional_dex_nums": [
+        29,
+        157,
+        64,
+        29,
+        120
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 40,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 235,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous",
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          4,
+          "Confusion"
+        ],
+        [
+          6,
+          "Double Team"
+        ],
+        [
+          9,
+          "Teleport"
+        ],
+        [
+          11,
+          "Disarming Voice"
+        ],
+        [
+          14,
+          "Lucky Chant"
+        ],
+        [
+          17,
+          "Magical Leaf"
+        ],
+        [
+          19,
+          "Heal Pulse"
+        ],
+        [
+          22,
+          "Draining Kiss"
+        ],
+        [
+          24,
+          "Calm Mind"
+        ],
+        [
+          27,
+          "Psychic"
+        ],
+        [
+          29,
+          "Imprison"
+        ],
+        [
+          32,
+          "Future Sight"
+        ],
+        [
+          34,
+          "Charm"
+        ],
+        [
+          37,
+          "Hypnosis"
+        ],
+        [
+          39,
+          "Dream Eater"
+        ],
+        [
+          42,
+          "Stored Power"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ally Switch",
+        "Confuse Ray",
+        "Destiny Bond",
+        "Disable",
+        "Encore",
+        "Grudge",
+        "Mean Look",
+        "Memento",
+        "Misty Terrain",
+        "Shadow Sneak",
+        "Skill Swap",
+        "Synchronoise"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Fire Punch",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Magic Coat",
+        "Magic Room",
+        "Pain Split",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Thunder Punch",
+        "Trick",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Defense Curl",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

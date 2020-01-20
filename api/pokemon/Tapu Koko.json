@@ -1,0 +1,321 @@
+[
+  {
+    "species_name": "Tapu Koko",
+    "variant_name": "Tapu Koko",
+    "base_stats": {
+      "hp": 70,
+      "attack": 115,
+      "defense": 85,
+      "speed": 130,
+      "special_attack": 95,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 785,
+      "types": [
+        "Electric",
+        "Fairy"
+      ],
+      "height": 1.8,
+      "weight": 20.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Land Spirit Pok\u00e9mon",
+      "flavor_text": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
+      "abilities": [
+        "Electric Surge"
+      ],
+      "hidden_abilities": [
+        "Telepathy"
+      ],
+      "regional_dex_nums": [
+        285,
+        383
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Brave Bird"
+        ],
+        [
+          1,
+          "Electric Terrain"
+        ],
+        [
+          1,
+          "False Swipe"
+        ],
+        [
+          1,
+          "Mean Look"
+        ],
+        [
+          1,
+          "Power Swap"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          8,
+          "Spark"
+        ],
+        [
+          14,
+          "Shock Wave"
+        ],
+        [
+          20,
+          "Screech"
+        ],
+        [
+          26,
+          "Charge"
+        ],
+        [
+          32,
+          "Wild Charge"
+        ],
+        [
+          38,
+          "Mirror Move"
+        ],
+        [
+          43,
+          "Nature's Madness"
+        ],
+        [
+          48,
+          "Discharge"
+        ],
+        [
+          53,
+          "Agility"
+        ],
+        [
+          58,
+          "Electro Ball"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Electroweb",
+        "Hyper Voice",
+        "Iron Defense",
+        "Iron Head",
+        "Shock Wave",
+        "Sky Attack",
+        "Snore",
+        "Telekinesis",
+        "Thunder Punch"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,409 @@
+[
+  {
+    "species_name": "Pangoro",
+    "variant_name": "Pangoro",
+    "base_stats": {
+      "hp": 95,
+      "attack": 124,
+      "defense": 78,
+      "speed": 58,
+      "special_attack": 69,
+      "special_defense": 71
+    },
+    "dex_entry": {
+      "national_dex_num": 675,
+      "types": [
+        "Fighting",
+        "Dark"
+      ],
+      "height": 2.1,
+      "weight": 136.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Daunting Pok\u00e9mon",
+      "flavor_text": "Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit.",
+      "abilities": [
+        "Iron Fist",
+        "Mold Breaker"
+      ],
+      "hidden_abilities": [
+        "Scrappy"
+      ],
+      "regional_dex_nums": [
+        92,
+        221,
+        285,
+        112
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 65,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Arm Thrust"
+        ],
+        [
+          1,
+          "Bullet Punch"
+        ],
+        [
+          1,
+          "Entrainment"
+        ],
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Low Sweep"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          7,
+          "Arm Thrust"
+        ],
+        [
+          10,
+          "Work Up"
+        ],
+        [
+          12,
+          "Karate Chop"
+        ],
+        [
+          15,
+          "Comet Punch"
+        ],
+        [
+          20,
+          "Slash"
+        ],
+        [
+          25,
+          "Circle Throw"
+        ],
+        [
+          27,
+          "Vital Throw"
+        ],
+        [
+          35,
+          "Body Slam"
+        ],
+        [
+          42,
+          "Crunch"
+        ],
+        [
+          45,
+          "Entrainment"
+        ],
+        [
+          48,
+          "Parting Shot"
+        ],
+        [
+          52,
+          "Sky Uppercut"
+        ],
+        [
+          57,
+          "Low Sweep"
+        ],
+        [
+          65,
+          "Taunt"
+        ],
+        [
+          70,
+          "Hammer Arm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Foul Play",
+        "Me First",
+        "Power Trip",
+        "Quash",
+        "Quick Guard",
+        "Storm Throw"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Covet",
+        "Drain Punch",
+        "Dual Chop",
+        "Endeavor",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Gunk Shot",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Iron Head",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Outrage",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Stomping Tantrum",
+        "Superpower",
+        "Throat Chop",
+        "Thunder Punch",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Hone Claws",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

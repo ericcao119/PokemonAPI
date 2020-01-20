@@ -1,0 +1,230 @@
+[
+  {
+    "species_name": "Gloom",
+    "variant_name": "Gloom",
+    "base_stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 70,
+      "speed": 40,
+      "special_attack": 85,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 44,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "height": 0.8,
+      "weight": 8.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Weed Pok\u00e9mon",
+      "flavor_text": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "hidden_abilities": [
+        "Stench"
+      ],
+      "regional_dex_nums": [
+        44,
+        84,
+        89,
+        44,
+        84,
+        106,
+        92,
+        44,
+        56
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 138,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Acid"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Sweet Scent"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          14,
+          "Poison Powder"
+        ],
+        [
+          16,
+          "Stun Spore"
+        ],
+        [
+          18,
+          "Sleep Powder"
+        ],
+        [
+          20,
+          "Giga Drain"
+        ],
+        [
+          26,
+          "Toxic"
+        ],
+        [
+          32,
+          "Moonblast"
+        ],
+        [
+          38,
+          "Grassy Terrain"
+        ],
+        [
+          44,
+          "Moonlight"
+        ],
+        [
+          50,
+          "Petal Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          88,
+          "Grassy Terrain"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

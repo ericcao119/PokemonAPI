@@ -1,0 +1,155 @@
+[
+  {
+    "species_name": "Raichu",
+    "variant_name": "Raichu",
+    "base_stats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 55,
+      "speed": 110,
+      "special_attack": 90,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 26,
+      "types": [
+        "Electric"
+      ],
+      "height": 0.8,
+      "weight": 30.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mouse Pok\u00e9mon",
+      "flavor_text": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
+      "abilities": [
+        "Static"
+      ],
+      "hidden_abilities": [
+        "Lightning Rod"
+      ],
+      "regional_dex_nums": [
+        26,
+        23,
+        157,
+        26,
+        105,
+        105,
+        23,
+        37,
+        164,
+        26,
+        33,
+        26,
+        195
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 218,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Raichu",
+    "variant_name": "Alolan Raichu",
+    "base_stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 50,
+      "speed": 110,
+      "special_attack": 95,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 26,
+      "types": [
+        "Electric",
+        "Psychic"
+      ],
+      "height": 0.7,
+      "weight": 21.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mouse Pok\u00e9mon",
+      "flavor_text": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pok\u00e9mon\u2019s evolution.",
+      "abilities": [
+        "Surge Surfer"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        26,
+        23,
+        157,
+        26,
+        105,
+        105,
+        23,
+        37,
+        164,
+        26,
+        33,
+        26,
+        195
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 218,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

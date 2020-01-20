@@ -1,0 +1,291 @@
+[
+  {
+    "species_name": "Corviknight",
+    "variant_name": "Corviknight",
+    "base_stats": {
+      "hp": 98,
+      "attack": 87,
+      "defense": 105,
+      "speed": 67,
+      "special_attack": 53,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 823,
+      "types": [
+        "Flying",
+        "Steel"
+      ],
+      "height": 2.2,
+      "weight": 75.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Raven Pok\u00e9mon",
+      "flavor_text": "With their great intellect and flying skills, these Pok\u00e9mon very successfully act as the Galar region\u2019s airborne taxi service.",
+      "abilities": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "hidden_abilities": [
+        "Mirror Armor"
+      ],
+      "regional_dex_nums": [
+        23
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 3,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Hone Claws"
+        ],
+        [
+          1,
+          "Iron Defense"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Metal Sound"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Power Trip"
+        ],
+        [
+          1,
+          "Steel Wing"
+        ],
+        [
+          12,
+          "Fury Attack"
+        ],
+        [
+          16,
+          "Pluck"
+        ],
+        [
+          22,
+          "Taunt"
+        ],
+        [
+          28,
+          "Scary Face"
+        ],
+        [
+          34,
+          "Drill Peck"
+        ],
+        [
+          42,
+          "Swagger"
+        ],
+        [
+          50,
+          "Brave Bird"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Fly"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          95,
+          "Air Slash"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          66,
+          "Brave Bird"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          89,
+          "Hurricane"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

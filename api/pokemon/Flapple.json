@@ -1,0 +1,256 @@
+[
+  {
+    "species_name": "Flapple",
+    "variant_name": "Flapple",
+    "base_stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 80,
+      "speed": 70,
+      "special_attack": 95,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 841,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "height": 0.3,
+      "weight": 1.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Apple Wing Pok\u00e9mon",
+      "flavor_text": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
+      "abilities": [
+        "Ripen",
+        "Gluttony"
+      ],
+      "hidden_abilities": [
+        "Hustle"
+      ],
+      "regional_dex_nums": [
+        206
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Grass"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Recycle"
+        ],
+        [
+          1,
+          "Twister"
+        ],
+        [
+          1,
+          "Wing Attack"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          4,
+          "Acid Spray"
+        ],
+        [
+          8,
+          "Acrobatics"
+        ],
+        [
+          12,
+          "Leech Seed"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          20,
+          "Dragon Breath"
+        ],
+        [
+          24,
+          "Dragon Dance"
+        ],
+        [
+          28,
+          "Dragon Pulse"
+        ],
+        [
+          32,
+          "Grav Apple"
+        ],
+        [
+          36,
+          "Iron Defense"
+        ],
+        [
+          40,
+          "Fly"
+        ],
+        [
+          44,
+          "Dragon Rush"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Fly"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          95,
+          "Air Slash"
+        ]
+      ],
+      "tr_moves": [
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

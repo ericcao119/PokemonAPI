@@ -1,0 +1,307 @@
+[
+  {
+    "species_name": "Lampent",
+    "variant_name": "Lampent",
+    "base_stats": {
+      "hp": 60,
+      "attack": 40,
+      "defense": 60,
+      "speed": 55,
+      "special_attack": 95,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 608,
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "height": 0.6,
+      "weight": 13.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Lamp Pok\u00e9mon",
+      "flavor_text": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
+      "abilities": [
+        "Flash Fire",
+        "Flame Body"
+      ],
+      "hidden_abilities": [
+        "Infiltrator"
+      ],
+      "regional_dex_nums": [
+        114,
+        191,
+        66,
+        288
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 130,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Minimize"
+        ],
+        [
+          1,
+          "Smog"
+        ],
+        [
+          3,
+          "Minimize"
+        ],
+        [
+          5,
+          "Smog"
+        ],
+        [
+          7,
+          "Fire Spin"
+        ],
+        [
+          10,
+          "Confuse Ray"
+        ],
+        [
+          13,
+          "Night Shade"
+        ],
+        [
+          16,
+          "Will-O-Wisp"
+        ],
+        [
+          20,
+          "Flame Burst"
+        ],
+        [
+          24,
+          "Imprison"
+        ],
+        [
+          28,
+          "Hex"
+        ],
+        [
+          33,
+          "Memento"
+        ],
+        [
+          38,
+          "Inferno"
+        ],
+        [
+          45,
+          "Curse"
+        ],
+        [
+          53,
+          "Shadow Ball"
+        ],
+        [
+          61,
+          "Pain Split"
+        ],
+        [
+          69,
+          "Overheat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid",
+        "Acid Armor",
+        "Captivate",
+        "Clear Smog",
+        "Endure",
+        "Haze",
+        "Heat Wave",
+        "Power Split"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Heat Wave",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Telekinesis",
+        "Trick"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Incinerate",
+        "Secret Power"
+      ]
+    }
+  }
+]

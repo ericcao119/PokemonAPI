@@ -1,0 +1,247 @@
+[
+  {
+    "species_name": "Klang",
+    "variant_name": "Klang",
+    "base_stats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 95,
+      "speed": 50,
+      "special_attack": 70,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 600,
+      "types": [
+        "Steel"
+      ],
+      "height": 0.6,
+      "weight": 51.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Gear Pok\u00e9mon",
+      "flavor_text": "Many companies in the Galar region choose Klang as their logo. This Pok\u00e9mon is considered the symbol of industrial technology.",
+      "abilities": [
+        "Plus",
+        "Minus"
+      ],
+      "hidden_abilities": [
+        "Clear Body"
+      ],
+      "regional_dex_nums": [
+        106,
+        131,
+        114
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 154,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge"
+        ],
+        [
+          1,
+          "Gear Grind"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          1,
+          "Vise Grip"
+        ],
+        [
+          6,
+          "Charge"
+        ],
+        [
+          11,
+          "Thunder Shock"
+        ],
+        [
+          16,
+          "Gear Grind"
+        ],
+        [
+          21,
+          "Bind"
+        ],
+        [
+          26,
+          "Charge Beam"
+        ],
+        [
+          31,
+          "Autotomize"
+        ],
+        [
+          36,
+          "Mirror Shot"
+        ],
+        [
+          40,
+          "Screech"
+        ],
+        [
+          44,
+          "Discharge"
+        ],
+        [
+          48,
+          "Metal Sound"
+        ],
+        [
+          52,
+          "Shift Gear"
+        ],
+        [
+          56,
+          "Lock-On"
+        ],
+        [
+          60,
+          "Zap Cannon"
+        ],
+        [
+          64,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bind",
+        "Gravity",
+        "Iron Defense",
+        "Magic Coat",
+        "Magnet Rise",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Telekinesis",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "species_name": "Perrserker",
+    "variant_name": "Perrserker",
+    "base_stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 100,
+      "speed": 50,
+      "special_attack": 50,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 863,
+      "types": [
+        "Steel"
+      ],
+      "height": 0.8,
+      "weight": 28.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Viking Pok\u00e9mon",
+      "flavor_text": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
+      "abilities": [
+        "Battle Armor",
+        "Tough Claws"
+      ],
+      "hidden_abilities": [
+        "Steely Spirit"
+      ],
+      "regional_dex_nums": [
+        183
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fake Out"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Hone Claws"
+        ],
+        [
+          1,
+          "Iron Defense"
+        ],
+        [
+          1,
+          "Iron Head"
+        ],
+        [
+          1,
+          "Metal Burst"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          12,
+          "Pay Day"
+        ],
+        [
+          16,
+          "Metal Claw"
+        ],
+        [
+          20,
+          "Taunt"
+        ],
+        [
+          24,
+          "Swagger"
+        ],
+        [
+          31,
+          "Fury Swipes"
+        ],
+        [
+          36,
+          "Screech"
+        ],
+        [
+          42,
+          "Slash"
+        ],
+        [
+          48,
+          "Metal Sound"
+        ],
+        [
+          54,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

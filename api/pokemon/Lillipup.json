@@ -1,0 +1,263 @@
+[
+  {
+    "species_name": "Lillipup",
+    "variant_name": "Lillipup",
+    "base_stats": {
+      "hp": 45,
+      "attack": 60,
+      "defense": 45,
+      "speed": 55,
+      "special_attack": 25,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 506,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.4,
+      "weight": 4.1,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Puppy Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is popular with beginners because it\u2019s intelligent, obedient to its Trainer\u2019s commands, and easy to raise.",
+      "abilities": [
+        "Vital Spirit",
+        "Pickup"
+      ],
+      "hidden_abilities": [
+        "Run Away"
+      ],
+      "regional_dex_nums": [
+        12,
+        22,
+        120,
+        150
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 55,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Odor Sleuth"
+        ],
+        [
+          8,
+          "Bite"
+        ],
+        [
+          10,
+          "Baby-Doll Eyes"
+        ],
+        [
+          12,
+          "Helping Hand"
+        ],
+        [
+          15,
+          "Take Down"
+        ],
+        [
+          19,
+          "Work Up"
+        ],
+        [
+          22,
+          "Crunch"
+        ],
+        [
+          26,
+          "Roar"
+        ],
+        [
+          29,
+          "Retaliate"
+        ],
+        [
+          33,
+          "Reversal"
+        ],
+        [
+          36,
+          "Last Resort"
+        ],
+        [
+          40,
+          "Giga Impact"
+        ],
+        [
+          45,
+          "Play Rough"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "After You",
+        "Charm",
+        "Endure",
+        "Fire Fang",
+        "Howl",
+        "Ice Fang",
+        "Lick",
+        "Mud-Slap",
+        "Psychic Fangs",
+        "Pursuit",
+        "Sand Attack",
+        "Thunder Fang",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Helping Hand",
+        "Hyper Voice",
+        "Last Resort",
+        "Shock Wave",
+        "Snore",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

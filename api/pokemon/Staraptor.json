@@ -1,0 +1,270 @@
+[
+  {
+    "species_name": "Staraptor",
+    "variant_name": "Staraptor",
+    "base_stats": {
+      "hp": 85,
+      "attack": 120,
+      "defense": 70,
+      "speed": 100,
+      "special_attack": 50,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 398,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 1.2,
+      "weight": 24.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Predator Pok\u00e9mon",
+      "flavor_text": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
+      "abilities": [
+        "Intimidate"
+      ],
+      "hidden_abilities": [
+        "Reckless"
+      ],
+      "regional_dex_nums": [
+        12,
+        12,
+        101
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 218,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Close Combat"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Wing Attack"
+        ],
+        [
+          5,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Wing Attack"
+        ],
+        [
+          13,
+          "Double Team"
+        ],
+        [
+          18,
+          "Endeavor"
+        ],
+        [
+          23,
+          "Whirlwind"
+        ],
+        [
+          28,
+          "Aerial Ace"
+        ],
+        [
+          33,
+          "Take Down"
+        ],
+        [
+          41,
+          "Agility"
+        ],
+        [
+          49,
+          "Brave Bird"
+        ],
+        [
+          57,
+          "Final Gambit"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Detect",
+        "Double-Edge",
+        "Feather Dance",
+        "Foresight",
+        "Fury Attack",
+        "Mirror Move",
+        "Pursuit",
+        "Revenge",
+        "Roost",
+        "Sand Attack",
+        "Steel Wing",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Endeavor",
+        "Heat Wave",
+        "Laser Focus",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Endure",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Retaliate",
+        "Secret Power",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "species_name": "Chimecho",
+    "variant_name": "Chimecho",
+    "base_stats": {
+      "hp": 75,
+      "attack": 50,
+      "defense": 80,
+      "speed": 65,
+      "special_attack": 95,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 358,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.6,
+      "weight": 1.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Wind Chime Pok\u00e9mon",
+      "flavor_text": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pok\u00e9mon plucks berries with its long tail and eats them.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        151,
+        83,
+        83,
+        112,
+        158
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 159,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 1
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Healing Wish"
+        ],
+        [
+          1,
+          "Synchronoise"
+        ],
+        [
+          1,
+          "Wrap"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          7,
+          "Astonish"
+        ],
+        [
+          10,
+          "Confusion"
+        ],
+        [
+          13,
+          "Yawn"
+        ],
+        [
+          16,
+          "Psywave"
+        ],
+        [
+          19,
+          "Take Down"
+        ],
+        [
+          22,
+          "Extrasensory"
+        ],
+        [
+          27,
+          "Heal Bell"
+        ],
+        [
+          32,
+          "Uproar"
+        ],
+        [
+          37,
+          "Safeguard"
+        ],
+        [
+          42,
+          "Double-Edge"
+        ],
+        [
+          47,
+          "Heal Pulse"
+        ],
+        [
+          52,
+          "Synchronoise"
+        ],
+        [
+          57,
+          "Healing Wish"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Cosmic Power",
+        "Crafty Shield",
+        "Curse",
+        "Disable",
+        "Future Sight",
+        "Hypnosis",
+        "Perish Song",
+        "Recover",
+        "Skill Swap",
+        "Stored Power",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bind",
+        "Defog",
+        "Gravity",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Icy Wind",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Magic Coat",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Defense Curl",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Rollout",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

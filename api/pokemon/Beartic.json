@@ -1,0 +1,345 @@
+[
+  {
+    "species_name": "Beartic",
+    "variant_name": "Beartic",
+    "base_stats": {
+      "hp": 95,
+      "attack": 130,
+      "defense": 80,
+      "speed": 50,
+      "special_attack": 70,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 614,
+      "types": [
+        "Ice"
+      ],
+      "height": 2.6,
+      "weight": 260.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Freezing Pok\u00e9mon",
+      "flavor_text": "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice.",
+      "abilities": [
+        "Snow Cloak",
+        "Slush Rush"
+      ],
+      "hidden_abilities": [
+        "Swift Swim"
+      ],
+      "regional_dex_nums": [
+        120,
+        196,
+        82,
+        280
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 177,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aqua Jet"
+        ],
+        [
+          1,
+          "Bide"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Icicle Crash"
+        ],
+        [
+          1,
+          "Icy Wind"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          1,
+          "Sheer Cold"
+        ],
+        [
+          1,
+          "Superpower"
+        ],
+        [
+          1,
+          "Thrash"
+        ],
+        [
+          5,
+          "Powder Snow"
+        ],
+        [
+          9,
+          "Bide"
+        ],
+        [
+          13,
+          "Icy Wind"
+        ],
+        [
+          15,
+          "Play Nice"
+        ],
+        [
+          17,
+          "Fury Swipes"
+        ],
+        [
+          21,
+          "Brine"
+        ],
+        [
+          25,
+          "Endure"
+        ],
+        [
+          29,
+          "Swagger"
+        ],
+        [
+          33,
+          "Slash"
+        ],
+        [
+          36,
+          "Flail"
+        ],
+        [
+          41,
+          "Rest"
+        ],
+        [
+          45,
+          "Blizzard"
+        ],
+        [
+          53,
+          "Hail"
+        ],
+        [
+          59,
+          "Thrash"
+        ],
+        [
+          66,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Avalanche",
+        "Encore",
+        "Focus Punch",
+        "Ice Punch",
+        "Night Slash",
+        "Play Rough",
+        "Sleep Talk",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Focus Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Low Kick",
+        "Snore",
+        "Superpower",
+        "Throat Chop",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Dive",
+        "Hone Claws",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

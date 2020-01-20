@@ -1,0 +1,308 @@
+[
+  {
+    "species_name": "Skorupi",
+    "variant_name": "Skorupi",
+    "base_stats": {
+      "hp": 40,
+      "attack": 50,
+      "defense": 90,
+      "speed": 65,
+      "special_attack": 30,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 451,
+      "types": [
+        "Poison",
+        "Bug"
+      ],
+      "height": 0.8,
+      "weight": 12.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Scorpion Pok\u00e9mon",
+      "flavor_text": "It attacks using the claws on its tail. Once locked in its grip, its prey is unable to move as this Pok\u00e9mon\u2019s poison seeps in.",
+      "abilities": [
+        "Battle Armor",
+        "Sniper"
+      ],
+      "hidden_abilities": [
+        "Keen Eye"
+      ],
+      "regional_dex_nums": [
+        127,
+        127,
+        201,
+        15,
+        285
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Poison Sting"
+        ],
+        [
+          5,
+          "Knock Off"
+        ],
+        [
+          9,
+          "Pin Missile"
+        ],
+        [
+          13,
+          "Acupressure"
+        ],
+        [
+          16,
+          "Pursuit"
+        ],
+        [
+          20,
+          "Bug Bite"
+        ],
+        [
+          23,
+          "Poison Fang"
+        ],
+        [
+          27,
+          "Venoshock"
+        ],
+        [
+          30,
+          "Hone Claws"
+        ],
+        [
+          34,
+          "Toxic Spikes"
+        ],
+        [
+          38,
+          "Night Slash"
+        ],
+        [
+          41,
+          "Scary Face"
+        ],
+        [
+          45,
+          "Crunch"
+        ],
+        [
+          47,
+          "Fell Stinger"
+        ],
+        [
+          49,
+          "Cross Poison"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Confuse Ray",
+        "Feint Attack",
+        "Iron Tail",
+        "Night Slash",
+        "Poison Tail",
+        "Pursuit",
+        "Sand Attack",
+        "Screech",
+        "Slash",
+        "Twineedle",
+        "Whirlwind"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bug Bite",
+        "Iron Tail",
+        "Knock Off",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

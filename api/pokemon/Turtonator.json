@@ -1,0 +1,328 @@
+[
+  {
+    "species_name": "Turtonator",
+    "variant_name": "Turtonator",
+    "base_stats": {
+      "hp": 60,
+      "attack": 78,
+      "defense": 135,
+      "speed": 36,
+      "special_attack": 91,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 776,
+      "types": [
+        "Fire",
+        "Dragon"
+      ],
+      "height": 2.0,
+      "weight": 212.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Blast Turtle Pok\u00e9mon",
+      "flavor_text": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
+      "abilities": [
+        "Shell Armor"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        224,
+        288,
+        347
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 170,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 70,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Smog"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Ember"
+        ],
+        [
+          8,
+          "Protect"
+        ],
+        [
+          12,
+          "Endure"
+        ],
+        [
+          16,
+          "Flail"
+        ],
+        [
+          20,
+          "Incinerate"
+        ],
+        [
+          24,
+          "Iron Defense"
+        ],
+        [
+          28,
+          "Dragon Pulse"
+        ],
+        [
+          32,
+          "Body Slam"
+        ],
+        [
+          36,
+          "Flamethrower"
+        ],
+        [
+          40,
+          "Shell Trap"
+        ],
+        [
+          44,
+          "Shell Smash"
+        ],
+        [
+          48,
+          "Overheat"
+        ],
+        [
+          52,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [
+        "Curse",
+        "Head Smash",
+        "Rapid Spin",
+        "Wide Guard"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

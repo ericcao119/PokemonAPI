@@ -1,0 +1,279 @@
+[
+  {
+    "species_name": "Manaphy",
+    "variant_name": "Manaphy",
+    "base_stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 100,
+      "speed": 100,
+      "special_attack": 100,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 490,
+      "types": [
+        "Water"
+      ],
+      "height": 0.3,
+      "weight": 1.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Seafaring Pok\u00e9mon",
+      "flavor_text": "It starts its life with a wondrous power that permits it to bond with any kind of Pok\u00e9mon.",
+      "abilities": [
+        "Hydration"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        151,
+        151
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Tail Glow"
+        ],
+        [
+          1,
+          "Water Sport"
+        ],
+        [
+          9,
+          "Charm"
+        ],
+        [
+          16,
+          "Supersonic"
+        ],
+        [
+          24,
+          "Bubble Beam"
+        ],
+        [
+          31,
+          "Acid Armor"
+        ],
+        [
+          39,
+          "Whirlpool"
+        ],
+        [
+          46,
+          "Water Pulse"
+        ],
+        [
+          54,
+          "Aqua Ring"
+        ],
+        [
+          61,
+          "Dive"
+        ],
+        [
+          69,
+          "Rain Dance"
+        ],
+        [
+          76,
+          "Heart Swap"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bounce",
+        "Covet",
+        "Heal Bell",
+        "Helping Hand",
+        "Icy Wind",
+        "Knock Off",
+        "Last Resort",
+        "Liquidation",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Brine",
+        "Endure",
+        "Flash",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

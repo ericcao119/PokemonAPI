@@ -1,0 +1,99 @@
+[
+  {
+    "species_name": "Combee",
+    "variant_name": "Combee",
+    "base_stats": {
+      "hp": 30,
+      "attack": 30,
+      "defense": 42,
+      "speed": 70,
+      "special_attack": 30,
+      "special_defense": 42
+    },
+    "dex_entry": {
+      "national_dex_num": 415,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 0.3,
+      "weight": 5.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Tiny Bee Pok\u00e9mon",
+      "flavor_text": "It ceaselessly gathers nectar from sunrise to sundown, all for the sake of Vespiquen and the swarm.",
+      "abilities": [
+        "Honey Gather"
+      ],
+      "hidden_abilities": [
+        "Hustle"
+      ],
+      "regional_dex_nums": [
+        53,
+        53,
+        142,
+        76,
+        116
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 49,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Sweet Scent"
+        ],
+        [
+          13,
+          "Bug Bite"
+        ],
+        [
+          29,
+          "Bug Buzz"
+        ]
+      ],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bug Bite",
+        "Endeavor",
+        "Snore",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Mud-Slap",
+        "Ominous Wind",
+        "String Shot",
+        "Swift"
+      ]
+    }
+  }
+]

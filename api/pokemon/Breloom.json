@@ -1,0 +1,316 @@
+[
+  {
+    "species_name": "Breloom",
+    "variant_name": "Breloom",
+    "base_stats": {
+      "hp": 60,
+      "attack": 130,
+      "defense": 80,
+      "speed": 70,
+      "special_attack": 60,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 286,
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "height": 1.2,
+      "weight": 39.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mushroom Pok\u00e9mon",
+      "flavor_text": "The seeds ringing Breloom\u2019s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pok\u00e9mon\u2019s seed will cause your stomach to rumble.",
+      "abilities": [
+        "Effect Spore",
+        "Poison Heal"
+      ],
+      "hidden_abilities": [
+        "Technician"
+      ],
+      "regional_dex_nums": [
+        35,
+        36
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fluctuating",
+      "base_exp_yield": 161,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Leech Seed"
+        ],
+        [
+          1,
+          "Mach Punch"
+        ],
+        [
+          1,
+          "Stun Spore"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Stun Spore"
+        ],
+        [
+          8,
+          "Leech Seed"
+        ],
+        [
+          12,
+          "Mega Drain"
+        ],
+        [
+          15,
+          "Headbutt"
+        ],
+        [
+          19,
+          "Feint"
+        ],
+        [
+          22,
+          "Counter"
+        ],
+        [
+          28,
+          "Force Palm"
+        ],
+        [
+          33,
+          "Mind Reader"
+        ],
+        [
+          39,
+          "Sky Uppercut"
+        ],
+        [
+          44,
+          "Seed Bomb"
+        ],
+        [
+          50,
+          "Dynamic Punch"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bullet Seed",
+        "Charm",
+        "Drain Punch",
+        "Fake Tears",
+        "Focus Punch",
+        "Helping Hand",
+        "Natural Gift",
+        "Seed Bomb",
+        "Wake-Up Slap",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Drain Punch",
+        "Focus Punch",
+        "Giga Drain",
+        "Helping Hand",
+        "Iron Tail",
+        "Laser Focus",
+        "Seed Bomb",
+        "Snatch",
+        "Snore",
+        "Superpower",
+        "Synthesis",
+        "Thunder Punch",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Cut",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Vacuum Wave"
+      ]
+    }
+  }
+]

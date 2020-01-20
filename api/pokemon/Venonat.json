@@ -1,0 +1,255 @@
+[
+  {
+    "species_name": "Venonat",
+    "variant_name": "Venonat",
+    "base_stats": {
+      "hp": 60,
+      "attack": 55,
+      "defense": 50,
+      "speed": 45,
+      "special_attack": 40,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 48,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "height": 1.0,
+      "weight": 30.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Insect Pok\u00e9mon",
+      "flavor_text": "Its large eyes act as a radar. In a bright place, you can see that they are clusters of many tiny eyes.",
+      "abilities": [
+        "Compound Eyes",
+        "Tinted Lens"
+      ],
+      "hidden_abilities": [
+        "Run Away"
+      ],
+      "regional_dex_nums": [
+        48,
+        108,
+        48,
+        109,
+        48
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Disable"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          11,
+          "Confusion"
+        ],
+        [
+          13,
+          "Poison Powder"
+        ],
+        [
+          17,
+          "Psybeam"
+        ],
+        [
+          23,
+          "Stun Spore"
+        ],
+        [
+          25,
+          "Signal Beam"
+        ],
+        [
+          29,
+          "Sleep Powder"
+        ],
+        [
+          35,
+          "Leech Life"
+        ],
+        [
+          37,
+          "Zen Headbutt"
+        ],
+        [
+          41,
+          "Poison Fang"
+        ],
+        [
+          47,
+          "Psychic"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Baton Pass",
+        "Bug Bite",
+        "Giga Drain",
+        "Morning Sun",
+        "Rage Powder",
+        "Screech",
+        "Secret Power",
+        "Signal Beam",
+        "Skill Swap",
+        "Toxic Spikes"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Giga Drain",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Captivate",
+        "Curse",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mega Drain",
+        "Mimic",
+        "Natural Gift",
+        "Psywave",
+        "Rage",
+        "Reflect",
+        "String Shot",
+        "Struggle Bug",
+        "Sweet Scent",
+        "Swift",
+        "Take Down"
+      ]
+    }
+  }
+]

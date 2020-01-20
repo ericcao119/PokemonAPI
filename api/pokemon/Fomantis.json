@@ -1,0 +1,237 @@
+[
+  {
+    "species_name": "Fomantis",
+    "variant_name": "Fomantis",
+    "base_stats": {
+      "hp": 40,
+      "attack": 55,
+      "defense": 35,
+      "speed": 35,
+      "special_attack": 50,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 753,
+      "types": [
+        "Grass"
+      ],
+      "height": 0.3,
+      "weight": 1.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sickle Grass Pok\u00e9mon",
+      "flavor_text": "It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration.",
+      "abilities": [
+        "Leaf Guard"
+      ],
+      "hidden_abilities": [
+        "Contrary"
+      ],
+      "regional_dex_nums": [
+        143,
+        176
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 50,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fury Cutter"
+        ],
+        [
+          5,
+          "Leafage"
+        ],
+        [
+          10,
+          "Razor Leaf"
+        ],
+        [
+          14,
+          "Growth"
+        ],
+        [
+          19,
+          "Ingrain"
+        ],
+        [
+          23,
+          "Leaf Blade"
+        ],
+        [
+          28,
+          "Synthesis"
+        ],
+        [
+          32,
+          "Slash"
+        ],
+        [
+          37,
+          "Sweet Scent"
+        ],
+        [
+          41,
+          "Solar Beam"
+        ],
+        [
+          46,
+          "Sunny Day"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aromatherapy",
+        "Defog",
+        "Giga Drain",
+        "Leaf Storm",
+        "Weather Ball"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Dual Chop",
+        "Giga Drain",
+        "Seed Bomb",
+        "Signal Beam",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,883 @@
+[
+  {
+    "species_name": "Gallade",
+    "variant_name": "Gallade",
+    "base_stats": {
+      "hp": 68,
+      "attack": 125,
+      "defense": 65,
+      "speed": 80,
+      "special_attack": 65,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 475,
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "height": 1.6,
+      "weight": 52.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Blade Pok\u00e9mon",
+      "flavor_text": "Sharply attuned to others\u2019 wishes for help, this Pok\u00e9mon seeks out those in need and aids them in battle.",
+      "abilities": [
+        "Steadfast"
+      ],
+      "hidden_abilities": [
+        "Justified"
+      ],
+      "regional_dex_nums": [
+        160,
+        67,
+        32,
+        123
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 233,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous",
+        "Humanlike"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Close Combat"
+        ],
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Double Team"
+        ],
+        [
+          1,
+          "Leaf Blade"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Slash"
+        ],
+        [
+          1,
+          "Stored Power"
+        ],
+        [
+          1,
+          "Teleport"
+        ],
+        [
+          4,
+          "Confusion"
+        ],
+        [
+          6,
+          "Double Team"
+        ],
+        [
+          9,
+          "Teleport"
+        ],
+        [
+          11,
+          "Quick Guard"
+        ],
+        [
+          14,
+          "Fury Cutter"
+        ],
+        [
+          17,
+          "Aerial Ace"
+        ],
+        [
+          19,
+          "Heal Pulse"
+        ],
+        [
+          23,
+          "Wide Guard"
+        ],
+        [
+          26,
+          "Swords Dance"
+        ],
+        [
+          31,
+          "Psycho Cut"
+        ],
+        [
+          35,
+          "Helping Hand"
+        ],
+        [
+          40,
+          "Feint"
+        ],
+        [
+          44,
+          "False Swipe"
+        ],
+        [
+          49,
+          "Protect"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          58,
+          "Stored Power"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ally Switch",
+        "Confuse Ray",
+        "Destiny Bond",
+        "Disable",
+        "Encore",
+        "Grudge",
+        "Mean Look",
+        "Memento",
+        "Misty Terrain",
+        "Shadow Sneak",
+        "Skill Swap",
+        "Synchronoise"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Drain Punch",
+        "Dual Chop",
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Magic Coat",
+        "Magic Room",
+        "Pain Split",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Throat Chop",
+        "Thunder Punch",
+        "Trick",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Vacuum Wave"
+      ]
+    }
+  },
+  {
+    "species_name": "Gallade",
+    "variant_name": "Mega Gallade",
+    "base_stats": {
+      "hp": 68,
+      "attack": 165,
+      "defense": 95,
+      "speed": 110,
+      "special_attack": 65,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 475,
+      "types": [
+        "Psychic",
+        "Fighting"
+      ],
+      "height": 1.6,
+      "weight": 56.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Blade Pok\u00e9mon",
+      "flavor_text": "Sharply attuned to others\u2019 wishes for help, this Pok\u00e9mon seeks out those in need and aids them in battle.",
+      "abilities": [
+        "Inner Focus"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        160,
+        67,
+        32,
+        123
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 278,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Close Combat"
+        ],
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Double Team"
+        ],
+        [
+          1,
+          "Leaf Blade"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Slash"
+        ],
+        [
+          1,
+          "Stored Power"
+        ],
+        [
+          1,
+          "Teleport"
+        ],
+        [
+          4,
+          "Confusion"
+        ],
+        [
+          6,
+          "Double Team"
+        ],
+        [
+          9,
+          "Teleport"
+        ],
+        [
+          11,
+          "Quick Guard"
+        ],
+        [
+          14,
+          "Fury Cutter"
+        ],
+        [
+          17,
+          "Aerial Ace"
+        ],
+        [
+          19,
+          "Heal Pulse"
+        ],
+        [
+          23,
+          "Wide Guard"
+        ],
+        [
+          26,
+          "Swords Dance"
+        ],
+        [
+          31,
+          "Psycho Cut"
+        ],
+        [
+          35,
+          "Helping Hand"
+        ],
+        [
+          40,
+          "Feint"
+        ],
+        [
+          44,
+          "False Swipe"
+        ],
+        [
+          49,
+          "Protect"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          58,
+          "Stored Power"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ally Switch",
+        "Confuse Ray",
+        "Destiny Bond",
+        "Disable",
+        "Encore",
+        "Grudge",
+        "Mean Look",
+        "Memento",
+        "Misty Terrain",
+        "Shadow Sneak",
+        "Skill Swap",
+        "Synchronoise"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Drain Punch",
+        "Dual Chop",
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Magic Coat",
+        "Magic Room",
+        "Pain Split",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Throat Chop",
+        "Thunder Punch",
+        "Trick",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Vacuum Wave"
+      ]
+    }
+  }
+]

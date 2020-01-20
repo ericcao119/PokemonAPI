@@ -1,0 +1,267 @@
+[
+  {
+    "species_name": "Blacephalon",
+    "variant_name": "Blacephalon",
+    "base_stats": {
+      "hp": 53,
+      "attack": 127,
+      "defense": 53,
+      "speed": 107,
+      "special_attack": 151,
+      "special_defense": 79
+    },
+    "dex_entry": {
+      "national_dex_num": 806,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "height": 1.8,
+      "weight": 13.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fireworks Pok\u00e9mon",
+      "flavor_text": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents\u2019 surprise to rob them of their vitality.",
+      "abilities": [
+        "Beast Boost"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        392
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          7,
+          "Magic Coat"
+        ],
+        [
+          13,
+          "Stored Power"
+        ],
+        [
+          17,
+          "Flame Burst"
+        ],
+        [
+          23,
+          "Night Shade"
+        ],
+        [
+          29,
+          "Light Screen"
+        ],
+        [
+          31,
+          "Calm Mind"
+        ],
+        [
+          37,
+          "Fire Blast"
+        ],
+        [
+          41,
+          "Shadow Ball"
+        ],
+        [
+          47,
+          "Trick"
+        ],
+        [
+          59,
+          "Mind Blown"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "After You",
+        "Foul Play",
+        "Heat Wave",
+        "Knock Off",
+        "Last Resort",
+        "Pain Split",
+        "Recycle",
+        "Snore",
+        "Spite",
+        "Trick",
+        "Uproar"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "species_name": "Steenee",
+    "variant_name": "Steenee",
+    "base_stats": {
+      "hp": 52,
+      "attack": 40,
+      "defense": 48,
+      "speed": 62,
+      "special_attack": 40,
+      "special_defense": 48
+    },
+    "dex_entry": {
+      "national_dex_num": 762,
+      "types": [
+        "Grass"
+      ],
+      "height": 0.7,
+      "weight": 8.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fruit Pok\u00e9mon",
+      "flavor_text": "Any Corvisquire that pecks at this Pok\u00e9mon will be greeted with a smack from its sepals followed by a sharp kick.",
+      "abilities": [
+        "Leaf Guard",
+        "Oblivious"
+      ],
+      "hidden_abilities": [
+        "Sweet Veil"
+      ],
+      "regional_dex_nums": [
+        172,
+        208,
+        53
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 102,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Double Slap"
+        ],
+        [
+          1,
+          "Play Nice"
+        ],
+        [
+          1,
+          "Rapid Spin"
+        ],
+        [
+          1,
+          "Razor Leaf"
+        ],
+        [
+          1,
+          "Splash"
+        ],
+        [
+          5,
+          "Play Nice"
+        ],
+        [
+          9,
+          "Rapid Spin"
+        ],
+        [
+          13,
+          "Razor Leaf"
+        ],
+        [
+          17,
+          "Sweet Scent"
+        ],
+        [
+          21,
+          "Magical Leaf"
+        ],
+        [
+          25,
+          "Teeter Dance"
+        ],
+        [
+          29,
+          "Stomp"
+        ],
+        [
+          33,
+          "Aromatic Mist"
+        ],
+        [
+          37,
+          "Captivate"
+        ],
+        [
+          41,
+          "Aromatherapy"
+        ],
+        [
+          45,
+          "Leaf Storm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acupressure",
+        "Charm",
+        "Feint",
+        "Grass Whistle",
+        "Play Rough",
+        "Synthesis"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Covet",
+        "Endeavor",
+        "Giga Drain",
+        "Helping Hand",
+        "Knock Off",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Worry Seed",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

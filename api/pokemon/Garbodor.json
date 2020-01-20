@@ -1,0 +1,304 @@
+[
+  {
+    "species_name": "Garbodor",
+    "variant_name": "Garbodor",
+    "base_stats": {
+      "hp": 80,
+      "attack": 95,
+      "defense": 82,
+      "speed": 75,
+      "special_attack": 60,
+      "special_defense": 82
+    },
+    "dex_entry": {
+      "national_dex_num": 569,
+      "types": [
+        "Poison"
+      ],
+      "height": 1.9,
+      "weight": 107.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Trash Heap Pok\u00e9mon",
+      "flavor_text": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
+      "abilities": [
+        "Stench",
+        "Weak Armor"
+      ],
+      "hidden_abilities": [
+        "Aftermath"
+      ],
+      "regional_dex_nums": [
+        75,
+        106,
+        75,
+        207,
+        265,
+        158
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 166,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Poison Gas"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Recycle"
+        ],
+        [
+          1,
+          "Toxic Spikes"
+        ],
+        [
+          3,
+          "Recycle"
+        ],
+        [
+          7,
+          "Toxic Spikes"
+        ],
+        [
+          12,
+          "Acid Spray"
+        ],
+        [
+          14,
+          "Double Slap"
+        ],
+        [
+          18,
+          "Sludge"
+        ],
+        [
+          23,
+          "Stockpile"
+        ],
+        [
+          23,
+          "Swallow"
+        ],
+        [
+          25,
+          "Body Slam"
+        ],
+        [
+          29,
+          "Sludge Bomb"
+        ],
+        [
+          34,
+          "Clear Smog"
+        ],
+        [
+          39,
+          "Toxic"
+        ],
+        [
+          46,
+          "Amnesia"
+        ],
+        [
+          49,
+          "Belch"
+        ],
+        [
+          54,
+          "Gunk Shot"
+        ],
+        [
+          59,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Autotomize",
+        "Curse",
+        "Haze",
+        "Mud Sport",
+        "Rock Blast",
+        "Rollout",
+        "Sand Attack",
+        "Self-Destruct",
+        "Spikes"
+      ],
+      "tutor_moves": [
+        "Drain Punch",
+        "Giga Drain",
+        "Gunk Shot",
+        "Pain Split",
+        "Recycle",
+        "Seed Bomb",
+        "Snore",
+        "Spite",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Secret Power"
+      ]
+    }
+  }
+]

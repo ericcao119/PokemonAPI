@@ -1,0 +1,321 @@
+[
+  {
+    "species_name": "Solgaleo",
+    "variant_name": "Solgaleo",
+    "base_stats": {
+      "hp": 137,
+      "attack": 137,
+      "defense": 107,
+      "speed": 97,
+      "special_attack": 113,
+      "special_defense": 89
+    },
+    "dex_entry": {
+      "national_dex_num": 791,
+      "types": [
+        "Psychic",
+        "Steel"
+      ],
+      "height": 3.4,
+      "weight": 230.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sunne Pok\u00e9mon",
+      "flavor_text": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.",
+      "abilities": [
+        "Full Metal Body"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        291,
+        389
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Cosmic Power"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Sunsteel Strike"
+        ],
+        [
+          1,
+          "Teleport"
+        ],
+        [
+          1,
+          "Wake-Up Slap"
+        ],
+        [
+          7,
+          "Iron Head"
+        ],
+        [
+          13,
+          "Metal Sound"
+        ],
+        [
+          19,
+          "Zen Headbutt"
+        ],
+        [
+          23,
+          "Flash Cannon"
+        ],
+        [
+          31,
+          "Morning Sun"
+        ],
+        [
+          37,
+          "Crunch"
+        ],
+        [
+          43,
+          "Metal Burst"
+        ],
+        [
+          47,
+          "Solar Beam"
+        ],
+        [
+          59,
+          "Noble Roar"
+        ],
+        [
+          61,
+          "Flare Blitz"
+        ],
+        [
+          67,
+          "Wide Guard"
+        ],
+        [
+          73,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Endeavor",
+        "Hyper Voice",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Knock Off",
+        "Last Resort",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Superpower",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "species_name": "Skuntank",
+    "variant_name": "Skuntank",
+    "base_stats": {
+      "hp": 103,
+      "attack": 93,
+      "defense": 67,
+      "speed": 84,
+      "special_attack": 71,
+      "special_defense": 61
+    },
+    "dex_entry": {
+      "national_dex_num": 435,
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "height": 1.0,
+      "weight": 38.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Skunk Pok\u00e9mon",
+      "flavor_text": "It digs holes in the ground to make its nest. The stench of the fluid it lets fly from the tip of its tail is extremely potent.",
+      "abilities": [
+        "Stench",
+        "Aftermath"
+      ],
+      "hidden_abilities": [
+        "Keen Eye"
+      ],
+      "regional_dex_nums": [
+        85,
+        85,
+        103,
+        131
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Flamethrower"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Poison Gas"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Screech"
+        ],
+        [
+          3,
+          "Poison Gas"
+        ],
+        [
+          7,
+          "Screech"
+        ],
+        [
+          9,
+          "Fury Swipes"
+        ],
+        [
+          13,
+          "Smokescreen"
+        ],
+        [
+          15,
+          "Feint"
+        ],
+        [
+          19,
+          "Acid Spray"
+        ],
+        [
+          21,
+          "Bite"
+        ],
+        [
+          25,
+          "Slash"
+        ],
+        [
+          27,
+          "Toxic"
+        ],
+        [
+          31,
+          "Night Slash"
+        ],
+        [
+          33,
+          "Memento"
+        ],
+        [
+          37,
+          "Venom Drench"
+        ],
+        [
+          39,
+          "Sucker Punch"
+        ],
+        [
+          43,
+          "Belch"
+        ],
+        [
+          45,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Crunch",
+        "Double-Edge",
+        "Flame Burst",
+        "Foul Play",
+        "Haze",
+        "Iron Tail",
+        "Leer",
+        "Play Rough",
+        "Punishment",
+        "Pursuit",
+        "Scary Face",
+        "Smog"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Foul Play",
+        "Iron Tail",
+        "Snatch",
+        "Snore",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

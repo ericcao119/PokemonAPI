@@ -1,0 +1,298 @@
+[
+  {
+    "species_name": "Comfey",
+    "variant_name": "Comfey",
+    "base_stats": {
+      "hp": 51,
+      "attack": 52,
+      "defense": 90,
+      "speed": 100,
+      "special_attack": 82,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 764,
+      "types": [
+        "Fairy"
+      ],
+      "height": 0.1,
+      "weight": 0.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Posy Picker Pok\u00e9mon",
+      "flavor_text": "It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect.",
+      "abilities": [
+        "Flower Veil",
+        "Triage"
+      ],
+      "hidden_abilities": [
+        "Natural Cure"
+      ],
+      "regional_dex_nums": [
+        174,
+        210
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 170,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Flower Shield"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Vine Whip"
+        ],
+        [
+          4,
+          "Leech Seed"
+        ],
+        [
+          7,
+          "Draining Kiss"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          13,
+          "Growth"
+        ],
+        [
+          16,
+          "Wrap"
+        ],
+        [
+          19,
+          "Sweet Kiss"
+        ],
+        [
+          22,
+          "Natural Gift"
+        ],
+        [
+          25,
+          "Petal Blizzard"
+        ],
+        [
+          28,
+          "Synthesis"
+        ],
+        [
+          31,
+          "Sweet Scent"
+        ],
+        [
+          34,
+          "Grass Knot"
+        ],
+        [
+          37,
+          "Floral Healing"
+        ],
+        [
+          40,
+          "Petal Dance"
+        ],
+        [
+          43,
+          "Aromatherapy"
+        ],
+        [
+          46,
+          "Grassy Terrain"
+        ],
+        [
+          49,
+          "Play Rough"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "After You",
+        "Amnesia",
+        "Endure",
+        "Lucky Chant"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Bind",
+        "Covet",
+        "Defog",
+        "Giga Drain",
+        "Heal Bell",
+        "Helping Hand",
+        "Magic Coat",
+        "Pain Split",
+        "Role Play",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Tailwind",
+        "Telekinesis",
+        "Trick",
+        "Worry Seed"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

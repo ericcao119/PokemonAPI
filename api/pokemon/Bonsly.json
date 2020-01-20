@@ -1,0 +1,263 @@
+[
+  {
+    "species_name": "Bonsly",
+    "variant_name": "Bonsly",
+    "base_stats": {
+      "hp": 50,
+      "attack": 80,
+      "defense": 95,
+      "speed": 10,
+      "special_attack": 10,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 438,
+      "types": [
+        "Rock"
+      ],
+      "height": 0.5,
+      "weight": 15.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bonsai Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon lives in dry, rocky areas. As its green spheres dry out, their dull luster increases.",
+      "abilities": [
+        "Sturdy",
+        "Rock Head"
+      ],
+      "hidden_abilities": [
+        "Rattled"
+      ],
+      "regional_dex_nums": [
+        92,
+        92,
+        129,
+        30,
+        37,
+        252
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 58,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Copycat"
+        ],
+        [
+          1,
+          "Fake Tears"
+        ],
+        [
+          5,
+          "Flail"
+        ],
+        [
+          8,
+          "Low Kick"
+        ],
+        [
+          12,
+          "Rock Throw"
+        ],
+        [
+          15,
+          "Mimic"
+        ],
+        [
+          19,
+          "Feint Attack"
+        ],
+        [
+          22,
+          "Tearful Look"
+        ],
+        [
+          26,
+          "Rock Tomb"
+        ],
+        [
+          29,
+          "Block"
+        ],
+        [
+          33,
+          "Rock Slide"
+        ],
+        [
+          36,
+          "Counter"
+        ],
+        [
+          40,
+          "Sucker Punch"
+        ],
+        [
+          43,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Curse",
+        "Defense Curl",
+        "Endure",
+        "Harden",
+        "Headbutt",
+        "Rollout",
+        "Sand Tomb",
+        "Self-Destruct",
+        "Stealth Rock"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Block",
+        "Covet",
+        "Earth Power",
+        "Foul Play",
+        "Helping Hand",
+        "Low Kick",
+        "Role Play",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Natural Gift",
+        "Secret Power",
+        "Slam"
+      ]
+    }
+  }
+]

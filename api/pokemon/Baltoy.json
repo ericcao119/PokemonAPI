@@ -1,0 +1,323 @@
+[
+  {
+    "species_name": "Baltoy",
+    "variant_name": "Baltoy",
+    "base_stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 55,
+      "speed": 55,
+      "special_attack": 40,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 343,
+      "types": [
+        "Ground",
+        "Psychic"
+      ],
+      "height": 0.5,
+      "weight": 21.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Clay Doll Pok\u00e9mon",
+      "flavor_text": "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        131,
+        169,
+        136,
+        310,
+        82
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          4,
+          "Rapid Spin"
+        ],
+        [
+          7,
+          "Mud-Slap"
+        ],
+        [
+          10,
+          "Heal Block"
+        ],
+        [
+          13,
+          "Rock Tomb"
+        ],
+        [
+          16,
+          "Psybeam"
+        ],
+        [
+          19,
+          "Ancient Power"
+        ],
+        [
+          22,
+          "Cosmic Power"
+        ],
+        [
+          25,
+          "Power Trick"
+        ],
+        [
+          28,
+          "Self-Destruct"
+        ],
+        [
+          31,
+          "Extrasensory"
+        ],
+        [
+          34,
+          "Guard Split"
+        ],
+        [
+          34,
+          "Power Split"
+        ],
+        [
+          37,
+          "Earth Power"
+        ],
+        [
+          40,
+          "Sandstorm"
+        ],
+        [
+          43,
+          "Imprison"
+        ],
+        [
+          46,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Drill Run",
+        "Earth Power",
+        "Gravity",
+        "Magic Coat",
+        "Recycle",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Telekinesis",
+        "Trick",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power"
+      ]
+    }
+  }
+]

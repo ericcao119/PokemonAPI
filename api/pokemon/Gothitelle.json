@@ -1,0 +1,353 @@
+[
+  {
+    "species_name": "Gothitelle",
+    "variant_name": "Gothitelle",
+    "base_stats": {
+      "hp": 70,
+      "attack": 55,
+      "defense": 95,
+      "speed": 65,
+      "special_attack": 95,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 576,
+      "types": [
+        "Psychic"
+      ],
+      "height": 1.5,
+      "weight": 44.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Astral Body Pok\u00e9mon",
+      "flavor_text": "A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again.",
+      "abilities": [
+        "Frisk",
+        "Competitive"
+      ],
+      "hidden_abilities": [
+        "Shadow Tag"
+      ],
+      "regional_dex_nums": [
+        82,
+        138,
+        128,
+        269
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 221,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 50,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Play Nice"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Tickle"
+        ],
+        [
+          3,
+          "Confusion"
+        ],
+        [
+          7,
+          "Tickle"
+        ],
+        [
+          10,
+          "Fake Tears"
+        ],
+        [
+          14,
+          "Double Slap"
+        ],
+        [
+          16,
+          "Psybeam"
+        ],
+        [
+          19,
+          "Embargo"
+        ],
+        [
+          24,
+          "Feint Attack"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          28,
+          "Flatter"
+        ],
+        [
+          31,
+          "Future Sight"
+        ],
+        [
+          34,
+          "Heal Block"
+        ],
+        [
+          39,
+          "Psychic"
+        ],
+        [
+          45,
+          "Telekinesis"
+        ],
+        [
+          54,
+          "Charm"
+        ],
+        [
+          59,
+          "Magic Room"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Captivate",
+        "Dark Pulse",
+        "Heal Pulse",
+        "Mean Look",
+        "Miracle Eye",
+        "Mirror Coat",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Covet",
+        "Foul Play",
+        "Gravity",
+        "Heal Bell",
+        "Helping Hand",
+        "Laser Focus",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Power-Up Punch",
+        "Secret Power"
+      ]
+    }
+  }
+]

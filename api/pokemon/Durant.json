@@ -1,0 +1,267 @@
+[
+  {
+    "species_name": "Durant",
+    "variant_name": "Durant",
+    "base_stats": {
+      "hp": 58,
+      "attack": 109,
+      "defense": 112,
+      "speed": 109,
+      "special_attack": 48,
+      "special_defense": 48
+    },
+    "dex_entry": {
+      "national_dex_num": 632,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "height": 0.3,
+      "weight": 33.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Iron Ant Pok\u00e9mon",
+      "flavor_text": "With their large mandibles, these Pok\u00e9mon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
+      "abilities": [
+        "Swarm",
+        "Hustle"
+      ],
+      "hidden_abilities": [
+        "Truant"
+      ],
+      "regional_dex_nums": [
+        138,
+        194,
+        106,
+        316
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 169,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Fury Cutter"
+        ],
+        [
+          1,
+          "Guillotine"
+        ],
+        [
+          1,
+          "Metal Sound"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Vise Grip"
+        ],
+        [
+          6,
+          "Agility"
+        ],
+        [
+          11,
+          "Metal Claw"
+        ],
+        [
+          16,
+          "Bug Bite"
+        ],
+        [
+          21,
+          "Crunch"
+        ],
+        [
+          26,
+          "Iron Head"
+        ],
+        [
+          31,
+          "Dig"
+        ],
+        [
+          36,
+          "Entrainment"
+        ],
+        [
+          41,
+          "X-Scissor"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          51,
+          "Guillotine"
+        ],
+        [
+          56,
+          "Metal Sound"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Baton Pass",
+        "Endure",
+        "Feint Attack",
+        "Rock Climb",
+        "Screech",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Endeavor",
+        "Iron Defense",
+        "Iron Head",
+        "Snore",
+        "Superpower"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Hone Claws",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

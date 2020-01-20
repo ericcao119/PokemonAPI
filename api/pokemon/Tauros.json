@@ -1,0 +1,316 @@
+[
+  {
+    "species_name": "Tauros",
+    "variant_name": "Tauros",
+    "base_stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 95,
+      "speed": 110,
+      "special_attack": 40,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 128,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.4,
+      "weight": 88.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Wild Bull Pok\u00e9mon",
+      "flavor_text": "A rowdy Pok\u00e9mon with a lot of stamina. Once running, it won\u2019t stop until it hits something.",
+      "abilities": [
+        "Intimidate",
+        "Anger Point"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        128,
+        148,
+        128,
+        150,
+        125,
+        137,
+        170,
+        128
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Rage"
+        ],
+        [
+          8,
+          "Horn Attack"
+        ],
+        [
+          11,
+          "Scary Face"
+        ],
+        [
+          15,
+          "Pursuit"
+        ],
+        [
+          19,
+          "Rest"
+        ],
+        [
+          24,
+          "Payback"
+        ],
+        [
+          29,
+          "Work Up"
+        ],
+        [
+          35,
+          "Take Down"
+        ],
+        [
+          41,
+          "Zen Headbutt"
+        ],
+        [
+          48,
+          "Swagger"
+        ],
+        [
+          55,
+          "Thrash"
+        ],
+        [
+          63,
+          "Double-Edge"
+        ],
+        [
+          71,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Endeavor",
+        "Helping Hand",
+        "Icy Wind",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Role Play",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stomping Tantrum",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Endure",
+        "Fissure",
+        "Headbutt",
+        "Horn Drill",
+        "Incinerate",
+        "Leer",
+        "Mimic",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Skull Bash",
+        "Stomp",
+        "Strength",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

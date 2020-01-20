@@ -1,0 +1,280 @@
+[
+  {
+    "species_name": "Nidorina",
+    "variant_name": "Nidorina",
+    "base_stats": {
+      "hp": 70,
+      "attack": 62,
+      "defense": 67,
+      "speed": 56,
+      "special_attack": 55,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 30,
+      "types": [
+        "Poison"
+      ],
+      "height": 0.8,
+      "weight": 20.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Poison Pin Pok\u00e9mon",
+      "flavor_text": "When resting deep in its burrow, its barbs always retract. This is proof that it is relaxed.",
+      "abilities": [
+        "Poison Point",
+        "Rivalry"
+      ],
+      "hidden_abilities": [
+        "Hustle"
+      ],
+      "regional_dex_nums": [
+        30,
+        96,
+        30,
+        96,
+        105,
+        30
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 128,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          7,
+          "Tail Whip"
+        ],
+        [
+          9,
+          "Double Kick"
+        ],
+        [
+          13,
+          "Poison Sting"
+        ],
+        [
+          20,
+          "Fury Swipes"
+        ],
+        [
+          23,
+          "Bite"
+        ],
+        [
+          28,
+          "Helping Hand"
+        ],
+        [
+          35,
+          "Toxic Spikes"
+        ],
+        [
+          38,
+          "Flatter"
+        ],
+        [
+          43,
+          "Crunch"
+        ],
+        [
+          50,
+          "Captivate"
+        ],
+        [
+          58,
+          "Poison Fang"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Beat Up",
+        "Charm",
+        "Chip Away",
+        "Counter",
+        "Disable",
+        "Endure",
+        "Focus Energy",
+        "Iron Tail",
+        "Poison Tail",
+        "Pursuit",
+        "Skull Bash",
+        "Supersonic",
+        "Take Down",
+        "Venom Drench"
+      ],
+      "tutor_moves": [
+        "Helping Hand",
+        "Iron Tail",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum",
+        "Super Fang",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Bubble Beam",
+        "Curse",
+        "Cut",
+        "Defense Curl",
+        "Detect",
+        "Dig",
+        "Double-Edge",
+        "Headbutt",
+        "Hone Claws",
+        "Horn Drill",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rage",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Tackle",
+        "Water Gun"
+      ]
+    }
+  }
+]

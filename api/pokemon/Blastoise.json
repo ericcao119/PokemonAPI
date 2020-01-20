@@ -1,0 +1,690 @@
+[
+  {
+    "species_name": "Blastoise",
+    "variant_name": "Blastoise",
+    "base_stats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "speed": 78,
+      "special_attack": 85,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 9,
+      "types": [
+        "Water"
+      ],
+      "height": 1.6,
+      "weight": 85.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Shellfish Pok\u00e9mon",
+      "flavor_text": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
+      "abilities": [
+        "Torrent"
+      ],
+      "hidden_abilities": [
+        "Rain Dish"
+      ],
+      "regional_dex_nums": [
+        9,
+        234,
+        9,
+        239,
+        88,
+        9
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 239,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Flash Cannon"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          9,
+          "Rapid Spin"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          15,
+          "Water Pulse"
+        ],
+        [
+          20,
+          "Protect"
+        ],
+        [
+          25,
+          "Rain Dance"
+        ],
+        [
+          30,
+          "Aqua Tail"
+        ],
+        [
+          35,
+          "Shell Smash"
+        ],
+        [
+          42,
+          "Iron Defense"
+        ],
+        [
+          49,
+          "Hydro Pump"
+        ],
+        [
+          56,
+          "Skull Bash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          94,
+          "False Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          98,
+          "Liquidation"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Blastoise",
+    "variant_name": "Mega Blastoise",
+    "base_stats": {
+      "hp": 79,
+      "attack": 103,
+      "defense": 120,
+      "speed": 78,
+      "special_attack": 135,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 9,
+      "types": [
+        "Water"
+      ],
+      "height": 1.6,
+      "weight": 101.1,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Shellfish Pok\u00e9mon",
+      "flavor_text": "The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.",
+      "abilities": [
+        "Mega Launcher"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        9,
+        234,
+        9,
+        239,
+        88,
+        9
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 284,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Flash Cannon"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          9,
+          "Rapid Spin"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          15,
+          "Water Pulse"
+        ],
+        [
+          20,
+          "Protect"
+        ],
+        [
+          25,
+          "Rain Dance"
+        ],
+        [
+          30,
+          "Aqua Tail"
+        ],
+        [
+          35,
+          "Shell Smash"
+        ],
+        [
+          42,
+          "Iron Defense"
+        ],
+        [
+          49,
+          "Hydro Pump"
+        ],
+        [
+          56,
+          "Skull Bash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          94,
+          "False Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          98,
+          "Liquidation"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

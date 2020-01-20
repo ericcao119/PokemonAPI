@@ -1,0 +1,247 @@
+[
+  {
+    "species_name": "Stakataka",
+    "variant_name": "Stakataka",
+    "base_stats": {
+      "hp": 61,
+      "attack": 131,
+      "defense": 211,
+      "speed": 13,
+      "special_attack": 53,
+      "special_defense": 101
+    },
+    "dex_entry": {
+      "national_dex_num": 805,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "height": 5.5,
+      "weight": 820.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rampart Pok\u00e9mon",
+      "flavor_text": "When stone walls started moving and attacking, the brute\u2019s true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
+      "abilities": [
+        "Beast Boost"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        391
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 3,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Rock Slide"
+        ],
+        [
+          11,
+          "Stealth Rock"
+        ],
+        [
+          17,
+          "Bide"
+        ],
+        [
+          19,
+          "Take Down"
+        ],
+        [
+          23,
+          "Rock Throw"
+        ],
+        [
+          31,
+          "Autotomize"
+        ],
+        [
+          37,
+          "Iron Defense"
+        ],
+        [
+          43,
+          "Iron Head"
+        ],
+        [
+          47,
+          "Rock Blast"
+        ],
+        [
+          53,
+          "Wide Guard"
+        ],
+        [
+          61,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          92,
+          "Trick Room"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bind",
+        "Block",
+        "Gravity",
+        "Iron Defense",
+        "Iron Head",
+        "Magic Coat",
+        "Magic Room",
+        "Magnet Rise",
+        "Recycle",
+        "Role Play",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Telekinesis",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "species_name": "Landorus",
+    "variant_name": "Incarnate Forme",
+    "base_stats": {
+      "hp": 89,
+      "attack": 125,
+      "defense": 90,
+      "speed": 101,
+      "special_attack": 115,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 645,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "height": 1.5,
+      "weight": 68.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Abundance Pok\u00e9mon",
+      "flavor_text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+      "abilities": [
+        "Sand Force"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        151,
+        200
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 90
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Block"
+        ],
+        [
+          1,
+          "Fissure"
+        ],
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Imprison"
+        ],
+        [
+          1,
+          "Mud Shot"
+        ],
+        [
+          1,
+          "Outrage"
+        ],
+        [
+          1,
+          "Rock Tomb"
+        ],
+        [
+          7,
+          "Punishment"
+        ],
+        [
+          13,
+          "Bulldoze"
+        ],
+        [
+          19,
+          "Rock Throw"
+        ],
+        [
+          25,
+          "Extrasensory"
+        ],
+        [
+          31,
+          "Swords Dance"
+        ],
+        [
+          37,
+          "Earth Power"
+        ],
+        [
+          43,
+          "Rock Slide"
+        ],
+        [
+          49,
+          "Earthquake"
+        ],
+        [
+          55,
+          "Sandstorm"
+        ],
+        [
+          61,
+          "Fissure"
+        ],
+        [
+          67,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Hammer Arm"
+        ],
+        [
+          79,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Block",
+        "Defog",
+        "Earth Power",
+        "Gravity",
+        "Iron Tail",
+        "Knock Off",
+        "Outrage",
+        "Role Play",
+        "Snore",
+        "Stealth Rock",
+        "Superpower"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  },
+  {
+    "species_name": "Landorus",
+    "variant_name": "Therian Forme",
+    "base_stats": {
+      "hp": 89,
+      "attack": 145,
+      "defense": 90,
+      "speed": 91,
+      "special_attack": 105,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 645,
+      "types": [
+        "Ground",
+        "Flying"
+      ],
+      "height": 1.3,
+      "weight": 68.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Abundance Pok\u00e9mon",
+      "flavor_text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+      "abilities": [
+        "Intimidate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        151,
+        200
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 90
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Block"
+        ],
+        [
+          1,
+          "Fissure"
+        ],
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Imprison"
+        ],
+        [
+          1,
+          "Mud Shot"
+        ],
+        [
+          1,
+          "Outrage"
+        ],
+        [
+          1,
+          "Rock Tomb"
+        ],
+        [
+          7,
+          "Punishment"
+        ],
+        [
+          13,
+          "Bulldoze"
+        ],
+        [
+          19,
+          "Rock Throw"
+        ],
+        [
+          25,
+          "Extrasensory"
+        ],
+        [
+          31,
+          "Swords Dance"
+        ],
+        [
+          37,
+          "Earth Power"
+        ],
+        [
+          43,
+          "Rock Slide"
+        ],
+        [
+          49,
+          "Earthquake"
+        ],
+        [
+          55,
+          "Sandstorm"
+        ],
+        [
+          61,
+          "Fissure"
+        ],
+        [
+          67,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Hammer Arm"
+        ],
+        [
+          79,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Block",
+        "Defog",
+        "Earth Power",
+        "Gravity",
+        "Iron Tail",
+        "Knock Off",
+        "Outrage",
+        "Role Play",
+        "Snore",
+        "Stealth Rock",
+        "Superpower"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

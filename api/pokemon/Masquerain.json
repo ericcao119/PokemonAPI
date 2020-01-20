@@ -1,0 +1,309 @@
+[
+  {
+    "species_name": "Masquerain",
+    "variant_name": "Masquerain",
+    "base_stats": {
+      "hp": 70,
+      "attack": 60,
+      "defense": 62,
+      "speed": 80,
+      "special_attack": 100,
+      "special_defense": 82
+    },
+    "dex_entry": {
+      "national_dex_num": 284,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 0.8,
+      "weight": 3.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Eyeball Pok\u00e9mon",
+      "flavor_text": "Its thin, winglike antennae are highly absorbent. It waits out rainy days in tree hollows.",
+      "abilities": [
+        "Intimidate"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        33,
+        48,
+        34,
+        140,
+        173
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 159,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 1
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Bug Buzz"
+        ],
+        [
+          1,
+          "Ominous Wind"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Quiver Dance"
+        ],
+        [
+          1,
+          "Sweet Scent"
+        ],
+        [
+          1,
+          "Water Sport"
+        ],
+        [
+          1,
+          "Whirlwind"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Sweet Scent"
+        ],
+        [
+          14,
+          "Water Sport"
+        ],
+        [
+          17,
+          "Gust"
+        ],
+        [
+          22,
+          "Air Cutter"
+        ],
+        [
+          22,
+          "Scary Face"
+        ],
+        [
+          26,
+          "Stun Spore"
+        ],
+        [
+          32,
+          "Silver Wind"
+        ],
+        [
+          38,
+          "Air Slash"
+        ],
+        [
+          42,
+          "Bug Buzz"
+        ],
+        [
+          48,
+          "Whirlwind"
+        ],
+        [
+          52,
+          "Quiver Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Jet",
+        "Bug Bite",
+        "Endure",
+        "Fell Stinger",
+        "Foresight",
+        "Hydro Pump",
+        "Lunge",
+        "Mind Reader",
+        "Mud Shot",
+        "Power Split",
+        "Psybeam",
+        "Signal Beam"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Giga Drain",
+        "Icy Wind",
+        "Liquidation",
+        "Signal Beam",
+        "Snore",
+        "Tailwind",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Double-Edge",
+        "Flash",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "String Shot",
+        "Struggle Bug",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

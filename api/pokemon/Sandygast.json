@@ -1,0 +1,249 @@
+[
+  {
+    "species_name": "Sandygast",
+    "variant_name": "Sandygast",
+    "base_stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 80,
+      "speed": 15,
+      "special_attack": 70,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 769,
+      "types": [
+        "Ghost",
+        "Ground"
+      ],
+      "height": 0.5,
+      "weight": 70.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sand Heap Pok\u00e9mon",
+      "flavor_text": "If you build sand mounds when you\u2019re playing, destroy them before you go home, or they may get possessed and become Sandygast.",
+      "abilities": [
+        "Water Compaction"
+      ],
+      "hidden_abilities": [
+        "Sand Veil"
+      ],
+      "regional_dex_nums": [
+        186,
+        225
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 140,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          5,
+          "Astonish"
+        ],
+        [
+          9,
+          "Sand Attack"
+        ],
+        [
+          14,
+          "Sand Tomb"
+        ],
+        [
+          18,
+          "Mega Drain"
+        ],
+        [
+          23,
+          "Bulldoze"
+        ],
+        [
+          27,
+          "Hypnosis"
+        ],
+        [
+          32,
+          "Iron Defense"
+        ],
+        [
+          36,
+          "Giga Drain"
+        ],
+        [
+          41,
+          "Shadow Ball"
+        ],
+        [
+          45,
+          "Earth Power"
+        ],
+        [
+          50,
+          "Shore Up"
+        ],
+        [
+          54,
+          "Sandstorm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Ancient Power",
+        "Curse",
+        "Destiny Bond",
+        "Spit Up",
+        "Stockpile",
+        "Swallow"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Block",
+        "Earth Power",
+        "Giga Drain",
+        "Gravity",
+        "Iron Defense",
+        "Pain Split",
+        "Recycle",
+        "Role Play",
+        "Skill Swap",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Trick"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

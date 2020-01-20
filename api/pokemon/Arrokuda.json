@@ -1,0 +1,226 @@
+[
+  {
+    "species_name": "Arrokuda",
+    "variant_name": "Arrokuda",
+    "base_stats": {
+      "hp": 41,
+      "attack": 63,
+      "defense": 40,
+      "speed": 66,
+      "special_attack": 40,
+      "special_defense": 30
+    },
+    "dex_entry": {
+      "national_dex_num": 846,
+      "types": [
+        "Water"
+      ],
+      "height": 0.5,
+      "weight": 1.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Rush Pok\u00e9mon",
+      "flavor_text": "After it\u2019s eaten its fill, its movements become extremely sluggish. That\u2019s when Cramorant swallows it up.",
+      "abilities": [
+        "Swift Swim"
+      ],
+      "hidden_abilities": [
+        "Propeller Tail"
+      ],
+      "regional_dex_nums": [
+        180
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aqua Jet"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          6,
+          "Fury Attack"
+        ],
+        [
+          12,
+          "Bite"
+        ],
+        [
+          18,
+          "Agility"
+        ],
+        [
+          24,
+          "Dive"
+        ],
+        [
+          30,
+          "Laser Focus"
+        ],
+        [
+          36,
+          "Crunch"
+        ],
+        [
+          42,
+          "Liquidation"
+        ],
+        [
+          48,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          87,
+          "Drill Run"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Acupressure",
+        "Night Slash",
+        "Slash",
+        "Thrash"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

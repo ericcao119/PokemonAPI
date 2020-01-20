@@ -1,0 +1,230 @@
+[
+  {
+    "species_name": "Seedot",
+    "variant_name": "Seedot",
+    "base_stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 50,
+      "speed": 30,
+      "special_attack": 30,
+      "special_defense": 30
+    },
+    "dex_entry": {
+      "national_dex_num": 273,
+      "types": [
+        "Grass"
+      ],
+      "height": 0.5,
+      "weight": 4.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Acorn Pok\u00e9mon",
+      "flavor_text": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
+      "abilities": [
+        "Chlorophyll",
+        "Early Bird"
+      ],
+      "hidden_abilities": [
+        "Pickpocket"
+      ],
+      "regional_dex_nums": [
+        22,
+        22,
+        39
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 44,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bide"
+        ],
+        [
+          3,
+          "Harden"
+        ],
+        [
+          9,
+          "Growth"
+        ],
+        [
+          15,
+          "Nature Power"
+        ],
+        [
+          21,
+          "Synthesis"
+        ],
+        [
+          27,
+          "Sunny Day"
+        ],
+        [
+          33,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Beat Up",
+        "Bullet Seed",
+        "Defog",
+        "Foul Play",
+        "Grassy Terrain",
+        "Leech Seed",
+        "Nasty Plot",
+        "Power Swap",
+        "Quick Attack",
+        "Razor Wind",
+        "Take Down",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Foul Play",
+        "Giga Drain",
+        "Seed Bomb",
+        "Snore",
+        "Spite",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Defense Curl",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power"
+      ]
+    }
+  }
+]

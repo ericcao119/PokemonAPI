@@ -1,0 +1,294 @@
+[
+  {
+    "species_name": "Lombre",
+    "variant_name": "Lombre",
+    "base_stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 50,
+      "speed": 50,
+      "special_attack": 60,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 271,
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "height": 1.2,
+      "weight": 32.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Jolly Pok\u00e9mon",
+      "flavor_text": "It lives at the water\u2019s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+      "abilities": [
+        "Swift Swim",
+        "Rain Dish"
+      ],
+      "hidden_abilities": [
+        "Own Tempo"
+      ],
+      "regional_dex_nums": [
+        20,
+        56,
+        20,
+        37
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 119,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          3,
+          "Growl"
+        ],
+        [
+          6,
+          "Absorb"
+        ],
+        [
+          9,
+          "Bubble"
+        ],
+        [
+          12,
+          "Fury Swipes"
+        ],
+        [
+          16,
+          "Fake Out"
+        ],
+        [
+          20,
+          "Water Sport"
+        ],
+        [
+          24,
+          "Bubble Beam"
+        ],
+        [
+          28,
+          "Nature Power"
+        ],
+        [
+          32,
+          "Uproar"
+        ],
+        [
+          36,
+          "Knock Off"
+        ],
+        [
+          40,
+          "Zen Headbutt"
+        ],
+        [
+          44,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Counter",
+        "Flail",
+        "Giga Drain",
+        "Leech Seed",
+        "Razor Leaf",
+        "Sweet Scent",
+        "Synthesis",
+        "Teeter Dance",
+        "Tickle",
+        "Water Gun"
+      ],
+      "tutor_moves": [
+        "Drain Punch",
+        "Fire Punch",
+        "Giga Drain",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Knock Off",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Bullet Seed",
+        "Captivate",
+        "Dive",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Hone Claws",
+        "Mimic",
+        "Mud-Slap",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

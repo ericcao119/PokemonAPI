@@ -1,0 +1,298 @@
+[
+  {
+    "species_name": "Volcanion",
+    "variant_name": "Volcanion",
+    "base_stats": {
+      "hp": 80,
+      "attack": 110,
+      "defense": 120,
+      "speed": 70,
+      "special_attack": 130,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 721,
+      "types": [
+        "Fire",
+        "Water"
+      ],
+      "height": 1.7,
+      "weight": 195.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Steam Pok\u00e9mon",
+      "flavor_text": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
+      "abilities": [
+        "Water Absorb"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        153
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 100
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Flare Blitz"
+        ],
+        [
+          1,
+          "Steam Eruption"
+        ],
+        [
+          1,
+          "Take Down"
+        ],
+        [
+          8,
+          "Mist"
+        ],
+        [
+          11,
+          "Haze"
+        ],
+        [
+          15,
+          "Flame Charge"
+        ],
+        [
+          21,
+          "Water Pulse"
+        ],
+        [
+          28,
+          "Stomp"
+        ],
+        [
+          32,
+          "Scald"
+        ],
+        [
+          40,
+          "Weather Ball"
+        ],
+        [
+          46,
+          "Body Slam"
+        ],
+        [
+          50,
+          "Hydro Pump"
+        ],
+        [
+          58,
+          "Flare Blitz"
+        ],
+        [
+          65,
+          "Overheat"
+        ],
+        [
+          76,
+          "Explosion"
+        ],
+        [
+          85,
+          "Steam Eruption"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Earth Power",
+        "Heat Wave",
+        "Liquidation",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

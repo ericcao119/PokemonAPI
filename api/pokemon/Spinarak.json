@@ -1,0 +1,278 @@
+[
+  {
+    "species_name": "Spinarak",
+    "variant_name": "Spinarak",
+    "base_stats": {
+      "hp": 40,
+      "attack": 60,
+      "defense": 40,
+      "speed": 30,
+      "special_attack": 40,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 167,
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "height": 0.5,
+      "weight": 8.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "String Spit Pok\u00e9mon",
+      "flavor_text": "Although the poison from its fangs isn\u2019t that strong, it\u2019s potent enough to weaken prey that gets caught in its web.",
+      "abilities": [
+        "Swarm",
+        "Insomnia"
+      ],
+      "hidden_abilities": [
+        "Sniper"
+      ],
+      "regional_dex_nums": [
+        32,
+        32,
+        107,
+        22,
+        22
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 50,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Constrict"
+        ],
+        [
+          1,
+          "Poison Sting"
+        ],
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          8,
+          "Infestation"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          15,
+          "Night Shade"
+        ],
+        [
+          19,
+          "Shadow Sneak"
+        ],
+        [
+          22,
+          "Fury Swipes"
+        ],
+        [
+          26,
+          "Sucker Punch"
+        ],
+        [
+          29,
+          "Spider Web"
+        ],
+        [
+          33,
+          "Agility"
+        ],
+        [
+          36,
+          "Pin Missile"
+        ],
+        [
+          40,
+          "Psychic"
+        ],
+        [
+          43,
+          "Poison Jab"
+        ],
+        [
+          47,
+          "Cross Poison"
+        ],
+        [
+          50,
+          "Sticky Web"
+        ],
+        [
+          54,
+          "Toxic Thread"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Baton Pass",
+        "Disable",
+        "Electroweb",
+        "Lunge",
+        "Megahorn",
+        "Night Slash",
+        "Psybeam",
+        "Pursuit",
+        "Rage Powder",
+        "Signal Beam",
+        "Sonic Boom",
+        "Toxic Spikes",
+        "Twineedle"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Bug Bite",
+        "Electroweb",
+        "Foul Play",
+        "Giga Drain",
+        "Signal Beam",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Hone Claws",
+        "Mimic",
+        "Natural Gift",
+        "Screech",
+        "Secret Power",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

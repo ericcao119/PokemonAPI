@@ -1,0 +1,309 @@
+[
+  {
+    "species_name": "Charmander",
+    "variant_name": "Charmander",
+    "base_stats": {
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "speed": 65,
+      "special_attack": 60,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 4,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.6,
+      "weight": 8.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Lizard Pok\u00e9mon",
+      "flavor_text": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Solar Power"
+      ],
+      "regional_dex_nums": [
+        4,
+        229,
+        4,
+        234,
+        83,
+        4,
+        378
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 62,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          4,
+          "Ember"
+        ],
+        [
+          8,
+          "Smokescreen"
+        ],
+        [
+          12,
+          "Dragon Breath"
+        ],
+        [
+          17,
+          "Fire Fang"
+        ],
+        [
+          20,
+          "Slash"
+        ],
+        [
+          24,
+          "Flamethrower"
+        ],
+        [
+          28,
+          "Scary Face"
+        ],
+        [
+          32,
+          "Fire Spin"
+        ],
+        [
+          36,
+          "Inferno"
+        ],
+        [
+          40,
+          "Flare Blitz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          94,
+          "False Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          47,
+          "Dragon Claw"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "Ancient Power",
+        "Belly Drum",
+        "Bite",
+        "Counter",
+        "Dragon Rush",
+        "Dragon Tail",
+        "Metal Claw",
+        "Wing Attack"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

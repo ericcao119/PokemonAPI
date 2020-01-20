@@ -1,0 +1,87 @@
+[
+  {
+    "species_name": "Metapod",
+    "variant_name": "Metapod",
+    "base_stats": {
+      "hp": 50,
+      "attack": 20,
+      "defense": 55,
+      "speed": 30,
+      "special_attack": 25,
+      "special_defense": 25
+    },
+    "dex_entry": {
+      "national_dex_num": 11,
+      "types": [
+        "Bug"
+      ],
+      "height": 0.7,
+      "weight": 9.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Cocoon Pok\u00e9mon",
+      "flavor_text": "Even though it is encased in a sturdy shell, the body inside is tender. It can\u2019t withstand a harsh attack.",
+      "abilities": [
+        "Shed Skin"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        11,
+        25,
+        11,
+        25,
+        24,
+        18,
+        18,
+        11,
+        14
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 72,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ]
+      ],
+      "tm_moves": [
+        [
+          82,
+          "Electroweb"
+        ]
+      ],
+      "tr_moves": [
+        [
+          46,
+          "Iron Defense"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

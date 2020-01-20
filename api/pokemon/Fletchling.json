@@ -1,0 +1,247 @@
+[
+  {
+    "species_name": "Fletchling",
+    "variant_name": "Fletchling",
+    "base_stats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 43,
+      "speed": 62,
+      "special_attack": 40,
+      "special_defense": 38
+    },
+    "dex_entry": {
+      "national_dex_num": 661,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 0.3,
+      "weight": 1.7,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Tiny Robin Pok\u00e9mon",
+      "flavor_text": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
+      "abilities": [
+        "Big Pecks"
+      ],
+      "hidden_abilities": [
+        "Gale Wings"
+      ],
+      "regional_dex_nums": [
+        14,
+        158,
+        192
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 56,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Peck"
+        ],
+        [
+          13,
+          "Agility"
+        ],
+        [
+          16,
+          "Flail"
+        ],
+        [
+          21,
+          "Roost"
+        ],
+        [
+          25,
+          "Razor Wind"
+        ],
+        [
+          29,
+          "Natural Gift"
+        ],
+        [
+          34,
+          "Flame Charge"
+        ],
+        [
+          39,
+          "Acrobatics"
+        ],
+        [
+          41,
+          "Me First"
+        ],
+        [
+          45,
+          "Tailwind"
+        ],
+        [
+          48,
+          "Steel Wing"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Quick Guard",
+        "Snatch",
+        "Tailwind"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Snatch",
+        "Snore",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Secret Power"
+      ]
+    }
+  }
+]

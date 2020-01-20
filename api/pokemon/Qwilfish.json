@@ -1,0 +1,325 @@
+[
+  {
+    "species_name": "Qwilfish",
+    "variant_name": "Qwilfish",
+    "base_stats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 85,
+      "speed": 85,
+      "special_attack": 55,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 211,
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "height": 0.5,
+      "weight": 3.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Balloon Pok\u00e9mon",
+      "flavor_text": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
+      "abilities": [
+        "Poison Point",
+        "Swift Swim"
+      ],
+      "hidden_abilities": [
+        "Intimidate"
+      ],
+      "regional_dex_nums": [
+        161,
+        163,
+        38,
+        304
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 88,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Destiny Bond"
+        ],
+        [
+          1,
+          "Fell Stinger"
+        ],
+        [
+          1,
+          "Hydro Pump"
+        ],
+        [
+          1,
+          "Poison Sting"
+        ],
+        [
+          1,
+          "Spikes"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          9,
+          "Harden"
+        ],
+        [
+          9,
+          "Minimize"
+        ],
+        [
+          13,
+          "Bubble"
+        ],
+        [
+          17,
+          "Rollout"
+        ],
+        [
+          21,
+          "Toxic Spikes"
+        ],
+        [
+          25,
+          "Spit Up"
+        ],
+        [
+          25,
+          "Stockpile"
+        ],
+        [
+          29,
+          "Revenge"
+        ],
+        [
+          33,
+          "Brine"
+        ],
+        [
+          37,
+          "Pin Missile"
+        ],
+        [
+          41,
+          "Take Down"
+        ],
+        [
+          45,
+          "Aqua Tail"
+        ],
+        [
+          49,
+          "Poison Jab"
+        ],
+        [
+          53,
+          "Destiny Bond"
+        ],
+        [
+          57,
+          "Hydro Pump"
+        ],
+        [
+          60,
+          "Fell Stinger"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Spray",
+        "Aqua Jet",
+        "Astonish",
+        "Brine",
+        "Bubble Beam",
+        "Flail",
+        "Haze",
+        "Signal Beam",
+        "Supersonic",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Icy Wind",
+        "Liquidation",
+        "Pain Split",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Throat Chop",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Curse",
+        "Defense Curl",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power",
+        "Swift",
+        "Swords Dance",
+        "Whirlpool"
+      ]
+    }
+  }
+]

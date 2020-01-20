@@ -1,0 +1,246 @@
+[
+  {
+    "species_name": "Doublade",
+    "variant_name": "Doublade",
+    "base_stats": {
+      "hp": 59,
+      "attack": 110,
+      "defense": 150,
+      "speed": 35,
+      "special_attack": 45,
+      "special_defense": 49
+    },
+    "dex_entry": {
+      "national_dex_num": 680,
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "height": 0.8,
+      "weight": 4.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sword Pok\u00e9mon",
+      "flavor_text": "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.",
+      "abilities": [
+        "No Guard"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        118,
+        331
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 157,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fury Cutter"
+        ],
+        [
+          1,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Fury Cutter"
+        ],
+        [
+          8,
+          "Metal Sound"
+        ],
+        [
+          13,
+          "Pursuit"
+        ],
+        [
+          18,
+          "Autotomize"
+        ],
+        [
+          20,
+          "Shadow Sneak"
+        ],
+        [
+          22,
+          "Aerial Ace"
+        ],
+        [
+          26,
+          "Retaliate"
+        ],
+        [
+          29,
+          "Slash"
+        ],
+        [
+          32,
+          "Iron Defense"
+        ],
+        [
+          36,
+          "Night Slash"
+        ],
+        [
+          41,
+          "Power Trick"
+        ],
+        [
+          45,
+          "Iron Head"
+        ],
+        [
+          51,
+          "Sacred Sword"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Destiny Bond",
+        "Metal Sound",
+        "Shadow Sneak",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Iron Defense",
+        "Iron Head",
+        "Laser Focus",
+        "Magnet Rise",
+        "Shock Wave",
+        "Snore",
+        "Spite"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

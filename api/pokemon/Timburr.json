@@ -1,0 +1,291 @@
+[
+  {
+    "species_name": "Timburr",
+    "variant_name": "Timburr",
+    "base_stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 55,
+      "speed": 35,
+      "special_attack": 25,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 532,
+      "types": [
+        "Fighting"
+      ],
+      "height": 0.6,
+      "weight": 12.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Muscular Pok\u00e9mon",
+      "flavor_text": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
+      "abilities": [
+        "Guts",
+        "Sheer Force"
+      ],
+      "hidden_abilities": [
+        "Iron Fist"
+      ],
+      "regional_dex_nums": [
+        38,
+        73,
+        93,
+        171
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 180,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 75.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          4,
+          "Focus Energy"
+        ],
+        [
+          8,
+          "Bide"
+        ],
+        [
+          12,
+          "Low Kick"
+        ],
+        [
+          16,
+          "Rock Throw"
+        ],
+        [
+          20,
+          "Wake-Up Slap"
+        ],
+        [
+          24,
+          "Chip Away"
+        ],
+        [
+          28,
+          "Bulk Up"
+        ],
+        [
+          31,
+          "Rock Slide"
+        ],
+        [
+          34,
+          "Dynamic Punch"
+        ],
+        [
+          37,
+          "Scary Face"
+        ],
+        [
+          40,
+          "Hammer Arm"
+        ],
+        [
+          43,
+          "Stone Edge"
+        ],
+        [
+          46,
+          "Focus Punch"
+        ],
+        [
+          49,
+          "Superpower"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Comet Punch",
+        "Counter",
+        "Detect",
+        "Drain Punch",
+        "Endure",
+        "Force Palm",
+        "Foresight",
+        "Mach Punch",
+        "Power-Up Punch",
+        "Reversal",
+        "Smelling Salts",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Drain Punch",
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Knock Off",
+        "Low Kick",
+        "Snore",
+        "Superpower",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

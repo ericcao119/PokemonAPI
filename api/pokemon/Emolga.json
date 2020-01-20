@@ -1,0 +1,277 @@
+[
+  {
+    "species_name": "Emolga",
+    "variant_name": "Emolga",
+    "base_stats": {
+      "hp": 55,
+      "attack": 75,
+      "defense": 60,
+      "speed": 103,
+      "special_attack": 75,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 587,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "height": 0.4,
+      "weight": 5.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sky Squirrel Pok\u00e9mon",
+      "flavor_text": "As it flies, it scatters electricity around, so bird Pok\u00e9mon keep their distance. That\u2019s why Emolga can keep all its food to itself.",
+      "abilities": [
+        "Static"
+      ],
+      "hidden_abilities": [
+        "Motor Drive"
+      ],
+      "regional_dex_nums": [
+        93,
+        144,
+        86,
+        274,
+        364
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 150,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          4,
+          "Quick Attack"
+        ],
+        [
+          7,
+          "Tail Whip"
+        ],
+        [
+          10,
+          "Charge"
+        ],
+        [
+          13,
+          "Spark"
+        ],
+        [
+          15,
+          "Nuzzle"
+        ],
+        [
+          16,
+          "Pursuit"
+        ],
+        [
+          19,
+          "Double Team"
+        ],
+        [
+          22,
+          "Shock Wave"
+        ],
+        [
+          26,
+          "Electro Ball"
+        ],
+        [
+          30,
+          "Acrobatics"
+        ],
+        [
+          34,
+          "Light Screen"
+        ],
+        [
+          38,
+          "Encore"
+        ],
+        [
+          42,
+          "Volt Switch"
+        ],
+        [
+          46,
+          "Agility"
+        ],
+        [
+          50,
+          "Discharge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Air Slash",
+        "Astonish",
+        "Baton Pass",
+        "Charm",
+        "Covet",
+        "Ion Deluge",
+        "Iron Tail",
+        "Roost",
+        "Shock Wave",
+        "Speed Swap",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Defog",
+        "Electroweb",
+        "Helping Hand",
+        "Iron Tail",
+        "Knock Off",
+        "Last Resort",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

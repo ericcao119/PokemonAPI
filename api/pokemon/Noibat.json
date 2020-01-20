@@ -1,0 +1,300 @@
+[
+  {
+    "species_name": "Noibat",
+    "variant_name": "Noibat",
+    "base_stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 35,
+      "speed": 55,
+      "special_attack": 45,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 714,
+      "types": [
+        "Flying",
+        "Dragon"
+      ],
+      "height": 0.5,
+      "weight": 8.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sound Wave Pok\u00e9mon",
+      "flavor_text": "No wavelength of sound is beyond Noibat\u2019s ability to produce. The ultrasonic waves it generates can overcome much larger Pok\u00e9mon.",
+      "abilities": [
+        "Frisk",
+        "Infiltrator"
+      ],
+      "hidden_abilities": [
+        "Telepathy"
+      ],
+      "regional_dex_nums": [
+        113,
+        83,
+        176
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 49,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Screech"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          11,
+          "Gust"
+        ],
+        [
+          13,
+          "Bite"
+        ],
+        [
+          16,
+          "Wing Attack"
+        ],
+        [
+          18,
+          "Agility"
+        ],
+        [
+          23,
+          "Air Cutter"
+        ],
+        [
+          27,
+          "Roost"
+        ],
+        [
+          31,
+          "Razor Wind"
+        ],
+        [
+          35,
+          "Tailwind"
+        ],
+        [
+          40,
+          "Whirlwind"
+        ],
+        [
+          43,
+          "Super Fang"
+        ],
+        [
+          48,
+          "Air Slash"
+        ],
+        [
+          58,
+          "Hurricane"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Outrage",
+        "Snatch",
+        "Switcheroo",
+        "Tailwind"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Tail",
+        "Outrage",
+        "Sky Attack",
+        "Snatch",
+        "Snore",
+        "Super Fang",
+        "Tailwind",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Secret Power"
+      ]
+    }
+  }
+]

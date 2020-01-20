@@ -1,0 +1,147 @@
+[
+  {
+    "species_name": "Meltan",
+    "variant_name": "Meltan",
+    "base_stats": {
+      "hp": 46,
+      "attack": 65,
+      "defense": 65,
+      "speed": 34,
+      "special_attack": 55,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 808,
+      "types": [
+        "Steel"
+      ],
+      "height": 0.2,
+      "weight": 8.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hex Nut Pok\u00e9mon",
+      "flavor_text": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
+      "abilities": [
+        "Magnet Pull"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        152
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          8,
+          "Tail Whip"
+        ],
+        [
+          16,
+          "Headbutt"
+        ],
+        [
+          24,
+          "Thunder Wave"
+        ],
+        [
+          32,
+          "Acid Armor"
+        ],
+        [
+          40,
+          "Flash Cannon"
+        ]
+      ],
+      "tm_moves": [
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          70,
+          "Flash Cannon"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

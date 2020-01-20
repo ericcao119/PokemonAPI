@@ -1,0 +1,330 @@
+[
+  {
+    "species_name": "Archeops",
+    "variant_name": "Archeops",
+    "base_stats": {
+      "hp": 75,
+      "attack": 140,
+      "defense": 65,
+      "speed": 110,
+      "special_attack": 112,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 567,
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "height": 1.4,
+      "weight": 32.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "First Bird Pok\u00e9mon",
+      "flavor_text": "Said to be an ancestor of bird Pok\u00e9mon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
+      "abilities": [
+        "Defeatist"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        73,
+        129,
+        193,
+        240
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 177,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying",
+        "Water3"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Rock Throw"
+        ],
+        [
+          1,
+          "Wing Attack"
+        ],
+        [
+          5,
+          "Rock Throw"
+        ],
+        [
+          8,
+          "Double Team"
+        ],
+        [
+          11,
+          "Scary Face"
+        ],
+        [
+          15,
+          "Pluck"
+        ],
+        [
+          18,
+          "Ancient Power"
+        ],
+        [
+          21,
+          "Agility"
+        ],
+        [
+          25,
+          "Quick Guard"
+        ],
+        [
+          28,
+          "Acrobatics"
+        ],
+        [
+          31,
+          "Dragon Breath"
+        ],
+        [
+          35,
+          "Crunch"
+        ],
+        [
+          40,
+          "Endeavor"
+        ],
+        [
+          45,
+          "U-turn"
+        ],
+        [
+          51,
+          "Rock Slide"
+        ],
+        [
+          56,
+          "Dragon Claw"
+        ],
+        [
+          61,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ally Switch",
+        "Bite",
+        "Defog",
+        "Dragon Pulse",
+        "Earth Power",
+        "Head Smash",
+        "Knock Off",
+        "Steel Wing",
+        "Switcheroo"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Aqua Tail",
+        "Bounce",
+        "Defog",
+        "Dragon Pulse",
+        "Earth Power",
+        "Endeavor",
+        "Heat Wave",
+        "Iron Defense",
+        "Iron Tail",
+        "Knock Off",
+        "Outrage",
+        "Sky Attack",
+        "Snore",
+        "Stealth Rock",
+        "Tailwind",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Hone Claws",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

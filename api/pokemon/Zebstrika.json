@@ -1,0 +1,272 @@
+[
+  {
+    "species_name": "Zebstrika",
+    "variant_name": "Zebstrika",
+    "base_stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 63,
+      "speed": 116,
+      "special_attack": 80,
+      "special_defense": 63
+    },
+    "dex_entry": {
+      "national_dex_num": 523,
+      "types": [
+        "Electric"
+      ],
+      "height": 1.6,
+      "weight": 79.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Thunderbolt Pok\u00e9mon",
+      "flavor_text": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+      "abilities": [
+        "Lightning Rod",
+        "Motor Drive"
+      ],
+      "hidden_abilities": [
+        "Sap Sipper"
+      ],
+      "regional_dex_nums": [
+        29,
+        148
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 174,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge"
+        ],
+        [
+          1,
+          "Ion Deluge"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          4,
+          "Tail Whip"
+        ],
+        [
+          8,
+          "Charge"
+        ],
+        [
+          11,
+          "Shock Wave"
+        ],
+        [
+          15,
+          "Thunder Wave"
+        ],
+        [
+          18,
+          "Flame Charge"
+        ],
+        [
+          22,
+          "Pursuit"
+        ],
+        [
+          25,
+          "Spark"
+        ],
+        [
+          31,
+          "Stomp"
+        ],
+        [
+          36,
+          "Discharge"
+        ],
+        [
+          42,
+          "Agility"
+        ],
+        [
+          47,
+          "Wild Charge"
+        ],
+        [
+          53,
+          "Thrash"
+        ],
+        [
+          58,
+          "Ion Deluge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Double Kick",
+        "Double-Edge",
+        "Endure",
+        "Feint",
+        "Me First",
+        "Rage",
+        "Sand Attack",
+        "Screech",
+        "Shock Wave",
+        "Snatch",
+        "Take Down"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bounce",
+        "Laser Focus",
+        "Low Kick",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snatch",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

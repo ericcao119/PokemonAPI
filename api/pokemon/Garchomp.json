@@ -1,0 +1,660 @@
+[
+  {
+    "species_name": "Garchomp",
+    "variant_name": "Garchomp",
+    "base_stats": {
+      "hp": 108,
+      "attack": 130,
+      "defense": 95,
+      "speed": 102,
+      "special_attack": 80,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 445,
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "height": 1.9,
+      "weight": 95.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mach Pok\u00e9mon",
+      "flavor_text": "Its fine scales don\u2019t just reduce wind resistance\u2014their sharp edges also cause injury to any opponent who attacks it.",
+      "abilities": [
+        "Sand Veil"
+      ],
+      "hidden_abilities": [
+        "Rough Skin"
+      ],
+      "regional_dex_nums": [
+        111,
+        111,
+        8,
+        240,
+        309
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Crunch"
+        ],
+        [
+          1,
+          "Dragon Rage"
+        ],
+        [
+          1,
+          "Dual Chop"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Sandstorm"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Sand Attack"
+        ],
+        [
+          7,
+          "Dragon Rage"
+        ],
+        [
+          13,
+          "Sandstorm"
+        ],
+        [
+          15,
+          "Take Down"
+        ],
+        [
+          19,
+          "Sand Tomb"
+        ],
+        [
+          28,
+          "Slash"
+        ],
+        [
+          33,
+          "Dragon Claw"
+        ],
+        [
+          40,
+          "Dig"
+        ],
+        [
+          55,
+          "Dragon Rush"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Double-Edge",
+        "Dragon Breath",
+        "Iron Head",
+        "Iron Tail",
+        "Metal Claw",
+        "Mud Shot",
+        "Outrage",
+        "Rock Climb",
+        "Sand Tomb",
+        "Scary Face",
+        "Thrash",
+        "Twister"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Dual Chop",
+        "Earth Power",
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Outrage",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Whirlpool"
+      ]
+    }
+  },
+  {
+    "species_name": "Garchomp",
+    "variant_name": "Mega Garchomp",
+    "base_stats": {
+      "hp": 108,
+      "attack": 170,
+      "defense": 115,
+      "speed": 92,
+      "special_attack": 120,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 445,
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "height": 1.9,
+      "weight": 95.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mach Pok\u00e9mon",
+      "flavor_text": "Its disposition is more vicious than before its Mega Evolution. Garchomp carves its opponents up with the scythes on both arms.",
+      "abilities": [
+        "Sand Force"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        111,
+        111,
+        8,
+        240,
+        309
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 315,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Crunch"
+        ],
+        [
+          1,
+          "Dragon Rage"
+        ],
+        [
+          1,
+          "Dual Chop"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Sandstorm"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Sand Attack"
+        ],
+        [
+          7,
+          "Dragon Rage"
+        ],
+        [
+          13,
+          "Sandstorm"
+        ],
+        [
+          15,
+          "Take Down"
+        ],
+        [
+          19,
+          "Sand Tomb"
+        ],
+        [
+          28,
+          "Slash"
+        ],
+        [
+          33,
+          "Dragon Claw"
+        ],
+        [
+          40,
+          "Dig"
+        ],
+        [
+          55,
+          "Dragon Rush"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Double-Edge",
+        "Dragon Breath",
+        "Iron Head",
+        "Iron Tail",
+        "Metal Claw",
+        "Mud Shot",
+        "Outrage",
+        "Rock Climb",
+        "Sand Tomb",
+        "Scary Face",
+        "Thrash",
+        "Twister"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Dual Chop",
+        "Earth Power",
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Outrage",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Whirlpool"
+      ]
+    }
+  }
+]

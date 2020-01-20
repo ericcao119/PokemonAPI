@@ -1,0 +1,280 @@
+[
+  {
+    "species_name": "Sylveon",
+    "variant_name": "Sylveon",
+    "base_stats": {
+      "hp": 95,
+      "attack": 65,
+      "defense": 65,
+      "speed": 60,
+      "special_attack": 110,
+      "special_defense": 130
+    },
+    "dex_entry": {
+      "national_dex_num": 700,
+      "types": [
+        "Fairy"
+      ],
+      "height": 1.0,
+      "weight": 23.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Intertwining Pok\u00e9mon",
+      "flavor_text": "There\u2019s a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pok\u00e9mon.",
+      "abilities": [
+        "Cute Charm"
+      ],
+      "hidden_abilities": [
+        "Pixilate"
+      ],
+      "regional_dex_nums": [
+        85,
+        131,
+        161,
+        204
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 184,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 8739,
+      "steps_to_hatch_upper": 8995,
+      "egg_cycles": 35
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Disarming Voice"
+        ],
+        [
+          1,
+          "Fairy Wind"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          9,
+          "Baby-Doll Eyes"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          17,
+          "Swift"
+        ],
+        [
+          20,
+          "Draining Kiss"
+        ],
+        [
+          25,
+          "Skill Swap"
+        ],
+        [
+          29,
+          "Misty Terrain"
+        ],
+        [
+          33,
+          "Light Screen"
+        ],
+        [
+          37,
+          "Moonblast"
+        ],
+        [
+          41,
+          "Last Resort"
+        ],
+        [
+          45,
+          "Psych Up"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Captivate",
+        "Charm",
+        "Covet",
+        "Curse",
+        "Detect",
+        "Endure",
+        "Fake Tears",
+        "Flail",
+        "Natural Gift",
+        "Stored Power",
+        "Synchronoise",
+        "Tickle",
+        "Wish",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Iron Tail",
+        "Laser Focus",
+        "Last Resort",
+        "Magic Coat",
+        "Skill Swap",
+        "Snore",
+        "Telekinesis"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Flash",
+        "Retaliate",
+        "Secret Power"
+      ]
+    }
+  }
+]

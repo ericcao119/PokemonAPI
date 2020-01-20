@@ -1,0 +1,648 @@
+[
+  {
+    "species_name": "Sharpedo",
+    "variant_name": "Sharpedo",
+    "base_stats": {
+      "hp": 70,
+      "attack": 120,
+      "defense": 40,
+      "speed": 95,
+      "special_attack": 95,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 319,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "height": 1.8,
+      "weight": 88.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Brutal Pok\u00e9mon",
+      "flavor_text": "It drinks in seawater and jets it from its rear to propel itself. It\u2019s very sensitive to the scent of blood.",
+      "abilities": [
+        "Rough Skin"
+      ],
+      "hidden_abilities": [
+        "Speed Boost"
+      ],
+      "regional_dex_nums": [
+        98,
+        56,
+        103,
+        265,
+        346
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 161,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Feint"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Rage"
+        ],
+        [
+          1,
+          "Slash"
+        ],
+        [
+          4,
+          "Rage"
+        ],
+        [
+          8,
+          "Focus Energy"
+        ],
+        [
+          11,
+          "Aqua Jet"
+        ],
+        [
+          15,
+          "Assurance"
+        ],
+        [
+          18,
+          "Screech"
+        ],
+        [
+          22,
+          "Swagger"
+        ],
+        [
+          25,
+          "Ice Fang"
+        ],
+        [
+          29,
+          "Scary Face"
+        ],
+        [
+          34,
+          "Poison Fang"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          45,
+          "Agility"
+        ],
+        [
+          51,
+          "Skull Bash"
+        ],
+        [
+          56,
+          "Taunt"
+        ],
+        [
+          62,
+          "Night Slash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Brine",
+        "Destiny Bond",
+        "Double-Edge",
+        "Hydro Pump",
+        "Psychic Fangs",
+        "Swift",
+        "Thrash"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Icy Wind",
+        "Liquidation",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Captivate",
+        "Dive",
+        "Endure",
+        "Fury Cutter",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  },
+  {
+    "species_name": "Sharpedo",
+    "variant_name": "Mega Sharpedo",
+    "base_stats": {
+      "hp": 70,
+      "attack": 140,
+      "defense": 70,
+      "speed": 105,
+      "special_attack": 110,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 319,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "height": 2.5,
+      "weight": 130.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Brutal Pok\u00e9mon",
+      "flavor_text": "The moment it charges into its opponent, sharp spikes pop out of Sharpedo\u2019s head, leaving its opponent with deep wounds.",
+      "abilities": [
+        "Strong Jaw"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        98,
+        56,
+        103,
+        265,
+        346
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 196,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Feint"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Rage"
+        ],
+        [
+          1,
+          "Slash"
+        ],
+        [
+          4,
+          "Rage"
+        ],
+        [
+          8,
+          "Focus Energy"
+        ],
+        [
+          11,
+          "Aqua Jet"
+        ],
+        [
+          15,
+          "Assurance"
+        ],
+        [
+          18,
+          "Screech"
+        ],
+        [
+          22,
+          "Swagger"
+        ],
+        [
+          25,
+          "Ice Fang"
+        ],
+        [
+          29,
+          "Scary Face"
+        ],
+        [
+          34,
+          "Poison Fang"
+        ],
+        [
+          40,
+          "Crunch"
+        ],
+        [
+          45,
+          "Agility"
+        ],
+        [
+          51,
+          "Skull Bash"
+        ],
+        [
+          56,
+          "Taunt"
+        ],
+        [
+          62,
+          "Night Slash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Brine",
+        "Destiny Bond",
+        "Double-Edge",
+        "Hydro Pump",
+        "Psychic Fangs",
+        "Swift",
+        "Thrash"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Icy Wind",
+        "Liquidation",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Captivate",
+        "Dive",
+        "Endure",
+        "Fury Cutter",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

@@ -1,0 +1,151 @@
+[
+  {
+    "species_name": "Sandslash",
+    "variant_name": "Sandslash",
+    "base_stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 110,
+      "speed": 65,
+      "special_attack": 45,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 28,
+      "types": [
+        "Ground"
+      ],
+      "height": 1.0,
+      "weight": 29.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mouse Pok\u00e9mon",
+      "flavor_text": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
+      "abilities": [
+        "Sand Veil"
+      ],
+      "hidden_abilities": [
+        "Sand Rush"
+      ],
+      "regional_dex_nums": [
+        28,
+        49,
+        113,
+        28,
+        49,
+        114,
+        98,
+        118,
+        252,
+        329,
+        28
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 158,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Sandslash",
+    "variant_name": "Alolan Sandslash",
+    "base_stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 120,
+      "speed": 65,
+      "special_attack": 25,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 28,
+      "types": [
+        "Ice",
+        "Steel"
+      ],
+      "height": 1.2,
+      "weight": 55.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mouse Pok\u00e9mon",
+      "flavor_text": "This is Sandslash\u2019s form after adaptation to a frigid environment. The cold air emitted by its body sharpens its icy spikes.",
+      "abilities": [
+        "Snow Cloak"
+      ],
+      "hidden_abilities": [
+        "Slush Rush"
+      ],
+      "regional_dex_nums": [
+        28,
+        49,
+        113,
+        28,
+        49,
+        114,
+        98,
+        118,
+        252,
+        329,
+        28
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 158,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

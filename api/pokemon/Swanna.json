@@ -1,0 +1,269 @@
+[
+  {
+    "species_name": "Swanna",
+    "variant_name": "Swanna",
+    "base_stats": {
+      "hp": 75,
+      "attack": 87,
+      "defense": 63,
+      "speed": 98,
+      "special_attack": 87,
+      "special_defense": 63
+    },
+    "dex_entry": {
+      "national_dex_num": 581,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "height": 1.3,
+      "weight": 24.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "White Bird Pok\u00e9mon",
+      "flavor_text": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+      "abilities": [
+        "Keen Eye",
+        "Big Pecks"
+      ],
+      "hidden_abilities": [
+        "Hydration"
+      ],
+      "regional_dex_nums": [
+        87,
+        154,
+        128
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 166,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Defog"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Water Sport"
+        ],
+        [
+          1,
+          "Wing Attack"
+        ],
+        [
+          3,
+          "Water Sport"
+        ],
+        [
+          6,
+          "Defog"
+        ],
+        [
+          9,
+          "Wing Attack"
+        ],
+        [
+          13,
+          "Water Pulse"
+        ],
+        [
+          15,
+          "Aerial Ace"
+        ],
+        [
+          19,
+          "Bubble Beam"
+        ],
+        [
+          21,
+          "Feather Dance"
+        ],
+        [
+          24,
+          "Aqua Ring"
+        ],
+        [
+          27,
+          "Air Slash"
+        ],
+        [
+          30,
+          "Roost"
+        ],
+        [
+          34,
+          "Rain Dance"
+        ],
+        [
+          40,
+          "Tailwind"
+        ],
+        [
+          47,
+          "Brave Bird"
+        ],
+        [
+          55,
+          "Hurricane"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Air Cutter",
+        "Aqua Jet",
+        "Brine",
+        "Gust",
+        "Lucky Chant",
+        "Me First",
+        "Mirror Move",
+        "Mud Sport",
+        "Steel Wing"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Endeavor",
+        "Icy Wind",
+        "Liquidation",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Dive",
+        "Pluck",
+        "Secret Power"
+      ]
+    }
+  }
+]

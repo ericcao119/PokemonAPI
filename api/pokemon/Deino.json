@@ -1,0 +1,264 @@
+[
+  {
+    "species_name": "Deino",
+    "variant_name": "Deino",
+    "base_stats": {
+      "hp": 52,
+      "attack": 65,
+      "defense": 50,
+      "speed": 38,
+      "special_attack": 45,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 633,
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "height": 0.8,
+      "weight": 17.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Irate Pok\u00e9mon",
+      "flavor_text": "Because it can\u2019t see, this Pok\u00e9mon is constantly biting at everything it touches, trying to keep track of its surroundings.",
+      "abilities": [
+        "Hustle"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        139,
+        273,
+        142,
+        386
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Dragon Rage"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Focus Energy"
+        ],
+        [
+          9,
+          "Bite"
+        ],
+        [
+          12,
+          "Headbutt"
+        ],
+        [
+          17,
+          "Dragon Breath"
+        ],
+        [
+          20,
+          "Roar"
+        ],
+        [
+          25,
+          "Crunch"
+        ],
+        [
+          28,
+          "Slam"
+        ],
+        [
+          32,
+          "Dragon Pulse"
+        ],
+        [
+          38,
+          "Work Up"
+        ],
+        [
+          42,
+          "Dragon Rush"
+        ],
+        [
+          48,
+          "Body Slam"
+        ],
+        [
+          50,
+          "Scary Face"
+        ],
+        [
+          58,
+          "Hyper Voice"
+        ],
+        [
+          62,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Astonish",
+        "Belch",
+        "Dark Pulse",
+        "Double Hit",
+        "Earth Power",
+        "Fire Fang",
+        "Head Smash",
+        "Ice Fang",
+        "Screech",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Hyper Voice",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Superpower",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Incinerate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

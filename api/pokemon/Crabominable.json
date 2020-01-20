@@ -1,0 +1,298 @@
+[
+  {
+    "species_name": "Crabominable",
+    "variant_name": "Crabominable",
+    "base_stats": {
+      "hp": 97,
+      "attack": 132,
+      "defense": 77,
+      "speed": 43,
+      "special_attack": 62,
+      "special_defense": 67
+    },
+    "dex_entry": {
+      "national_dex_num": 740,
+      "types": [
+        "Fighting",
+        "Ice"
+      ],
+      "height": 1.7,
+      "weight": 180.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Woolly Crab Pok\u00e9mon",
+      "flavor_text": "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.",
+      "abilities": [
+        "Hyper Cutter",
+        "Iron Fist"
+      ],
+      "hidden_abilities": [
+        "Anger Point"
+      ],
+      "regional_dex_nums": [
+        60,
+        72
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 167,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Ice Punch"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Pursuit"
+        ],
+        [
+          1,
+          "Rock Smash"
+        ],
+        [
+          5,
+          "Rock Smash"
+        ],
+        [
+          9,
+          "Leer"
+        ],
+        [
+          13,
+          "Pursuit"
+        ],
+        [
+          17,
+          "Bubble Beam"
+        ],
+        [
+          22,
+          "Power-Up Punch"
+        ],
+        [
+          25,
+          "Dizzy Punch"
+        ],
+        [
+          29,
+          "Avalanche"
+        ],
+        [
+          33,
+          "Reversal"
+        ],
+        [
+          37,
+          "Ice Hammer"
+        ],
+        [
+          42,
+          "Iron Defense"
+        ],
+        [
+          45,
+          "Dynamic Punch"
+        ],
+        [
+          49,
+          "Close Combat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Endeavor",
+        "Superpower",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Drain Punch",
+        "Dual Chop",
+        "Endeavor",
+        "Focus Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Head",
+        "Snore",
+        "Superpower",
+        "Thunder Punch",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

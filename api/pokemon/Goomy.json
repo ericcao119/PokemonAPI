@@ -1,0 +1,217 @@
+[
+  {
+    "species_name": "Goomy",
+    "variant_name": "Goomy",
+    "base_stats": {
+      "hp": 45,
+      "attack": 50,
+      "defense": 35,
+      "speed": 40,
+      "special_attack": 55,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 704,
+      "types": [
+        "Dragon"
+      ],
+      "height": 0.3,
+      "weight": 2.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Soft Tissue Pok\u00e9mon",
+      "flavor_text": "Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they\u2019ve survived.",
+      "abilities": [
+        "Sap Sipper",
+        "Hydration"
+      ],
+      "hidden_abilities": [
+        "Gooey"
+      ],
+      "regional_dex_nums": [
+        19,
+        178,
+        217,
+        389
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Absorb"
+        ],
+        [
+          9,
+          "Protect"
+        ],
+        [
+          13,
+          "Bide"
+        ],
+        [
+          18,
+          "Dragon Breath"
+        ],
+        [
+          25,
+          "Rain Dance"
+        ],
+        [
+          28,
+          "Flail"
+        ],
+        [
+          32,
+          "Body Slam"
+        ],
+        [
+          38,
+          "Muddy Water"
+        ],
+        [
+          42,
+          "Dragon Pulse"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Armor",
+        "Counter",
+        "Curse",
+        "Endure",
+        "Iron Tail",
+        "Poison Tail"
+      ],
+      "tutor_moves": [
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Iron Tail",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "species_name": "Morpeko",
+    "variant_name": "Full Belly Mode",
+    "base_stats": {
+      "hp": 58,
+      "attack": 95,
+      "defense": 58,
+      "speed": 97,
+      "special_attack": 70,
+      "special_defense": 58
+    },
+    "dex_entry": {
+      "national_dex_num": 877,
+      "types": [
+        "Electric",
+        "Dark"
+      ],
+      "height": 0.3,
+      "weight": 3.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Two-Sided Pok\u00e9mon",
+      "flavor_text": "It carries electrically roasted seeds with it as if they\u2019re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+      "abilities": [
+        "Hunger Switch"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        344
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          10,
+          "Power Trip"
+        ],
+        [
+          15,
+          "Quick Attack"
+        ],
+        [
+          20,
+          "Flatter"
+        ],
+        [
+          25,
+          "Bite"
+        ],
+        [
+          30,
+          "Spark"
+        ],
+        [
+          35,
+          "Torment"
+        ],
+        [
+          40,
+          "Agility"
+        ],
+        [
+          45,
+          "Bullet Seed"
+        ],
+        [
+          50,
+          "Crunch"
+        ],
+        [
+          55,
+          "Aura Wheel"
+        ],
+        [
+          60,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          80,
+          "Volt Switch"
+        ],
+        [
+          82,
+          "Electroweb"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          90,
+          "Electric Terrain"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [
+        "Charge",
+        "Fake Out",
+        "Parting Shot",
+        "Quash",
+        "Rapid Spin",
+        "Super Fang",
+        "Swagger",
+        "Tickle"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Morpeko",
+    "variant_name": "Hangry Mode",
+    "base_stats": {
+      "hp": 58,
+      "attack": 95,
+      "defense": 58,
+      "speed": 97,
+      "special_attack": 70,
+      "special_defense": 58
+    },
+    "dex_entry": {
+      "national_dex_num": 877,
+      "types": [
+        "Electric",
+        "Dark"
+      ],
+      "height": 0.3,
+      "weight": 3.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Two-Sided Pok\u00e9mon",
+      "flavor_text": "It carries electrically roasted seeds with it as if they\u2019re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+      "abilities": [
+        "Hunger Switch"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        344
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          10,
+          "Power Trip"
+        ],
+        [
+          15,
+          "Quick Attack"
+        ],
+        [
+          20,
+          "Flatter"
+        ],
+        [
+          25,
+          "Bite"
+        ],
+        [
+          30,
+          "Spark"
+        ],
+        [
+          35,
+          "Torment"
+        ],
+        [
+          40,
+          "Agility"
+        ],
+        [
+          45,
+          "Bullet Seed"
+        ],
+        [
+          50,
+          "Crunch"
+        ],
+        [
+          55,
+          "Aura Wheel"
+        ],
+        [
+          60,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          80,
+          "Volt Switch"
+        ],
+        [
+          82,
+          "Electroweb"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          90,
+          "Electric Terrain"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [
+        "Charge",
+        "Fake Out",
+        "Parting Shot",
+        "Quash",
+        "Rapid Spin",
+        "Super Fang",
+        "Swagger",
+        "Tickle"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

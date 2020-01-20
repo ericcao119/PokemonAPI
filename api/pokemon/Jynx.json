@@ -1,0 +1,380 @@
+[
+  {
+    "species_name": "Jynx",
+    "variant_name": "Jynx",
+    "base_stats": {
+      "hp": 65,
+      "attack": 50,
+      "defense": 35,
+      "speed": 95,
+      "special_attack": 115,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 124,
+      "types": [
+        "Ice",
+        "Psychic"
+      ],
+      "height": 1.4,
+      "weight": 40.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Human Shape Pok\u00e9mon",
+      "flavor_text": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
+      "abilities": [
+        "Oblivious",
+        "Forewarn"
+      ],
+      "hidden_abilities": [
+        "Dry Skin"
+      ],
+      "regional_dex_nums": [
+        124,
+        153,
+        124,
+        155,
+        84,
+        110,
+        124
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 159,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Draining Kiss"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Lovely Kiss"
+        ],
+        [
+          1,
+          "Perish Song"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          5,
+          "Lick"
+        ],
+        [
+          8,
+          "Lovely Kiss"
+        ],
+        [
+          11,
+          "Powder Snow"
+        ],
+        [
+          15,
+          "Double Slap"
+        ],
+        [
+          18,
+          "Ice Punch"
+        ],
+        [
+          21,
+          "Heart Stamp"
+        ],
+        [
+          25,
+          "Mean Look"
+        ],
+        [
+          28,
+          "Fake Tears"
+        ],
+        [
+          33,
+          "Wake-Up Slap"
+        ],
+        [
+          39,
+          "Avalanche"
+        ],
+        [
+          44,
+          "Body Slam"
+        ],
+        [
+          49,
+          "Wring Out"
+        ],
+        [
+          55,
+          "Perish Song"
+        ],
+        [
+          60,
+          "Blizzard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          70,
+          "Aurora Veil"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Captivate",
+        "Fake Out",
+        "Ice Punch",
+        "Meditate",
+        "Miracle Eye",
+        "Nasty Plot",
+        "Wake-Up Slap",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Covet",
+        "Drain Punch",
+        "Focus Punch",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Role Play",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Bubble Beam",
+        "Counter",
+        "Curse",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Power-Up Punch",
+        "Psywave",
+        "Rage",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Submission",
+        "Sweet Scent",
+        "Take Down",
+        "Teleport",
+        "Thrash",
+        "Water Gun"
+      ]
+    }
+  }
+]

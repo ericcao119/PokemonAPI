@@ -1,0 +1,247 @@
+[
+  {
+    "species_name": "Starly",
+    "variant_name": "Starly",
+    "base_stats": {
+      "hp": 40,
+      "attack": 55,
+      "defense": 30,
+      "speed": 60,
+      "special_attack": 30,
+      "special_defense": 30
+    },
+    "dex_entry": {
+      "national_dex_num": 396,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 0.3,
+      "weight": 2.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Starling Pok\u00e9mon",
+      "flavor_text": "They flock around mountains and fields, chasing after bug Pok\u00e9mon. Their singing is noisy and annoying.",
+      "abilities": [
+        "Keen Eye"
+      ],
+      "hidden_abilities": [
+        "Reckless"
+      ],
+      "regional_dex_nums": [
+        10,
+        10,
+        99
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 49,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Quick Attack"
+        ],
+        [
+          9,
+          "Wing Attack"
+        ],
+        [
+          13,
+          "Double Team"
+        ],
+        [
+          17,
+          "Endeavor"
+        ],
+        [
+          21,
+          "Whirlwind"
+        ],
+        [
+          25,
+          "Aerial Ace"
+        ],
+        [
+          29,
+          "Take Down"
+        ],
+        [
+          33,
+          "Agility"
+        ],
+        [
+          37,
+          "Brave Bird"
+        ],
+        [
+          41,
+          "Final Gambit"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Detect",
+        "Double-Edge",
+        "Feather Dance",
+        "Foresight",
+        "Fury Attack",
+        "Mirror Move",
+        "Pursuit",
+        "Revenge",
+        "Roost",
+        "Sand Attack",
+        "Steel Wing",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Endeavor",
+        "Heat Wave",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Endure",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Secret Power",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

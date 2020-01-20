@@ -1,0 +1,246 @@
+[
+  {
+    "species_name": "Petilil",
+    "variant_name": "Petilil",
+    "base_stats": {
+      "hp": 45,
+      "attack": 35,
+      "defense": 50,
+      "speed": 30,
+      "special_attack": 70,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 548,
+      "types": [
+        "Grass"
+      ],
+      "height": 0.5,
+      "weight": 6.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bulb Pok\u00e9mon",
+      "flavor_text": "They prefer clean water and soil. When the environment they live in turns bad, the whole bunch will up and move to a new area.",
+      "abilities": [
+        "Chlorophyll",
+        "Own Tempo"
+      ],
+      "hidden_abilities": [
+        "Leaf Guard"
+      ],
+      "regional_dex_nums": [
+        54,
+        84,
+        85,
+        103
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 56,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          4,
+          "Growth"
+        ],
+        [
+          8,
+          "Leech Seed"
+        ],
+        [
+          10,
+          "Sleep Powder"
+        ],
+        [
+          13,
+          "Mega Drain"
+        ],
+        [
+          17,
+          "Synthesis"
+        ],
+        [
+          19,
+          "Magical Leaf"
+        ],
+        [
+          22,
+          "Stun Spore"
+        ],
+        [
+          26,
+          "Giga Drain"
+        ],
+        [
+          28,
+          "Aromatherapy"
+        ],
+        [
+          31,
+          "Helping Hand"
+        ],
+        [
+          35,
+          "Energy Ball"
+        ],
+        [
+          37,
+          "Entrainment"
+        ],
+        [
+          40,
+          "Sunny Day"
+        ],
+        [
+          44,
+          "After You"
+        ],
+        [
+          46,
+          "Leaf Storm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bide",
+        "Charm",
+        "Encore",
+        "Endure",
+        "Grass Whistle",
+        "Healing Wish",
+        "Ingrain",
+        "Natural Gift",
+        "Sweet Scent",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Giga Drain",
+        "Heal Bell",
+        "Helping Hand",
+        "Laser Focus",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

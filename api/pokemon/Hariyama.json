@@ -1,0 +1,333 @@
+[
+  {
+    "species_name": "Hariyama",
+    "variant_name": "Hariyama",
+    "base_stats": {
+      "hp": 144,
+      "attack": 120,
+      "defense": 60,
+      "speed": 50,
+      "special_attack": 40,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 297,
+      "types": [
+        "Fighting"
+      ],
+      "height": 2.3,
+      "weight": 253.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Arm Thrust Pok\u00e9mon",
+      "flavor_text": "Hariyama that are big and fat aren\u2019t necessarily strong. There are some small ones that move nimbly and use moves skillfully.",
+      "abilities": [
+        "Thick Fat",
+        "Guts"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        49,
+        96,
+        50,
+        57,
+        69
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fluctuating",
+      "base_exp_yield": 166,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 75.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Arm Thrust"
+        ],
+        [
+          1,
+          "Brine"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Sand Attack"
+        ],
+        [
+          7,
+          "Arm Thrust"
+        ],
+        [
+          10,
+          "Fake Out"
+        ],
+        [
+          13,
+          "Force Palm"
+        ],
+        [
+          16,
+          "Whirlwind"
+        ],
+        [
+          19,
+          "Knock Off"
+        ],
+        [
+          22,
+          "Vital Throw"
+        ],
+        [
+          26,
+          "Belly Drum"
+        ],
+        [
+          30,
+          "Smelling Salts"
+        ],
+        [
+          34,
+          "Seismic Toss"
+        ],
+        [
+          38,
+          "Wake-Up Slap"
+        ],
+        [
+          42,
+          "Endure"
+        ],
+        [
+          46,
+          "Close Combat"
+        ],
+        [
+          50,
+          "Reversal"
+        ],
+        [
+          54,
+          "Heavy Slam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bullet Punch",
+        "Chip Away",
+        "Counter",
+        "Cross Chop",
+        "Detect",
+        "Dynamic Punch",
+        "Feint",
+        "Feint Attack",
+        "Focus Punch",
+        "Foresight",
+        "Helping Hand",
+        "Revenge",
+        "Wake-Up Slap",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Iron Head",
+        "Knock Off",
+        "Low Kick",
+        "Role Play",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Throat Chop",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Dig",
+        "Double-Edge",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Vacuum Wave",
+        "Whirlpool"
+      ]
+    }
+  }
+]

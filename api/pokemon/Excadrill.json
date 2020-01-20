@@ -1,0 +1,299 @@
+[
+  {
+    "species_name": "Excadrill",
+    "variant_name": "Excadrill",
+    "base_stats": {
+      "hp": 110,
+      "attack": 135,
+      "defense": 60,
+      "speed": 88,
+      "special_attack": 50,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 530,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "height": 0.7,
+      "weight": 40.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Subterrene Pok\u00e9mon",
+      "flavor_text": "Known as the Drill King, this Pok\u00e9mon can tunnel through the terrain at speeds of over 90 mph.",
+      "abilities": [
+        "Sand Rush",
+        "Sand Force"
+      ],
+      "hidden_abilities": [
+        "Mold Breaker"
+      ],
+      "regional_dex_nums": [
+        36,
+        77,
+        167
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 178,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Horn Drill"
+        ],
+        [
+          1,
+          "Mud Sport"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "Rapid Spin"
+        ],
+        [
+          1,
+          "Rototiller"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          5,
+          "Rapid Spin"
+        ],
+        [
+          8,
+          "Mud-Slap"
+        ],
+        [
+          12,
+          "Fury Swipes"
+        ],
+        [
+          15,
+          "Metal Claw"
+        ],
+        [
+          19,
+          "Dig"
+        ],
+        [
+          22,
+          "Hone Claws"
+        ],
+        [
+          26,
+          "Slash"
+        ],
+        [
+          29,
+          "Rock Slide"
+        ],
+        [
+          36,
+          "Earthquake"
+        ],
+        [
+          42,
+          "Swords Dance"
+        ],
+        [
+          49,
+          "Sandstorm"
+        ],
+        [
+          55,
+          "Drill Run"
+        ],
+        [
+          62,
+          "Fissure"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crush Claw",
+        "Earth Power",
+        "Iron Defense",
+        "Metal Sound",
+        "Rapid Spin",
+        "Rock Climb",
+        "Skull Bash",
+        "Submission"
+      ],
+      "tutor_moves": [
+        "Drill Run",
+        "Earth Power",
+        "Iron Defense",
+        "Iron Head",
+        "Magnet Rise",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

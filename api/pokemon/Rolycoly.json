@@ -1,0 +1,214 @@
+[
+  {
+    "species_name": "Rolycoly",
+    "variant_name": "Rolycoly",
+    "base_stats": {
+      "hp": 30,
+      "attack": 40,
+      "defense": 50,
+      "speed": 30,
+      "special_attack": 40,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 837,
+      "types": [
+        "Rock"
+      ],
+      "height": 0.3,
+      "weight": 12.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Coal Pok\u00e9mon",
+      "flavor_text": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
+      "abilities": [
+        "Steam Engine",
+        "Heatproof"
+      ],
+      "hidden_abilities": [
+        "Flash Fire"
+      ],
+      "regional_dex_nums": [
+        161
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Rapid Spin"
+        ],
+        [
+          10,
+          "Smack Down"
+        ],
+        [
+          15,
+          "Rock Polish"
+        ],
+        [
+          20,
+          "Ancient Power"
+        ],
+        [
+          25,
+          "Incinerate"
+        ],
+        [
+          30,
+          "Stealth Rock"
+        ],
+        [
+          35,
+          "Heat Crash"
+        ],
+        [
+          40,
+          "Rock Blast"
+        ]
+      ],
+      "tm_moves": [
+        [
+          15,
+          "Dig"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          49,
+          "Sand Tomb"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          23,
+          "Spikes"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ]
+      ],
+      "egg_moves": [
+        "Block",
+        "Explosion",
+        "Mud-Slap"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

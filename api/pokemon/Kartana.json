@@ -1,0 +1,234 @@
+[
+  {
+    "species_name": "Kartana",
+    "variant_name": "Kartana",
+    "base_stats": {
+      "hp": 59,
+      "attack": 181,
+      "defense": 131,
+      "speed": 109,
+      "special_attack": 59,
+      "special_defense": 31
+    },
+    "dex_entry": {
+      "national_dex_num": 798,
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "height": 0.3,
+      "weight": 0.1,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Drawn Sword Pok\u00e9mon",
+      "flavor_text": "Although it\u2019s alien to this world and a danger here, it\u2019s apparently a common organism in the world where it normally lives.",
+      "abilities": [
+        "Beast Boost"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        298,
+        398
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Air Cutter"
+        ],
+        [
+          1,
+          "Cut"
+        ],
+        [
+          1,
+          "Defog"
+        ],
+        [
+          1,
+          "Fury Cutter"
+        ],
+        [
+          1,
+          "Sacred Sword"
+        ],
+        [
+          1,
+          "Vacuum Wave"
+        ],
+        [
+          7,
+          "False Swipe"
+        ],
+        [
+          13,
+          "Razor Leaf"
+        ],
+        [
+          19,
+          "Synthesis"
+        ],
+        [
+          23,
+          "Aerial Ace"
+        ],
+        [
+          29,
+          "Laser Focus"
+        ],
+        [
+          31,
+          "Night Slash"
+        ],
+        [
+          37,
+          "Swords Dance"
+        ],
+        [
+          43,
+          "Leaf Blade"
+        ],
+        [
+          47,
+          "X-Scissor"
+        ],
+        [
+          53,
+          "Detect"
+        ],
+        [
+          59,
+          "Air Slash"
+        ],
+        [
+          67,
+          "Psycho Cut"
+        ],
+        [
+          73,
+          "Guillotine"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Giga Drain",
+        "Iron Defense",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Snore",
+        "Synthesis",
+        "Tailwind"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

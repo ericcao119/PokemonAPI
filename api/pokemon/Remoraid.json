@@ -1,0 +1,283 @@
+[
+  {
+    "species_name": "Remoraid",
+    "variant_name": "Remoraid",
+    "base_stats": {
+      "hp": 35,
+      "attack": 65,
+      "defense": 35,
+      "speed": 65,
+      "special_attack": 65,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 223,
+      "types": [
+        "Water"
+      ],
+      "height": 0.6,
+      "weight": 12.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Jet Pok\u00e9mon",
+      "flavor_text": "Using its dorsal fin as a suction pad, it clings to a Mantine\u2019s underside to scavenge for leftovers.",
+      "abilities": [
+        "Hustle",
+        "Sniper"
+      ],
+      "hidden_abilities": [
+        "Moody"
+      ],
+      "regional_dex_nums": [
+        172,
+        132,
+        132,
+        174,
+        235,
+        144,
+        143,
+        148
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          6,
+          "Lock-On"
+        ],
+        [
+          10,
+          "Psybeam"
+        ],
+        [
+          14,
+          "Aurora Beam"
+        ],
+        [
+          18,
+          "Bubble Beam"
+        ],
+        [
+          22,
+          "Focus Energy"
+        ],
+        [
+          26,
+          "Water Pulse"
+        ],
+        [
+          30,
+          "Signal Beam"
+        ],
+        [
+          34,
+          "Ice Beam"
+        ],
+        [
+          38,
+          "Bullet Seed"
+        ],
+        [
+          42,
+          "Hydro Pump"
+        ],
+        [
+          46,
+          "Hyper Beam"
+        ],
+        [
+          50,
+          "Soak"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Spray",
+        "Aurora Beam",
+        "Entrainment",
+        "Flail",
+        "Haze",
+        "Mud Shot",
+        "Octazooka",
+        "Rock Blast",
+        "Screech",
+        "Snore",
+        "Supersonic",
+        "Swift",
+        "Water Pulse",
+        "Water Spout"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Gunk Shot",
+        "Icy Wind",
+        "Seed Bomb",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Brine",
+        "Captivate",
+        "Curse",
+        "Defense Curl",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "String Shot",
+        "Whirlpool"
+      ]
+    }
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "species_name": "Litten",
+    "variant_name": "Litten",
+    "base_stats": {
+      "hp": 45,
+      "attack": 65,
+      "defense": 40,
+      "speed": 70,
+      "special_attack": 60,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 725,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.4,
+      "weight": 4.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fire Cat Pok\u00e9mon",
+      "flavor_text": "Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Intimidate"
+      ],
+      "regional_dex_nums": [
+        4,
+        4
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          3,
+          "Ember"
+        ],
+        [
+          6,
+          "Lick"
+        ],
+        [
+          9,
+          "Roar"
+        ],
+        [
+          12,
+          "Fury Swipes"
+        ],
+        [
+          15,
+          "Bite"
+        ],
+        [
+          18,
+          "Double Kick"
+        ],
+        [
+          21,
+          "Fire Fang"
+        ],
+        [
+          24,
+          "Scary Face"
+        ],
+        [
+          27,
+          "Swagger"
+        ],
+        [
+          30,
+          "Flamethrower"
+        ],
+        [
+          33,
+          "Thrash"
+        ],
+        [
+          36,
+          "Flare Blitz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "Fake Out",
+        "Parting Shot",
+        "Power Trip"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

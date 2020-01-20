@@ -1,0 +1,193 @@
+[
+  {
+    "species_name": "Poipole",
+    "variant_name": "Poipole",
+    "base_stats": {
+      "hp": 67,
+      "attack": 73,
+      "defense": 67,
+      "speed": 73,
+      "special_attack": 73,
+      "special_defense": 67
+    },
+    "dex_entry": {
+      "national_dex_num": 803,
+      "types": [
+        "Poison"
+      ],
+      "height": 0.6,
+      "weight": 1.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Poison Pin Pok\u00e9mon",
+      "flavor_text": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.",
+      "abilities": [
+        "Beast Boost"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        261
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 189,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Acid"
+        ],
+        [
+          1,
+          "Dragon Pulse"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          7,
+          "Fury Attack"
+        ],
+        [
+          13,
+          "Venoshock"
+        ],
+        [
+          19,
+          "Charm"
+        ],
+        [
+          23,
+          "Venom Drench"
+        ],
+        [
+          31,
+          "Nasty Plot"
+        ],
+        [
+          37,
+          "Poison Jab"
+        ],
+        [
+          41,
+          "Toxic"
+        ],
+        [
+          47,
+          "Fell Stinger"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Covet",
+        "Dragon Pulse",
+        "Gastro Acid",
+        "Gunk Shot",
+        "Helping Hand",
+        "Iron Tail",
+        "Signal Beam",
+        "Snatch",
+        "Snore",
+        "Uproar"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "species_name": "Boltund",
+    "variant_name": "Boltund",
+    "base_stats": {
+      "hp": 69,
+      "attack": 90,
+      "defense": 60,
+      "speed": 121,
+      "special_attack": 90,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 836,
+      "types": [
+        "Electric"
+      ],
+      "height": 1.0,
+      "weight": 34.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Dog Pok\u00e9mon",
+      "flavor_text": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
+      "abilities": [
+        "Strong Jaw"
+      ],
+      "hidden_abilities": [
+        "Competitive"
+      ],
+      "regional_dex_nums": [
+        47
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Electrify"
+        ],
+        [
+          1,
+          "Nuzzle"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          15,
+          "Roar"
+        ],
+        [
+          20,
+          "Spark"
+        ],
+        [
+          28,
+          "Charm"
+        ],
+        [
+          34,
+          "Crunch"
+        ],
+        [
+          41,
+          "Charge"
+        ],
+        [
+          48,
+          "Wild Charge"
+        ],
+        [
+          55,
+          "Play Rough"
+        ],
+        [
+          62,
+          "Electric Terrain"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          80,
+          "Volt Switch"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          90,
+          "Electric Terrain"
+        ],
+        [
+          93,
+          "Eerie Impulse"
+        ]
+      ],
+      "tr_moves": [
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

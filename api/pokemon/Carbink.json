@@ -1,0 +1,282 @@
+[
+  {
+    "species_name": "Carbink",
+    "variant_name": "Carbink",
+    "base_stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 150,
+      "speed": 50,
+      "special_attack": 50,
+      "special_defense": 150
+    },
+    "dex_entry": {
+      "national_dex_num": 703,
+      "types": [
+        "Rock",
+        "Fairy"
+      ],
+      "height": 0.3,
+      "weight": 5.7,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Jewel Pok\u00e9mon",
+      "flavor_text": "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another\u2019s jewels.",
+      "abilities": [
+        "Clear Body"
+      ],
+      "hidden_abilities": [
+        "Sturdy"
+      ],
+      "regional_dex_nums": [
+        124,
+        101,
+        123
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 100,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Rock Throw"
+        ],
+        [
+          8,
+          "Sharpen"
+        ],
+        [
+          12,
+          "Smack Down"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Stealth Rock"
+        ],
+        [
+          27,
+          "Guard Split"
+        ],
+        [
+          31,
+          "Ancient Power"
+        ],
+        [
+          35,
+          "Flail"
+        ],
+        [
+          40,
+          "Skill Swap"
+        ],
+        [
+          46,
+          "Power Gem"
+        ],
+        [
+          49,
+          "Stone Edge"
+        ],
+        [
+          50,
+          "Moonblast"
+        ],
+        [
+          60,
+          "Light Screen"
+        ],
+        [
+          70,
+          "Safeguard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Covet",
+        "Earth Power",
+        "Gravity",
+        "Iron Defense",
+        "Magic Coat",
+        "Magnet Rise",
+        "Skill Swap",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Telekinesis",
+        "Wonder Room"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

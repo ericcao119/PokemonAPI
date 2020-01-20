@@ -1,0 +1,254 @@
+[
+  {
+    "species_name": "Shinx",
+    "variant_name": "Shinx",
+    "base_stats": {
+      "hp": 45,
+      "attack": 65,
+      "defense": 34,
+      "speed": 45,
+      "special_attack": 40,
+      "special_defense": 34
+    },
+    "dex_entry": {
+      "national_dex_num": 403,
+      "types": [
+        "Electric"
+      ],
+      "height": 0.5,
+      "weight": 9.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flash Pok\u00e9mon",
+      "flavor_text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+      "abilities": [
+        "Rivalry",
+        "Intimidate"
+      ],
+      "hidden_abilities": [
+        "Guts"
+      ],
+      "regional_dex_nums": [
+        17,
+        17
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 53,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 235,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Leer"
+        ],
+        [
+          9,
+          "Charge"
+        ],
+        [
+          11,
+          "Baby-Doll Eyes"
+        ],
+        [
+          13,
+          "Spark"
+        ],
+        [
+          17,
+          "Bite"
+        ],
+        [
+          21,
+          "Roar"
+        ],
+        [
+          25,
+          "Swagger"
+        ],
+        [
+          29,
+          "Thunder Fang"
+        ],
+        [
+          33,
+          "Crunch"
+        ],
+        [
+          37,
+          "Scary Face"
+        ],
+        [
+          41,
+          "Discharge"
+        ],
+        [
+          45,
+          "Wild Charge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Double Kick",
+        "Eerie Impulse",
+        "Fake Tears",
+        "Fire Fang",
+        "Helping Hand",
+        "Howl",
+        "Ice Fang",
+        "Night Slash",
+        "Quick Attack",
+        "Shock Wave",
+        "Signal Beam",
+        "Swift",
+        "Take Down",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Helping Hand",
+        "Iron Tail",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

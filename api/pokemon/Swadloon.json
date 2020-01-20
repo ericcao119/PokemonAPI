@@ -1,0 +1,217 @@
+[
+  {
+    "species_name": "Swadloon",
+    "variant_name": "Swadloon",
+    "base_stats": {
+      "hp": 55,
+      "attack": 63,
+      "defense": 90,
+      "speed": 42,
+      "special_attack": 50,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 541,
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "height": 0.5,
+      "weight": 7.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Leaf-Wrapped Pok\u00e9mon",
+      "flavor_text": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+      "abilities": [
+        "Leaf Guard",
+        "Chlorophyll"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        47,
+        18
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 133,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bug Bite"
+        ],
+        [
+          1,
+          "Grass Whistle"
+        ],
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Razor Leaf"
+        ],
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          1,
+          "Tackle"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Air Slash",
+        "Baton Pass",
+        "Camouflage",
+        "Grassy Terrain",
+        "Me First",
+        "Mind Reader",
+        "Razor Wind",
+        "Screech",
+        "Silver Wind"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Electroweb",
+        "Giga Drain",
+        "Iron Defense",
+        "Magic Coat",
+        "Seed Bomb",
+        "Signal Beam",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

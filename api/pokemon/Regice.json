@@ -1,0 +1,318 @@
+[
+  {
+    "species_name": "Regice",
+    "variant_name": "Regice",
+    "base_stats": {
+      "hp": 80,
+      "attack": 50,
+      "defense": 100,
+      "speed": 50,
+      "special_attack": 100,
+      "special_defense": 200
+    },
+    "dex_entry": {
+      "national_dex_num": 378,
+      "types": [
+        "Ice"
+      ],
+      "height": 1.8,
+      "weight": 175.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Iceberg Pok\u00e9mon",
+      "flavor_text": "Regice cloaks itself with frigid air of -328 degrees Fahrenheit. Things will freeze solid just by going near this Pok\u00e9mon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+      "abilities": [
+        "Clear Body"
+      ],
+      "hidden_abilities": [
+        "Ice Body"
+      ],
+      "regional_dex_nums": [
+        194,
+        203
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bulldoze"
+        ],
+        [
+          1,
+          "Charge Beam"
+        ],
+        [
+          1,
+          "Explosion"
+        ],
+        [
+          1,
+          "Icy Wind"
+        ],
+        [
+          1,
+          "Stomp"
+        ],
+        [
+          7,
+          "Icy Wind"
+        ],
+        [
+          13,
+          "Charge Beam"
+        ],
+        [
+          19,
+          "Bulldoze"
+        ],
+        [
+          25,
+          "Curse"
+        ],
+        [
+          31,
+          "Ancient Power"
+        ],
+        [
+          37,
+          "Amnesia"
+        ],
+        [
+          43,
+          "Ice Beam"
+        ],
+        [
+          49,
+          "Hammer Arm"
+        ],
+        [
+          55,
+          "Lock-On"
+        ],
+        [
+          55,
+          "Zap Cannon"
+        ],
+        [
+          61,
+          "Superpower"
+        ],
+        [
+          67,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          70,
+          "Aurora Veil"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Block",
+        "Focus Punch",
+        "Gravity",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Head",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Body Slam",
+        "Counter",
+        "Defense Curl",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength"
+      ]
+    }
+  }
+]

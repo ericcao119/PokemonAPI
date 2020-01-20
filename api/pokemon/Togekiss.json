@@ -1,0 +1,304 @@
+[
+  {
+    "species_name": "Togekiss",
+    "variant_name": "Togekiss",
+    "base_stats": {
+      "hp": 85,
+      "attack": 50,
+      "defense": 95,
+      "speed": 80,
+      "special_attack": 120,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 468,
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "height": 1.5,
+      "weight": 38.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Jubilee Pok\u00e9mon",
+      "flavor_text": "Known as a bringer of blessings, it\u2019s been depicted on good-luck charms since ancient times.",
+      "abilities": [
+        "Hustle",
+        "Serene Grace"
+      ],
+      "hidden_abilities": [
+        "Super Luck"
+      ],
+      "regional_dex_nums": [
+        175,
+        259
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 245,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 1
+      },
+      "catch_rate": 30,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Flying"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "After You"
+        ],
+        [
+          1,
+          "Air Slash"
+        ],
+        [
+          1,
+          "Aura Sphere"
+        ],
+        [
+          1,
+          "Extreme Speed"
+        ],
+        [
+          1,
+          "Sky Attack"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Extrasensory",
+        "Foresight",
+        "Future Sight",
+        "Lucky Chant",
+        "Mirror Move",
+        "Morning Sun",
+        "Nasty Plot",
+        "Peck",
+        "Present",
+        "Psycho Shift",
+        "Secret Power",
+        "Stored Power"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Defog",
+        "Drain Punch",
+        "Endeavor",
+        "Focus Punch",
+        "Heal Bell",
+        "Heat Wave",
+        "Hyper Voice",
+        "Laser Focus",
+        "Last Resort",
+        "Magic Coat",
+        "Shock Wave",
+        "Signal Beam",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Telekinesis",
+        "Trick",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Retaliate",
+        "Rock Smash",
+        "Rollout",
+        "Silver Wind",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

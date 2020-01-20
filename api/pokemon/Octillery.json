@@ -1,0 +1,333 @@
+[
+  {
+    "species_name": "Octillery",
+    "variant_name": "Octillery",
+    "base_stats": {
+      "hp": 75,
+      "attack": 105,
+      "defense": 75,
+      "speed": 45,
+      "special_attack": 105,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 224,
+      "types": [
+        "Water"
+      ],
+      "height": 0.9,
+      "weight": 28.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Jet Pok\u00e9mon",
+      "flavor_text": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
+      "abilities": [
+        "Suction Cups",
+        "Sniper"
+      ],
+      "hidden_abilities": [
+        "Moody"
+      ],
+      "regional_dex_nums": [
+        173,
+        133,
+        133,
+        175,
+        236,
+        145,
+        144,
+        149
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aurora Beam"
+        ],
+        [
+          1,
+          "Constrict"
+        ],
+        [
+          1,
+          "Gunk Shot"
+        ],
+        [
+          1,
+          "Octazooka"
+        ],
+        [
+          1,
+          "Psybeam"
+        ],
+        [
+          1,
+          "Rock Blast"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          6,
+          "Constrict"
+        ],
+        [
+          10,
+          "Psybeam"
+        ],
+        [
+          14,
+          "Aurora Beam"
+        ],
+        [
+          18,
+          "Bubble Beam"
+        ],
+        [
+          22,
+          "Focus Energy"
+        ],
+        [
+          28,
+          "Wring Out"
+        ],
+        [
+          34,
+          "Signal Beam"
+        ],
+        [
+          40,
+          "Ice Beam"
+        ],
+        [
+          46,
+          "Bullet Seed"
+        ],
+        [
+          52,
+          "Hydro Pump"
+        ],
+        [
+          58,
+          "Hyper Beam"
+        ],
+        [
+          64,
+          "Soak"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Spray",
+        "Aurora Beam",
+        "Entrainment",
+        "Flail",
+        "Haze",
+        "Mud Shot",
+        "Octazooka",
+        "Rock Blast",
+        "Screech",
+        "Snore",
+        "Supersonic",
+        "Swift",
+        "Water Pulse",
+        "Water Spout"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Bounce",
+        "Gunk Shot",
+        "Icy Wind",
+        "Seed Bomb",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Brine",
+        "Captivate",
+        "Curse",
+        "Defense Curl",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Seismic Toss",
+        "String Shot",
+        "Whirlpool"
+      ]
+    }
+  }
+]

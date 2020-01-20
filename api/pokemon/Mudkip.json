@@ -1,0 +1,270 @@
+[
+  {
+    "species_name": "Mudkip",
+    "variant_name": "Mudkip",
+    "base_stats": {
+      "hp": 50,
+      "attack": 70,
+      "defense": 50,
+      "speed": 40,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 258,
+      "types": [
+        "Water"
+      ],
+      "height": 0.4,
+      "weight": 7.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mud Fish Pok\u00e9mon",
+      "flavor_text": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pok\u00e9mon will unleash its amazing power\u2014it can crush rocks bigger than itself.",
+      "abilities": [
+        "Torrent"
+      ],
+      "hidden_abilities": [
+        "Damp"
+      ],
+      "regional_dex_nums": [
+        7,
+        7
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 62,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Water Gun"
+        ],
+        [
+          9,
+          "Mud-Slap"
+        ],
+        [
+          12,
+          "Foresight"
+        ],
+        [
+          17,
+          "Bide"
+        ],
+        [
+          20,
+          "Mud Sport"
+        ],
+        [
+          25,
+          "Rock Throw"
+        ],
+        [
+          28,
+          "Protect"
+        ],
+        [
+          33,
+          "Whirlpool"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          41,
+          "Hydro Pump"
+        ],
+        [
+          44,
+          "Endeavor"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Avalanche",
+        "Barrier",
+        "Bite",
+        "Counter",
+        "Curse",
+        "Double-Edge",
+        "Ice Ball",
+        "Mirror Coat",
+        "Mud Bomb",
+        "Refresh",
+        "Sludge",
+        "Stomp",
+        "Uproar",
+        "Whirlpool",
+        "Wide Guard",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Earth Power",
+        "Endeavor",
+        "Icy Wind",
+        "Iron Tail",
+        "Low Kick",
+        "Snore",
+        "Superpower",
+        "Uproar",
+        "Water Pledge",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Defense Curl",
+        "Dig",
+        "Dive",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "species_name": "Cranidos",
+    "variant_name": "Cranidos",
+    "base_stats": {
+      "hp": 67,
+      "attack": 125,
+      "defense": 40,
+      "speed": 58,
+      "special_attack": 30,
+      "special_defense": 30
+    },
+    "dex_entry": {
+      "national_dex_num": 408,
+      "types": [
+        "Rock"
+      ],
+      "height": 0.9,
+      "weight": 31.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Head Butt Pok\u00e9mon",
+      "flavor_text": "Its hard skull is its distinguishing feature. It snapped trees by headbutting them, and then it fed on their ripe berries.",
+      "abilities": [
+        "Mold Breaker"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        36,
+        36,
+        188,
+        235
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 70,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          6,
+          "Focus Energy"
+        ],
+        [
+          10,
+          "Pursuit"
+        ],
+        [
+          15,
+          "Take Down"
+        ],
+        [
+          19,
+          "Scary Face"
+        ],
+        [
+          24,
+          "Assurance"
+        ],
+        [
+          28,
+          "Chip Away"
+        ],
+        [
+          33,
+          "Ancient Power"
+        ],
+        [
+          37,
+          "Zen Headbutt"
+        ],
+        [
+          42,
+          "Screech"
+        ],
+        [
+          46,
+          "Head Smash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crunch",
+        "Curse",
+        "Double-Edge",
+        "Hammer Arm",
+        "Iron Head",
+        "Iron Tail",
+        "Leer",
+        "Slam",
+        "Stomp",
+        "Thrash",
+        "Whirlwind"
+      ],
+      "tutor_moves": [
+        "Dragon Pulse",
+        "Earth Power",
+        "Endeavor",
+        "Fire Punch",
+        "Iron Head",
+        "Iron Tail",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Endure",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

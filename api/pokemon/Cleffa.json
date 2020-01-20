@@ -1,0 +1,292 @@
+[
+  {
+    "species_name": "Cleffa",
+    "variant_name": "Cleffa",
+    "base_stats": {
+      "hp": 50,
+      "attack": 25,
+      "defense": 28,
+      "speed": 15,
+      "special_attack": 45,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 173,
+      "types": [
+        "Fairy"
+      ],
+      "height": 0.3,
+      "weight": 3.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Star Shape Pok\u00e9mon",
+      "flavor_text": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
+      "abilities": [
+        "Cute Charm",
+        "Magic Guard"
+      ],
+      "hidden_abilities": [
+        "Friend Guard"
+      ],
+      "regional_dex_nums": [
+        40,
+        99,
+        99,
+        40,
+        88,
+        210,
+        272,
+        254
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 44,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 150,
+      "base_friendship": 140
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          4,
+          "Encore"
+        ],
+        [
+          7,
+          "Sing"
+        ],
+        [
+          10,
+          "Sweet Kiss"
+        ],
+        [
+          13,
+          "Copycat"
+        ],
+        [
+          16,
+          "Magical Leaf"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Aromatherapy",
+        "Belly Drum",
+        "Covet",
+        "Fake Tears",
+        "Heal Pulse",
+        "Metronome",
+        "Mimic",
+        "Misty Terrain",
+        "Present",
+        "Splash",
+        "Stored Power",
+        "Tickle",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Endeavor",
+        "Gravity",
+        "Helping Hand",
+        "Hyper Voice",
+        "Icy Wind",
+        "Iron Tail",
+        "Last Resort",
+        "Magic Coat",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Uproar",
+        "Water Pulse",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Defense Curl",
+        "Detect",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss",
+        "Soft-Boiled",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

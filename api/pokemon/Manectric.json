@@ -1,0 +1,593 @@
+[
+  {
+    "species_name": "Manectric",
+    "variant_name": "Manectric",
+    "base_stats": {
+      "hp": 70,
+      "attack": 75,
+      "defense": 60,
+      "speed": 105,
+      "special_attack": 105,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 310,
+      "types": [
+        "Electric"
+      ],
+      "height": 1.5,
+      "weight": 40.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Discharge Pok\u00e9mon",
+      "flavor_text": "It rarely appears before people. It is said to nest where lightning has fallen.",
+      "abilities": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "hidden_abilities": [
+        "Minus"
+      ],
+      "regional_dex_nums": [
+        79,
+        74,
+        81,
+        294,
+        67
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 166,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Electric Terrain"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          7,
+          "Howl"
+        ],
+        [
+          10,
+          "Quick Attack"
+        ],
+        [
+          13,
+          "Spark"
+        ],
+        [
+          16,
+          "Odor Sleuth"
+        ],
+        [
+          19,
+          "Thunder Fang"
+        ],
+        [
+          24,
+          "Bite"
+        ],
+        [
+          30,
+          "Discharge"
+        ],
+        [
+          36,
+          "Roar"
+        ],
+        [
+          42,
+          "Wild Charge"
+        ],
+        [
+          48,
+          "Charge"
+        ],
+        [
+          54,
+          "Thunder"
+        ],
+        [
+          60,
+          "Electric Terrain"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crunch",
+        "Curse",
+        "Discharge",
+        "Eerie Impulse",
+        "Electro Ball",
+        "Fire Fang",
+        "Flame Burst",
+        "Headbutt",
+        "Ice Fang",
+        "Shock Wave",
+        "Swift",
+        "Switcheroo",
+        "Thunder Fang",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Iron Tail",
+        "Laser Focus",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  },
+  {
+    "species_name": "Manectric",
+    "variant_name": "Mega Manectric",
+    "base_stats": {
+      "hp": 70,
+      "attack": 75,
+      "defense": 80,
+      "speed": 135,
+      "special_attack": 135,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 310,
+      "types": [
+        "Electric"
+      ],
+      "height": 1.8,
+      "weight": 44.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Discharge Pok\u00e9mon",
+      "flavor_text": "Too much electricity has built up in its body, irritating Manectric. Its explosive speed is equal to that of a lightning bolt.",
+      "abilities": [
+        "Intimidate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        79,
+        74,
+        81,
+        294,
+        67
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 201,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Electric Terrain"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          4,
+          "Leer"
+        ],
+        [
+          7,
+          "Howl"
+        ],
+        [
+          10,
+          "Quick Attack"
+        ],
+        [
+          13,
+          "Spark"
+        ],
+        [
+          16,
+          "Odor Sleuth"
+        ],
+        [
+          19,
+          "Thunder Fang"
+        ],
+        [
+          24,
+          "Bite"
+        ],
+        [
+          30,
+          "Discharge"
+        ],
+        [
+          36,
+          "Roar"
+        ],
+        [
+          42,
+          "Wild Charge"
+        ],
+        [
+          48,
+          "Charge"
+        ],
+        [
+          54,
+          "Thunder"
+        ],
+        [
+          60,
+          "Electric Terrain"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Crunch",
+        "Curse",
+        "Discharge",
+        "Eerie Impulse",
+        "Electro Ball",
+        "Fire Fang",
+        "Flame Burst",
+        "Headbutt",
+        "Ice Fang",
+        "Shock Wave",
+        "Swift",
+        "Switcheroo",
+        "Thunder Fang",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Iron Tail",
+        "Laser Focus",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

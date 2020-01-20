@@ -1,0 +1,327 @@
+[
+  {
+    "species_name": "Miltank",
+    "variant_name": "Miltank",
+    "base_stats": {
+      "hp": 95,
+      "attack": 80,
+      "defense": 105,
+      "speed": 100,
+      "special_attack": 40,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 241,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.2,
+      "weight": 75.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Milk Cow Pok\u00e9mon",
+      "flavor_text": "Its milk is delicious and chock-full of nutrients. However, if you drink too much, it could make your stomach hurt, so be careful.",
+      "abilities": [
+        "Thick Fat",
+        "Scrappy"
+      ],
+      "hidden_abilities": [
+        "Sap Sipper"
+      ],
+      "regional_dex_nums": [
+        149,
+        151,
+        126,
+        138,
+        171
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Growl"
+        ],
+        [
+          5,
+          "Defense Curl"
+        ],
+        [
+          8,
+          "Stomp"
+        ],
+        [
+          11,
+          "Milk Drink"
+        ],
+        [
+          15,
+          "Bide"
+        ],
+        [
+          19,
+          "Rollout"
+        ],
+        [
+          24,
+          "Body Slam"
+        ],
+        [
+          29,
+          "Zen Headbutt"
+        ],
+        [
+          35,
+          "Captivate"
+        ],
+        [
+          41,
+          "Gyro Ball"
+        ],
+        [
+          48,
+          "Heal Bell"
+        ],
+        [
+          50,
+          "Wake-Up Slap"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belch",
+        "Curse",
+        "Dizzy Punch",
+        "Double-Edge",
+        "Endure",
+        "Hammer Arm",
+        "Heart Stamp",
+        "Helping Hand",
+        "Natural Gift",
+        "Present",
+        "Punishment",
+        "Reversal",
+        "Seismic Toss",
+        "Sleep Talk"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Block",
+        "Fire Punch",
+        "Focus Punch",
+        "Heal Bell",
+        "Helping Hand",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Head",
+        "Iron Tail",
+        "Shock Wave",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Thunder Punch",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Counter",
+        "Dynamic Punch",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Sweet Scent",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

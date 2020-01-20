@@ -1,0 +1,328 @@
+[
+  {
+    "species_name": "Pignite",
+    "variant_name": "Pignite",
+    "base_stats": {
+      "hp": 90,
+      "attack": 93,
+      "defense": 55,
+      "speed": 55,
+      "special_attack": 70,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 499,
+      "types": [
+        "Fire",
+        "Fighting"
+      ],
+      "height": 1.0,
+      "weight": 55.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fire Pig Pok\u00e9mon",
+      "flavor_text": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Thick Fat"
+      ],
+      "regional_dex_nums": [
+        5,
+        5
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 146,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Arm Thrust"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Odor Sleuth"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          3,
+          "Tail Whip"
+        ],
+        [
+          7,
+          "Ember"
+        ],
+        [
+          9,
+          "Odor Sleuth"
+        ],
+        [
+          13,
+          "Defense Curl"
+        ],
+        [
+          15,
+          "Flame Charge"
+        ],
+        [
+          20,
+          "Smog"
+        ],
+        [
+          23,
+          "Rollout"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          31,
+          "Heat Crash"
+        ],
+        [
+          36,
+          "Assurance"
+        ],
+        [
+          39,
+          "Flamethrower"
+        ],
+        [
+          44,
+          "Head Smash"
+        ],
+        [
+          47,
+          "Roar"
+        ],
+        [
+          52,
+          "Flare Blitz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Burn Up",
+        "Covet",
+        "Curse",
+        "Endeavor",
+        "Heavy Slam",
+        "Magnitude",
+        "Sleep Talk",
+        "Sucker Punch",
+        "Superpower",
+        "Thrash",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Endeavor",
+        "Fire Pledge",
+        "Fire Punch",
+        "Focus Punch",
+        "Heat Wave",
+        "Helping Hand",
+        "Iron Tail",
+        "Low Kick",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Incinerate",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

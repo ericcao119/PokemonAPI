@@ -1,0 +1,367 @@
+[
+  {
+    "species_name": "Krookodile",
+    "variant_name": "Krookodile",
+    "base_stats": {
+      "hp": 95,
+      "attack": 117,
+      "defense": 80,
+      "speed": 92,
+      "special_attack": 65,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 553,
+      "types": [
+        "Ground",
+        "Dark"
+      ],
+      "height": 1.5,
+      "weight": 96.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Intimidation Pok\u00e9mon",
+      "flavor_text": "It conceals itself in sandstorms that Flygon whip up and waits patiently for prey to appear.",
+      "abilities": [
+        "Intimidate",
+        "Moxie"
+      ],
+      "hidden_abilities": [
+        "Anger Point"
+      ],
+      "regional_dex_nums": [
+        59,
+        101,
+        45,
+        234,
+        303
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 234,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Power Trip"
+        ],
+        [
+          1,
+          "Rage"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          4,
+          "Bite"
+        ],
+        [
+          7,
+          "Sand Attack"
+        ],
+        [
+          10,
+          "Torment"
+        ],
+        [
+          13,
+          "Sand Tomb"
+        ],
+        [
+          16,
+          "Assurance"
+        ],
+        [
+          19,
+          "Mud-Slap"
+        ],
+        [
+          22,
+          "Embargo"
+        ],
+        [
+          25,
+          "Swagger"
+        ],
+        [
+          28,
+          "Crunch"
+        ],
+        [
+          32,
+          "Dig"
+        ],
+        [
+          36,
+          "Scary Face"
+        ],
+        [
+          42,
+          "Foul Play"
+        ],
+        [
+          48,
+          "Sandstorm"
+        ],
+        [
+          54,
+          "Earthquake"
+        ],
+        [
+          60,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Beat Up",
+        "Counter",
+        "Double-Edge",
+        "Fire Fang",
+        "Focus Energy",
+        "Me First",
+        "Mean Look",
+        "Power Trip",
+        "Pursuit",
+        "Rock Climb",
+        "Thunder Fang",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Block",
+        "Dragon Pulse",
+        "Earth Power",
+        "Focus Punch",
+        "Foul Play",
+        "Iron Tail",
+        "Knock Off",
+        "Low Kick",
+        "Outrage",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Throat Chop",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Hone Claws",
+        "Incinerate",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

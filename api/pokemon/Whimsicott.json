@@ -1,0 +1,261 @@
+[
+  {
+    "species_name": "Whimsicott",
+    "variant_name": "Whimsicott",
+    "base_stats": {
+      "hp": 60,
+      "attack": 67,
+      "defense": 85,
+      "speed": 116,
+      "special_attack": 77,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 547,
+      "types": [
+        "Grass",
+        "Fairy"
+      ],
+      "height": 0.7,
+      "weight": 6.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Windveiled Pok\u00e9mon",
+      "flavor_text": "As long as this Pok\u00e9mon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
+      "abilities": [
+        "Prankster",
+        "Infiltrator"
+      ],
+      "hidden_abilities": [
+        "Chlorophyll"
+      ],
+      "regional_dex_nums": [
+        53,
+        83,
+        88,
+        106,
+        263
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Cotton Spore"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Leech Seed"
+        ],
+        [
+          1,
+          "Mega Drain"
+        ],
+        [
+          10,
+          "Gust"
+        ],
+        [
+          28,
+          "Tailwind"
+        ],
+        [
+          46,
+          "Hurricane"
+        ],
+        [
+          50,
+          "Moonblast"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Beat Up",
+        "Captivate",
+        "Encore",
+        "Fake Tears",
+        "Grass Whistle",
+        "Memento",
+        "Misty Terrain",
+        "Natural Gift",
+        "Switcheroo",
+        "Tickle",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Defog",
+        "Endeavor",
+        "Giga Drain",
+        "Helping Hand",
+        "Knock Off",
+        "Seed Bomb",
+        "Snore",
+        "Tailwind",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

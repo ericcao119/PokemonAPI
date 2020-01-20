@@ -1,0 +1,346 @@
+[
+  {
+    "species_name": "Furret",
+    "variant_name": "Furret",
+    "base_stats": {
+      "hp": 85,
+      "attack": 76,
+      "defense": 64,
+      "speed": 90,
+      "special_attack": 45,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 162,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.8,
+      "weight": 32.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Long Body Pok\u00e9mon",
+      "flavor_text": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pok\u00e9mon is very nimble and fleet.",
+      "abilities": [
+        "Run Away",
+        "Keen Eye"
+      ],
+      "hidden_abilities": [
+        "Frisk"
+      ],
+      "regional_dex_nums": [
+        20,
+        20,
+        110
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 145,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Agility"
+        ],
+        [
+          1,
+          "Coil"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          4,
+          "Defense Curl"
+        ],
+        [
+          7,
+          "Quick Attack"
+        ],
+        [
+          13,
+          "Fury Swipes"
+        ],
+        [
+          17,
+          "Helping Hand"
+        ],
+        [
+          21,
+          "Follow Me"
+        ],
+        [
+          28,
+          "Slam"
+        ],
+        [
+          32,
+          "Rest"
+        ],
+        [
+          36,
+          "Sucker Punch"
+        ],
+        [
+          42,
+          "Amnesia"
+        ],
+        [
+          46,
+          "Baton Pass"
+        ],
+        [
+          50,
+          "Me First"
+        ],
+        [
+          56,
+          "Hyper Voice"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assist",
+        "Baby-Doll Eyes",
+        "Captivate",
+        "Charm",
+        "Covet",
+        "Double-Edge",
+        "Focus Energy",
+        "Iron Tail",
+        "Last Resort",
+        "Natural Gift",
+        "Pursuit",
+        "Reversal",
+        "Slash",
+        "Trick"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Hyper Voice",
+        "Ice Punch",
+        "Iron Tail",
+        "Knock Off",
+        "Last Resort",
+        "Shock Wave",
+        "Snore",
+        "Super Fang",
+        "Thunder Punch",
+        "Trick",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Dynamic Punch",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Mimic",
+        "Mud-Slap",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Tackle",
+        "Whirlpool"
+      ]
+    }
+  }
+]

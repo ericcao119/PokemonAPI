@@ -1,0 +1,351 @@
+[
+  {
+    "species_name": "Golisopod",
+    "variant_name": "Golisopod",
+    "base_stats": {
+      "hp": 75,
+      "attack": 125,
+      "defense": 140,
+      "speed": 40,
+      "special_attack": 60,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 768,
+      "types": [
+        "Bug",
+        "Water"
+      ],
+      "height": 2.0,
+      "weight": 108.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hard Scale Pok\u00e9mon",
+      "flavor_text": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner\u2019s meal.",
+      "abilities": [
+        "Emergency Exit"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        183,
+        222,
+        233
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 186,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "First Impression"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Spite"
+        ],
+        [
+          1,
+          "Struggle Bug"
+        ],
+        [
+          4,
+          "Rock Smash"
+        ],
+        [
+          8,
+          "Fury Cutter"
+        ],
+        [
+          12,
+          "Mud Shot"
+        ],
+        [
+          16,
+          "Bug Bite"
+        ],
+        [
+          20,
+          "Iron Defense"
+        ],
+        [
+          24,
+          "Sucker Punch"
+        ],
+        [
+          28,
+          "Slash"
+        ],
+        [
+          32,
+          "Razor Shell"
+        ],
+        [
+          36,
+          "Pin Missile"
+        ],
+        [
+          40,
+          "Swords Dance"
+        ],
+        [
+          44,
+          "Liquidation"
+        ]
+      ],
+      "tm_moves": [
+        [
+          7,
+          "Pin Missile"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          83,
+          "Razor Shell"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          94,
+          "False Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          18,
+          "Leech Life"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          23,
+          "Spikes"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          61,
+          "Bug Buzz"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          87,
+          "Drill Run"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

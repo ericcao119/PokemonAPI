@@ -1,0 +1,296 @@
+[
+  {
+    "species_name": "Moltres",
+    "variant_name": "Moltres",
+    "base_stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 90,
+      "speed": 90,
+      "special_attack": 125,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 146,
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "height": 2.0,
+      "weight": 60.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flame Pok\u00e9mon",
+      "flavor_text": "A legendary bird Pok\u00e9mon. As it flaps its flaming wings, even the night sky will turn red.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Flame Body"
+      ],
+      "regional_dex_nums": [
+        146,
+        237,
+        146,
+        242,
+        153,
+        146
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Wing Attack"
+        ],
+        [
+          8,
+          "Fire Spin"
+        ],
+        [
+          15,
+          "Agility"
+        ],
+        [
+          22,
+          "Endure"
+        ],
+        [
+          29,
+          "Ancient Power"
+        ],
+        [
+          36,
+          "Flamethrower"
+        ],
+        [
+          43,
+          "Safeguard"
+        ],
+        [
+          50,
+          "Air Slash"
+        ],
+        [
+          57,
+          "Sunny Day"
+        ],
+        [
+          64,
+          "Heat Wave"
+        ],
+        [
+          71,
+          "Solar Beam"
+        ],
+        [
+          78,
+          "Sky Attack"
+        ],
+        [
+          85,
+          "Roost"
+        ],
+        [
+          92,
+          "Hurricane"
+        ],
+        [
+          99,
+          "Burn Up"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Laser Focus",
+        "Sky Attack",
+        "Snore",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Bide",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Incinerate",
+        "Leer",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Peck",
+        "Pluck",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Swift",
+        "Take Down",
+        "Twister",
+        "Whirlwind"
+      ]
+    }
+  }
+]

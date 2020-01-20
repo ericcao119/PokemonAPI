@@ -1,0 +1,134 @@
+[
+  {
+    "species_name": "Toxtricity",
+    "variant_name": "Low Key Form",
+    "base_stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 70,
+      "speed": 75,
+      "special_attack": 114,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 849,
+      "types": [
+        "Electric",
+        "Poison"
+      ],
+      "height": 1.6,
+      "weight": 40.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Punk Pok\u00e9mon",
+      "flavor_text": "It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar.",
+      "abilities": [
+        "Punk Rock",
+        "Minus"
+      ],
+      "hidden_abilities": [
+        "Technician"
+      ],
+      "regional_dex_nums": [
+        311
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Toxtricity",
+    "variant_name": "Amped Form",
+    "base_stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 70,
+      "speed": 75,
+      "special_attack": 114,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 849,
+      "types": [
+        "Electric",
+        "Poison"
+      ],
+      "height": 1.6,
+      "weight": 40.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Punk Pok\u00e9mon",
+      "flavor_text": "This short-tempered and aggressive Pok\u00e9mon chugs stagnant water to absorb any toxins it might contain.",
+      "abilities": [
+        "Punk Rock",
+        "Plus"
+      ],
+      "hidden_abilities": [
+        "Technician"
+      ],
+      "regional_dex_nums": [
+        311
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

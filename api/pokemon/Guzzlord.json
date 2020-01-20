@@ -1,0 +1,301 @@
+[
+  {
+    "species_name": "Guzzlord",
+    "variant_name": "Guzzlord",
+    "base_stats": {
+      "hp": 223,
+      "attack": 101,
+      "defense": 53,
+      "speed": 43,
+      "special_attack": 97,
+      "special_defense": 53
+    },
+    "dex_entry": {
+      "national_dex_num": 799,
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "height": 5.5,
+      "weight": 888.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Junkivore Pok\u00e9mon",
+      "flavor_text": "An unknown life-form called a UB. It may be constantly hungry\u2014it is certainly always devouring something.",
+      "abilities": [
+        "Beast Boost"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        299,
+        399
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Belch"
+        ],
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Dragon Rage"
+        ],
+        [
+          1,
+          "Stockpile"
+        ],
+        [
+          1,
+          "Swallow"
+        ],
+        [
+          1,
+          "Wide Guard"
+        ],
+        [
+          7,
+          "Stomp"
+        ],
+        [
+          13,
+          "Brutal Swing"
+        ],
+        [
+          19,
+          "Steamroller"
+        ],
+        [
+          23,
+          "Dragon Tail"
+        ],
+        [
+          29,
+          "Iron Tail"
+        ],
+        [
+          31,
+          "Stomping Tantrum"
+        ],
+        [
+          37,
+          "Crunch"
+        ],
+        [
+          43,
+          "Hammer Arm"
+        ],
+        [
+          47,
+          "Thrash"
+        ],
+        [
+          53,
+          "Gastro Acid"
+        ],
+        [
+          59,
+          "Heavy Slam"
+        ],
+        [
+          67,
+          "Wring Out"
+        ],
+        [
+          73,
+          "Dragon Rush"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Drain Punch",
+        "Dual Chop",
+        "Gastro Acid",
+        "Heat Wave",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Knock Off",
+        "Last Resort",
+        "Magnet Rise",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "species_name": "Pincurchin",
+    "variant_name": "Pincurchin",
+    "base_stats": {
+      "hp": 48,
+      "attack": 101,
+      "defense": 95,
+      "speed": 15,
+      "special_attack": 91,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 871,
+      "types": [
+        "Electric"
+      ],
+      "height": 0.3,
+      "weight": 1.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sea Urchin Pok\u00e9mon",
+      "flavor_text": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
+      "abilities": [
+        "Lightning Rod"
+      ],
+      "hidden_abilities": [
+        "Electric Surge"
+      ],
+      "regional_dex_nums": [
+        353
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          5,
+          "Water Gun"
+        ],
+        [
+          10,
+          "Charge"
+        ],
+        [
+          15,
+          "Fury Attack"
+        ],
+        [
+          20,
+          "Spark"
+        ],
+        [
+          25,
+          "Bubble Beam"
+        ],
+        [
+          30,
+          "Recover"
+        ],
+        [
+          35,
+          "Curse"
+        ],
+        [
+          40,
+          "Electric Terrain"
+        ],
+        [
+          45,
+          "Poison Jab"
+        ],
+        [
+          50,
+          "Zing Zap"
+        ],
+        [
+          55,
+          "Acupressure"
+        ],
+        [
+          60,
+          "Discharge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          7,
+          "Pin Missile"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          77,
+          "Hex"
+        ],
+        [
+          90,
+          "Electric Terrain"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          23,
+          "Spikes"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          54,
+          "Toxic Spikes"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          91,
+          "Venom Drench"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [
+        "Memento",
+        "Sucker Punch"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

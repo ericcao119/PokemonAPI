@@ -1,0 +1,357 @@
+[
+  {
+    "species_name": "Marshadow",
+    "variant_name": "Marshadow",
+    "base_stats": {
+      "hp": 90,
+      "attack": 125,
+      "defense": 80,
+      "speed": 125,
+      "special_attack": 90,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 802,
+      "types": [
+        "Fighting",
+        "Ghost"
+      ],
+      "height": 0.7,
+      "weight": 22.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Gloomdweller Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon can conceal itself in any shadow, so it went undiscovered for a long time.",
+      "abilities": [
+        "Technician"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        302,
+        402
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Copycat"
+        ],
+        [
+          1,
+          "Counter"
+        ],
+        [
+          1,
+          "Drain Punch"
+        ],
+        [
+          1,
+          "Feint"
+        ],
+        [
+          1,
+          "Fire Punch"
+        ],
+        [
+          1,
+          "Ice Punch"
+        ],
+        [
+          1,
+          "Shadow Sneak"
+        ],
+        [
+          1,
+          "Thunder Punch"
+        ],
+        [
+          9,
+          "Role Play"
+        ],
+        [
+          18,
+          "Shadow Punch"
+        ],
+        [
+          27,
+          "Force Palm"
+        ],
+        [
+          36,
+          "Assurance"
+        ],
+        [
+          45,
+          "Sucker Punch"
+        ],
+        [
+          54,
+          "Drain Punch"
+        ],
+        [
+          63,
+          "Psych Up"
+        ],
+        [
+          72,
+          "Spectral Thief"
+        ],
+        [
+          81,
+          "Laser Focus"
+        ],
+        [
+          90,
+          "Endeavor"
+        ],
+        [
+          99,
+          "Close Combat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          77,
+          "Hex"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          86,
+          "Phantom Force"
+        ],
+        [
+          94,
+          "False Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          41,
+          "Blaze Kick"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          56,
+          "Aura Sphere"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          81,
+          "Foul Play"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

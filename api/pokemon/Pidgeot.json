@@ -1,0 +1,561 @@
+[
+  {
+    "species_name": "Pidgeot",
+    "variant_name": "Pidgeot",
+    "base_stats": {
+      "hp": 83,
+      "attack": 80,
+      "defense": 75,
+      "speed": 101,
+      "special_attack": 70,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 18,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 1.5,
+      "weight": 39.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bird Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+      "abilities": [
+        "Keen Eye",
+        "Tangled Feet"
+      ],
+      "hidden_abilities": [
+        "Big Pecks"
+      ],
+      "regional_dex_nums": [
+        18,
+        12,
+        18,
+        12,
+        19,
+        18
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 216,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Hurricane"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          9,
+          "Gust"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          17,
+          "Whirlwind"
+        ],
+        [
+          22,
+          "Twister"
+        ],
+        [
+          27,
+          "Feather Dance"
+        ],
+        [
+          32,
+          "Agility"
+        ],
+        [
+          38,
+          "Wing Attack"
+        ],
+        [
+          44,
+          "Roost"
+        ],
+        [
+          50,
+          "Tailwind"
+        ],
+        [
+          56,
+          "Mirror Move"
+        ],
+        [
+          62,
+          "Air Slash"
+        ],
+        [
+          68,
+          "Hurricane"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Air Cutter",
+        "Air Slash",
+        "Brave Bird",
+        "Defog",
+        "Feint Attack",
+        "Foresight",
+        "Pursuit",
+        "Steel Wing",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Laser Focus",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "Secret Power",
+        "Swift",
+        "Take Down"
+      ]
+    }
+  },
+  {
+    "species_name": "Pidgeot",
+    "variant_name": "Mega Pidgeot",
+    "base_stats": {
+      "hp": 83,
+      "attack": 80,
+      "defense": 80,
+      "speed": 121,
+      "special_attack": 135,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 18,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 2.2,
+      "weight": 50.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bird Pok\u00e9mon",
+      "flavor_text": "With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.",
+      "abilities": [
+        "No Guard"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        18,
+        12,
+        18,
+        12,
+        19,
+        18
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Hurricane"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          9,
+          "Gust"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          17,
+          "Whirlwind"
+        ],
+        [
+          22,
+          "Twister"
+        ],
+        [
+          27,
+          "Feather Dance"
+        ],
+        [
+          32,
+          "Agility"
+        ],
+        [
+          38,
+          "Wing Attack"
+        ],
+        [
+          44,
+          "Roost"
+        ],
+        [
+          50,
+          "Tailwind"
+        ],
+        [
+          56,
+          "Mirror Move"
+        ],
+        [
+          62,
+          "Air Slash"
+        ],
+        [
+          68,
+          "Hurricane"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Air Cutter",
+        "Air Slash",
+        "Brave Bird",
+        "Defog",
+        "Feint Attack",
+        "Foresight",
+        "Pursuit",
+        "Steel Wing",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Laser Focus",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "Secret Power",
+        "Swift",
+        "Take Down"
+      ]
+    }
+  }
+]

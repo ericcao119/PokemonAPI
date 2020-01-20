@@ -1,0 +1,282 @@
+[
+  {
+    "species_name": "Chatot",
+    "variant_name": "Chatot",
+    "base_stats": {
+      "hp": 76,
+      "attack": 65,
+      "defense": 45,
+      "speed": 91,
+      "special_attack": 92,
+      "special_defense": 42
+    },
+    "dex_entry": {
+      "national_dex_num": 441,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 0.5,
+      "weight": 1.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Music Note Pok\u00e9mon",
+      "flavor_text": "It can learn and speak human words. If they gather, they all learn the same saying.",
+      "abilities": [
+        "Keen Eye",
+        "Tangled Feet"
+      ],
+      "hidden_abilities": [
+        "Big Pecks"
+      ],
+      "regional_dex_nums": [
+        102,
+        102,
+        138
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 144,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Chatter"
+        ],
+        [
+          1,
+          "Confide"
+        ],
+        [
+          1,
+          "Hyper Voice"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Taunt"
+        ],
+        [
+          5,
+          "Growl"
+        ],
+        [
+          9,
+          "Mirror Move"
+        ],
+        [
+          13,
+          "Sing"
+        ],
+        [
+          17,
+          "Fury Attack"
+        ],
+        [
+          21,
+          "Chatter"
+        ],
+        [
+          25,
+          "Taunt"
+        ],
+        [
+          29,
+          "Round"
+        ],
+        [
+          33,
+          "Mimic"
+        ],
+        [
+          37,
+          "Echoed Voice"
+        ],
+        [
+          41,
+          "Roost"
+        ],
+        [
+          45,
+          "Uproar"
+        ],
+        [
+          49,
+          "Synchronoise"
+        ],
+        [
+          50,
+          "Feather Dance"
+        ],
+        [
+          57,
+          "Hyper Voice"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Air Cutter",
+        "Boomburst",
+        "Defog",
+        "Encore",
+        "Nasty Plot",
+        "Night Shade",
+        "Sleep Talk",
+        "Steel Wing",
+        "Supersonic"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Hyper Voice",
+        "Role Play",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Endure",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Secret Power",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

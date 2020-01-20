@@ -1,0 +1,284 @@
+[
+  {
+    "species_name": "Lumineon",
+    "variant_name": "Lumineon",
+    "base_stats": {
+      "hp": 69,
+      "attack": 69,
+      "defense": 76,
+      "speed": 91,
+      "special_attack": 69,
+      "special_defense": 86
+    },
+    "dex_entry": {
+      "national_dex_num": 457,
+      "types": [
+        "Water"
+      ],
+      "height": 1.2,
+      "weight": 24.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Neon Pok\u00e9mon",
+      "flavor_text": "They traverse the deep waters as if crawling over the seafloor. The fantastic lights of its fins shine like stars in the night sky.",
+      "abilities": [
+        "Swift Swim",
+        "Storm Drain"
+      ],
+      "hidden_abilities": [
+        "Water Veil"
+      ],
+      "regional_dex_nums": [
+        135,
+        135,
+        109,
+        132
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 161,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Attract"
+        ],
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Soak"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          6,
+          "Water Gun"
+        ],
+        [
+          10,
+          "Attract"
+        ],
+        [
+          13,
+          "Rain Dance"
+        ],
+        [
+          17,
+          "Gust"
+        ],
+        [
+          22,
+          "Water Pulse"
+        ],
+        [
+          26,
+          "Captivate"
+        ],
+        [
+          29,
+          "Safeguard"
+        ],
+        [
+          35,
+          "Aqua Ring"
+        ],
+        [
+          42,
+          "Whirlpool"
+        ],
+        [
+          48,
+          "U-turn"
+        ],
+        [
+          53,
+          "Bounce"
+        ],
+        [
+          59,
+          "Silver Wind"
+        ],
+        [
+          66,
+          "Soak"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Aqua Tail",
+        "Aurora Beam",
+        "Brine",
+        "Charm",
+        "Confuse Ray",
+        "Flail",
+        "Psybeam",
+        "Signal Beam",
+        "Splash",
+        "Sweet Kiss",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Defog",
+        "Icy Wind",
+        "Signal Beam",
+        "Snore",
+        "Tailwind",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Dive",
+        "Endure",
+        "Flash",
+        "Natural Gift",
+        "Ominous Wind",
+        "Secret Power",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

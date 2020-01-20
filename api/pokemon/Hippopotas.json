@@ -1,0 +1,227 @@
+[
+  {
+    "species_name": "Hippopotas",
+    "variant_name": "Hippopotas",
+    "base_stats": {
+      "hp": 68,
+      "attack": 72,
+      "defense": 78,
+      "speed": 32,
+      "special_attack": 38,
+      "special_defense": 42
+    },
+    "dex_entry": {
+      "national_dex_num": 449,
+      "types": [
+        "Ground"
+      ],
+      "height": 0.8,
+      "weight": 49.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hippo Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is active during the day and passes the cold desert nights burrowed snugly into the sand.",
+      "abilities": [
+        "Sand Stream"
+      ],
+      "hidden_abilities": [
+        "Sand Force"
+      ],
+      "regional_dex_nums": [
+        122,
+        122,
+        48,
+        314
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 140,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          13,
+          "Yawn"
+        ],
+        [
+          19,
+          "Dig"
+        ],
+        [
+          19,
+          "Take Down"
+        ],
+        [
+          25,
+          "Sand Tomb"
+        ],
+        [
+          31,
+          "Crunch"
+        ],
+        [
+          37,
+          "Earthquake"
+        ],
+        [
+          44,
+          "Double-Edge"
+        ],
+        [
+          50,
+          "Fissure"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Curse",
+        "Revenge",
+        "Sand Tomb",
+        "Slack Off",
+        "Sleep Talk",
+        "Spit Up",
+        "Stockpile",
+        "Swallow",
+        "Whirlwind"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Iron Tail",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Endure",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

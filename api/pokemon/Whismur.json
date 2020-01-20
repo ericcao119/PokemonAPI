@@ -1,0 +1,271 @@
+[
+  {
+    "species_name": "Whismur",
+    "variant_name": "Whismur",
+    "base_stats": {
+      "hp": 64,
+      "attack": 51,
+      "defense": 23,
+      "speed": 28,
+      "special_attack": 51,
+      "special_defense": 23
+    },
+    "dex_entry": {
+      "national_dex_num": 293,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.6,
+      "weight": 16.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Whisper Pok\u00e9mon",
+      "flavor_text": "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pok\u00e9mon goes to sleep, all tired out.",
+      "abilities": [
+        "Soundproof"
+      ],
+      "hidden_abilities": [
+        "Rattled"
+      ],
+      "regional_dex_nums": [
+        45,
+        140,
+        46
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 48,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Pound"
+        ],
+        [
+          4,
+          "Echoed Voice"
+        ],
+        [
+          8,
+          "Astonish"
+        ],
+        [
+          11,
+          "Howl"
+        ],
+        [
+          15,
+          "Screech"
+        ],
+        [
+          18,
+          "Supersonic"
+        ],
+        [
+          22,
+          "Stomp"
+        ],
+        [
+          25,
+          "Uproar"
+        ],
+        [
+          29,
+          "Roar"
+        ],
+        [
+          32,
+          "Rest"
+        ],
+        [
+          36,
+          "Sleep Talk"
+        ],
+        [
+          39,
+          "Hyper Voice"
+        ],
+        [
+          43,
+          "Synchronoise"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Circle Throw",
+        "Disarming Voice",
+        "Endeavor",
+        "Extrasensory",
+        "Fake Tears",
+        "Hammer Arm",
+        "Smelling Salts",
+        "Smokescreen",
+        "Snore",
+        "Take Down",
+        "Whirlwind"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Fire Punch",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Shock Wave",
+        "Snore",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Defense Curl",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Psych Up",
+        "Retaliate",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss"
+      ]
+    }
+  }
+]

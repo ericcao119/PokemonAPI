@@ -1,0 +1,269 @@
+[
+  {
+    "species_name": "Joltik",
+    "variant_name": "Joltik",
+    "base_stats": {
+      "hp": 50,
+      "attack": 47,
+      "defense": 50,
+      "speed": 65,
+      "special_attack": 57,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 595,
+      "types": [
+        "Bug",
+        "Electric"
+      ],
+      "height": 0.1,
+      "weight": 0.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Attaching Pok\u00e9mon",
+      "flavor_text": "Joltik latch on to other Pok\u00e9mon and suck out static electricity. They\u2019re often found sticking to Yamper\u2019s hindquarters.",
+      "abilities": [
+        "Compound Eyes",
+        "Unnerve"
+      ],
+      "hidden_abilities": [
+        "Swarm"
+      ],
+      "regional_dex_nums": [
+        101,
+        173,
+        64
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Spider Web"
+        ],
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          4,
+          "Thunder Wave"
+        ],
+        [
+          7,
+          "Screech"
+        ],
+        [
+          12,
+          "Fury Cutter"
+        ],
+        [
+          15,
+          "Electroweb"
+        ],
+        [
+          18,
+          "Bug Bite"
+        ],
+        [
+          23,
+          "Gastro Acid"
+        ],
+        [
+          26,
+          "Slash"
+        ],
+        [
+          29,
+          "Electro Ball"
+        ],
+        [
+          34,
+          "Signal Beam"
+        ],
+        [
+          37,
+          "Agility"
+        ],
+        [
+          40,
+          "Sucker Punch"
+        ],
+        [
+          45,
+          "Discharge"
+        ],
+        [
+          48,
+          "Bug Buzz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Camouflage",
+        "Cross Poison",
+        "Disable",
+        "Feint Attack",
+        "Lunge",
+        "Pin Missile",
+        "Poison Sting",
+        "Pursuit",
+        "Rock Climb"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Bug Bite",
+        "Electroweb",
+        "Gastro Acid",
+        "Giga Drain",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Secret Power",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

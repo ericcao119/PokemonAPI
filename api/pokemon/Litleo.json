@@ -1,0 +1,279 @@
+[
+  {
+    "species_name": "Litleo",
+    "variant_name": "Litleo",
+    "base_stats": {
+      "hp": 62,
+      "attack": 50,
+      "defense": 58,
+      "speed": 72,
+      "special_attack": 73,
+      "special_defense": 54
+    },
+    "dex_entry": {
+      "national_dex_num": 667,
+      "types": [
+        "Fire",
+        "Normal"
+      ],
+      "height": 0.6,
+      "weight": 13.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Lion Cub Pok\u00e9mon",
+      "flavor_text": "This hot-blooded Pok\u00e9mon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.",
+      "abilities": [
+        "Rivalry",
+        "Unnerve"
+      ],
+      "hidden_abilities": [
+        "Moxie"
+      ],
+      "regional_dex_nums": [
+        57,
+        370
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 74,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 220,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Ember"
+        ],
+        [
+          8,
+          "Work Up"
+        ],
+        [
+          11,
+          "Headbutt"
+        ],
+        [
+          15,
+          "Noble Roar"
+        ],
+        [
+          20,
+          "Take Down"
+        ],
+        [
+          23,
+          "Fire Fang"
+        ],
+        [
+          28,
+          "Endeavor"
+        ],
+        [
+          33,
+          "Echoed Voice"
+        ],
+        [
+          36,
+          "Flamethrower"
+        ],
+        [
+          39,
+          "Crunch"
+        ],
+        [
+          43,
+          "Hyper Voice"
+        ],
+        [
+          46,
+          "Incinerate"
+        ],
+        [
+          50,
+          "Overheat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Entrainment",
+        "Fire Spin",
+        "Flare Blitz",
+        "Snatch",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Heat Wave",
+        "Helping Hand",
+        "Hyper Voice",
+        "Iron Tail",
+        "Snatch",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "species_name": "Entei",
+    "variant_name": "Entei",
+    "base_stats": {
+      "hp": 115,
+      "attack": 115,
+      "defense": 85,
+      "speed": 100,
+      "special_attack": 90,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 244,
+      "types": [
+        "Fire"
+      ],
+      "height": 2.1,
+      "weight": 198.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Volcano Pok\u00e9mon",
+      "flavor_text": "Entei embodies the passion of magma. This Pok\u00e9mon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+      "abilities": [
+        "Pressure"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        239,
+        244
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 1,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Eruption"
+        ],
+        [
+          1,
+          "Extrasensory"
+        ],
+        [
+          1,
+          "Lava Plume"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Sacred Fire"
+        ],
+        [
+          8,
+          "Ember"
+        ],
+        [
+          15,
+          "Roar"
+        ],
+        [
+          22,
+          "Fire Spin"
+        ],
+        [
+          29,
+          "Stomp"
+        ],
+        [
+          36,
+          "Flamethrower"
+        ],
+        [
+          43,
+          "Swagger"
+        ],
+        [
+          50,
+          "Fire Fang"
+        ],
+        [
+          57,
+          "Lava Plume"
+        ],
+        [
+          64,
+          "Extrasensory"
+        ],
+        [
+          71,
+          "Fire Blast"
+        ],
+        [
+          78,
+          "Calm Mind"
+        ],
+        [
+          85,
+          "Eruption"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Heat Wave",
+        "Iron Head",
+        "Iron Tail",
+        "Laser Focus",
+        "Snore",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Crush Claw",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Extreme Speed",
+        "Flare Blitz",
+        "Flash",
+        "Headbutt",
+        "Howl",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

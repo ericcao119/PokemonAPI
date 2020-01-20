@@ -1,0 +1,285 @@
+[
+  {
+    "species_name": "Wooper",
+    "variant_name": "Wooper",
+    "base_stats": {
+      "hp": 55,
+      "attack": 45,
+      "defense": 45,
+      "speed": 15,
+      "special_attack": 25,
+      "special_defense": 25
+    },
+    "dex_entry": {
+      "national_dex_num": 194,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "height": 0.4,
+      "weight": 8.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Water Fish Pok\u00e9mon",
+      "flavor_text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+      "abilities": [
+        "Damp",
+        "Water Absorb"
+      ],
+      "hidden_abilities": [
+        "Unaware"
+      ],
+      "regional_dex_nums": [
+        56,
+        117,
+        117,
+        56,
+        17,
+        100
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 42,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Mud Sport"
+        ],
+        [
+          9,
+          "Mud Shot"
+        ],
+        [
+          15,
+          "Slam"
+        ],
+        [
+          19,
+          "Mud Bomb"
+        ],
+        [
+          23,
+          "Amnesia"
+        ],
+        [
+          29,
+          "Yawn"
+        ],
+        [
+          33,
+          "Earthquake"
+        ],
+        [
+          37,
+          "Rain Dance"
+        ],
+        [
+          43,
+          "Haze"
+        ],
+        [
+          43,
+          "Mist"
+        ],
+        [
+          47,
+          "Muddy Water"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Spray",
+        "After You",
+        "Ancient Power",
+        "Body Slam",
+        "Counter",
+        "Curse",
+        "Double Kick",
+        "Eerie Impulse",
+        "Encore",
+        "Guard Swap",
+        "Mud Sport",
+        "Power-Up Punch",
+        "Recover",
+        "Sleep Talk",
+        "Spit Up",
+        "Stockpile",
+        "Swallow"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Aqua Tail",
+        "Earth Power",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Snore",
+        "Stomping Tantrum",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Defense Curl",
+        "Dig",
+        "Dive",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Whirlpool"
+      ]
+    }
+  }
+]

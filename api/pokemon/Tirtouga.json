@@ -1,0 +1,289 @@
+[
+  {
+    "species_name": "Tirtouga",
+    "variant_name": "Tirtouga",
+    "base_stats": {
+      "hp": 54,
+      "attack": 78,
+      "defense": 103,
+      "speed": 22,
+      "special_attack": 53,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 564,
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "height": 0.7,
+      "weight": 16.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Prototurtle Pok\u00e9mon",
+      "flavor_text": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
+      "abilities": [
+        "Solid Rock",
+        "Sturdy"
+      ],
+      "hidden_abilities": [
+        "Swift Swim"
+      ],
+      "regional_dex_nums": [
+        70,
+        126,
+        194,
+        241
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 71,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water3"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bide"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          5,
+          "Rollout"
+        ],
+        [
+          8,
+          "Bite"
+        ],
+        [
+          11,
+          "Protect"
+        ],
+        [
+          15,
+          "Aqua Jet"
+        ],
+        [
+          18,
+          "Ancient Power"
+        ],
+        [
+          21,
+          "Crunch"
+        ],
+        [
+          25,
+          "Wide Guard"
+        ],
+        [
+          28,
+          "Brine"
+        ],
+        [
+          31,
+          "Smack Down"
+        ],
+        [
+          35,
+          "Curse"
+        ],
+        [
+          38,
+          "Shell Smash"
+        ],
+        [
+          41,
+          "Aqua Tail"
+        ],
+        [
+          45,
+          "Rock Slide"
+        ],
+        [
+          48,
+          "Rain Dance"
+        ],
+        [
+          50,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bide",
+        "Body Slam",
+        "Flail",
+        "Guard Swap",
+        "Iron Defense",
+        "Knock Off",
+        "Liquidation",
+        "Rock Throw",
+        "Slam",
+        "Water Pulse",
+        "Whirlpool"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Block",
+        "Earth Power",
+        "Icy Wind",
+        "Iron Defense",
+        "Iron Tail",
+        "Knock Off",
+        "Liquidation",
+        "Snore",
+        "Stealth Rock",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Dive",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

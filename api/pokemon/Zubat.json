@@ -1,0 +1,302 @@
+[
+  {
+    "species_name": "Zubat",
+    "variant_name": "Zubat",
+    "base_stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "speed": 55,
+      "special_attack": 30,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 41,
+      "types": [
+        "Poison",
+        "Flying"
+      ],
+      "height": 0.8,
+      "weight": 7.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bat Pok\u00e9mon",
+      "flavor_text": "Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.",
+      "abilities": [
+        "Inner Focus"
+      ],
+      "hidden_abilities": [
+        "Infiltrator"
+      ],
+      "regional_dex_nums": [
+        41,
+        37,
+        63,
+        41,
+        28,
+        28,
+        37,
+        61,
+        145,
+        65,
+        68,
+        80,
+        41
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 49,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          7,
+          "Astonish"
+        ],
+        [
+          11,
+          "Bite"
+        ],
+        [
+          13,
+          "Wing Attack"
+        ],
+        [
+          17,
+          "Confuse Ray"
+        ],
+        [
+          19,
+          "Air Cutter"
+        ],
+        [
+          23,
+          "Swift"
+        ],
+        [
+          25,
+          "Poison Fang"
+        ],
+        [
+          29,
+          "Mean Look"
+        ],
+        [
+          31,
+          "Leech Life"
+        ],
+        [
+          35,
+          "Haze"
+        ],
+        [
+          37,
+          "Venoshock"
+        ],
+        [
+          41,
+          "Air Slash"
+        ],
+        [
+          43,
+          "Quick Guard"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Brave Bird",
+        "Curse",
+        "Defog",
+        "Feint Attack",
+        "Giga Drain",
+        "Gust",
+        "Hypnosis",
+        "Nasty Plot",
+        "Pursuit",
+        "Quick Attack",
+        "Steel Wing",
+        "Venom Drench",
+        "Whirlwind",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Giga Drain",
+        "Heat Wave",
+        "Snatch",
+        "Snore",
+        "Super Fang",
+        "Tailwind",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Captivate",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Mega Drain",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Rage",
+        "Razor Wind",
+        "Secret Power",
+        "Take Down",
+        "Twister"
+      ]
+    }
+  }
+]

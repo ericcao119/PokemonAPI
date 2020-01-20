@@ -1,0 +1,338 @@
+[
+  {
+    "species_name": "Mienshao",
+    "variant_name": "Mienshao",
+    "base_stats": {
+      "hp": 65,
+      "attack": 125,
+      "defense": 60,
+      "speed": 105,
+      "special_attack": 95,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 620,
+      "types": [
+        "Fighting"
+      ],
+      "height": 1.4,
+      "weight": 35.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Martial Arts Pok\u00e9mon",
+      "flavor_text": "When Mienshao lets out a bizarre wail, you\u2019re in danger. A flurry of kicks and chops too fast to see is about to be unleashed!",
+      "abilities": [
+        "Inner Focus",
+        "Regenerator"
+      ],
+      "hidden_abilities": [
+        "Reckless"
+      ],
+      "regional_dex_nums": [
+        126,
+        220,
+        4,
+        360
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 179,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Humanlike"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aura Sphere"
+        ],
+        [
+          1,
+          "Detect"
+        ],
+        [
+          1,
+          "Fake Out"
+        ],
+        [
+          1,
+          "Meditate"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Reversal"
+        ],
+        [
+          5,
+          "Meditate"
+        ],
+        [
+          9,
+          "Detect"
+        ],
+        [
+          13,
+          "Fake Out"
+        ],
+        [
+          17,
+          "Double Slap"
+        ],
+        [
+          21,
+          "Swift"
+        ],
+        [
+          25,
+          "Calm Mind"
+        ],
+        [
+          29,
+          "Force Palm"
+        ],
+        [
+          33,
+          "Drain Punch"
+        ],
+        [
+          37,
+          "Jump Kick"
+        ],
+        [
+          41,
+          "U-turn"
+        ],
+        [
+          45,
+          "Wide Guard"
+        ],
+        [
+          49,
+          "Bounce"
+        ],
+        [
+          56,
+          "High Jump Kick"
+        ],
+        [
+          63,
+          "Reversal"
+        ],
+        [
+          70,
+          "Aura Sphere"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ally Switch",
+        "Baton Pass",
+        "Endure",
+        "Feint",
+        "Knock Off",
+        "Low Kick",
+        "Me First",
+        "Smelling Salts",
+        "Vital Throw"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bounce",
+        "Drain Punch",
+        "Dual Chop",
+        "Focus Punch",
+        "Helping Hand",
+        "Knock Off",
+        "Laser Focus",
+        "Low Kick",
+        "Role Play",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

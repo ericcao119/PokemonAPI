@@ -1,0 +1,288 @@
+[
+  {
+    "species_name": "Riolu",
+    "variant_name": "Riolu",
+    "base_stats": {
+      "hp": 40,
+      "attack": 70,
+      "defense": 40,
+      "speed": 60,
+      "special_attack": 35,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 447,
+      "types": [
+        "Fighting"
+      ],
+      "height": 0.7,
+      "weight": 20.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Emanation Pok\u00e9mon",
+      "flavor_text": "It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pok\u00e9mon about the state of the environment.",
+      "abilities": [
+        "Steadfast",
+        "Inner Focus"
+      ],
+      "hidden_abilities": [
+        "Prankster"
+      ],
+      "regional_dex_nums": [
+        115,
+        115,
+        33,
+        62,
+        279,
+        377,
+        298
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 57,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Endure"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          6,
+          "Counter"
+        ],
+        [
+          11,
+          "Feint"
+        ],
+        [
+          15,
+          "Force Palm"
+        ],
+        [
+          19,
+          "Copycat"
+        ],
+        [
+          24,
+          "Screech"
+        ],
+        [
+          29,
+          "Reversal"
+        ],
+        [
+          47,
+          "Nasty Plot"
+        ],
+        [
+          50,
+          "Final Gambit"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Bite",
+        "Blaze Kick",
+        "Bullet Punch",
+        "Circle Throw",
+        "Cross Chop",
+        "Crunch",
+        "Detect",
+        "Follow Me",
+        "High Jump Kick",
+        "Iron Defense",
+        "Low Kick",
+        "Meteor Mash",
+        "Mind Reader",
+        "Sky Uppercut",
+        "Vacuum Wave"
+      ],
+      "tutor_moves": [
+        "Drain Punch",
+        "Dual Chop",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Iron Defense",
+        "Iron Tail",
+        "Laser Focus",
+        "Low Kick",
+        "Magnet Rise",
+        "Role Play",
+        "Snore",
+        "Thunder Punch",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Fury Cutter",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

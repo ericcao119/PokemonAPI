@@ -1,0 +1,336 @@
+[
+  {
+    "species_name": "Munchlax",
+    "variant_name": "Munchlax",
+    "base_stats": {
+      "hp": 135,
+      "attack": 85,
+      "defense": 40,
+      "speed": 5,
+      "special_attack": 40,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 446,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.6,
+      "weight": 105.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Big Eater Pok\u00e9mon",
+      "flavor_text": "It stores food beneath its fur. It might share just one bite, but only if it really trusts you.",
+      "abilities": [
+        "Pickup",
+        "Thick Fat"
+      ],
+      "hidden_abilities": [
+        "Gluttony"
+      ],
+      "regional_dex_nums": [
+        112,
+        112,
+        138,
+        35,
+        42,
+        260
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 78,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 50,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Last Resort"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Metronome"
+        ],
+        [
+          1,
+          "Odor Sleuth"
+        ],
+        [
+          1,
+          "Recycle"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Defense Curl"
+        ],
+        [
+          9,
+          "Amnesia"
+        ],
+        [
+          12,
+          "Lick"
+        ],
+        [
+          17,
+          "Chip Away"
+        ],
+        [
+          20,
+          "Screech"
+        ],
+        [
+          25,
+          "Body Slam"
+        ],
+        [
+          28,
+          "Stockpile"
+        ],
+        [
+          33,
+          "Swallow"
+        ],
+        [
+          36,
+          "Rollout"
+        ],
+        [
+          41,
+          "Fling"
+        ],
+        [
+          44,
+          "Belly Drum"
+        ],
+        [
+          49,
+          "Natural Gift"
+        ],
+        [
+          50,
+          "Snatch"
+        ],
+        [
+          57,
+          "Last Resort"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "After You",
+        "Belch",
+        "Charm",
+        "Counter",
+        "Curse",
+        "Double-Edge",
+        "Lick",
+        "Natural Gift",
+        "Pursuit",
+        "Self-Destruct",
+        "Whirlwind",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Gunk Shot",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Last Resort",
+        "Recycle",
+        "Seed Bomb",
+        "Shock Wave",
+        "Snatch",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mud-Slap",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Whirlpool"
+      ]
+    }
+  }
+]

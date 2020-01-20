@@ -1,0 +1,297 @@
+[
+  {
+    "species_name": "Togedemaru",
+    "variant_name": "Togedemaru",
+    "base_stats": {
+      "hp": 65,
+      "attack": 98,
+      "defense": 63,
+      "speed": 96,
+      "special_attack": 40,
+      "special_defense": 73
+    },
+    "dex_entry": {
+      "national_dex_num": 777,
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "height": 0.3,
+      "weight": 3.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Roly-Poly Pok\u00e9mon",
+      "flavor_text": "When it\u2019s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
+      "abilities": [
+        "Iron Barbs",
+        "Lightning Rod"
+      ],
+      "hidden_abilities": [
+        "Sturdy"
+      ],
+      "regional_dex_nums": [
+        225,
+        292,
+        348
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 152,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 180,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Nuzzle"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Defense Curl"
+        ],
+        [
+          10,
+          "Charge"
+        ],
+        [
+          15,
+          "Thunder Shock"
+        ],
+        [
+          20,
+          "Fell Stinger"
+        ],
+        [
+          25,
+          "Spark"
+        ],
+        [
+          30,
+          "Pin Missile"
+        ],
+        [
+          35,
+          "Magnet Rise"
+        ],
+        [
+          40,
+          "Zing Zap"
+        ],
+        [
+          45,
+          "Discharge"
+        ],
+        [
+          50,
+          "Electric Terrain"
+        ],
+        [
+          55,
+          "Wild Charge"
+        ],
+        [
+          60,
+          "Spiky Shield"
+        ]
+      ],
+      "tm_moves": [
+        [
+          7,
+          "Pin Missile"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          80,
+          "Volt Switch"
+        ],
+        [
+          82,
+          "Electroweb"
+        ],
+        [
+          90,
+          "Electric Terrain"
+        ],
+        [
+          93,
+          "Eerie Impulse"
+        ]
+      ],
+      "tr_moves": [
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          80,
+          "Electro Ball"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ]
+      ],
+      "egg_moves": [
+        "Disarming Voice",
+        "Fake Out",
+        "Flail",
+        "Present",
+        "Tickle",
+        "Wish"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

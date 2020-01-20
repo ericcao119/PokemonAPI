@@ -1,0 +1,311 @@
+[
+  {
+    "species_name": "Tentacool",
+    "variant_name": "Tentacool",
+    "base_stats": {
+      "hp": 40,
+      "attack": 40,
+      "defense": 35,
+      "speed": 70,
+      "special_attack": 50,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 72,
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "height": 0.9,
+      "weight": 45.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Jellyfish Pok\u00e9mon",
+      "flavor_text": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.",
+      "abilities": [
+        "Clear Body",
+        "Liquid Ooze"
+      ],
+      "hidden_abilities": [
+        "Rain Dish"
+      ],
+      "regional_dex_nums": [
+        72,
+        162,
+        66,
+        72,
+        136,
+        136,
+        164,
+        25,
+        68,
+        106,
+        129,
+        72
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 67,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water3"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Poison Sting"
+        ],
+        [
+          4,
+          "Supersonic"
+        ],
+        [
+          7,
+          "Constrict"
+        ],
+        [
+          10,
+          "Acid"
+        ],
+        [
+          13,
+          "Toxic Spikes"
+        ],
+        [
+          16,
+          "Water Pulse"
+        ],
+        [
+          19,
+          "Wrap"
+        ],
+        [
+          22,
+          "Acid Spray"
+        ],
+        [
+          25,
+          "Bubble Beam"
+        ],
+        [
+          28,
+          "Barrier"
+        ],
+        [
+          31,
+          "Poison Jab"
+        ],
+        [
+          34,
+          "Brine"
+        ],
+        [
+          37,
+          "Screech"
+        ],
+        [
+          40,
+          "Hex"
+        ],
+        [
+          43,
+          "Sludge Wave"
+        ],
+        [
+          46,
+          "Hydro Pump"
+        ],
+        [
+          49,
+          "Wring Out"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acupressure",
+        "Aqua Ring",
+        "Aurora Beam",
+        "Bubble",
+        "Confuse Ray",
+        "Haze",
+        "Knock Off",
+        "Mirror Coat",
+        "Muddy Water",
+        "Rapid Spin",
+        "Tickle"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Giga Drain",
+        "Icy Wind",
+        "Knock Off",
+        "Magic Coat",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Mega Drain",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Reflect",
+        "Secret Power",
+        "Skull Bash",
+        "Take Down",
+        "Water Gun",
+        "Whirlpool"
+      ]
+    }
+  }
+]

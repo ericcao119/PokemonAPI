@@ -1,0 +1,276 @@
+[
+  {
+    "species_name": "Froakie",
+    "variant_name": "Froakie",
+    "base_stats": {
+      "hp": 41,
+      "attack": 56,
+      "defense": 40,
+      "speed": 71,
+      "special_attack": 62,
+      "special_defense": 44
+    },
+    "dex_entry": {
+      "national_dex_num": 656,
+      "types": [
+        "Water"
+      ],
+      "height": 0.3,
+      "weight": 7.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bubble Frog Pok\u00e9mon",
+      "flavor_text": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
+      "abilities": [
+        "Torrent"
+      ],
+      "hidden_abilities": [
+        "Protean"
+      ],
+      "regional_dex_nums": [
+        7
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 63,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          5,
+          "Bubble"
+        ],
+        [
+          8,
+          "Quick Attack"
+        ],
+        [
+          10,
+          "Lick"
+        ],
+        [
+          14,
+          "Water Pulse"
+        ],
+        [
+          18,
+          "Smokescreen"
+        ],
+        [
+          21,
+          "Round"
+        ],
+        [
+          25,
+          "Fling"
+        ],
+        [
+          29,
+          "Smack Down"
+        ],
+        [
+          35,
+          "Substitute"
+        ],
+        [
+          39,
+          "Bounce"
+        ],
+        [
+          43,
+          "Double Team"
+        ],
+        [
+          48,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bestow",
+        "Camouflage",
+        "Mind Reader",
+        "Mud Sport",
+        "Power-Up Punch",
+        "Toxic Spikes",
+        "Water Sport"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Icy Wind",
+        "Role Play",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Water Pledge",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Dive",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

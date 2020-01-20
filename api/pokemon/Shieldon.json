@@ -1,0 +1,288 @@
+[
+  {
+    "species_name": "Shieldon",
+    "variant_name": "Shieldon",
+    "base_stats": {
+      "hp": 30,
+      "attack": 42,
+      "defense": 118,
+      "speed": 30,
+      "special_attack": 42,
+      "special_defense": 88
+    },
+    "dex_entry": {
+      "national_dex_num": 410,
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "height": 0.5,
+      "weight": 57.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Shield Pok\u00e9mon",
+      "flavor_text": "Although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered.",
+      "abilities": [
+        "Sturdy"
+      ],
+      "hidden_abilities": [
+        "Soundproof"
+      ],
+      "regional_dex_nums": [
+        38,
+        38,
+        190,
+        237
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 70,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Taunt"
+        ],
+        [
+          10,
+          "Metal Sound"
+        ],
+        [
+          15,
+          "Take Down"
+        ],
+        [
+          19,
+          "Iron Defense"
+        ],
+        [
+          24,
+          "Swagger"
+        ],
+        [
+          28,
+          "Ancient Power"
+        ],
+        [
+          33,
+          "Endure"
+        ],
+        [
+          37,
+          "Metal Burst"
+        ],
+        [
+          42,
+          "Iron Head"
+        ],
+        [
+          46,
+          "Heavy Slam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Counter",
+        "Curse",
+        "Double-Edge",
+        "Fissure",
+        "Focus Energy",
+        "Guard Split",
+        "Headbutt",
+        "Rock Blast",
+        "Scary Face",
+        "Screech",
+        "Stealth Rock",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Magnet Rise",
+        "Shock Wave",
+        "Snore",
+        "Stealth Rock"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dig",
+        "Incinerate",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

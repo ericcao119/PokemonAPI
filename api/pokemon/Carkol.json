@@ -1,0 +1,259 @@
+[
+  {
+    "species_name": "Carkol",
+    "variant_name": "Carkol",
+    "base_stats": {
+      "hp": 80,
+      "attack": 60,
+      "defense": 90,
+      "speed": 50,
+      "special_attack": 60,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 838,
+      "types": [
+        "Rock",
+        "Fire"
+      ],
+      "height": 1.1,
+      "weight": 78.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Coal Pok\u00e9mon",
+      "flavor_text": "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
+      "abilities": [
+        "Steam Engine",
+        "Flame Body"
+      ],
+      "hidden_abilities": [
+        "Flash Fire"
+      ],
+      "regional_dex_nums": [
+        162
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Flame Charge"
+        ],
+        [
+          1,
+          "Rapid Spin"
+        ],
+        [
+          1,
+          "Smack Down"
+        ],
+        [
+          1,
+          "Smokescreen"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          15,
+          "Rock Polish"
+        ],
+        [
+          20,
+          "Ancient Power"
+        ],
+        [
+          27,
+          "Incinerate"
+        ],
+        [
+          35,
+          "Stealth Rock"
+        ],
+        [
+          41,
+          "Heat Crash"
+        ],
+        [
+          48,
+          "Rock Blast"
+        ],
+        [
+          55,
+          "Burn Up"
+        ]
+      ],
+      "tm_moves": [
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          49,
+          "Sand Tomb"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          23,
+          "Spikes"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

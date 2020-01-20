@@ -1,0 +1,285 @@
+[
+  {
+    "species_name": "Chinchou",
+    "variant_name": "Chinchou",
+    "base_stats": {
+      "hp": 75,
+      "attack": 38,
+      "defense": 38,
+      "speed": 67,
+      "special_attack": 56,
+      "special_defense": 56
+    },
+    "dex_entry": {
+      "national_dex_num": 170,
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "height": 0.5,
+      "weight": 12.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Angler Pok\u00e9mon",
+      "flavor_text": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+      "abilities": [
+        "Volt Absorb",
+        "Illuminate"
+      ],
+      "hidden_abilities": [
+        "Water Absorb"
+      ],
+      "regional_dex_nums": [
+        174,
+        181,
+        176,
+        147,
+        190,
+        201,
+        257,
+        220
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          6,
+          "Thunder Wave"
+        ],
+        [
+          9,
+          "Electro Ball"
+        ],
+        [
+          12,
+          "Water Gun"
+        ],
+        [
+          17,
+          "Confuse Ray"
+        ],
+        [
+          20,
+          "Bubble Beam"
+        ],
+        [
+          23,
+          "Spark"
+        ],
+        [
+          28,
+          "Signal Beam"
+        ],
+        [
+          31,
+          "Flail"
+        ],
+        [
+          34,
+          "Discharge"
+        ],
+        [
+          39,
+          "Take Down"
+        ],
+        [
+          42,
+          "Aqua Ring"
+        ],
+        [
+          45,
+          "Hydro Pump"
+        ],
+        [
+          47,
+          "Ion Deluge"
+        ],
+        [
+          50,
+          "Charge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Amnesia",
+        "Brine",
+        "Flail",
+        "Mist",
+        "Psybeam",
+        "Screech",
+        "Shock Wave",
+        "Soak",
+        "Water Pulse",
+        "Whirlpool"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Heal Bell",
+        "Icy Wind",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Curse",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power",
+        "Sucker Punch",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

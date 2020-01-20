@@ -1,0 +1,454 @@
+[
+  {
+    "species_name": "Snorlax",
+    "variant_name": "Snorlax",
+    "base_stats": {
+      "hp": 160,
+      "attack": 110,
+      "defense": 65,
+      "speed": 30,
+      "special_attack": 65,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 143,
+      "types": [
+        "Normal"
+      ],
+      "height": 2.1,
+      "weight": 460.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sleeping Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon\u2019s stomach is so strong, even eating moldy or rotten food will not affect it.",
+      "abilities": [
+        "Immunity",
+        "Thick Fat"
+      ],
+      "hidden_abilities": [
+        "Gluttony"
+      ],
+      "regional_dex_nums": [
+        143,
+        225,
+        143,
+        113,
+        113,
+        230,
+        139,
+        36,
+        43,
+        143,
+        261
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 189,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 25,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Block"
+        ],
+        [
+          1,
+          "Covet"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Flail"
+        ],
+        [
+          1,
+          "Fling"
+        ],
+        [
+          1,
+          "Last Resort"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Metronome"
+        ],
+        [
+          1,
+          "Recycle"
+        ],
+        [
+          1,
+          "Screech"
+        ],
+        [
+          1,
+          "Stockpile"
+        ],
+        [
+          1,
+          "Swallow"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          12,
+          "Yawn"
+        ],
+        [
+          16,
+          "Bite"
+        ],
+        [
+          20,
+          "Rest"
+        ],
+        [
+          20,
+          "Sleep Talk"
+        ],
+        [
+          20,
+          "Snore"
+        ],
+        [
+          24,
+          "Crunch"
+        ],
+        [
+          28,
+          "Body Slam"
+        ],
+        [
+          32,
+          "Heavy Slam"
+        ],
+        [
+          36,
+          "Amnesia"
+        ],
+        [
+          40,
+          "High Horsepower"
+        ],
+        [
+          44,
+          "Hammer Arm"
+        ],
+        [
+          48,
+          "Belly Drum"
+        ],
+        [
+          52,
+          "Belch"
+        ],
+        [
+          56,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          2,
+          "Pay Day"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          20,
+          "Self-Destruct"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          88,
+          "Heat Crash"
+        ],
+        [
+          93,
+          "Darkest Lariat"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [
+        "Counter",
+        "Curse",
+        "Double-Edge",
+        "Fissure",
+        "Gastro Acid"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

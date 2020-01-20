@@ -1,0 +1,266 @@
+[
+  {
+    "species_name": "Pidgeotto",
+    "variant_name": "Pidgeotto",
+    "base_stats": {
+      "hp": 63,
+      "attack": 60,
+      "defense": 55,
+      "speed": 71,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 17,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 1.1,
+      "weight": 30.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bird Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is full of vitality. It constantly flies around its large territory in search of prey.",
+      "abilities": [
+        "Keen Eye",
+        "Tangled Feet"
+      ],
+      "hidden_abilities": [
+        "Big Pecks"
+      ],
+      "regional_dex_nums": [
+        17,
+        11,
+        17,
+        11,
+        18,
+        17
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 122,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          9,
+          "Gust"
+        ],
+        [
+          13,
+          "Quick Attack"
+        ],
+        [
+          17,
+          "Whirlwind"
+        ],
+        [
+          22,
+          "Twister"
+        ],
+        [
+          27,
+          "Feather Dance"
+        ],
+        [
+          32,
+          "Agility"
+        ],
+        [
+          37,
+          "Wing Attack"
+        ],
+        [
+          42,
+          "Roost"
+        ],
+        [
+          47,
+          "Tailwind"
+        ],
+        [
+          52,
+          "Mirror Move"
+        ],
+        [
+          57,
+          "Air Slash"
+        ],
+        [
+          62,
+          "Hurricane"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Air Cutter",
+        "Air Slash",
+        "Brave Bird",
+        "Defog",
+        "Feint Attack",
+        "Foresight",
+        "Pursuit",
+        "Steel Wing",
+        "Uproar"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "Secret Power",
+        "Swift",
+        "Take Down"
+      ]
+    }
+  }
+]

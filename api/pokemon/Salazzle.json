@@ -1,0 +1,306 @@
+[
+  {
+    "species_name": "Salazzle",
+    "variant_name": "Salazzle",
+    "base_stats": {
+      "hp": 68,
+      "attack": 64,
+      "defense": 60,
+      "speed": 117,
+      "special_attack": 111,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 758,
+      "types": [
+        "Poison",
+        "Fire"
+      ],
+      "height": 1.2,
+      "weight": 22.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Toxic Lizard Pok\u00e9mon",
+      "flavor_text": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.",
+      "abilities": [
+        "Corrosion"
+      ],
+      "hidden_abilities": [
+        "Oblivious"
+      ],
+      "regional_dex_nums": [
+        162,
+        196,
+        245
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 168,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Captivate"
+        ],
+        [
+          1,
+          "Disable"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Encore"
+        ],
+        [
+          1,
+          "Poison Gas"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Swagger"
+        ],
+        [
+          1,
+          "Sweet Scent"
+        ],
+        [
+          1,
+          "Torment"
+        ],
+        [
+          5,
+          "Ember"
+        ],
+        [
+          8,
+          "Sweet Scent"
+        ],
+        [
+          13,
+          "Dragon Rage"
+        ],
+        [
+          16,
+          "Smog"
+        ],
+        [
+          21,
+          "Double Slap"
+        ],
+        [
+          24,
+          "Flame Burst"
+        ],
+        [
+          29,
+          "Toxic"
+        ],
+        [
+          32,
+          "Nasty Plot"
+        ],
+        [
+          39,
+          "Venoshock"
+        ],
+        [
+          44,
+          "Flamethrower"
+        ],
+        [
+          51,
+          "Venom Drench"
+        ],
+        [
+          56,
+          "Dragon Pulse"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belch",
+        "Fake Out",
+        "Knock Off",
+        "Sand Attack",
+        "Snatch"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Dragon Pulse",
+        "Foul Play",
+        "Gunk Shot",
+        "Heat Wave",
+        "Helping Hand",
+        "Iron Tail",
+        "Knock Off",
+        "Laser Focus",
+        "Snatch",
+        "Snore"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "species_name": "Grumpig",
+    "variant_name": "Grumpig",
+    "base_stats": {
+      "hp": 80,
+      "attack": 45,
+      "defense": 65,
+      "speed": 80,
+      "special_attack": 90,
+      "special_defense": 110
+    },
+    "dex_entry": {
+      "national_dex_num": 326,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.9,
+      "weight": 71.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Manipulate Pok\u00e9mon",
+      "flavor_text": "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pok\u00e9mon\u2019s black pearls are valuable as works of art.",
+      "abilities": [
+        "Thick Fat",
+        "Own Tempo"
+      ],
+      "hidden_abilities": [
+        "Gluttony"
+      ],
+      "regional_dex_nums": [
+        111,
+        207,
+        8,
+        116
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 165,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Belch"
+        ],
+        [
+          1,
+          "Odor Sleuth"
+        ],
+        [
+          1,
+          "Psybeam"
+        ],
+        [
+          1,
+          "Psywave"
+        ],
+        [
+          1,
+          "Splash"
+        ],
+        [
+          1,
+          "Teeter Dance"
+        ],
+        [
+          7,
+          "Psywave"
+        ],
+        [
+          10,
+          "Odor Sleuth"
+        ],
+        [
+          14,
+          "Psybeam"
+        ],
+        [
+          15,
+          "Psych Up"
+        ],
+        [
+          18,
+          "Confuse Ray"
+        ],
+        [
+          21,
+          "Magic Coat"
+        ],
+        [
+          26,
+          "Zen Headbutt"
+        ],
+        [
+          29,
+          "Power Gem"
+        ],
+        [
+          35,
+          "Rest"
+        ],
+        [
+          35,
+          "Snore"
+        ],
+        [
+          42,
+          "Psyshock"
+        ],
+        [
+          46,
+          "Payback"
+        ],
+        [
+          52,
+          "Psychic"
+        ],
+        [
+          60,
+          "Bounce"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Endure",
+        "Extrasensory",
+        "Future Sight",
+        "Lucky Chant",
+        "Mirror Coat",
+        "Simple Beam",
+        "Skill Swap",
+        "Trick",
+        "Whirlwind",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bounce",
+        "Covet",
+        "Drain Punch",
+        "Fire Punch",
+        "Focus Punch",
+        "Heal Bell",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Laser Focus",
+        "Magic Coat",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Thunder Punch",
+        "Trick",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Flash",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Secret Power",
+        "Seismic Toss",
+        "Swift"
+      ]
+    }
+  }
+]

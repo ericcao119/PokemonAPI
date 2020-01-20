@@ -1,0 +1,268 @@
+[
+  {
+    "species_name": "Mudsdale",
+    "variant_name": "Mudsdale",
+    "base_stats": {
+      "hp": 100,
+      "attack": 125,
+      "defense": 100,
+      "speed": 35,
+      "special_attack": 55,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 750,
+      "types": [
+        "Ground"
+      ],
+      "height": 2.5,
+      "weight": 920.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Draft Horse Pok\u00e9mon",
+      "flavor_text": "Mudsdale has so much stamina that it could carry over 10 tons across the Galar region without rest or sleep.",
+      "abilities": [
+        "Own Tempo",
+        "Stamina"
+      ],
+      "hidden_abilities": [
+        "Inner Focus"
+      ],
+      "regional_dex_nums": [
+        133,
+        166,
+        85
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Double Kick"
+        ],
+        [
+          1,
+          "Iron Defense"
+        ],
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          1,
+          "Rock Smash"
+        ],
+        [
+          12,
+          "Bulldoze"
+        ],
+        [
+          16,
+          "Stomp"
+        ],
+        [
+          20,
+          "Strength"
+        ],
+        [
+          24,
+          "Counter"
+        ],
+        [
+          28,
+          "High Horsepower"
+        ],
+        [
+          34,
+          "Heavy Slam"
+        ],
+        [
+          40,
+          "Earthquake"
+        ],
+        [
+          46,
+          "Mega Kick"
+        ],
+        [
+          52,
+          "Superpower"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          49,
+          "Sand Tomb"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

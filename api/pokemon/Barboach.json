@@ -1,0 +1,264 @@
+[
+  {
+    "species_name": "Barboach",
+    "variant_name": "Barboach",
+    "base_stats": {
+      "hp": 50,
+      "attack": 48,
+      "defense": 43,
+      "speed": 60,
+      "special_attack": 46,
+      "special_defense": 41
+    },
+    "dex_entry": {
+      "national_dex_num": 339,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "height": 0.4,
+      "weight": 1.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Whiskers Pok\u00e9mon",
+      "flavor_text": "It probes muddy riverbeds with its two long whiskers. A slimy film protects its body.",
+      "abilities": [
+        "Oblivious",
+        "Anticipation"
+      ],
+      "hidden_abilities": [
+        "Hydration"
+      ],
+      "regional_dex_nums": [
+        127,
+        80,
+        80,
+        40,
+        132,
+        93,
+        113,
+        228
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 58,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Mud-Slap"
+        ],
+        [
+          6,
+          "Mud Sport"
+        ],
+        [
+          6,
+          "Water Sport"
+        ],
+        [
+          9,
+          "Water Gun"
+        ],
+        [
+          13,
+          "Mud Bomb"
+        ],
+        [
+          15,
+          "Amnesia"
+        ],
+        [
+          17,
+          "Water Pulse"
+        ],
+        [
+          20,
+          "Magnitude"
+        ],
+        [
+          25,
+          "Rest"
+        ],
+        [
+          25,
+          "Snore"
+        ],
+        [
+          28,
+          "Aqua Tail"
+        ],
+        [
+          32,
+          "Earthquake"
+        ],
+        [
+          35,
+          "Muddy Water"
+        ],
+        [
+          39,
+          "Future Sight"
+        ],
+        [
+          44,
+          "Fissure"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Dragon Dance",
+        "Earth Power",
+        "Flail",
+        "Hydro Pump",
+        "Mud Shot",
+        "Muddy Water",
+        "Spark",
+        "Take Down",
+        "Thrash",
+        "Whirlpool"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Earth Power",
+        "Icy Wind",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power"
+      ]
+    }
+  }
+]

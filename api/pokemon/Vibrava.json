@@ -1,0 +1,292 @@
+[
+  {
+    "species_name": "Vibrava",
+    "variant_name": "Vibrava",
+    "base_stats": {
+      "hp": 50,
+      "attack": 70,
+      "defense": 50,
+      "speed": 70,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 329,
+      "types": [
+        "Ground",
+        "Dragon"
+      ],
+      "height": 1.1,
+      "weight": 15.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Vibration Pok\u00e9mon",
+      "flavor_text": "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        117,
+        122,
+        4,
+        122,
+        236,
+        305,
+        322
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 119,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug",
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bide"
+        ],
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Feint Attack"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Sonic Boom"
+        ],
+        [
+          5,
+          "Mud-Slap"
+        ],
+        [
+          8,
+          "Bulldoze"
+        ],
+        [
+          12,
+          "Sand Tomb"
+        ],
+        [
+          15,
+          "Rock Slide"
+        ],
+        [
+          19,
+          "Supersonic"
+        ],
+        [
+          22,
+          "Screech"
+        ],
+        [
+          26,
+          "Earth Power"
+        ],
+        [
+          29,
+          "Bug Buzz"
+        ],
+        [
+          33,
+          "Earthquake"
+        ],
+        [
+          36,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Uproar"
+        ],
+        [
+          43,
+          "Hyper Beam"
+        ],
+        [
+          47,
+          "Boomburst"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bug Bite",
+        "Earth Power",
+        "Endure",
+        "Flail",
+        "Focus Energy",
+        "Fury Cutter",
+        "Gust",
+        "Mud Shot",
+        "Quick Attack",
+        "Signal Beam"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Giga Drain",
+        "Heat Wave",
+        "Outrage",
+        "Signal Beam",
+        "Snore",
+        "Superpower",
+        "Tailwind",
+        "Throat Chop",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Body Slam",
+        "Captivate",
+        "Double-Edge",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Rock Smash",
+        "Secret Power",
+        "Silver Wind",
+        "Strength",
+        "Struggle Bug",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

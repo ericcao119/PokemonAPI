@@ -1,0 +1,274 @@
+[
+  {
+    "species_name": "Dedenne",
+    "variant_name": "Dedenne",
+    "base_stats": {
+      "hp": 67,
+      "attack": 58,
+      "defense": 57,
+      "speed": 101,
+      "special_attack": 81,
+      "special_defense": 67
+    },
+    "dex_entry": {
+      "national_dex_num": 702,
+      "types": [
+        "Electric",
+        "Fairy"
+      ],
+      "height": 0.2,
+      "weight": 2.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Antenna Pok\u00e9mon",
+      "flavor_text": "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
+      "abilities": [
+        "Cheek Pouch",
+        "Pickup"
+      ],
+      "hidden_abilities": [
+        "Plus"
+      ],
+      "regional_dex_nums": [
+        110,
+        291
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 151,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 180,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          7,
+          "Thunder Shock"
+        ],
+        [
+          11,
+          "Charge"
+        ],
+        [
+          14,
+          "Charm"
+        ],
+        [
+          17,
+          "Parabolic Charge"
+        ],
+        [
+          20,
+          "Nuzzle"
+        ],
+        [
+          23,
+          "Thunder Wave"
+        ],
+        [
+          26,
+          "Volt Switch"
+        ],
+        [
+          30,
+          "Rest"
+        ],
+        [
+          31,
+          "Snore"
+        ],
+        [
+          34,
+          "Charge Beam"
+        ],
+        [
+          39,
+          "Entrainment"
+        ],
+        [
+          42,
+          "Play Rough"
+        ],
+        [
+          45,
+          "Thunder"
+        ],
+        [
+          50,
+          "Discharge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Covet",
+        "Eerie Impulse",
+        "Helping Hand",
+        "Natural Gift",
+        "Tearful Look"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Covet",
+        "Electroweb",
+        "Helping Hand",
+        "Iron Tail",
+        "Last Resort",
+        "Magnet Rise",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Super Fang",
+        "Thunder Punch"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Flash",
+        "Retaliate",
+        "Secret Power"
+      ]
+    }
+  }
+]

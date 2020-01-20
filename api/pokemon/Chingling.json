@@ -1,0 +1,272 @@
+[
+  {
+    "species_name": "Chingling",
+    "variant_name": "Chingling",
+    "base_stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 50,
+      "speed": 45,
+      "special_attack": 65,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 433,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.2,
+      "weight": 0.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bell Pok\u00e9mon",
+      "flavor_text": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        82,
+        82,
+        111,
+        157
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 57,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Wrap"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          7,
+          "Astonish"
+        ],
+        [
+          10,
+          "Confusion"
+        ],
+        [
+          13,
+          "Yawn"
+        ],
+        [
+          16,
+          "Last Resort"
+        ],
+        [
+          19,
+          "Entrainment"
+        ],
+        [
+          32,
+          "Uproar"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Cosmic Power",
+        "Curse",
+        "Disable",
+        "Future Sight",
+        "Hypnosis",
+        "Recover",
+        "Skill Swap",
+        "Stored Power",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Bind",
+        "Gravity",
+        "Heal Bell",
+        "Helping Hand",
+        "Hyper Voice",
+        "Icy Wind",
+        "Knock Off",
+        "Last Resort",
+        "Magic Coat",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Endure",
+        "Flash",
+        "Natural Gift",
+        "Rollout",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

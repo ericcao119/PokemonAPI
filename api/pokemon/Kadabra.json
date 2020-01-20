@@ -1,0 +1,353 @@
+[
+  {
+    "species_name": "Kadabra",
+    "variant_name": "Kadabra",
+    "base_stats": {
+      "hp": 40,
+      "attack": 35,
+      "defense": 30,
+      "speed": 105,
+      "special_attack": 120,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 64,
+      "types": [
+        "Psychic"
+      ],
+      "height": 1.3,
+      "weight": 56.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Psi Pok\u00e9mon",
+      "flavor_text": "Many odd things happen if this Pok\u00e9mon is close by. For example, it makes clocks run backward.",
+      "abilities": [
+        "Synchronize",
+        "Inner Focus"
+      ],
+      "hidden_abilities": [
+        "Magic Guard"
+      ],
+      "regional_dex_nums": [
+        64,
+        90,
+        40,
+        64,
+        21,
+        21,
+        90,
+        103,
+        41,
+        43,
+        50,
+        64
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 140,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 100,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Humanlike"
+      ],
+      "male_rate": 75.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Confusion"
+        ],
+        [
+          1,
+          "Kinesis"
+        ],
+        [
+          1,
+          "Teleport"
+        ],
+        [
+          16,
+          "Confusion"
+        ],
+        [
+          18,
+          "Disable"
+        ],
+        [
+          21,
+          "Psybeam"
+        ],
+        [
+          23,
+          "Miracle Eye"
+        ],
+        [
+          26,
+          "Reflect"
+        ],
+        [
+          28,
+          "Psycho Cut"
+        ],
+        [
+          31,
+          "Recover"
+        ],
+        [
+          33,
+          "Telekinesis"
+        ],
+        [
+          36,
+          "Ally Switch"
+        ],
+        [
+          38,
+          "Psychic"
+        ],
+        [
+          41,
+          "Role Play"
+        ],
+        [
+          43,
+          "Future Sight"
+        ],
+        [
+          46,
+          "Trick"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ally Switch",
+        "Barrier",
+        "Encore",
+        "Fire Punch",
+        "Guard Split",
+        "Guard Swap",
+        "Ice Punch",
+        "Knock Off",
+        "Power Trick",
+        "Psychic Terrain",
+        "Psycho Shift",
+        "Skill Swap",
+        "Thunder Punch"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Drain Punch",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Gravity",
+        "Ice Punch",
+        "Iron Tail",
+        "Knock Off",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Thunder Punch",
+        "Trick",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Dig",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Natural Gift",
+        "Nightmare",
+        "Psywave",
+        "Rage",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Submission",
+        "Take Down",
+        "Tri Attack",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

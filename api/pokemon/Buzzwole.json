@@ -1,0 +1,290 @@
+[
+  {
+    "species_name": "Buzzwole",
+    "variant_name": "Buzzwole",
+    "base_stats": {
+      "hp": 107,
+      "attack": 139,
+      "defense": 139,
+      "speed": 79,
+      "special_attack": 53,
+      "special_defense": 53
+    },
+    "dex_entry": {
+      "national_dex_num": 794,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "height": 2.4,
+      "weight": 333.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Swollen Pok\u00e9mon",
+      "flavor_text": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
+      "abilities": [
+        "Beast Boost"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        294,
+        394
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fell Stinger"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Ice Punch"
+        ],
+        [
+          1,
+          "Power-Up Punch"
+        ],
+        [
+          1,
+          "Reversal"
+        ],
+        [
+          1,
+          "Thunder Punch"
+        ],
+        [
+          7,
+          "Comet Punch"
+        ],
+        [
+          13,
+          "Bulk Up"
+        ],
+        [
+          19,
+          "Vital Throw"
+        ],
+        [
+          23,
+          "Endure"
+        ],
+        [
+          29,
+          "Leech Life"
+        ],
+        [
+          31,
+          "Taunt"
+        ],
+        [
+          37,
+          "Mega Punch"
+        ],
+        [
+          43,
+          "Counter"
+        ],
+        [
+          47,
+          "Hammer Arm"
+        ],
+        [
+          53,
+          "Lunge"
+        ],
+        [
+          59,
+          "Dynamic Punch"
+        ],
+        [
+          67,
+          "Superpower"
+        ],
+        [
+          73,
+          "Focus Punch"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bounce",
+        "Bug Bite",
+        "Drain Punch",
+        "Dual Chop",
+        "Endeavor",
+        "Focus Punch",
+        "Ice Punch",
+        "Iron Head",
+        "Outrage",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Thunder Punch"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

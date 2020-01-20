@@ -1,0 +1,781 @@
+[
+  {
+    "species_name": "Zygarde",
+    "variant_name": "50% Forme",
+    "base_stats": {
+      "hp": 108,
+      "attack": 100,
+      "defense": 121,
+      "speed": 95,
+      "special_attack": 81,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 718,
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "height": 5.0,
+      "weight": 305.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Order Pok\u00e9mon",
+      "flavor_text": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
+      "abilities": [
+        "Aura Break",
+        "Power Construct"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        150,
+        205,
+        263
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 270,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Bulldoze"
+        ],
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Glare"
+        ],
+        [
+          5,
+          "Safeguard"
+        ],
+        [
+          10,
+          "Dig"
+        ],
+        [
+          18,
+          "Bind"
+        ],
+        [
+          26,
+          "Land's Wrath"
+        ],
+        [
+          35,
+          "Sandstorm"
+        ],
+        [
+          44,
+          "Haze"
+        ],
+        [
+          51,
+          "Crunch"
+        ],
+        [
+          55,
+          "Earthquake"
+        ],
+        [
+          59,
+          "Camouflage"
+        ],
+        [
+          63,
+          "Dragon Pulse"
+        ],
+        [
+          72,
+          "Coil"
+        ],
+        [
+          80,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bind",
+        "Block",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Hyper Voice",
+        "Iron Tail",
+        "Outrage",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stomping Tantrum",
+        "Superpower",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  },
+  {
+    "species_name": "Zygarde",
+    "variant_name": "10% Forme",
+    "base_stats": {
+      "hp": 54,
+      "attack": 100,
+      "defense": 71,
+      "speed": 115,
+      "special_attack": 61,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 718,
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "height": 1.2,
+      "weight": 33.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Order Pok\u00e9mon",
+      "flavor_text": "Born when around 10% of Zygarde\u2019s cells have been gathered from all over, this form is skilled in close-range combat.",
+      "abilities": [
+        "Aura Break",
+        "Power Construct"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        150,
+        205,
+        263
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 219,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Bulldoze"
+        ],
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Glare"
+        ],
+        [
+          5,
+          "Safeguard"
+        ],
+        [
+          10,
+          "Dig"
+        ],
+        [
+          18,
+          "Bind"
+        ],
+        [
+          26,
+          "Land's Wrath"
+        ],
+        [
+          35,
+          "Sandstorm"
+        ],
+        [
+          44,
+          "Haze"
+        ],
+        [
+          51,
+          "Crunch"
+        ],
+        [
+          55,
+          "Earthquake"
+        ],
+        [
+          59,
+          "Camouflage"
+        ],
+        [
+          63,
+          "Dragon Pulse"
+        ],
+        [
+          72,
+          "Coil"
+        ],
+        [
+          80,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bind",
+        "Block",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Hyper Voice",
+        "Iron Tail",
+        "Outrage",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stomping Tantrum",
+        "Superpower",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  },
+  {
+    "species_name": "Zygarde",
+    "variant_name": "Complete Forme",
+    "base_stats": {
+      "hp": 216,
+      "attack": 100,
+      "defense": 121,
+      "speed": 85,
+      "special_attack": 91,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 718,
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "height": 4.5,
+      "weight": 610.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Order Pok\u00e9mon",
+      "flavor_text": "Born when all of Zygarde\u2019s cells have been gathered together, it uses force to neutralize those who harm the ecosystem.",
+      "abilities": [
+        "Power Construct"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        150,
+        205,
+        263
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 319,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Bulldoze"
+        ],
+        [
+          1,
+          "Dragon Breath"
+        ],
+        [
+          1,
+          "Glare"
+        ],
+        [
+          5,
+          "Safeguard"
+        ],
+        [
+          10,
+          "Dig"
+        ],
+        [
+          18,
+          "Bind"
+        ],
+        [
+          26,
+          "Land's Wrath"
+        ],
+        [
+          35,
+          "Sandstorm"
+        ],
+        [
+          44,
+          "Haze"
+        ],
+        [
+          51,
+          "Crunch"
+        ],
+        [
+          55,
+          "Earthquake"
+        ],
+        [
+          59,
+          "Camouflage"
+        ],
+        [
+          63,
+          "Dragon Pulse"
+        ],
+        [
+          72,
+          "Coil"
+        ],
+        [
+          80,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bind",
+        "Block",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Hyper Voice",
+        "Iron Tail",
+        "Outrage",
+        "Pain Split",
+        "Shock Wave",
+        "Snore",
+        "Spite",
+        "Stomping Tantrum",
+        "Superpower",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

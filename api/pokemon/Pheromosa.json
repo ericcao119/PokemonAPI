@@ -1,0 +1,272 @@
+[
+  {
+    "species_name": "Pheromosa",
+    "variant_name": "Pheromosa",
+    "base_stats": {
+      "hp": 71,
+      "attack": 137,
+      "defense": 37,
+      "speed": 151,
+      "special_attack": 137,
+      "special_defense": 37
+    },
+    "dex_entry": {
+      "national_dex_num": 795,
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "height": 1.8,
+      "weight": 25.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Lissome Pok\u00e9mon",
+      "flavor_text": "Although it\u2019s alien to this world and a danger here, it\u2019s apparently a common organism in the world where it normally lives.",
+      "abilities": [
+        "Beast Boost"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        295,
+        395
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 257,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Double Kick"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Low Kick"
+        ],
+        [
+          1,
+          "Quick Guard"
+        ],
+        [
+          1,
+          "Quiver Dance"
+        ],
+        [
+          1,
+          "Rapid Spin"
+        ],
+        [
+          7,
+          "Swift"
+        ],
+        [
+          13,
+          "Stomp"
+        ],
+        [
+          19,
+          "Feint"
+        ],
+        [
+          23,
+          "Silver Wind"
+        ],
+        [
+          29,
+          "Bounce"
+        ],
+        [
+          31,
+          "Jump Kick"
+        ],
+        [
+          37,
+          "Agility"
+        ],
+        [
+          43,
+          "Triple Kick"
+        ],
+        [
+          47,
+          "Lunge"
+        ],
+        [
+          53,
+          "Bug Buzz"
+        ],
+        [
+          59,
+          "Me First"
+        ],
+        [
+          67,
+          "High Jump Kick"
+        ],
+        [
+          73,
+          "Speed Swap"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Block",
+        "Bounce",
+        "Bug Bite",
+        "Drill Run",
+        "Electroweb",
+        "Foul Play",
+        "Icy Wind",
+        "Laser Focus",
+        "Low Kick",
+        "Outrage",
+        "Shock Wave",
+        "Signal Beam",
+        "Snatch",
+        "Snore",
+        "Throat Chop"
+      ],
+      "transfer_moves": []
+    }
+  }
+]

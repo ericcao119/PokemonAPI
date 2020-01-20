@@ -1,0 +1,290 @@
+[
+  {
+    "species_name": "Donphan",
+    "variant_name": "Donphan",
+    "base_stats": {
+      "hp": 90,
+      "attack": 120,
+      "defense": 120,
+      "speed": 50,
+      "special_attack": 60,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 232,
+      "types": [
+        "Ground"
+      ],
+      "height": 1.1,
+      "weight": 120.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Armor Pok\u00e9mon",
+      "flavor_text": "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pok\u00e9mon helps clear rock and mud slides that block mountain trails.",
+      "abilities": [
+        "Sturdy"
+      ],
+      "hidden_abilities": [
+        "Sand Veil"
+      ],
+      "regional_dex_nums": [
+        196,
+        166,
+        201,
+        173
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bulldoze"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Fury Attack"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Horn Attack"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          6,
+          "Rapid Spin"
+        ],
+        [
+          10,
+          "Rollout"
+        ],
+        [
+          15,
+          "Assurance"
+        ],
+        [
+          19,
+          "Knock Off"
+        ],
+        [
+          24,
+          "Slam"
+        ],
+        [
+          30,
+          "Magnitude"
+        ],
+        [
+          37,
+          "Scary Face"
+        ],
+        [
+          43,
+          "Earthquake"
+        ],
+        [
+          50,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Counter",
+        "Endeavor",
+        "Fissure",
+        "Focus Energy",
+        "Head Smash",
+        "Heavy Slam",
+        "High Horsepower",
+        "Ice Shard",
+        "Mud-Slap",
+        "Play Rough",
+        "Snore"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Bounce",
+        "Earth Power",
+        "Endeavor",
+        "Gunk Shot",
+        "Hyper Voice",
+        "Iron Defense",
+        "Iron Tail",
+        "Knock Off",
+        "Last Resort",
+        "Seed Bomb",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Curse",
+        "Headbutt",
+        "Mimic",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Water Gun"
+      ]
+    }
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "species_name": "Phanpy",
+    "variant_name": "Phanpy",
+    "base_stats": {
+      "hp": 90,
+      "attack": 60,
+      "defense": 60,
+      "speed": 40,
+      "special_attack": 40,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 231,
+      "types": [
+        "Ground"
+      ],
+      "height": 0.5,
+      "weight": 33.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Long Nose Pok\u00e9mon",
+      "flavor_text": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pok\u00e9mon can be seen drying their soaking-wet bodies at the edge of water.",
+      "abilities": [
+        "Pickup"
+      ],
+      "hidden_abilities": [
+        "Sand Veil"
+      ],
+      "regional_dex_nums": [
+        195,
+        165,
+        200,
+        172
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Odor Sleuth"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Flail"
+        ],
+        [
+          10,
+          "Rollout"
+        ],
+        [
+          15,
+          "Natural Gift"
+        ],
+        [
+          19,
+          "Endure"
+        ],
+        [
+          24,
+          "Slam"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          33,
+          "Charm"
+        ],
+        [
+          37,
+          "Last Resort"
+        ],
+        [
+          42,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Counter",
+        "Endeavor",
+        "Fissure",
+        "Focus Energy",
+        "Head Smash",
+        "Heavy Slam",
+        "High Horsepower",
+        "Ice Shard",
+        "Mud-Slap",
+        "Play Rough",
+        "Snore"
+      ],
+      "tutor_moves": [
+        "Earth Power",
+        "Endeavor",
+        "Gunk Shot",
+        "Hyper Voice",
+        "Iron Tail",
+        "Knock Off",
+        "Last Resort",
+        "Seed Bomb",
+        "Snore",
+        "Stealth Rock",
+        "Superpower"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Curse",
+        "Headbutt",
+        "Mimic",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Water Gun"
+      ]
+    }
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "species_name": "Tyrantrum",
+    "variant_name": "Tyrantrum",
+    "base_stats": {
+      "hp": 82,
+      "attack": 121,
+      "defense": 119,
+      "speed": 71,
+      "special_attack": 69,
+      "special_defense": 59
+    },
+    "dex_entry": {
+      "national_dex_num": 697,
+      "types": [
+        "Rock",
+        "Dragon"
+      ],
+      "height": 2.5,
+      "weight": 270.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Despot Pok\u00e9mon",
+      "flavor_text": "The king of the ancient world, it can easily crunch a car with the devastating strength of its enormous jaws.",
+      "abilities": [
+        "Strong Jaw"
+      ],
+      "hidden_abilities": [
+        "Rock Head"
+      ],
+      "regional_dex_nums": [
+        65,
+        244
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 182,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Head Smash"
+        ],
+        [
+          1,
+          "Roar"
+        ],
+        [
+          1,
+          "Rock Slide"
+        ],
+        [
+          1,
+          "Stomp"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          6,
+          "Roar"
+        ],
+        [
+          10,
+          "Stomp"
+        ],
+        [
+          12,
+          "Bide"
+        ],
+        [
+          15,
+          "Stealth Rock"
+        ],
+        [
+          17,
+          "Bite"
+        ],
+        [
+          20,
+          "Charm"
+        ],
+        [
+          26,
+          "Ancient Power"
+        ],
+        [
+          30,
+          "Dragon Tail"
+        ],
+        [
+          34,
+          "Crunch"
+        ],
+        [
+          37,
+          "Dragon Claw"
+        ],
+        [
+          42,
+          "Thrash"
+        ],
+        [
+          47,
+          "Earthquake"
+        ],
+        [
+          53,
+          "Horn Drill"
+        ],
+        [
+          58,
+          "Head Smash"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Curse",
+        "Dragon Dance",
+        "Fire Fang",
+        "Ice Fang",
+        "Poison Fang",
+        "Rock Polish",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Hyper Voice",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Hone Claws",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

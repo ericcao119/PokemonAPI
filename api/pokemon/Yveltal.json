@@ -1,0 +1,303 @@
+[
+  {
+    "species_name": "Yveltal",
+    "variant_name": "Yveltal",
+    "base_stats": {
+      "hp": 126,
+      "attack": 131,
+      "defense": 95,
+      "speed": 99,
+      "special_attack": 131,
+      "special_defense": 98
+    },
+    "dex_entry": {
+      "national_dex_num": 717,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "height": 5.8,
+      "weight": 203.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Destruction Pok\u00e9mon",
+      "flavor_text": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+      "abilities": [
+        "Dark Aura"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        149
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Hurricane"
+        ],
+        [
+          1,
+          "Razor Wind"
+        ],
+        [
+          1,
+          "Roost"
+        ],
+        [
+          1,
+          "Taunt"
+        ],
+        [
+          5,
+          "Double Team"
+        ],
+        [
+          10,
+          "Air Slash"
+        ],
+        [
+          18,
+          "Snarl"
+        ],
+        [
+          26,
+          "Oblivion Wing"
+        ],
+        [
+          35,
+          "Disable"
+        ],
+        [
+          44,
+          "Dark Pulse"
+        ],
+        [
+          51,
+          "Foul Play"
+        ],
+        [
+          55,
+          "Phantom Force"
+        ],
+        [
+          59,
+          "Psychic"
+        ],
+        [
+          63,
+          "Dragon Rush"
+        ],
+        [
+          72,
+          "Focus Blast"
+        ],
+        [
+          80,
+          "Sucker Punch"
+        ],
+        [
+          88,
+          "Hyper Beam"
+        ],
+        [
+          93,
+          "Sky Attack"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          58,
+          "Sky Drop"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Block",
+        "Defog",
+        "Foul Play",
+        "Heat Wave",
+        "Hyper Voice",
+        "Knock Off",
+        "Laser Focus",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Hone Claws",
+        "Secret Power"
+      ]
+    }
+  }
+]

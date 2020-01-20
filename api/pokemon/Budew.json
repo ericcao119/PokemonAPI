@@ -1,0 +1,234 @@
+[
+  {
+    "species_name": "Budew",
+    "variant_name": "Budew",
+    "base_stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 35,
+      "speed": 55,
+      "special_attack": 50,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 406,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "height": 0.2,
+      "weight": 1.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bud Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
+      "abilities": [
+        "Natural Cure",
+        "Poison Point"
+      ],
+      "hidden_abilities": [
+        "Leaf Guard"
+      ],
+      "regional_dex_nums": [
+        25,
+        25,
+        133,
+        71,
+        97,
+        59
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 56,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          4,
+          "Growth"
+        ],
+        [
+          7,
+          "Water Sport"
+        ],
+        [
+          10,
+          "Stun Spore"
+        ],
+        [
+          13,
+          "Mega Drain"
+        ],
+        [
+          16,
+          "Worry Seed"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Cotton Spore",
+        "Extrasensory",
+        "Giga Drain",
+        "Grass Whistle",
+        "Leaf Storm",
+        "Mind Reader",
+        "Natural Gift",
+        "Pin Missile",
+        "Razor Leaf",
+        "Seed Bomb",
+        "Sleep Powder",
+        "Spikes",
+        "Synthesis"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Giga Drain",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Bullet Seed",
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Flash",
+        "Mud-Slap",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

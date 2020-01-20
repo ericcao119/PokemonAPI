@@ -1,0 +1,444 @@
+[
+  {
+    "species_name": "Clefable",
+    "variant_name": "Clefable",
+    "base_stats": {
+      "hp": 95,
+      "attack": 70,
+      "defense": 73,
+      "speed": 60,
+      "special_attack": 95,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 36,
+      "types": [
+        "Fairy"
+      ],
+      "height": 1.3,
+      "weight": 40.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fairy Pok\u00e9mon",
+      "flavor_text": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they\u2019re usually found in quiet places.",
+      "abilities": [
+        "Cute Charm",
+        "Magic Guard"
+      ],
+      "hidden_abilities": [
+        "Unaware"
+      ],
+      "regional_dex_nums": [
+        36,
+        42,
+        36,
+        101,
+        101,
+        42,
+        90,
+        212,
+        274,
+        36,
+        256
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 217,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 25,
+      "base_friendship": 140
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "After You"
+        ],
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Copycat"
+        ],
+        [
+          1,
+          "Cosmic Power"
+        ],
+        [
+          1,
+          "Defense Curl"
+        ],
+        [
+          1,
+          "Disarming Voice"
+        ],
+        [
+          1,
+          "Encore"
+        ],
+        [
+          1,
+          "Follow Me"
+        ],
+        [
+          1,
+          "Gravity"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Healing Wish"
+        ],
+        [
+          1,
+          "Life Dew"
+        ],
+        [
+          1,
+          "Meteor Mash"
+        ],
+        [
+          1,
+          "Metronome"
+        ],
+        [
+          1,
+          "Minimize"
+        ],
+        [
+          1,
+          "Moonblast"
+        ],
+        [
+          1,
+          "Moonlight"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Sing"
+        ],
+        [
+          1,
+          "Splash"
+        ],
+        [
+          1,
+          "Stored Power"
+        ],
+        [
+          1,
+          "Sweet Kiss"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          71,
+          "Wonder Room"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          87,
+          "Draining Kiss"
+        ],
+        [
+          89,
+          "Misty Terrain"
+        ],
+        [
+          92,
+          "Mystical Fire"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          11,
+          "Psychic"
+        ],
+        [
+          14,
+          "Metronome"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          19,
+          "Tri Attack"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          25,
+          "Psyshock"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          30,
+          "Encore"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          44,
+          "Cosmic Power"
+        ],
+        [
+          49,
+          "Calm Mind"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          69,
+          "Zen Headbutt"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          82,
+          "Stored Power"
+        ],
+        [
+          83,
+          "Ally Switch"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

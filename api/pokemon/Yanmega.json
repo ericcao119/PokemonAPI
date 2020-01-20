@@ -1,0 +1,305 @@
+[
+  {
+    "species_name": "Yanmega",
+    "variant_name": "Yanmega",
+    "base_stats": {
+      "hp": 86,
+      "attack": 76,
+      "defense": 86,
+      "speed": 95,
+      "special_attack": 116,
+      "special_defense": 56
+    },
+    "dex_entry": {
+      "national_dex_num": 469,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 1.9,
+      "weight": 51.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Ogre Darner Pok\u00e9mon",
+      "flavor_text": "This six-legged Pok\u00e9mon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+      "abilities": [
+        "Speed Boost",
+        "Tinted Lens"
+      ],
+      "hidden_abilities": [
+        "Frisk"
+      ],
+      "regional_dex_nums": [
+        184,
+        102,
+        287,
+        88
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 180,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Air Slash"
+        ],
+        [
+          1,
+          "Bug Bite"
+        ],
+        [
+          1,
+          "Bug Buzz"
+        ],
+        [
+          1,
+          "Double Team"
+        ],
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          11,
+          "Double Team"
+        ],
+        [
+          14,
+          "Sonic Boom"
+        ],
+        [
+          17,
+          "Detect"
+        ],
+        [
+          22,
+          "Supersonic"
+        ],
+        [
+          27,
+          "Uproar"
+        ],
+        [
+          30,
+          "Pursuit"
+        ],
+        [
+          33,
+          "Ancient Power"
+        ],
+        [
+          38,
+          "Feint"
+        ],
+        [
+          43,
+          "Slash"
+        ],
+        [
+          46,
+          "Screech"
+        ],
+        [
+          49,
+          "U-turn"
+        ],
+        [
+          54,
+          "Air Slash"
+        ],
+        [
+          57,
+          "Bug Buzz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Double-Edge",
+        "Feint",
+        "Feint Attack",
+        "Leech Life",
+        "Pursuit",
+        "Reversal",
+        "Secret Power",
+        "Signal Beam",
+        "Silver Wind",
+        "Whirlwind"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Giga Drain",
+        "Laser Focus",
+        "Signal Beam",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "String Shot",
+        "Struggle Bug",
+        "Swift"
+      ]
+    }
+  }
+]

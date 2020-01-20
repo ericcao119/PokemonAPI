@@ -1,0 +1,319 @@
+[
+  {
+    "species_name": "Seismitoad",
+    "variant_name": "Seismitoad",
+    "base_stats": {
+      "hp": 105,
+      "attack": 95,
+      "defense": 75,
+      "speed": 74,
+      "special_attack": 85,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 537,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "height": 1.5,
+      "weight": 62.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Vibration Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is popular among the elderly, who say the vibrations of its lumps are great for massages.",
+      "abilities": [
+        "Swift Swim",
+        "Poison Touch"
+      ],
+      "hidden_abilities": [
+        "Water Absorb"
+      ],
+      "regional_dex_nums": [
+        43,
+        230,
+        134
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 229,
+      "effort_points": {
+        "hp": 3,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Acid"
+        ],
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Round"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          9,
+          "Round"
+        ],
+        [
+          12,
+          "Bubble Beam"
+        ],
+        [
+          16,
+          "Mud Shot"
+        ],
+        [
+          20,
+          "Aqua Ring"
+        ],
+        [
+          23,
+          "Uproar"
+        ],
+        [
+          28,
+          "Muddy Water"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          39,
+          "Flail"
+        ],
+        [
+          44,
+          "Drain Punch"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Hydro Pump"
+        ],
+        [
+          59,
+          "Hyper Voice"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "After You",
+        "Earth Power",
+        "Mist",
+        "Mud Bomb",
+        "Mud Sport",
+        "Refresh",
+        "Sleep Talk",
+        "Snore",
+        "Venom Drench",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Bounce",
+        "Drain Punch",
+        "Earth Power",
+        "Endeavor",
+        "Focus Punch",
+        "Gastro Acid",
+        "Hyper Voice",
+        "Ice Punch",
+        "Icy Wind",
+        "Knock Off",
+        "Low Kick",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

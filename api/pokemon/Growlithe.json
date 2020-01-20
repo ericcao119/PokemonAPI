@@ -1,0 +1,288 @@
+[
+  {
+    "species_name": "Growlithe",
+    "variant_name": "Growlithe",
+    "base_stats": {
+      "hp": 55,
+      "attack": 70,
+      "defense": 45,
+      "speed": 60,
+      "special_attack": 70,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 58,
+      "types": [
+        "Fire"
+      ],
+      "height": 0.7,
+      "weight": 19.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Puppy Pok\u00e9mon",
+      "flavor_text": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
+      "abilities": [
+        "Intimidate",
+        "Flash Fire"
+      ],
+      "hidden_abilities": [
+        "Justified"
+      ],
+      "regional_dex_nums": [
+        58,
+        127,
+        58,
+        129,
+        51,
+        52,
+        64,
+        58,
+        70
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 70,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 75.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          4,
+          "Howl"
+        ],
+        [
+          8,
+          "Bite"
+        ],
+        [
+          12,
+          "Flame Wheel"
+        ],
+        [
+          16,
+          "Helping Hand"
+        ],
+        [
+          20,
+          "Agility"
+        ],
+        [
+          24,
+          "Fire Fang"
+        ],
+        [
+          28,
+          "Retaliate"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Take Down"
+        ],
+        [
+          40,
+          "Flamethrower"
+        ],
+        [
+          44,
+          "Roar"
+        ],
+        [
+          48,
+          "Play Rough"
+        ],
+        [
+          52,
+          "Reversal"
+        ],
+        [
+          56,
+          "Flare Blitz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          13,
+          "Fire Spin"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          38,
+          "Will-O-Wisp"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          85,
+          "Snarl"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          36,
+          "Heat Wave"
+        ],
+        [
+          43,
+          "Overheat"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          55,
+          "Flare Blitz"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [
+        "Covet",
+        "Double Kick",
+        "Double-Edge",
+        "Morning Sun",
+        "Thrash"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

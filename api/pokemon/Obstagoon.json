@@ -1,0 +1,411 @@
+[
+  {
+    "species_name": "Obstagoon",
+    "variant_name": "Obstagoon",
+    "base_stats": {
+      "hp": 93,
+      "attack": 90,
+      "defense": 101,
+      "speed": 95,
+      "special_attack": 60,
+      "special_defense": 81
+    },
+    "dex_entry": {
+      "national_dex_num": 862,
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "height": 1.6,
+      "weight": 46.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Blocking Pok\u00e9mon",
+      "flavor_text": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
+      "abilities": [
+        "Reckless",
+        "Guts"
+      ],
+      "hidden_abilities": [
+        "Defiant"
+      ],
+      "regional_dex_nums": [
+        33
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 3,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Baby-Doll Eyes"
+        ],
+        [
+          1,
+          "Cross Chop"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Obstruct"
+        ],
+        [
+          1,
+          "Pin Missile"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          1,
+          "Submission"
+        ],
+        [
+          1,
+          "Switcheroo"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          9,
+          "Snarl"
+        ],
+        [
+          12,
+          "Headbutt"
+        ],
+        [
+          15,
+          "Hone Claws"
+        ],
+        [
+          18,
+          "Fury Swipes"
+        ],
+        [
+          23,
+          "Rest"
+        ],
+        [
+          28,
+          "Take Down"
+        ],
+        [
+          35,
+          "Scary Face"
+        ],
+        [
+          42,
+          "Counter"
+        ],
+        [
+          49,
+          "Taunt"
+        ],
+        [
+          56,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          3,
+          "Fire Punch"
+        ],
+        [
+          4,
+          "Ice Punch"
+        ],
+        [
+          5,
+          "Thunder Punch"
+        ],
+        [
+          7,
+          "Pin Missile"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          47,
+          "Fake Tears"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          73,
+          "Cross Poison"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          7,
+          "Low Kick"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          38,
+          "Trick"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          60,
+          "X-Scissor"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

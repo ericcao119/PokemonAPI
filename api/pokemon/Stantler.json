@@ -1,0 +1,329 @@
+[
+  {
+    "species_name": "Stantler",
+    "variant_name": "Stantler",
+    "base_stats": {
+      "hp": 73,
+      "attack": 95,
+      "defense": 62,
+      "speed": 85,
+      "special_attack": 85,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 234,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.4,
+      "weight": 71.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Big Horn Pok\u00e9mon",
+      "flavor_text": "Stantler\u2019s magnificent antlers were traded at high prices as works of art. As a result, this Pok\u00e9mon was hunted close to extinction by those who were after the priceless antlers.",
+      "abilities": [
+        "Intimidate",
+        "Frisk"
+      ],
+      "hidden_abilities": [
+        "Sap Sipper"
+      ],
+      "regional_dex_nums": [
+        129,
+        131
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 163,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Me First"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Leer"
+        ],
+        [
+          7,
+          "Astonish"
+        ],
+        [
+          10,
+          "Hypnosis"
+        ],
+        [
+          13,
+          "Stomp"
+        ],
+        [
+          16,
+          "Sand Attack"
+        ],
+        [
+          21,
+          "Take Down"
+        ],
+        [
+          23,
+          "Confuse Ray"
+        ],
+        [
+          27,
+          "Calm Mind"
+        ],
+        [
+          33,
+          "Role Play"
+        ],
+        [
+          38,
+          "Zen Headbutt"
+        ],
+        [
+          43,
+          "Jump Kick"
+        ],
+        [
+          49,
+          "Imprison"
+        ],
+        [
+          50,
+          "Captivate"
+        ],
+        [
+          55,
+          "Me First"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bite",
+        "Disable",
+        "Double Kick",
+        "Extrasensory",
+        "Me First",
+        "Megahorn",
+        "Mud Sport",
+        "Rage",
+        "Spite",
+        "Thrash",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Gravity",
+        "Iron Tail",
+        "Last Resort",
+        "Magic Room",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snore",
+        "Spite",
+        "Throat Chop",
+        "Uproar",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Retaliate",
+        "Secret Power",
+        "Sucker Punch",
+        "Swift"
+      ]
+    }
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "species_name": "Pyroar",
+    "variant_name": "Pyroar",
+    "base_stats": {
+      "hp": 86,
+      "attack": 68,
+      "defense": 72,
+      "speed": 106,
+      "special_attack": 109,
+      "special_defense": 66
+    },
+    "dex_entry": {
+      "national_dex_num": 668,
+      "types": [
+        "Fire",
+        "Normal"
+      ],
+      "height": 1.5,
+      "weight": 81.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Royal Pok\u00e9mon",
+      "flavor_text": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn\u2019t use it on its prey. This Pok\u00e9mon prefers to eat raw meat.",
+      "abilities": [
+        "Rivalry",
+        "Unnerve"
+      ],
+      "hidden_abilities": [
+        "Moxie"
+      ],
+      "regional_dex_nums": [
+        58,
+        371
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 177,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 65,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Hyper Beam"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Ember"
+        ],
+        [
+          8,
+          "Work Up"
+        ],
+        [
+          11,
+          "Headbutt"
+        ],
+        [
+          15,
+          "Noble Roar"
+        ],
+        [
+          20,
+          "Take Down"
+        ],
+        [
+          23,
+          "Fire Fang"
+        ],
+        [
+          28,
+          "Endeavor"
+        ],
+        [
+          33,
+          "Echoed Voice"
+        ],
+        [
+          38,
+          "Flamethrower"
+        ],
+        [
+          42,
+          "Crunch"
+        ],
+        [
+          48,
+          "Hyper Voice"
+        ],
+        [
+          51,
+          "Incinerate"
+        ],
+        [
+          57,
+          "Overheat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Entrainment",
+        "Fire Spin",
+        "Flare Blitz",
+        "Snatch",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Bounce",
+        "Endeavor",
+        "Heat Wave",
+        "Helping Hand",
+        "Hyper Voice",
+        "Iron Tail",
+        "Snatch",
+        "Snore"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

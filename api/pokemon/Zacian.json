@@ -1,0 +1,589 @@
+[
+  {
+    "species_name": "Zacian",
+    "variant_name": "Crowned Sword",
+    "base_stats": {
+      "hp": 92,
+      "attack": 170,
+      "defense": 115,
+      "speed": 148,
+      "special_attack": 80,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 888,
+      "types": [
+        "Fairy",
+        "Steel"
+      ],
+      "height": 2.8,
+      "weight": 355.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Warrior Pok\u00e9mon",
+      "flavor_text": "Able to cut down anything with a single strike, it became known as the Fairy King\u2019s Sword, and it inspired awe in friend and foe alike.",
+      "abilities": [
+        "Intrepid Sword"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        398
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Quick Guard"
+        ],
+        [
+          1,
+          "Sacred Sword"
+        ],
+        [
+          11,
+          "Slash"
+        ],
+        [
+          22,
+          "Swords Dance"
+        ],
+        [
+          33,
+          "Iron Head"
+        ],
+        [
+          44,
+          "Laser Focus"
+        ],
+        [
+          55,
+          "Crunch"
+        ],
+        [
+          66,
+          "Moonblast"
+        ],
+        [
+          77,
+          "Close Combat"
+        ],
+        [
+          88,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          12,
+          "Solar Blade"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          84,
+          "Tail Slap"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          95,
+          "Air Slash"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Zacian",
+    "variant_name": "Hero of Many Battles",
+    "base_stats": {
+      "hp": 92,
+      "attack": 130,
+      "defense": 115,
+      "speed": 138,
+      "special_attack": 80,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 888,
+      "types": [
+        "Fairy"
+      ],
+      "height": 2.8,
+      "weight": 110.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Warrior Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon has slumbered for many years. Some say it\u2019s Zamazenta\u2019s elder sister\u2014others say the two Pok\u00e9mon are rivals.",
+      "abilities": [
+        "Intrepid Sword"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        398
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 3,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Quick Guard"
+        ],
+        [
+          1,
+          "Sacred Sword"
+        ],
+        [
+          11,
+          "Slash"
+        ],
+        [
+          22,
+          "Swords Dance"
+        ],
+        [
+          33,
+          "Iron Head"
+        ],
+        [
+          44,
+          "Laser Focus"
+        ],
+        [
+          55,
+          "Crunch"
+        ],
+        [
+          66,
+          "Moonblast"
+        ],
+        [
+          77,
+          "Close Combat"
+        ],
+        [
+          88,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          12,
+          "Solar Blade"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          66,
+          "Thunder Fang"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          68,
+          "Fire Fang"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          84,
+          "Tail Slap"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          95,
+          "Air Slash"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          42,
+          "Hyper Voice"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          86,
+          "Wild Charge"
+        ],
+        [
+          90,
+          "Play Rough"
+        ],
+        [
+          97,
+          "Psychic Fangs"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

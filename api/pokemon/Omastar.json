@@ -1,0 +1,312 @@
+[
+  {
+    "species_name": "Omastar",
+    "variant_name": "Omastar",
+    "base_stats": {
+      "hp": 70,
+      "attack": 60,
+      "defense": 125,
+      "speed": 55,
+      "special_attack": 115,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 139,
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "height": 1.0,
+      "weight": 35.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Spiral Pok\u00e9mon",
+      "flavor_text": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct.",
+      "abilities": [
+        "Swift Swim",
+        "Shell Armor"
+      ],
+      "hidden_abilities": [
+        "Weak Armor"
+      ],
+      "regional_dex_nums": [
+        139,
+        221,
+        139,
+        226,
+        228,
+        139
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water3"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Constrict"
+        ],
+        [
+          1,
+          "Hydro Pump"
+        ],
+        [
+          1,
+          "Spike Cannon"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          10,
+          "Water Gun"
+        ],
+        [
+          16,
+          "Rollout"
+        ],
+        [
+          19,
+          "Leer"
+        ],
+        [
+          25,
+          "Mud Shot"
+        ],
+        [
+          28,
+          "Brine"
+        ],
+        [
+          34,
+          "Protect"
+        ],
+        [
+          37,
+          "Ancient Power"
+        ],
+        [
+          48,
+          "Tickle"
+        ],
+        [
+          56,
+          "Rock Blast"
+        ],
+        [
+          67,
+          "Shell Smash"
+        ],
+        [
+          75,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aurora Beam",
+        "Bide",
+        "Bubble Beam",
+        "Haze",
+        "Knock Off",
+        "Muddy Water",
+        "Reflect Type",
+        "Slam",
+        "Spikes",
+        "Supersonic",
+        "Toxic Spikes",
+        "Water Pulse",
+        "Whirlpool",
+        "Wring Out"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Earth Power",
+        "Icy Wind",
+        "Iron Defense",
+        "Knock Off",
+        "Snore",
+        "Stealth Rock",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Horn Attack",
+        "Horn Drill",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Submission",
+        "Take Down"
+      ]
+    }
+  }
+]

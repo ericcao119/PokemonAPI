@@ -1,0 +1,273 @@
+[
+  {
+    "species_name": "Shelgon",
+    "variant_name": "Shelgon",
+    "base_stats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 100,
+      "speed": 50,
+      "special_attack": 60,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 372,
+      "types": [
+        "Dragon"
+      ],
+      "height": 1.1,
+      "weight": 110.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Endurance Pok\u00e9mon",
+      "flavor_text": "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly.",
+      "abilities": [
+        "Rock Head"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        188,
+        15,
+        197,
+        118,
+        148
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 147,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Rage"
+        ],
+        [
+          4,
+          "Ember"
+        ],
+        [
+          7,
+          "Leer"
+        ],
+        [
+          10,
+          "Bite"
+        ],
+        [
+          13,
+          "Dragon Breath"
+        ],
+        [
+          17,
+          "Headbutt"
+        ],
+        [
+          21,
+          "Focus Energy"
+        ],
+        [
+          25,
+          "Crunch"
+        ],
+        [
+          29,
+          "Dragon Claw"
+        ],
+        [
+          35,
+          "Zen Headbutt"
+        ],
+        [
+          42,
+          "Scary Face"
+        ],
+        [
+          49,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Double-Edge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Defense Curl",
+        "Dragon Dance",
+        "Dragon Pulse",
+        "Dragon Rage",
+        "Dragon Rush",
+        "Endure",
+        "Fire Fang",
+        "Hydro Pump",
+        "Thrash",
+        "Twister"
+      ],
+      "tutor_moves": [
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Hyper Voice",
+        "Iron Defense",
+        "Outrage",
+        "Snore",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Cut",
+        "Fury Cutter",
+        "Hone Claws",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

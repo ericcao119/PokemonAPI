@@ -1,0 +1,307 @@
+[
+  {
+    "species_name": "Staryu",
+    "variant_name": "Staryu",
+    "base_stats": {
+      "hp": 30,
+      "attack": 45,
+      "defense": 55,
+      "speed": 85,
+      "special_attack": 70,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 120,
+      "types": [
+        "Water"
+      ],
+      "height": 0.8,
+      "weight": 34.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Star Shape Pok\u00e9mon",
+      "flavor_text": "As long as the center section is unharmed, this Pok\u00e9mon can grow back fully even if it is chopped to bits.",
+      "abilities": [
+        "Illuminate",
+        "Natural Cure"
+      ],
+      "hidden_abilities": [
+        "Analytic"
+      ],
+      "regional_dex_nums": [
+        120,
+        167,
+        143,
+        120,
+        169,
+        238,
+        34,
+        148,
+        184,
+        223,
+        120
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 68,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 225,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water3"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          4,
+          "Water Gun"
+        ],
+        [
+          7,
+          "Rapid Spin"
+        ],
+        [
+          10,
+          "Recover"
+        ],
+        [
+          13,
+          "Psywave"
+        ],
+        [
+          16,
+          "Swift"
+        ],
+        [
+          18,
+          "Bubble Beam"
+        ],
+        [
+          22,
+          "Camouflage"
+        ],
+        [
+          24,
+          "Gyro Ball"
+        ],
+        [
+          28,
+          "Brine"
+        ],
+        [
+          31,
+          "Minimize"
+        ],
+        [
+          35,
+          "Reflect Type"
+        ],
+        [
+          37,
+          "Power Gem"
+        ],
+        [
+          40,
+          "Confuse Ray"
+        ],
+        [
+          42,
+          "Psychic"
+        ],
+        [
+          46,
+          "Light Screen"
+        ],
+        [
+          49,
+          "Cosmic Power"
+        ],
+        [
+          53,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Gravity",
+        "Icy Wind",
+        "Magic Coat",
+        "Pain Split",
+        "Recycle",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Attract",
+        "Aurora Beam",
+        "Barrier",
+        "Bide",
+        "Curse",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Rollout",
+        "Secret Power",
+        "Skull Bash",
+        "Supersonic",
+        "Take Down",
+        "Teleport",
+        "Tri Attack",
+        "Twister",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

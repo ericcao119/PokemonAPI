@@ -1,0 +1,286 @@
+[
+  {
+    "species_name": "Cobalion",
+    "variant_name": "Cobalion",
+    "base_stats": {
+      "hp": 91,
+      "attack": 90,
+      "defense": 129,
+      "speed": 108,
+      "special_attack": 90,
+      "special_defense": 72
+    },
+    "dex_entry": {
+      "national_dex_num": 638,
+      "types": [
+        "Steel",
+        "Fighting"
+      ],
+      "height": 2.1,
+      "weight": 250.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Iron Will Pok\u00e9mon",
+      "flavor_text": "From the moment it\u2019s born, this Pok\u00e9mon radiates the air of a leader. Its presence will calm even vicious foes.",
+      "abilities": [
+        "Justified"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        144,
+        225
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 261,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 3,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 20304,
+      "steps_to_hatch_upper": 20560,
+      "egg_cycles": 80
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Close Combat"
+        ],
+        [
+          1,
+          "Double Kick"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Metal Burst"
+        ],
+        [
+          1,
+          "Metal Claw"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          7,
+          "Take Down"
+        ],
+        [
+          13,
+          "Helping Hand"
+        ],
+        [
+          19,
+          "Retaliate"
+        ],
+        [
+          25,
+          "Iron Head"
+        ],
+        [
+          31,
+          "Sacred Sword"
+        ],
+        [
+          37,
+          "Swords Dance"
+        ],
+        [
+          42,
+          "Quick Guard"
+        ],
+        [
+          49,
+          "Work Up"
+        ],
+        [
+          55,
+          "Metal Burst"
+        ],
+        [
+          61,
+          "Close Combat"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Block",
+        "Bounce",
+        "Helping Hand",
+        "Iron Defense",
+        "Iron Head",
+        "Laser Focus",
+        "Magnet Rise",
+        "Snore",
+        "Stealth Rock",
+        "Superpower",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Hone Claws",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

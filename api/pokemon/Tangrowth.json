@@ -1,0 +1,341 @@
+[
+  {
+    "species_name": "Tangrowth",
+    "variant_name": "Tangrowth",
+    "base_stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 125,
+      "speed": 50,
+      "special_attack": 110,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 465,
+      "types": [
+        "Grass"
+      ],
+      "height": 2.0,
+      "weight": 128.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Vine Pok\u00e9mon",
+      "flavor_text": "Its vines grow so profusely that, in the warm season, you can\u2019t even see its eyes.",
+      "abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+      ],
+      "hidden_abilities": [
+        "Regenerator"
+      ],
+      "regional_dex_nums": [
+        182,
+        183,
+        218
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 187,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Block"
+        ],
+        [
+          1,
+          "Constrict"
+        ],
+        [
+          1,
+          "Ingrain"
+        ],
+        [
+          4,
+          "Sleep Powder"
+        ],
+        [
+          7,
+          "Vine Whip"
+        ],
+        [
+          10,
+          "Absorb"
+        ],
+        [
+          14,
+          "Poison Powder"
+        ],
+        [
+          17,
+          "Bind"
+        ],
+        [
+          20,
+          "Growth"
+        ],
+        [
+          23,
+          "Mega Drain"
+        ],
+        [
+          27,
+          "Knock Off"
+        ],
+        [
+          30,
+          "Stun Spore"
+        ],
+        [
+          33,
+          "Natural Gift"
+        ],
+        [
+          36,
+          "Giga Drain"
+        ],
+        [
+          40,
+          "Ancient Power"
+        ],
+        [
+          43,
+          "Slam"
+        ],
+        [
+          46,
+          "Tickle"
+        ],
+        [
+          49,
+          "Wring Out"
+        ],
+        [
+          50,
+          "Grassy Terrain"
+        ],
+        [
+          53,
+          "Power Whip"
+        ],
+        [
+          56,
+          "Block"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Confusion",
+        "Endeavor",
+        "Flail",
+        "Giga Drain",
+        "Leaf Storm",
+        "Leech Seed",
+        "Mega Drain",
+        "Natural Gift",
+        "Nature Power",
+        "Power Swap",
+        "Rage Powder",
+        "Wake-Up Slap"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Block",
+        "Endeavor",
+        "Giga Drain",
+        "Knock Off",
+        "Pain Split",
+        "Seed Bomb",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Bullet Seed",
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mud-Slap",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

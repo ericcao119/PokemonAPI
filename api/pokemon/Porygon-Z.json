@@ -1,0 +1,309 @@
+[
+  {
+    "species_name": "Porygon-Z",
+    "variant_name": "Porygon-Z",
+    "base_stats": {
+      "hp": 85,
+      "attack": 80,
+      "defense": 70,
+      "speed": 90,
+      "special_attack": 135,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 474,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.9,
+      "weight": 34.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Virtual Pok\u00e9mon",
+      "flavor_text": "A faulty update was added to its programming. Its behavior is noticeably strange, so the experiment may have been a failure.",
+      "abilities": [
+        "Adaptability",
+        "Download"
+      ],
+      "hidden_abilities": [
+        "Analytic"
+      ],
+      "regional_dex_nums": [
+        194,
+        219,
+        283
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 241,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Conversion"
+        ],
+        [
+          1,
+          "Conversion 2"
+        ],
+        [
+          1,
+          "Magic Coat"
+        ],
+        [
+          1,
+          "Nasty Plot"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Trick Room"
+        ],
+        [
+          1,
+          "Zap Cannon"
+        ],
+        [
+          7,
+          "Psybeam"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          18,
+          "Recover"
+        ],
+        [
+          23,
+          "Magnet Rise"
+        ],
+        [
+          29,
+          "Signal Beam"
+        ],
+        [
+          34,
+          "Embargo"
+        ],
+        [
+          40,
+          "Discharge"
+        ],
+        [
+          45,
+          "Lock-On"
+        ],
+        [
+          50,
+          "Tri Attack"
+        ],
+        [
+          56,
+          "Magic Coat"
+        ],
+        [
+          62,
+          "Zap Cannon"
+        ],
+        [
+          67,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Ally Switch",
+        "Electroweb",
+        "Foul Play",
+        "Gravity",
+        "Icy Wind",
+        "Iron Tail",
+        "Last Resort",
+        "Magic Coat",
+        "Magnet Rise",
+        "Pain Split",
+        "Recycle",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Uproar",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Endure",
+        "Flash",
+        "Natural Gift",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

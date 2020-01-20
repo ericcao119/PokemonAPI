@@ -1,0 +1,250 @@
+[
+  {
+    "species_name": "Floette",
+    "variant_name": "Floette",
+    "base_stats": {
+      "hp": 54,
+      "attack": 45,
+      "defense": 47,
+      "speed": 52,
+      "special_attack": 75,
+      "special_defense": 98
+    },
+    "dex_entry": {
+      "national_dex_num": 670,
+      "types": [
+        "Fairy"
+      ],
+      "height": 0.2,
+      "weight": 0.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Single Bloom Pok\u00e9mon",
+      "flavor_text": "It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.",
+      "abilities": [
+        "Flower Veil"
+      ],
+      "hidden_abilities": [
+        "Symbiosis"
+      ],
+      "regional_dex_nums": [
+        69,
+        101
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 130,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Fairy Wind"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Vine Whip"
+        ],
+        [
+          6,
+          "Fairy Wind"
+        ],
+        [
+          10,
+          "Lucky Chant"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Wish"
+        ],
+        [
+          25,
+          "Magical Leaf"
+        ],
+        [
+          27,
+          "Grassy Terrain"
+        ],
+        [
+          33,
+          "Petal Blizzard"
+        ],
+        [
+          38,
+          "Aromatherapy"
+        ],
+        [
+          43,
+          "Misty Terrain"
+        ],
+        [
+          46,
+          "Moonblast"
+        ],
+        [
+          51,
+          "Petal Dance"
+        ],
+        [
+          58,
+          "Solar Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Camouflage",
+        "Captivate",
+        "Copycat",
+        "Tearful Look"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Covet",
+        "Endeavor",
+        "Giga Drain",
+        "Heal Bell",
+        "Helping Hand",
+        "Magic Coat",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

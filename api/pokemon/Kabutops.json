@@ -1,0 +1,343 @@
+[
+  {
+    "species_name": "Kabutops",
+    "variant_name": "Kabutops",
+    "base_stats": {
+      "hp": 60,
+      "attack": 115,
+      "defense": 105,
+      "speed": 80,
+      "special_attack": 65,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 141,
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "height": 1.3,
+      "weight": 40.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Shellfish Pok\u00e9mon",
+      "flavor_text": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids.",
+      "abilities": [
+        "Swift Swim",
+        "Battle Armor"
+      ],
+      "hidden_abilities": [
+        "Weak Armor"
+      ],
+      "regional_dex_nums": [
+        141,
+        223,
+        141,
+        228,
+        230,
+        141
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 173,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1",
+        "Water3"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Feint"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Slash"
+        ],
+        [
+          6,
+          "Absorb"
+        ],
+        [
+          11,
+          "Leer"
+        ],
+        [
+          16,
+          "Mud Shot"
+        ],
+        [
+          21,
+          "Sand Attack"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          31,
+          "Aqua Jet"
+        ],
+        [
+          36,
+          "Mega Drain"
+        ],
+        [
+          45,
+          "Metal Sound"
+        ],
+        [
+          54,
+          "Ancient Power"
+        ],
+        [
+          63,
+          "Wring Out"
+        ],
+        [
+          72,
+          "Night Slash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aurora Beam",
+        "Bubble Beam",
+        "Confuse Ray",
+        "Flail",
+        "Foresight",
+        "Giga Drain",
+        "Icy Wind",
+        "Knock Off",
+        "Mud Shot",
+        "Rapid Spin",
+        "Screech",
+        "Take Down"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Earth Power",
+        "Giga Drain",
+        "Icy Wind",
+        "Iron Defense",
+        "Knock Off",
+        "Liquidation",
+        "Low Kick",
+        "Snore",
+        "Stealth Rock",
+        "Superpower",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Brine",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Dig",
+        "Dive",
+        "Double-Edge",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Hydro Pump",
+        "Mega Kick",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rage",
+        "Razor Wind",
+        "Reflect",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Submission",
+        "Water Gun",
+        "Whirlpool"
+      ]
+    }
+  }
+]

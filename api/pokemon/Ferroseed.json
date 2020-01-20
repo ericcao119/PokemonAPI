@@ -1,0 +1,260 @@
+[
+  {
+    "species_name": "Ferroseed",
+    "variant_name": "Ferroseed",
+    "base_stats": {
+      "hp": 44,
+      "attack": 50,
+      "defense": 91,
+      "speed": 10,
+      "special_attack": 24,
+      "special_defense": 86
+    },
+    "dex_entry": {
+      "national_dex_num": 597,
+      "types": [
+        "Grass",
+        "Steel"
+      ],
+      "height": 0.6,
+      "weight": 18.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Thorn Seed Pok\u00e9mon",
+      "flavor_text": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed\u2019s spikes grow big and strong.",
+      "abilities": [
+        "Iron Barbs"
+      ],
+      "hidden_abilities": [
+        "Anticipation"
+      ],
+      "regional_dex_nums": [
+        103,
+        175,
+        69,
+        189
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 61,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Rollout"
+        ],
+        [
+          9,
+          "Curse"
+        ],
+        [
+          14,
+          "Metal Claw"
+        ],
+        [
+          18,
+          "Pin Missile"
+        ],
+        [
+          21,
+          "Gyro Ball"
+        ],
+        [
+          26,
+          "Iron Defense"
+        ],
+        [
+          30,
+          "Mirror Shot"
+        ],
+        [
+          35,
+          "Ingrain"
+        ],
+        [
+          38,
+          "Self-Destruct"
+        ],
+        [
+          43,
+          "Iron Head"
+        ],
+        [
+          47,
+          "Payback"
+        ],
+        [
+          52,
+          "Flash Cannon"
+        ],
+        [
+          55,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Spray",
+        "Bullet Seed",
+        "Gravity",
+        "Leech Seed",
+        "Rock Climb",
+        "Seed Bomb",
+        "Spikes",
+        "Stealth Rock",
+        "Worry Seed"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Giga Drain",
+        "Gravity",
+        "Iron Defense",
+        "Iron Head",
+        "Knock Off",
+        "Magnet Rise",
+        "Seed Bomb",
+        "Snore",
+        "Stealth Rock",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Hone Claws",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

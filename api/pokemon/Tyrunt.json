@@ -1,0 +1,272 @@
+[
+  {
+    "species_name": "Tyrunt",
+    "variant_name": "Tyrunt",
+    "base_stats": {
+      "hp": 58,
+      "attack": 89,
+      "defense": 77,
+      "speed": 48,
+      "special_attack": 45,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 696,
+      "types": [
+        "Rock",
+        "Dragon"
+      ],
+      "height": 0.8,
+      "weight": 26.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Royal Heir Pok\u00e9mon",
+      "flavor_text": "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it\u2019s trying to frolic with are gravely injured.",
+      "abilities": [
+        "Strong Jaw"
+      ],
+      "hidden_abilities": [
+        "Sturdy"
+      ],
+      "regional_dex_nums": [
+        64,
+        243
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 72,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 7454,
+      "steps_to_hatch_upper": 7710,
+      "egg_cycles": 30
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          6,
+          "Roar"
+        ],
+        [
+          10,
+          "Stomp"
+        ],
+        [
+          12,
+          "Bide"
+        ],
+        [
+          15,
+          "Stealth Rock"
+        ],
+        [
+          17,
+          "Bite"
+        ],
+        [
+          20,
+          "Charm"
+        ],
+        [
+          26,
+          "Ancient Power"
+        ],
+        [
+          30,
+          "Dragon Tail"
+        ],
+        [
+          34,
+          "Crunch"
+        ],
+        [
+          37,
+          "Dragon Claw"
+        ],
+        [
+          40,
+          "Thrash"
+        ],
+        [
+          44,
+          "Earthquake"
+        ],
+        [
+          49,
+          "Horn Drill"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Curse",
+        "Dragon Dance",
+        "Fire Fang",
+        "Ice Fang",
+        "Poison Fang",
+        "Rock Polish",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Hyper Voice",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Outrage",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Superpower",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Hone Claws",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

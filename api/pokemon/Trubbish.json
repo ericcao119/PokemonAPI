@@ -1,0 +1,259 @@
+[
+  {
+    "species_name": "Trubbish",
+    "variant_name": "Trubbish",
+    "base_stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 62,
+      "speed": 65,
+      "special_attack": 40,
+      "special_defense": 62
+    },
+    "dex_entry": {
+      "national_dex_num": 568,
+      "types": [
+        "Poison"
+      ],
+      "height": 0.6,
+      "weight": 31.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Trash Bag Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.",
+      "abilities": [
+        "Stench",
+        "Sticky Hold"
+      ],
+      "hidden_abilities": [
+        "Aftermath"
+      ],
+      "regional_dex_nums": [
+        74,
+        105,
+        74,
+        206,
+        264,
+        157
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Poison Gas"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          3,
+          "Recycle"
+        ],
+        [
+          7,
+          "Toxic Spikes"
+        ],
+        [
+          12,
+          "Acid Spray"
+        ],
+        [
+          14,
+          "Double Slap"
+        ],
+        [
+          18,
+          "Sludge"
+        ],
+        [
+          23,
+          "Stockpile"
+        ],
+        [
+          23,
+          "Swallow"
+        ],
+        [
+          25,
+          "Take Down"
+        ],
+        [
+          29,
+          "Sludge Bomb"
+        ],
+        [
+          34,
+          "Clear Smog"
+        ],
+        [
+          36,
+          "Toxic"
+        ],
+        [
+          40,
+          "Amnesia"
+        ],
+        [
+          42,
+          "Belch"
+        ],
+        [
+          45,
+          "Gunk Shot"
+        ],
+        [
+          47,
+          "Explosion"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Autotomize",
+        "Curse",
+        "Haze",
+        "Mud Sport",
+        "Rock Blast",
+        "Rollout",
+        "Sand Attack",
+        "Self-Destruct",
+        "Spikes"
+      ],
+      "tutor_moves": [
+        "Drain Punch",
+        "Giga Drain",
+        "Gunk Shot",
+        "Pain Split",
+        "Recycle",
+        "Seed Bomb",
+        "Snore",
+        "Spite"
+      ],
+      "transfer_moves": [
+        "Secret Power"
+      ]
+    }
+  }
+]

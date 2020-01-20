@@ -1,0 +1,309 @@
+[
+  {
+    "species_name": "Houndour",
+    "variant_name": "Houndour",
+    "base_stats": {
+      "hp": 45,
+      "attack": 60,
+      "defense": 30,
+      "speed": 65,
+      "special_attack": 80,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 228,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "height": 0.6,
+      "weight": 10.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Dark Pok\u00e9mon",
+      "flavor_text": "They make repeated eerie howls before dawn to call attention to their pack.",
+      "abilities": [
+        "Early Bird",
+        "Flash Fire"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        209,
+        176,
+        214,
+        75,
+        289
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 66,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          4,
+          "Howl"
+        ],
+        [
+          8,
+          "Smog"
+        ],
+        [
+          13,
+          "Roar"
+        ],
+        [
+          16,
+          "Bite"
+        ],
+        [
+          20,
+          "Odor Sleuth"
+        ],
+        [
+          25,
+          "Beat Up"
+        ],
+        [
+          28,
+          "Fire Fang"
+        ],
+        [
+          32,
+          "Feint Attack"
+        ],
+        [
+          37,
+          "Embargo"
+        ],
+        [
+          40,
+          "Foul Play"
+        ],
+        [
+          44,
+          "Flamethrower"
+        ],
+        [
+          49,
+          "Crunch"
+        ],
+        [
+          52,
+          "Nasty Plot"
+        ],
+        [
+          56,
+          "Inferno"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Beat Up",
+        "Counter",
+        "Destiny Bond",
+        "Feint",
+        "Fire Fang",
+        "Fire Spin",
+        "Nasty Plot",
+        "Punishment",
+        "Pursuit",
+        "Rage",
+        "Reversal",
+        "Spite",
+        "Sucker Punch",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Foul Play",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Tail",
+        "Role Play",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

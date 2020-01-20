@@ -1,0 +1,384 @@
+[
+  {
+    "species_name": "Granbull",
+    "variant_name": "Granbull",
+    "base_stats": {
+      "hp": 90,
+      "attack": 120,
+      "defense": 75,
+      "speed": 45,
+      "special_attack": 60,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 210,
+      "types": [
+        "Fairy"
+      ],
+      "height": 1.4,
+      "weight": 48.7,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fairy Pok\u00e9mon",
+      "flavor_text": "Although it\u2019s popular with young people, Granbull is timid and sensitive, so it\u2019s totally incompetent as a watchdog.",
+      "abilities": [
+        "Intimidate",
+        "Quick Feet"
+      ],
+      "hidden_abilities": [
+        "Rattled"
+      ],
+      "regional_dex_nums": [
+        124,
+        126,
+        72,
+        259,
+        340
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 158,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Field"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Outrage"
+        ],
+        [
+          1,
+          "Scary Face"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          7,
+          "Bite"
+        ],
+        [
+          13,
+          "Lick"
+        ],
+        [
+          19,
+          "Headbutt"
+        ],
+        [
+          27,
+          "Roar"
+        ],
+        [
+          35,
+          "Rage"
+        ],
+        [
+          43,
+          "Play Rough"
+        ],
+        [
+          51,
+          "Payback"
+        ],
+        [
+          59,
+          "Crunch"
+        ],
+        [
+          67,
+          "Outrage"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Close Combat",
+        "Crunch",
+        "Double-Edge",
+        "Fake Tears",
+        "Feint Attack",
+        "Fire Fang",
+        "Focus Punch",
+        "Heal Bell",
+        "Ice Fang",
+        "Metronome",
+        "Mimic",
+        "Present",
+        "Smelling Salts",
+        "Snore",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Heal Bell",
+        "Hyper Voice",
+        "Ice Punch",
+        "Iron Tail",
+        "Last Resort",
+        "Low Kick",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum",
+        "Super Fang",
+        "Superpower",
+        "Thunder Punch",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Defense Curl",
+        "Detect",
+        "Dig",
+        "Dynamic Punch",
+        "Endure",
+        "Incinerate",
+        "Leer",
+        "Mega Kick",
+        "Mega Punch",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Take Down",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

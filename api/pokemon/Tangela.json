@@ -1,0 +1,302 @@
+[
+  {
+    "species_name": "Tangela",
+    "variant_name": "Tangela",
+    "base_stats": {
+      "hp": 65,
+      "attack": 55,
+      "defense": 115,
+      "speed": 60,
+      "special_attack": 100,
+      "special_defense": 40
+    },
+    "dex_entry": {
+      "national_dex_num": 114,
+      "types": [
+        "Grass"
+      ],
+      "height": 1.0,
+      "weight": 35.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Vine Pok\u00e9mon",
+      "flavor_text": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
+      "abilities": [
+        "Chlorophyll",
+        "Leaf Guard"
+      ],
+      "hidden_abilities": [
+        "Regenerator"
+      ],
+      "regional_dex_nums": [
+        114,
+        179,
+        114,
+        181,
+        182,
+        217,
+        114
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 87,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Constrict"
+        ],
+        [
+          1,
+          "Ingrain"
+        ],
+        [
+          4,
+          "Sleep Powder"
+        ],
+        [
+          7,
+          "Vine Whip"
+        ],
+        [
+          10,
+          "Absorb"
+        ],
+        [
+          14,
+          "Poison Powder"
+        ],
+        [
+          17,
+          "Bind"
+        ],
+        [
+          20,
+          "Growth"
+        ],
+        [
+          23,
+          "Mega Drain"
+        ],
+        [
+          27,
+          "Knock Off"
+        ],
+        [
+          30,
+          "Stun Spore"
+        ],
+        [
+          33,
+          "Natural Gift"
+        ],
+        [
+          36,
+          "Giga Drain"
+        ],
+        [
+          38,
+          "Ancient Power"
+        ],
+        [
+          41,
+          "Slam"
+        ],
+        [
+          44,
+          "Tickle"
+        ],
+        [
+          46,
+          "Wring Out"
+        ],
+        [
+          48,
+          "Grassy Terrain"
+        ],
+        [
+          50,
+          "Power Whip"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Confusion",
+        "Endeavor",
+        "Flail",
+        "Giga Drain",
+        "Leaf Storm",
+        "Leech Seed",
+        "Mega Drain",
+        "Natural Gift",
+        "Nature Power",
+        "Power Swap",
+        "Rage Powder",
+        "Wake-Up Slap"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Endeavor",
+        "Giga Drain",
+        "Knock Off",
+        "Pain Split",
+        "Seed Bomb",
+        "Shock Wave",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Bullet Seed",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Rage",
+        "Rock Smash",
+        "Secret Power",
+        "Skull Bash",
+        "Sweet Scent",
+        "Take Down"
+      ]
+    }
+  }
+]

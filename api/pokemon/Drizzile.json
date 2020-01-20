@@ -1,0 +1,218 @@
+[
+  {
+    "species_name": "Drizzile",
+    "variant_name": "Drizzile",
+    "base_stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 55,
+      "speed": 90,
+      "special_attack": 95,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 817,
+      "types": [
+        "Water"
+      ],
+      "height": 0.7,
+      "weight": 11.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Water lizard Pok\u00e9mon",
+      "flavor_text": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
+      "abilities": [
+        "Torrent"
+      ],
+      "hidden_abilities": [
+        "Sniper"
+      ],
+      "regional_dex_nums": [
+        8
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bind"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Pound"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          12,
+          "Water Pulse"
+        ],
+        [
+          19,
+          "Tearful Look"
+        ],
+        [
+          24,
+          "Sucker Punch"
+        ],
+        [
+          30,
+          "U-turn"
+        ],
+        [
+          36,
+          "Liquidation"
+        ],
+        [
+          42,
+          "Soak"
+        ],
+        [
+          48,
+          "Rain Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          76,
+          "Round"
+        ]
+      ],
+      "tr_moves": [
+        [
+          4,
+          "Surf"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          98,
+          "Liquidation"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

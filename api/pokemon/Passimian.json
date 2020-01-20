@@ -1,0 +1,339 @@
+[
+  {
+    "species_name": "Passimian",
+    "variant_name": "Passimian",
+    "base_stats": {
+      "hp": 100,
+      "attack": 120,
+      "defense": 90,
+      "speed": 80,
+      "special_attack": 40,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 766,
+      "types": [
+        "Fighting"
+      ],
+      "height": 2.0,
+      "weight": 82.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Teamwork Pok\u00e9mon",
+      "flavor_text": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
+      "abilities": [
+        "Receiver"
+      ],
+      "hidden_abilities": [
+        "Defiant"
+      ],
+      "regional_dex_nums": [
+        177,
+        216,
+        343
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 172,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          5,
+          "Rock Smash"
+        ],
+        [
+          10,
+          "Focus Energy"
+        ],
+        [
+          15,
+          "Beat Up"
+        ],
+        [
+          20,
+          "Scary Face"
+        ],
+        [
+          25,
+          "Take Down"
+        ],
+        [
+          30,
+          "Fling"
+        ],
+        [
+          35,
+          "Bulk Up"
+        ],
+        [
+          40,
+          "Thrash"
+        ],
+        [
+          45,
+          "Double-Edge"
+        ],
+        [
+          50,
+          "Close Combat"
+        ],
+        [
+          55,
+          "Reversal"
+        ],
+        [
+          60,
+          "Giga Impact"
+        ]
+      ],
+      "tm_moves": [
+        [
+          0,
+          "Mega Punch"
+        ],
+        [
+          1,
+          "Mega Kick"
+        ],
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          23,
+          "Thief"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          37,
+          "Beat Up"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          82,
+          "Electroweb"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          21,
+          "Reversal"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          48,
+          "Bulk Up"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          53,
+          "Close Combat"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          64,
+          "Focus Blast"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          73,
+          "Gunk Shot"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "Counter",
+        "Feint",
+        "Knock Off",
+        "Quick Attack",
+        "Quick Guard",
+        "Seismic Toss",
+        "Vital Throw"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

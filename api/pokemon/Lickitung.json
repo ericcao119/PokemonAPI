@@ -1,0 +1,361 @@
+[
+  {
+    "species_name": "Lickitung",
+    "variant_name": "Lickitung",
+    "base_stats": {
+      "hp": 90,
+      "attack": 55,
+      "defense": 75,
+      "speed": 30,
+      "special_attack": 60,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 108,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.2,
+      "weight": 65.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Licking Pok\u00e9mon",
+      "flavor_text": "Its tongue spans almost seven feet and moves more freely than its forelegs. Its licks can cause paralysis.",
+      "abilities": [
+        "Own Tempo",
+        "Oblivious"
+      ],
+      "hidden_abilities": [
+        "Cloud Nine"
+      ],
+      "regional_dex_nums": [
+        108,
+        178,
+        108,
+        161,
+        180,
+        284,
+        134,
+        375,
+        108
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 77,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Lick"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          9,
+          "Defense Curl"
+        ],
+        [
+          13,
+          "Knock Off"
+        ],
+        [
+          17,
+          "Wrap"
+        ],
+        [
+          21,
+          "Stomp"
+        ],
+        [
+          25,
+          "Disable"
+        ],
+        [
+          29,
+          "Slam"
+        ],
+        [
+          33,
+          "Rollout"
+        ],
+        [
+          37,
+          "Chip Away"
+        ],
+        [
+          41,
+          "Me First"
+        ],
+        [
+          45,
+          "Refresh"
+        ],
+        [
+          49,
+          "Screech"
+        ],
+        [
+          53,
+          "Power Whip"
+        ],
+        [
+          57,
+          "Wring Out"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Belch",
+        "Belly Drum",
+        "Body Slam",
+        "Curse",
+        "Hammer Arm",
+        "Magnitude",
+        "Muddy Water",
+        "Sleep Talk",
+        "Smelling Salts",
+        "Snore",
+        "Thrash",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Fire Punch",
+        "Focus Punch",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Shock Wave",
+        "Snore",
+        "Stomping Tantrum",
+        "Thunder Punch",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Bubble Beam",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Dig",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Fissure",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Power-Up Punch",
+        "Rage",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Strength",
+        "Submission",
+        "Take Down",
+        "Water Gun",
+        "Whirlpool"
+      ]
+    }
+  }
+]

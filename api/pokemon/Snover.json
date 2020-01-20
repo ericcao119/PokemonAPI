@@ -1,0 +1,255 @@
+[
+  {
+    "species_name": "Snover",
+    "variant_name": "Snover",
+    "base_stats": {
+      "hp": 60,
+      "attack": 62,
+      "defense": 50,
+      "speed": 40,
+      "special_attack": 62,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 459,
+      "types": [
+        "Grass",
+        "Ice"
+      ],
+      "height": 1.0,
+      "weight": 50.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Frost Tree Pok\u00e9mon",
+      "flavor_text": "The berries that grow around its belly are like ice pops. Galarian Darumaka absolutely love these berries.",
+      "abilities": [
+        "Snow Warning"
+      ],
+      "hidden_abilities": [
+        "Soundproof"
+      ],
+      "regional_dex_nums": [
+        142,
+        142,
+        88,
+        96
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 67,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Powder Snow"
+        ],
+        [
+          5,
+          "Razor Leaf"
+        ],
+        [
+          9,
+          "Icy Wind"
+        ],
+        [
+          13,
+          "Grass Whistle"
+        ],
+        [
+          17,
+          "Swagger"
+        ],
+        [
+          21,
+          "Mist"
+        ],
+        [
+          26,
+          "Ice Shard"
+        ],
+        [
+          31,
+          "Ingrain"
+        ],
+        [
+          36,
+          "Wood Hammer"
+        ],
+        [
+          41,
+          "Blizzard"
+        ],
+        [
+          46,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Avalanche",
+        "Bullet Seed",
+        "Double-Edge",
+        "Growth",
+        "Leech Seed",
+        "Magical Leaf",
+        "Mist",
+        "Natural Gift",
+        "Seed Bomb",
+        "Skull Bash",
+        "Stomp"
+      ],
+      "tutor_moves": [
+        "Giga Drain",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Role Play",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Water Pulse",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mud-Slap",
+        "Secret Power"
+      ]
+    }
+  }
+]

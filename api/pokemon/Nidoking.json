@@ -1,0 +1,380 @@
+[
+  {
+    "species_name": "Nidoking",
+    "variant_name": "Nidoking",
+    "base_stats": {
+      "hp": 81,
+      "attack": 102,
+      "defense": 77,
+      "speed": 85,
+      "special_attack": 85,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 34,
+      "types": [
+        "Poison",
+        "Ground"
+      ],
+      "height": 1.4,
+      "weight": 62.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Drill Pok\u00e9mon",
+      "flavor_text": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
+      "abilities": [
+        "Poison Point",
+        "Rivalry"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        34,
+        100,
+        34,
+        100,
+        109,
+        34
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 227,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Monster"
+      ],
+      "male_rate": 100.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Double Kick"
+        ],
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Megahorn"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Poison Sting"
+        ],
+        [
+          23,
+          "Chip Away"
+        ],
+        [
+          35,
+          "Thrash"
+        ],
+        [
+          43,
+          "Earth Power"
+        ],
+        [
+          58,
+          "Megahorn"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          34,
+          "Sludge Wave"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Amnesia",
+        "Beat Up",
+        "Chip Away",
+        "Confusion",
+        "Counter",
+        "Disable",
+        "Endure",
+        "Head Smash",
+        "Iron Tail",
+        "Poison Tail",
+        "Sucker Punch",
+        "Supersonic",
+        "Take Down",
+        "Venom Drench"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Dragon Pulse",
+        "Drill Run",
+        "Earth Power",
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Super Fang",
+        "Superpower",
+        "Throat Chop",
+        "Thunder Punch",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Bide",
+        "Body Slam",
+        "Bubble Beam",
+        "Curse",
+        "Cut",
+        "Defense Curl",
+        "Detect",
+        "Dig",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Fissure",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Pay Day",
+        "Power-Up Punch",
+        "Rage",
+        "Reflect",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Strength",
+        "Submission",
+        "Tackle",
+        "Water Gun",
+        "Whirlpool"
+      ]
+    }
+  }
+]

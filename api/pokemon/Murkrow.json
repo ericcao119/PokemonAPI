@@ -1,0 +1,318 @@
+[
+  {
+    "species_name": "Murkrow",
+    "variant_name": "Murkrow",
+    "base_stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 42,
+      "speed": 91,
+      "special_attack": 85,
+      "special_defense": 42
+    },
+    "dex_entry": {
+      "national_dex_num": 198,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "height": 0.5,
+      "weight": 2.1,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Darkness Pok\u00e9mon",
+      "flavor_text": "It searches for shiny things for its boss. Murkrow\u2019s presence is said to be unlucky, so many people detest it.",
+      "abilities": [
+        "Insomnia",
+        "Super Luck"
+      ],
+      "hidden_abilities": [
+        "Prankster"
+      ],
+      "regional_dex_nums": [
+        208,
+        74,
+        74,
+        213,
+        51,
+        277,
+        78
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 81,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 30,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Peck"
+        ],
+        [
+          5,
+          "Pursuit"
+        ],
+        [
+          11,
+          "Haze"
+        ],
+        [
+          15,
+          "Wing Attack"
+        ],
+        [
+          21,
+          "Night Shade"
+        ],
+        [
+          25,
+          "Assurance"
+        ],
+        [
+          31,
+          "Taunt"
+        ],
+        [
+          35,
+          "Feint Attack"
+        ],
+        [
+          41,
+          "Mean Look"
+        ],
+        [
+          45,
+          "Foul Play"
+        ],
+        [
+          50,
+          "Tailwind"
+        ],
+        [
+          55,
+          "Sucker Punch"
+        ],
+        [
+          61,
+          "Torment"
+        ],
+        [
+          65,
+          "Quash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          60,
+          "Quash"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Assurance",
+        "Brave Bird",
+        "Confuse Ray",
+        "Drill Peck",
+        "Feather Dance",
+        "Feint Attack",
+        "Flatter",
+        "Mirror Move",
+        "Perish Song",
+        "Psycho Shift",
+        "Punishment",
+        "Roost",
+        "Screech",
+        "Sky Attack",
+        "Whirlwind",
+        "Wing Attack"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Foul Play",
+        "Heat Wave",
+        "Icy Wind",
+        "Sky Attack",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Ominous Wind",
+        "Pluck",
+        "Quick Attack",
+        "Retaliate",
+        "Secret Power",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "species_name": "Poliwhirl",
+    "variant_name": "Poliwhirl",
+    "base_stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 65,
+      "speed": 90,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 61,
+      "types": [
+        "Water"
+      ],
+      "height": 1.0,
+      "weight": 20.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Tadpole Pok\u00e9mon",
+      "flavor_text": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
+      "abilities": [
+        "Water Absorb",
+        "Damp"
+      ],
+      "hidden_abilities": [
+        "Swift Swim"
+      ],
+      "regional_dex_nums": [
+        61,
+        73,
+        61,
+        73,
+        34,
+        150,
+        183,
+        61
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 135,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 120,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Hypnosis"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Water Sport"
+        ],
+        [
+          5,
+          "Water Gun"
+        ],
+        [
+          8,
+          "Hypnosis"
+        ],
+        [
+          11,
+          "Bubble"
+        ],
+        [
+          15,
+          "Double Slap"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Body Slam"
+        ],
+        [
+          27,
+          "Bubble Beam"
+        ],
+        [
+          32,
+          "Mud Shot"
+        ],
+        [
+          37,
+          "Belly Drum"
+        ],
+        [
+          43,
+          "Wake-Up Slap"
+        ],
+        [
+          48,
+          "Hydro Pump"
+        ],
+        [
+          53,
+          "Mud Bomb"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bubble Beam",
+        "Encore",
+        "Endeavor",
+        "Endure",
+        "Haze",
+        "Ice Ball",
+        "Mind Reader",
+        "Mist",
+        "Mud Shot",
+        "Refresh",
+        "Splash",
+        "Water Pulse",
+        "Water Sport"
+      ],
+      "tutor_moves": [
+        "Endeavor",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Icy Wind",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Amnesia",
+        "Bide",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Defense Curl",
+        "Detect",
+        "Dig",
+        "Dive",
+        "Double-Edge",
+        "Fissure",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Psywave",
+        "Rage",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Skull Bash",
+        "Strength",
+        "Submission",
+        "Take Down",
+        "Whirlpool"
+      ]
+    }
+  }
+]

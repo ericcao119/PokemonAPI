@@ -1,0 +1,301 @@
+[
+  {
+    "species_name": "Dratini",
+    "variant_name": "Dratini",
+    "base_stats": {
+      "hp": 41,
+      "attack": 64,
+      "defense": 45,
+      "speed": 50,
+      "special_attack": 50,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 147,
+      "types": [
+        "Dragon"
+      ],
+      "height": 1.8,
+      "weight": 3.3,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Dragon Pok\u00e9mon",
+      "flavor_text": "Long thought to be a myth, this Pok\u00e9mon\u2019s existence was only recently confirmed by a fisherman who caught one.",
+      "abilities": [
+        "Shed Skin"
+      ],
+      "hidden_abilities": [
+        "Marvel Scale"
+      ],
+      "regional_dex_nums": [
+        147,
+        241,
+        147,
+        246,
+        145,
+        281,
+        379,
+        147
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 60,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Wrap"
+        ],
+        [
+          5,
+          "Thunder Wave"
+        ],
+        [
+          11,
+          "Twister"
+        ],
+        [
+          15,
+          "Dragon Rage"
+        ],
+        [
+          21,
+          "Slam"
+        ],
+        [
+          25,
+          "Agility"
+        ],
+        [
+          31,
+          "Dragon Tail"
+        ],
+        [
+          35,
+          "Aqua Tail"
+        ],
+        [
+          41,
+          "Dragon Rush"
+        ],
+        [
+          45,
+          "Safeguard"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          55,
+          "Outrage"
+        ],
+        [
+          61,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Jet",
+        "Dragon Breath",
+        "Dragon Dance",
+        "Dragon Pulse",
+        "Dragon Rush",
+        "Extreme Speed",
+        "Haze",
+        "Iron Tail",
+        "Mist",
+        "Supersonic",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Icy Wind",
+        "Iron Tail",
+        "Outrage",
+        "Shock Wave",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Bubble Beam",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Reflect",
+        "Secret Power",
+        "Skull Bash",
+        "Swift",
+        "Take Down",
+        "Water Gun",
+        "Whirlpool",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

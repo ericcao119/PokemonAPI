@@ -1,0 +1,102 @@
+[
+  {
+    "species_name": "Magikarp",
+    "variant_name": "Magikarp",
+    "base_stats": {
+      "hp": 20,
+      "attack": 10,
+      "defense": 55,
+      "speed": 80,
+      "special_attack": 15,
+      "special_defense": 20
+    },
+    "dex_entry": {
+      "national_dex_num": 129,
+      "types": [
+        "Water"
+      ],
+      "height": 0.9,
+      "weight": 10.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fish Pok\u00e9mon",
+      "flavor_text": "This weak and pathetic Pok\u00e9mon gets easily pushed along rivers when there are strong currents.",
+      "abilities": [
+        "Swift Swim"
+      ],
+      "hidden_abilities": [
+        "Rattled"
+      ],
+      "regional_dex_nums": [
+        129,
+        76,
+        52,
+        129,
+        23,
+        23,
+        76,
+        49,
+        53,
+        91,
+        111,
+        129,
+        144
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 40,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 1029,
+      "steps_to_hatch_upper": 1285,
+      "egg_cycles": 5
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Splash"
+        ],
+        [
+          15,
+          "Tackle"
+        ],
+        [
+          25,
+          "Flail"
+        ]
+      ],
+      "tm_moves": [
+        [
+          52,
+          "Bounce"
+        ]
+      ],
+      "tr_moves": [
+        [
+          3,
+          "Hydro Pump"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

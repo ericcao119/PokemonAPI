@@ -1,0 +1,344 @@
+[
+  {
+    "species_name": "Ursaring",
+    "variant_name": "Ursaring",
+    "base_stats": {
+      "hp": 90,
+      "attack": 130,
+      "defense": 75,
+      "speed": 55,
+      "special_attack": 75,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 217,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.8,
+      "weight": 125.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hibernator Pok\u00e9mon",
+      "flavor_text": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pok\u00e9mon walks through its forest gathering food every day.",
+      "abilities": [
+        "Guts",
+        "Quick Feet"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        194,
+        199,
+        133
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Covet"
+        ],
+        [
+          1,
+          "Fake Tears"
+        ],
+        [
+          1,
+          "Hammer Arm"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          8,
+          "Fury Swipes"
+        ],
+        [
+          15,
+          "Feint Attack"
+        ],
+        [
+          22,
+          "Sweet Scent"
+        ],
+        [
+          25,
+          "Play Nice"
+        ],
+        [
+          29,
+          "Slash"
+        ],
+        [
+          38,
+          "Scary Face"
+        ],
+        [
+          47,
+          "Rest"
+        ],
+        [
+          49,
+          "Snore"
+        ],
+        [
+          58,
+          "Thrash"
+        ],
+        [
+          67,
+          "Hammer Arm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Belly Drum",
+        "Chip Away",
+        "Close Combat",
+        "Counter",
+        "Cross Chop",
+        "Crunch",
+        "Double-Edge",
+        "Fake Tears",
+        "Metal Claw",
+        "Night Slash",
+        "Play Rough",
+        "Seismic Toss",
+        "Sleep Talk",
+        "Take Down",
+        "Yawn"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Fire Punch",
+        "Focus Punch",
+        "Gunk Shot",
+        "Hyper Voice",
+        "Ice Punch",
+        "Laser Focus",
+        "Last Resort",
+        "Low Kick",
+        "Seed Bomb",
+        "Snore",
+        "Stomping Tantrum",
+        "Superpower",
+        "Throat Chop",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Avalanche",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Defense Curl",
+        "Dig",
+        "Dynamic Punch",
+        "Endure",
+        "Focus Energy",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Retaliate",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

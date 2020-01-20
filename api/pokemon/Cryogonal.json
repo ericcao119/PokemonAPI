@@ -1,0 +1,281 @@
+[
+  {
+    "species_name": "Cryogonal",
+    "variant_name": "Cryogonal",
+    "base_stats": {
+      "hp": 80,
+      "attack": 50,
+      "defense": 50,
+      "speed": 105,
+      "special_attack": 95,
+      "special_defense": 135
+    },
+    "dex_entry": {
+      "national_dex_num": 615,
+      "types": [
+        "Ice"
+      ],
+      "height": 1.1,
+      "weight": 148.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Crystallizing Pok\u00e9mon",
+      "flavor_text": "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        121,
+        197,
+        111
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 180,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 25,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bind"
+        ],
+        [
+          1,
+          "Ice Shard"
+        ],
+        [
+          1,
+          "Night Slash"
+        ],
+        [
+          1,
+          "Rapid Spin"
+        ],
+        [
+          1,
+          "Sharpen"
+        ],
+        [
+          1,
+          "Sheer Cold"
+        ],
+        [
+          5,
+          "Icy Wind"
+        ],
+        [
+          9,
+          "Haze"
+        ],
+        [
+          9,
+          "Mist"
+        ],
+        [
+          13,
+          "Aurora Beam"
+        ],
+        [
+          17,
+          "Acid Armor"
+        ],
+        [
+          21,
+          "Ancient Power"
+        ],
+        [
+          25,
+          "Ice Beam"
+        ],
+        [
+          29,
+          "Light Screen"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          37,
+          "Slash"
+        ],
+        [
+          41,
+          "Confuse Ray"
+        ],
+        [
+          45,
+          "Recover"
+        ],
+        [
+          49,
+          "Freeze-Dry"
+        ],
+        [
+          50,
+          "Solar Beam"
+        ],
+        [
+          53,
+          "Night Slash"
+        ],
+        [
+          57,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          70,
+          "Aurora Veil"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bind",
+        "Defog",
+        "Icy Wind",
+        "Iron Defense",
+        "Knock Off",
+        "Laser Focus",
+        "Magic Coat",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Secret Power"
+      ]
+    }
+  }
+]

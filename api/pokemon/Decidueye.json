@@ -1,0 +1,311 @@
+[
+  {
+    "species_name": "Decidueye",
+    "variant_name": "Decidueye",
+    "base_stats": {
+      "hp": 78,
+      "attack": 107,
+      "defense": 75,
+      "speed": 70,
+      "special_attack": 100,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 724,
+      "types": [
+        "Grass",
+        "Ghost"
+      ],
+      "height": 1.6,
+      "weight": 36.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Arrow Quill Pok\u00e9mon",
+      "flavor_text": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent\u2019s weak point before they notice what\u2019s happening.",
+      "abilities": [
+        "Overgrow"
+      ],
+      "hidden_abilities": [
+        "Long Reach"
+      ],
+      "regional_dex_nums": [
+        3,
+        3
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 239,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Leaf Storm"
+        ],
+        [
+          1,
+          "Leafage"
+        ],
+        [
+          1,
+          "Phantom Force"
+        ],
+        [
+          1,
+          "Spirit Shackle"
+        ],
+        [
+          1,
+          "Spite"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "U-turn"
+        ],
+        [
+          9,
+          "Peck"
+        ],
+        [
+          12,
+          "Shadow Sneak"
+        ],
+        [
+          15,
+          "Razor Leaf"
+        ],
+        [
+          20,
+          "Synthesis"
+        ],
+        [
+          25,
+          "Pluck"
+        ],
+        [
+          30,
+          "Nasty Plot"
+        ],
+        [
+          37,
+          "Sucker Punch"
+        ],
+        [
+          44,
+          "Leaf Blade"
+        ],
+        [
+          51,
+          "Feather Dance"
+        ],
+        [
+          58,
+          "Brave Bird"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          12,
+          "Solar Blade"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          30,
+          "Steel Wing"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          44,
+          "Imprison"
+        ],
+        [
+          56,
+          "U-turn"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          69,
+          "Psycho Cut"
+        ],
+        [
+          75,
+          "Low Sweep"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          77,
+          "Hex"
+        ],
+        [
+          78,
+          "Acrobatics"
+        ],
+        [
+          86,
+          "Phantom Force"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          95,
+          "Air Slash"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          33,
+          "Shadow Ball"
+        ],
+        [
+          50,
+          "Leaf Blade"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          66,
+          "Brave Bird"
+        ],
+        [
+          68,
+          "Nasty Plot"
+        ],
+        [
+          71,
+          "Leaf Storm"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          85,
+          "Work Up"
+        ],
+        [
+          89,
+          "Hurricane"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

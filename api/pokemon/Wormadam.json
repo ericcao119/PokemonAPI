@@ -1,0 +1,203 @@
+[
+  {
+    "species_name": "Wormadam",
+    "variant_name": "Plant Cloak",
+    "base_stats": {
+      "hp": 60,
+      "attack": 59,
+      "defense": 85,
+      "speed": 36,
+      "special_attack": 79,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 413,
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "height": 0.5,
+      "weight": 6.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bagworm Pok\u00e9mon",
+      "flavor_text": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon\u2019s body. The cloak is never shed.",
+      "abilities": [
+        "Anticipation"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        46,
+        46,
+        45
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 148,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Wormadam",
+    "variant_name": "Sandy Cloak",
+    "base_stats": {
+      "hp": 60,
+      "attack": 79,
+      "defense": 105,
+      "speed": 36,
+      "special_attack": 59,
+      "special_defense": 85
+    },
+    "dex_entry": {
+      "national_dex_num": 413,
+      "types": [
+        "Bug",
+        "Ground"
+      ],
+      "height": 0.5,
+      "weight": 6.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bagworm Pok\u00e9mon",
+      "flavor_text": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon\u2019s body. The cloak is never shed.",
+      "abilities": [
+        "Anticipation"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        46,
+        46,
+        45
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 148,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Wormadam",
+    "variant_name": "Trash Cloak",
+    "base_stats": {
+      "hp": 60,
+      "attack": 69,
+      "defense": 95,
+      "speed": 36,
+      "special_attack": 69,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 413,
+      "types": [
+        "Bug",
+        "Steel"
+      ],
+      "height": 0.5,
+      "weight": 6.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bagworm Pok\u00e9mon",
+      "flavor_text": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon\u2019s body. The cloak is never shed.",
+      "abilities": [
+        "Anticipation"
+      ],
+      "hidden_abilities": [
+        "Overcoat"
+      ],
+      "regional_dex_nums": [
+        46,
+        46,
+        45
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 148,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

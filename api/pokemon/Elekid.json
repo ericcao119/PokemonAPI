@@ -1,0 +1,280 @@
+[
+  {
+    "species_name": "Elekid",
+    "variant_name": "Elekid",
+    "base_stats": {
+      "hp": 45,
+      "attack": 63,
+      "defense": 37,
+      "speed": 95,
+      "special_attack": 65,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 239,
+      "types": [
+        "Electric"
+      ],
+      "height": 0.6,
+      "weight": 23.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Electric Pok\u00e9mon",
+      "flavor_text": "When its horns shine a bluish white, that\u2019s the sign it\u2019s fully charged. You\u2019ll get a shocking jolt if you touch it!",
+      "abilities": [
+        "Static"
+      ],
+      "hidden_abilities": [
+        "Vital Spirit"
+      ],
+      "regional_dex_nums": [
+        154,
+        197,
+        156,
+        56,
+        226,
+        295
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 72,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 75.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          5,
+          "Thunder Shock"
+        ],
+        [
+          8,
+          "Low Kick"
+        ],
+        [
+          12,
+          "Swift"
+        ],
+        [
+          15,
+          "Shock Wave"
+        ],
+        [
+          19,
+          "Thunder Wave"
+        ],
+        [
+          22,
+          "Electro Ball"
+        ],
+        [
+          26,
+          "Light Screen"
+        ],
+        [
+          29,
+          "Thunder Punch"
+        ],
+        [
+          33,
+          "Discharge"
+        ],
+        [
+          36,
+          "Screech"
+        ],
+        [
+          40,
+          "Thunderbolt"
+        ],
+        [
+          43,
+          "Thunder"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Barrier",
+        "Cross Chop",
+        "Dynamic Punch",
+        "Feint",
+        "Fire Punch",
+        "Focus Punch",
+        "Hammer Arm",
+        "Ice Punch",
+        "Karate Chop",
+        "Meditate",
+        "Rolling Kick"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Dual Chop",
+        "Electroweb",
+        "Fire Punch",
+        "Focus Punch",
+        "Helping Hand",
+        "Ice Punch",
+        "Low Kick",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Power-Up Punch",
+        "Rock Smash",
+        "Secret Power",
+        "Seismic Toss",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "species_name": "Unfezant",
+    "variant_name": "Unfezant",
+    "base_stats": {
+      "hp": 80,
+      "attack": 115,
+      "defense": 80,
+      "speed": 93,
+      "special_attack": 65,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 521,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "height": 1.2,
+      "weight": 29.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Proud Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+      "abilities": [
+        "Big Pecks",
+        "Super Luck"
+      ],
+      "hidden_abilities": [
+        "Rivalry"
+      ],
+      "regional_dex_nums": [
+        27,
+        16,
+        28
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 220,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          4,
+          "Growl"
+        ],
+        [
+          8,
+          "Leer"
+        ],
+        [
+          11,
+          "Quick Attack"
+        ],
+        [
+          15,
+          "Air Cutter"
+        ],
+        [
+          18,
+          "Roost"
+        ],
+        [
+          23,
+          "Detect"
+        ],
+        [
+          27,
+          "Taunt"
+        ],
+        [
+          33,
+          "Air Slash"
+        ],
+        [
+          38,
+          "Razor Wind"
+        ],
+        [
+          44,
+          "Feather Dance"
+        ],
+        [
+          49,
+          "Swagger"
+        ],
+        [
+          55,
+          "Facade"
+        ],
+        [
+          60,
+          "Tailwind"
+        ],
+        [
+          66,
+          "Sky Attack"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bestow",
+        "Hypnosis",
+        "Lucky Chant",
+        "Morning Sun",
+        "Night Slash",
+        "Steel Wing",
+        "Uproar",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Heat Wave",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Pluck",
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "species_name": "Larvesta",
+    "variant_name": "Larvesta",
+    "base_stats": {
+      "hp": 55,
+      "attack": 85,
+      "defense": 55,
+      "speed": 60,
+      "special_attack": 50,
+      "special_defense": 55
+    },
+    "dex_entry": {
+      "national_dex_num": 636,
+      "types": [
+        "Bug",
+        "Fire"
+      ],
+      "height": 1.1,
+      "weight": 28.8,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Torch Pok\u00e9mon",
+      "flavor_text": "It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun.",
+      "abilities": [
+        "Flame Body"
+      ],
+      "hidden_abilities": [
+        "Swarm"
+      ],
+      "regional_dex_nums": [
+        142,
+        171,
+        203
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 72,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          10,
+          "Absorb"
+        ],
+        [
+          20,
+          "Take Down"
+        ],
+        [
+          30,
+          "Flame Charge"
+        ],
+        [
+          40,
+          "Bug Bite"
+        ],
+        [
+          50,
+          "Double-Edge"
+        ],
+        [
+          60,
+          "Flame Wheel"
+        ],
+        [
+          70,
+          "Bug Buzz"
+        ],
+        [
+          80,
+          "Amnesia"
+        ],
+        [
+          90,
+          "Thrash"
+        ],
+        [
+          100,
+          "Flare Blitz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          28,
+          "Leech Life"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Endure",
+        "Foresight",
+        "Harden",
+        "Magnet Rise",
+        "Morning Sun",
+        "String Shot",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Giga Drain",
+        "Heat Wave",
+        "Magnet Rise",
+        "Signal Beam",
+        "Snore",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Incinerate",
+        "Secret Power",
+        "Struggle Bug"
+      ]
+    }
+  }
+]

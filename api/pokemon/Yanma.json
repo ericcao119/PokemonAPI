@@ -1,0 +1,265 @@
+[
+  {
+    "species_name": "Yanma",
+    "variant_name": "Yanma",
+    "base_stats": {
+      "hp": 65,
+      "attack": 65,
+      "defense": 45,
+      "speed": 95,
+      "special_attack": 75,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 193,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 1.2,
+      "weight": 38.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Clear Wing Pok\u00e9mon",
+      "flavor_text": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pok\u00e9mon uses its flying ability to quickly chase down targeted prey.",
+      "abilities": [
+        "Speed Boost",
+        "Compound Eyes"
+      ],
+      "hidden_abilities": [
+        "Frisk"
+      ],
+      "regional_dex_nums": [
+        101,
+        183,
+        101,
+        286,
+        87
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 78,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Foresight"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          6,
+          "Quick Attack"
+        ],
+        [
+          11,
+          "Double Team"
+        ],
+        [
+          14,
+          "Sonic Boom"
+        ],
+        [
+          17,
+          "Detect"
+        ],
+        [
+          22,
+          "Supersonic"
+        ],
+        [
+          27,
+          "Uproar"
+        ],
+        [
+          30,
+          "Pursuit"
+        ],
+        [
+          33,
+          "Ancient Power"
+        ],
+        [
+          38,
+          "Hypnosis"
+        ],
+        [
+          43,
+          "Wing Attack"
+        ],
+        [
+          46,
+          "Screech"
+        ],
+        [
+          49,
+          "U-turn"
+        ],
+        [
+          54,
+          "Air Slash"
+        ],
+        [
+          57,
+          "Bug Buzz"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Double-Edge",
+        "Feint",
+        "Feint Attack",
+        "Leech Life",
+        "Pursuit",
+        "Reversal",
+        "Secret Power",
+        "Signal Beam",
+        "Silver Wind",
+        "Whirlwind"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Giga Drain",
+        "Signal Beam",
+        "Snore",
+        "Tailwind",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Captivate",
+        "Curse",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "String Shot",
+        "Swift"
+      ]
+    }
+  }
+]

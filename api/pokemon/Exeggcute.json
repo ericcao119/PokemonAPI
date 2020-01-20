@@ -1,0 +1,300 @@
+[
+  {
+    "species_name": "Exeggcute",
+    "variant_name": "Exeggcute",
+    "base_stats": {
+      "hp": 60,
+      "attack": 40,
+      "defense": 80,
+      "speed": 40,
+      "special_attack": 60,
+      "special_defense": 45
+    },
+    "dex_entry": {
+      "national_dex_num": 102,
+      "types": [
+        "Grass",
+        "Psychic"
+      ],
+      "height": 0.4,
+      "weight": 2.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Egg Pok\u00e9mon",
+      "flavor_text": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "hidden_abilities": [
+        "Harvest"
+      ],
+      "regional_dex_nums": [
+        102,
+        104,
+        102,
+        105,
+        136,
+        269,
+        355,
+        102
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 65,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Barrage"
+        ],
+        [
+          1,
+          "Hypnosis"
+        ],
+        [
+          1,
+          "Uproar"
+        ],
+        [
+          7,
+          "Reflect"
+        ],
+        [
+          11,
+          "Leech Seed"
+        ],
+        [
+          17,
+          "Bullet Seed"
+        ],
+        [
+          19,
+          "Stun Spore"
+        ],
+        [
+          21,
+          "Poison Powder"
+        ],
+        [
+          23,
+          "Sleep Powder"
+        ],
+        [
+          27,
+          "Confusion"
+        ],
+        [
+          33,
+          "Worry Seed"
+        ],
+        [
+          37,
+          "Natural Gift"
+        ],
+        [
+          43,
+          "Solar Beam"
+        ],
+        [
+          47,
+          "Extrasensory"
+        ],
+        [
+          50,
+          "Bestow"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Block",
+        "Curse",
+        "Giga Drain",
+        "Grassy Terrain",
+        "Ingrain",
+        "Leaf Storm",
+        "Lucky Chant",
+        "Moonlight",
+        "Natural Gift",
+        "Nature Power",
+        "Power Swap",
+        "Skill Swap",
+        "Synthesis"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Giga Drain",
+        "Gravity",
+        "Seed Bomb",
+        "Skill Swap",
+        "Snore",
+        "Synthesis",
+        "Telekinesis",
+        "Uproar",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Captivate",
+        "Double-Edge",
+        "Egg Bomb",
+        "Endure",
+        "Flash",
+        "Mega Drain",
+        "Mimic",
+        "Nightmare",
+        "Psywave",
+        "Rage",
+        "Rollout",
+        "Secret Power",
+        "Self-Destruct",
+        "Strength",
+        "Take Down",
+        "Teleport"
+      ]
+    }
+  }
+]

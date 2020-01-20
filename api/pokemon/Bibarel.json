@@ -1,0 +1,329 @@
+[
+  {
+    "species_name": "Bibarel",
+    "variant_name": "Bibarel",
+    "base_stats": {
+      "hp": 79,
+      "attack": 85,
+      "defense": 60,
+      "speed": 71,
+      "special_attack": 55,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 400,
+      "types": [
+        "Normal",
+        "Water"
+      ],
+      "height": 1.0,
+      "weight": 31.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Beaver Pok\u00e9mon",
+      "flavor_text": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+      "abilities": [
+        "Simple",
+        "Unaware"
+      ],
+      "hidden_abilities": [
+        "Moody"
+      ],
+      "regional_dex_nums": [
+        14,
+        14,
+        39
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 144,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 127,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aqua Jet"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Rototiller"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Defense Curl"
+        ],
+        [
+          9,
+          "Rollout"
+        ],
+        [
+          13,
+          "Headbutt"
+        ],
+        [
+          18,
+          "Hyper Fang"
+        ],
+        [
+          23,
+          "Yawn"
+        ],
+        [
+          28,
+          "Crunch"
+        ],
+        [
+          33,
+          "Take Down"
+        ],
+        [
+          38,
+          "Super Fang"
+        ],
+        [
+          43,
+          "Swords Dance"
+        ],
+        [
+          48,
+          "Amnesia"
+        ],
+        [
+          53,
+          "Superpower"
+        ],
+        [
+          58,
+          "Curse"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Tail",
+        "Defense Curl",
+        "Double-Edge",
+        "Endure",
+        "Fury Swipes",
+        "Mud Sport",
+        "Odor Sleuth",
+        "Quick Attack",
+        "Rock Climb",
+        "Rollout",
+        "Skull Bash",
+        "Sleep Talk",
+        "Water Sport"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Covet",
+        "Focus Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Last Resort",
+        "Liquidation",
+        "Shock Wave",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum",
+        "Super Fang",
+        "Superpower",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Cut",
+        "Dig",
+        "Dive",
+        "Fury Cutter",
+        "Mud-Slap",
+        "Natural Gift",
+        "Pluck",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift",
+        "Whirlpool"
+      ]
+    }
+  }
+]

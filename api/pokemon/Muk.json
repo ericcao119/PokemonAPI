@@ -1,0 +1,151 @@
+[
+  {
+    "species_name": "Muk",
+    "variant_name": "Muk",
+    "base_stats": {
+      "hp": 105,
+      "attack": 105,
+      "defense": 75,
+      "speed": 50,
+      "special_attack": 65,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 89,
+      "types": [
+        "Poison"
+      ],
+      "height": 1.2,
+      "weight": 30.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sludge Pok\u00e9mon",
+      "flavor_text": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
+      "abilities": [
+        "Stench",
+        "Sticky Hold"
+      ],
+      "hidden_abilities": [
+        "Poison Touch"
+      ],
+      "regional_dex_nums": [
+        89,
+        117,
+        107,
+        89,
+        118,
+        65,
+        112,
+        51,
+        58,
+        89
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 1,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Muk",
+    "variant_name": "Alolan Muk",
+    "base_stats": {
+      "hp": 105,
+      "attack": 105,
+      "defense": 75,
+      "speed": 50,
+      "special_attack": 65,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 89,
+      "types": [
+        "Poison",
+        "Dark"
+      ],
+      "height": 1.0,
+      "weight": 52.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Sludge Pok\u00e9mon",
+      "flavor_text": "Muk\u2019s coloration becomes increasingly vivid the more it feasts on its favorite dish\u2014trash.",
+      "abilities": [
+        "Poison Touch",
+        "Gluttony"
+      ],
+      "hidden_abilities": [
+        "Power of Alchemy"
+      ],
+      "regional_dex_nums": [
+        89,
+        117,
+        107,
+        89,
+        118,
+        65,
+        112,
+        51,
+        58,
+        89
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 1,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "species_name": "Pupitar",
+    "variant_name": "Pupitar",
+    "base_stats": {
+      "hp": 70,
+      "attack": 84,
+      "defense": 70,
+      "speed": 51,
+      "special_attack": 65,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 247,
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "height": 1.2,
+      "weight": 152.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hard Shell Pok\u00e9mon",
+      "flavor_text": "It will not stay still, even while it\u2019s a pupa. It already has arms and legs under its solid shell.",
+      "abilities": [
+        "Shed Skin"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        245,
+        250,
+        293,
+        103,
+        248,
+        384
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 144,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 10024,
+      "steps_to_hatch_upper": 10280,
+      "egg_cycles": 40
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Iron Defense"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Payback"
+        ],
+        [
+          1,
+          "Rock Throw"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          9,
+          "Bite"
+        ],
+        [
+          12,
+          "Scary Face"
+        ],
+        [
+          15,
+          "Rock Slide"
+        ],
+        [
+          18,
+          "Stomping Tantrum"
+        ],
+        [
+          21,
+          "Screech"
+        ],
+        [
+          24,
+          "Dark Pulse"
+        ],
+        [
+          27,
+          "Crunch"
+        ],
+        [
+          33,
+          "Earthquake"
+        ],
+        [
+          37,
+          "Stone Edge"
+        ],
+        [
+          42,
+          "Thrash"
+        ],
+        [
+          47,
+          "Sandstorm"
+        ],
+        [
+          52,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          16,
+          "Screech"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          43,
+          "Brick Break"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          49,
+          "Sand Tomb"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          79,
+          "Retaliate"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          85,
+          "Snarl"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

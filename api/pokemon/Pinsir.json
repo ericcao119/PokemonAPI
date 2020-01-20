@@ -1,0 +1,628 @@
+[
+  {
+    "species_name": "Pinsir",
+    "variant_name": "Pinsir",
+    "base_stats": {
+      "hp": 65,
+      "attack": 125,
+      "defense": 100,
+      "speed": 85,
+      "special_attack": 55,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 127,
+      "types": [
+        "Bug"
+      ],
+      "height": 1.5,
+      "weight": 55.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Stag Beetle Pok\u00e9mon",
+      "flavor_text": "Grips its prey in its pincers and squeezes hard! It can\u2019t move if it\u2019s cold, so it lives in warm places.",
+      "abilities": [
+        "Hyper Cutter",
+        "Mold Breaker"
+      ],
+      "hidden_abilities": [
+        "Moxie"
+      ],
+      "regional_dex_nums": [
+        127,
+        112,
+        167,
+        127,
+        113,
+        146,
+        130,
+        174,
+        175,
+        211,
+        127
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Vise Grip"
+        ],
+        [
+          4,
+          "Bind"
+        ],
+        [
+          8,
+          "Seismic Toss"
+        ],
+        [
+          11,
+          "Harden"
+        ],
+        [
+          15,
+          "Revenge"
+        ],
+        [
+          18,
+          "Vital Throw"
+        ],
+        [
+          22,
+          "Double Hit"
+        ],
+        [
+          26,
+          "Brick Break"
+        ],
+        [
+          29,
+          "X-Scissor"
+        ],
+        [
+          33,
+          "Submission"
+        ],
+        [
+          36,
+          "Storm Throw"
+        ],
+        [
+          40,
+          "Swords Dance"
+        ],
+        [
+          43,
+          "Thrash"
+        ],
+        [
+          47,
+          "Superpower"
+        ],
+        [
+          50,
+          "Guillotine"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bug Bite",
+        "Close Combat",
+        "Feint",
+        "Feint Attack",
+        "Flail",
+        "Fury Attack",
+        "Me First",
+        "Quick Attack",
+        "Superpower"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Bug Bite",
+        "Focus Punch",
+        "Iron Defense",
+        "Knock Off",
+        "Snore",
+        "Stealth Rock",
+        "Superpower",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Rock Smash",
+        "Secret Power",
+        "Slash",
+        "Strength",
+        "String Shot",
+        "Struggle Bug",
+        "Take Down"
+      ]
+    }
+  },
+  {
+    "species_name": "Pinsir",
+    "variant_name": "Mega Pinsir",
+    "base_stats": {
+      "hp": 65,
+      "attack": 155,
+      "defense": 120,
+      "speed": 105,
+      "special_attack": 65,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 127,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 1.7,
+      "weight": 59.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Stag Beetle Pok\u00e9mon",
+      "flavor_text": "With its vaunted horns, it can lift an opponent 10 times heavier than itself and fly about with ease.",
+      "abilities": [
+        "Aerilate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        127,
+        112,
+        167,
+        127,
+        113,
+        146,
+        130,
+        174,
+        175,
+        211,
+        127
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 210,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Focus Energy"
+        ],
+        [
+          1,
+          "Vise Grip"
+        ],
+        [
+          4,
+          "Bind"
+        ],
+        [
+          8,
+          "Seismic Toss"
+        ],
+        [
+          11,
+          "Harden"
+        ],
+        [
+          15,
+          "Revenge"
+        ],
+        [
+          18,
+          "Vital Throw"
+        ],
+        [
+          22,
+          "Double Hit"
+        ],
+        [
+          26,
+          "Brick Break"
+        ],
+        [
+          29,
+          "X-Scissor"
+        ],
+        [
+          33,
+          "Submission"
+        ],
+        [
+          36,
+          "Storm Throw"
+        ],
+        [
+          40,
+          "Swords Dance"
+        ],
+        [
+          43,
+          "Thrash"
+        ],
+        [
+          47,
+          "Superpower"
+        ],
+        [
+          50,
+          "Guillotine"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bug Bite",
+        "Close Combat",
+        "Feint",
+        "Feint Attack",
+        "Flail",
+        "Fury Attack",
+        "Me First",
+        "Quick Attack",
+        "Superpower"
+      ],
+      "tutor_moves": [
+        "Bind",
+        "Bug Bite",
+        "Focus Punch",
+        "Iron Defense",
+        "Knock Off",
+        "Snore",
+        "Stealth Rock",
+        "Superpower",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Dig",
+        "Double-Edge",
+        "Endure",
+        "Fury Cutter",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Rage",
+        "Rock Smash",
+        "Secret Power",
+        "Slash",
+        "Strength",
+        "String Shot",
+        "Struggle Bug",
+        "Take Down"
+      ]
+    }
+  }
+]

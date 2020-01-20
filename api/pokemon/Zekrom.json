@@ -1,0 +1,322 @@
+[
+  {
+    "species_name": "Zekrom",
+    "variant_name": "Zekrom",
+    "base_stats": {
+      "hp": 100,
+      "attack": 150,
+      "defense": 120,
+      "speed": 90,
+      "special_attack": 120,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 644,
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "height": 2.9,
+      "weight": 345.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Deep Black Pok\u00e9mon",
+      "flavor_text": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom\u2019s lightning.",
+      "abilities": [
+        "Teravolt"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        150,
+        296
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 306,
+      "effort_points": {
+        "hp": 0,
+        "attack": 3,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 3,
+      "base_friendship": 0
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 30584,
+      "steps_to_hatch_upper": 30840,
+      "egg_cycles": 120
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Dragon Rage"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          8,
+          "Imprison"
+        ],
+        [
+          15,
+          "Ancient Power"
+        ],
+        [
+          22,
+          "Thunderbolt"
+        ],
+        [
+          29,
+          "Dragon Breath"
+        ],
+        [
+          36,
+          "Slash"
+        ],
+        [
+          43,
+          "Zen Headbutt"
+        ],
+        [
+          50,
+          "Fusion Bolt"
+        ],
+        [
+          54,
+          "Dragon Claw"
+        ],
+        [
+          64,
+          "Noble Roar"
+        ],
+        [
+          71,
+          "Crunch"
+        ],
+        [
+          78,
+          "Thunder"
+        ],
+        [
+          85,
+          "Outrage"
+        ],
+        [
+          92,
+          "Hyper Voice"
+        ],
+        [
+          100,
+          "Bolt Strike"
+        ]
+      ],
+      "tm_moves": [
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Defog",
+        "Draco Meteor",
+        "Dragon Pulse",
+        "Earth Power",
+        "Hyper Voice",
+        "Laser Focus",
+        "Magnet Rise",
+        "Outrage",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Tailwind",
+        "Thunder Punch",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Flash",
+        "Hone Claws",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

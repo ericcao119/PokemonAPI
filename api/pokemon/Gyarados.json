@@ -1,0 +1,722 @@
+[
+  {
+    "species_name": "Gyarados",
+    "variant_name": "Gyarados",
+    "base_stats": {
+      "hp": 95,
+      "attack": 125,
+      "defense": 79,
+      "speed": 81,
+      "special_attack": 60,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 130,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "height": 6.5,
+      "weight": 235.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Atrocious Pok\u00e9mon",
+      "flavor_text": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
+      "abilities": [
+        "Intimidate"
+      ],
+      "hidden_abilities": [
+        "Moxie"
+      ],
+      "regional_dex_nums": [
+        130,
+        77,
+        53,
+        130,
+        24,
+        24,
+        77,
+        50,
+        54,
+        92,
+        112,
+        130,
+        145
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 189,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 1029,
+      "steps_to_hatch_upper": 1285,
+      "egg_cycles": 5
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Flail"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Splash"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Twister"
+        ],
+        [
+          4,
+          "Whirlpool"
+        ],
+        [
+          8,
+          "Ice Fang"
+        ],
+        [
+          12,
+          "Brine"
+        ],
+        [
+          16,
+          "Scary Face"
+        ],
+        [
+          21,
+          "Waterfall"
+        ],
+        [
+          24,
+          "Crunch"
+        ],
+        [
+          28,
+          "Rain Dance"
+        ],
+        [
+          32,
+          "Aqua Tail"
+        ],
+        [
+          36,
+          "Dragon Dance"
+        ],
+        [
+          40,
+          "Hydro Pump"
+        ],
+        [
+          44,
+          "Hurricane"
+        ],
+        [
+          48,
+          "Thrash"
+        ],
+        [
+          52,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          89,
+          "Hurricane"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Gyarados",
+    "variant_name": "Mega Gyarados",
+    "base_stats": {
+      "hp": 95,
+      "attack": 155,
+      "defense": 109,
+      "speed": 81,
+      "special_attack": 70,
+      "special_defense": 130
+    },
+    "dex_entry": {
+      "national_dex_num": 130,
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "height": 6.5,
+      "weight": 305.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Atrocious Pok\u00e9mon",
+      "flavor_text": "Although it obeys its instinctive drive to destroy everything within its reach, it will respond to orders from a Trainer it truly trusts.",
+      "abilities": [
+        "Mold Breaker"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        130,
+        77,
+        53,
+        130,
+        24,
+        24,
+        77,
+        50,
+        54,
+        92,
+        112,
+        130,
+        145
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 224,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 1029,
+      "steps_to_hatch_upper": 1285,
+      "egg_cycles": 5
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Flail"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Splash"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Twister"
+        ],
+        [
+          4,
+          "Whirlpool"
+        ],
+        [
+          8,
+          "Ice Fang"
+        ],
+        [
+          12,
+          "Brine"
+        ],
+        [
+          16,
+          "Scary Face"
+        ],
+        [
+          21,
+          "Waterfall"
+        ],
+        [
+          24,
+          "Crunch"
+        ],
+        [
+          28,
+          "Rain Dance"
+        ],
+        [
+          32,
+          "Aqua Tail"
+        ],
+        [
+          36,
+          "Dragon Dance"
+        ],
+        [
+          40,
+          "Hydro Pump"
+        ],
+        [
+          44,
+          "Hurricane"
+        ],
+        [
+          48,
+          "Thrash"
+        ],
+        [
+          52,
+          "Hyper Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          14,
+          "Thunder Wave"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          55,
+          "Brine"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          64,
+          "Avalanche"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          97,
+          "Brutal Swing"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          2,
+          "Flamethrower"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          8,
+          "Thunderbolt"
+        ],
+        [
+          9,
+          "Thunder"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          15,
+          "Fire Blast"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          35,
+          "Uproar"
+        ],
+        [
+          37,
+          "Taunt"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          51,
+          "Dragon Dance"
+        ],
+        [
+          58,
+          "Dark Pulse"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          74,
+          "Iron Head"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          89,
+          "Hurricane"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

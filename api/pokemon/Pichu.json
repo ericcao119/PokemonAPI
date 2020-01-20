@@ -1,0 +1,251 @@
+[
+  {
+    "species_name": "Pichu",
+    "variant_name": "Pichu",
+    "base_stats": {
+      "hp": 20,
+      "attack": 40,
+      "defense": 15,
+      "speed": 60,
+      "special_attack": 35,
+      "special_defense": 35
+    },
+    "dex_entry": {
+      "national_dex_num": 172,
+      "types": [
+        "Electric"
+      ],
+      "height": 0.3,
+      "weight": 2.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Tiny Mouse Pok\u00e9mon",
+      "flavor_text": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+      "abilities": [
+        "Static"
+      ],
+      "hidden_abilities": [
+        "Lightning Rod"
+      ],
+      "regional_dex_nums": [
+        21,
+        155,
+        103,
+        103,
+        21,
+        35,
+        162,
+        24,
+        31,
+        193
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 41,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Thunder Shock"
+        ],
+        [
+          5,
+          "Tail Whip"
+        ],
+        [
+          10,
+          "Sweet Kiss"
+        ],
+        [
+          13,
+          "Nasty Plot"
+        ],
+        [
+          18,
+          "Thunder Wave"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Bestow",
+        "Bide",
+        "Charge",
+        "Disarming Voice",
+        "Double Slap",
+        "Electric Terrain",
+        "Encore",
+        "Endure",
+        "Fake Out",
+        "Flail",
+        "Lucky Chant",
+        "Present",
+        "Reversal",
+        "Thunder Punch",
+        "Tickle",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Covet",
+        "Electroweb",
+        "Helping Hand",
+        "Iron Tail",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Thunder Punch",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Defense Curl",
+        "Detect",
+        "Double-Edge",
+        "Endeavor",
+        "Flash",
+        "Headbutt",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Pain Split",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss",
+        "Swift",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

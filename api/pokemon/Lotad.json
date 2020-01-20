@@ -1,0 +1,269 @@
+[
+  {
+    "species_name": "Lotad",
+    "variant_name": "Lotad",
+    "base_stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 30,
+      "speed": 30,
+      "special_attack": 40,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 270,
+      "types": [
+        "Water",
+        "Grass"
+      ],
+      "height": 0.5,
+      "weight": 2.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Water Weed Pok\u00e9mon",
+      "flavor_text": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
+      "abilities": [
+        "Swift Swim",
+        "Rain Dish"
+      ],
+      "hidden_abilities": [
+        "Own Tempo"
+      ],
+      "regional_dex_nums": [
+        19,
+        55,
+        19,
+        36
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 44,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          3,
+          "Growl"
+        ],
+        [
+          6,
+          "Absorb"
+        ],
+        [
+          9,
+          "Bubble"
+        ],
+        [
+          12,
+          "Natural Gift"
+        ],
+        [
+          15,
+          "Mist"
+        ],
+        [
+          18,
+          "Mega Drain"
+        ],
+        [
+          21,
+          "Bubble Beam"
+        ],
+        [
+          24,
+          "Nature Power"
+        ],
+        [
+          27,
+          "Rain Dance"
+        ],
+        [
+          30,
+          "Giga Drain"
+        ],
+        [
+          33,
+          "Zen Headbutt"
+        ],
+        [
+          36,
+          "Energy Ball"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Counter",
+        "Flail",
+        "Giga Drain",
+        "Leech Seed",
+        "Razor Leaf",
+        "Sweet Scent",
+        "Synthesis",
+        "Teeter Dance",
+        "Tickle",
+        "Water Gun"
+      ],
+      "tutor_moves": [
+        "Giga Drain",
+        "Icy Wind",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Bullet Seed",
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Mimic",
+        "Secret Power",
+        "Whirlpool"
+      ]
+    }
+  }
+]

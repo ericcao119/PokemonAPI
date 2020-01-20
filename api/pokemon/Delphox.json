@@ -1,0 +1,357 @@
+[
+  {
+    "species_name": "Delphox",
+    "variant_name": "Delphox",
+    "base_stats": {
+      "hp": 75,
+      "attack": 69,
+      "defense": 72,
+      "speed": 104,
+      "special_attack": 114,
+      "special_defense": 100
+    },
+    "dex_entry": {
+      "national_dex_num": 655,
+      "types": [
+        "Fire",
+        "Psychic"
+      ],
+      "height": 1.5,
+      "weight": 39.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fox Pok\u00e9mon",
+      "flavor_text": "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.",
+      "abilities": [
+        "Blaze"
+      ],
+      "hidden_abilities": [
+        "Magician"
+      ],
+      "regional_dex_nums": [
+        6
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 240,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Future Sight"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Mystical Fire"
+        ],
+        [
+          1,
+          "Role Play"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Shadow Ball"
+        ],
+        [
+          1,
+          "Switcheroo"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Ember"
+        ],
+        [
+          11,
+          "Howl"
+        ],
+        [
+          14,
+          "Flame Charge"
+        ],
+        [
+          18,
+          "Psybeam"
+        ],
+        [
+          22,
+          "Fire Spin"
+        ],
+        [
+          28,
+          "Lucky Chant"
+        ],
+        [
+          31,
+          "Light Screen"
+        ],
+        [
+          38,
+          "Psyshock"
+        ],
+        [
+          45,
+          "Flamethrower"
+        ],
+        [
+          51,
+          "Will-O-Wisp"
+        ],
+        [
+          57,
+          "Psychic"
+        ],
+        [
+          62,
+          "Sunny Day"
+        ],
+        [
+          68,
+          "Magic Room"
+        ],
+        [
+          74,
+          "Fire Blast"
+        ],
+        [
+          80,
+          "Future Sight"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Heat Wave",
+        "Hypnosis",
+        "Magic Coat",
+        "Psychic Terrain",
+        "Wish"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Blast Burn",
+        "Covet",
+        "Fire Pledge",
+        "Fire Punch",
+        "Foul Play",
+        "Heat Wave",
+        "Iron Tail",
+        "Laser Focus",
+        "Low Kick",
+        "Magic Coat",
+        "Magic Room",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Signal Beam",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Telekinesis",
+        "Thunder Punch",
+        "Trick",
+        "Wonder Room",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Incinerate",
+        "Power-Up Punch",
+        "Secret Power"
+      ]
+    }
+  }
+]

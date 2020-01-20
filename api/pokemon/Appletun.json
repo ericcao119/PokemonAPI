@@ -1,0 +1,276 @@
+[
+  {
+    "species_name": "Appletun",
+    "variant_name": "Appletun",
+    "base_stats": {
+      "hp": 110,
+      "attack": 85,
+      "defense": 80,
+      "speed": 30,
+      "special_attack": 100,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 842,
+      "types": [
+        "Grass",
+        "Dragon"
+      ],
+      "height": 0.4,
+      "weight": 13.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Apple Nectar Pok\u00e9mon",
+      "flavor_text": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
+      "abilities": [
+        "Ripen",
+        "Gluttony"
+      ],
+      "hidden_abilities": [
+        "Thick Fat"
+      ],
+      "regional_dex_nums": [
+        207
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Grass"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Recycle"
+        ],
+        [
+          1,
+          "Sweet Scent"
+        ],
+        [
+          1,
+          "Withdraw"
+        ],
+        [
+          4,
+          "Curse"
+        ],
+        [
+          8,
+          "Stomp"
+        ],
+        [
+          12,
+          "Leech Seed"
+        ],
+        [
+          16,
+          "Protect"
+        ],
+        [
+          20,
+          "Bullet Seed"
+        ],
+        [
+          24,
+          "Recover"
+        ],
+        [
+          28,
+          "Apple Acid"
+        ],
+        [
+          32,
+          "Body Slam"
+        ],
+        [
+          36,
+          "Iron Defense"
+        ],
+        [
+          40,
+          "Dragon Pulse"
+        ],
+        [
+          44,
+          "Energy Ball"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          18,
+          "Reflect"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ]
+      ],
+      "tr_moves": [
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          24,
+          "Outrage"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          52,
+          "Gyro Ball"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          62,
+          "Dragon Pulse"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          79,
+          "Heavy Slam"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

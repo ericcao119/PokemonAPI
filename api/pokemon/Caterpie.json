@@ -1,0 +1,92 @@
+[
+  {
+    "species_name": "Caterpie",
+    "variant_name": "Caterpie",
+    "base_stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 35,
+      "speed": 45,
+      "special_attack": 20,
+      "special_defense": 20
+    },
+    "dex_entry": {
+      "national_dex_num": 10,
+      "types": [
+        "Bug"
+      ],
+      "height": 0.3,
+      "weight": 2.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Worm Pok\u00e9mon",
+      "flavor_text": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+      "abilities": [
+        "Shield Dust"
+      ],
+      "hidden_abilities": [
+        "Run Away"
+      ],
+      "regional_dex_nums": [
+        10,
+        24,
+        10,
+        24,
+        23,
+        17,
+        17,
+        10,
+        13
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 39,
+      "effort_points": {
+        "hp": 1,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 255,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "String Shot"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          9,
+          "Bug Bite"
+        ]
+      ],
+      "tm_moves": [
+        [
+          82,
+          "Electroweb"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

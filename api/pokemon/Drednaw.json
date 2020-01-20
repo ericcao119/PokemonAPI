@@ -1,0 +1,344 @@
+[
+  {
+    "species_name": "Drednaw",
+    "variant_name": "Drednaw",
+    "base_stats": {
+      "hp": 90,
+      "attack": 115,
+      "defense": 90,
+      "speed": 74,
+      "special_attack": 48,
+      "special_defense": 68
+    },
+    "dex_entry": {
+      "national_dex_num": 834,
+      "types": [
+        "Water",
+        "Rock"
+      ],
+      "height": 1.0,
+      "weight": 115.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Bite Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
+      "abilities": [
+        "Strong Jaw",
+        "Shell Armor"
+      ],
+      "hidden_abilities": [
+        "Swift Swim"
+      ],
+      "regional_dex_nums": [
+        43
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Monster",
+        "Water1"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Crunch"
+        ],
+        [
+          1,
+          "Protect"
+        ],
+        [
+          1,
+          "Razor Shell"
+        ],
+        [
+          1,
+          "Rock Polish"
+        ],
+        [
+          1,
+          "Rock Tomb"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          21,
+          "Headbutt"
+        ],
+        [
+          30,
+          "Counter"
+        ],
+        [
+          39,
+          "Jaw Lock"
+        ],
+        [
+          48,
+          "Liquidation"
+        ],
+        [
+          57,
+          "Body Slam"
+        ],
+        [
+          66,
+          "Head Smash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          15,
+          "Dig"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          22,
+          "Rock Slide"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          26,
+          "Scary Face"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          32,
+          "Sandstorm"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          42,
+          "Revenge"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          48,
+          "Rock Tomb"
+        ],
+        [
+          49,
+          "Sand Tomb"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          54,
+          "Rock Blast"
+        ],
+        [
+          57,
+          "Payback"
+        ],
+        [
+          58,
+          "Assurance"
+        ],
+        [
+          67,
+          "Ice Fang"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          81,
+          "Bulldoze"
+        ],
+        [
+          83,
+          "Razor Shell"
+        ],
+        [
+          94,
+          "False Swipe"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ],
+        [
+          98,
+          "Stomping Tantrum"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          10,
+          "Earthquake"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          28,
+          "Megahorn"
+        ],
+        [
+          31,
+          "Iron Tail"
+        ],
+        [
+          32,
+          "Crunch"
+        ],
+        [
+          39,
+          "Superpower"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          46,
+          "Iron Defense"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          67,
+          "Earth Power"
+        ],
+        [
+          75,
+          "Stone Edge"
+        ],
+        [
+          76,
+          "Stealth Rock"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          94,
+          "High Horsepower"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ],
+        [
+          98,
+          "Liquidation"
+        ],
+        [
+          99,
+          "Body Press"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

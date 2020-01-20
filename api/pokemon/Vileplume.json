@@ -1,0 +1,262 @@
+[
+  {
+    "species_name": "Vileplume",
+    "variant_name": "Vileplume",
+    "base_stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 85,
+      "speed": 50,
+      "special_attack": 110,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 45,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "height": 1.2,
+      "weight": 18.6,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Flower Pok\u00e9mon",
+      "flavor_text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "abilities": [
+        "Chlorophyll"
+      ],
+      "hidden_abilities": [
+        "Effect Spore"
+      ],
+      "regional_dex_nums": [
+        45,
+        85,
+        90,
+        45,
+        85,
+        107,
+        93,
+        45,
+        57
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 221,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Acid"
+        ],
+        [
+          1,
+          "Aromatherapy"
+        ],
+        [
+          1,
+          "Giga Drain"
+        ],
+        [
+          1,
+          "Grassy Terrain"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          1,
+          "Mega Drain"
+        ],
+        [
+          1,
+          "Moonblast"
+        ],
+        [
+          1,
+          "Moonlight"
+        ],
+        [
+          1,
+          "Petal Blizzard"
+        ],
+        [
+          1,
+          "Petal Dance"
+        ],
+        [
+          1,
+          "Poison Powder"
+        ],
+        [
+          1,
+          "Sleep Powder"
+        ],
+        [
+          1,
+          "Stun Spore"
+        ],
+        [
+          1,
+          "Sweet Scent"
+        ],
+        [
+          1,
+          "Toxic"
+        ]
+      ],
+      "tm_moves": [
+        [
+          8,
+          "Hyper Beam"
+        ],
+        [
+          9,
+          "Giga Impact"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          59,
+          "Fling"
+        ],
+        [
+          63,
+          "Drain Punch"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          88,
+          "Grassy Terrain"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          78,
+          "Sludge Wave"
+        ],
+        [
+          92,
+          "Dazzling Gleam"
+        ],
+        [
+          96,
+          "Pollen Puff"
+        ]
+      ],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

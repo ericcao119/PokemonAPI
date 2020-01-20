@@ -1,0 +1,362 @@
+[
+  {
+    "species_name": "Kecleon",
+    "variant_name": "Kecleon",
+    "base_stats": {
+      "hp": 60,
+      "attack": 90,
+      "defense": 70,
+      "speed": 40,
+      "special_attack": 60,
+      "special_defense": 120
+    },
+    "dex_entry": {
+      "national_dex_num": 352,
+      "types": [
+        "Normal"
+      ],
+      "height": 1.0,
+      "weight": 22.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Color Swap Pok\u00e9mon",
+      "flavor_text": "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
+      "abilities": [
+        "Color Change"
+      ],
+      "hidden_abilities": [
+        "Protean"
+      ],
+      "regional_dex_nums": [
+        145,
+        116,
+        150,
+        214
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 154,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 200,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Lick"
+        ],
+        [
+          1,
+          "Scratch"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Thief"
+        ],
+        [
+          4,
+          "Bind"
+        ],
+        [
+          7,
+          "Shadow Sneak"
+        ],
+        [
+          10,
+          "Feint"
+        ],
+        [
+          13,
+          "Fury Swipes"
+        ],
+        [
+          16,
+          "Feint Attack"
+        ],
+        [
+          18,
+          "Psybeam"
+        ],
+        [
+          21,
+          "Ancient Power"
+        ],
+        [
+          25,
+          "Slash"
+        ],
+        [
+          30,
+          "Camouflage"
+        ],
+        [
+          33,
+          "Shadow Claw"
+        ],
+        [
+          38,
+          "Screech"
+        ],
+        [
+          42,
+          "Substitute"
+        ],
+        [
+          46,
+          "Sucker Punch"
+        ],
+        [
+          50,
+          "Synchronoise"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          65,
+          "Shadow Claw"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          92,
+          "Trick Room"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Camouflage",
+        "Disable",
+        "Dizzy Punch",
+        "Fake Out",
+        "Foul Play",
+        "Magic Coat",
+        "Nasty Plot",
+        "Power-Up Punch",
+        "Recover",
+        "Skill Swap",
+        "Snatch",
+        "Trick"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Aqua Tail",
+        "Bind",
+        "Drain Punch",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Icy Wind",
+        "Iron Tail",
+        "Knock Off",
+        "Last Resort",
+        "Low Kick",
+        "Magic Coat",
+        "Recycle",
+        "Role Play",
+        "Shock Wave",
+        "Skill Swap",
+        "Snatch",
+        "Snore",
+        "Stealth Rock",
+        "Thunder Punch",
+        "Trick",
+        "Water Pulse",
+        "Wonder Room"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Cut",
+        "Defense Curl",
+        "Dig",
+        "Double-Edge",
+        "Dynamic Punch",
+        "Endure",
+        "Flash",
+        "Fury Cutter",
+        "Headbutt",
+        "Hone Claws",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Metronome",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Retaliate",
+        "Rock Smash",
+        "Rollout",
+        "Secret Power",
+        "Seismic Toss",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

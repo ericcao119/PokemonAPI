@@ -1,0 +1,261 @@
+[
+  {
+    "species_name": "Beautifly",
+    "variant_name": "Beautifly",
+    "base_stats": {
+      "hp": 60,
+      "attack": 70,
+      "defense": 50,
+      "speed": 65,
+      "special_attack": 100,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 267,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 1.0,
+      "weight": 28.4,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Butterfly Pok\u00e9mon",
+      "flavor_text": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pok\u00e9mon rides the spring winds as it flits around gathering pollen.",
+      "abilities": [
+        "Swarm"
+      ],
+      "hidden_abilities": [
+        "Rivalry"
+      ],
+      "regional_dex_nums": [
+        16,
+        50,
+        50,
+        16
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 178,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Gust"
+        ],
+        [
+          12,
+          "Absorb"
+        ],
+        [
+          15,
+          "Stun Spore"
+        ],
+        [
+          17,
+          "Morning Sun"
+        ],
+        [
+          20,
+          "Air Cutter"
+        ],
+        [
+          22,
+          "Mega Drain"
+        ],
+        [
+          25,
+          "Silver Wind"
+        ],
+        [
+          27,
+          "Attract"
+        ],
+        [
+          30,
+          "Whirlwind"
+        ],
+        [
+          32,
+          "Giga Drain"
+        ],
+        [
+          35,
+          "Bug Buzz"
+        ],
+        [
+          37,
+          "Rage"
+        ],
+        [
+          40,
+          "Quiver Dance"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Electroweb",
+        "Giga Drain",
+        "Laser Focus",
+        "Signal Beam",
+        "Snore",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Secret Power",
+        "Struggle Bug",
+        "Swift",
+        "Twister"
+      ]
+    }
+  }
+]

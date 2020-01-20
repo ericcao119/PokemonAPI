@@ -1,0 +1,271 @@
+[
+  {
+    "species_name": "Bulbasaur",
+    "variant_name": "Bulbasaur",
+    "base_stats": {
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "speed": 45,
+      "special_attack": 65,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 1,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "height": 0.7,
+      "weight": 6.9,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Seed Pok\u00e9mon",
+      "flavor_text": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+      "abilities": [
+        "Overgrow"
+      ],
+      "hidden_abilities": [
+        "Chlorophyll"
+      ],
+      "regional_dex_nums": [
+        1,
+        226,
+        1,
+        231,
+        80,
+        1
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 1,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass",
+        "Monster"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          3,
+          "Vine Whip"
+        ],
+        [
+          6,
+          "Growth"
+        ],
+        [
+          9,
+          "Leech Seed"
+        ],
+        [
+          12,
+          "Razor Leaf"
+        ],
+        [
+          15,
+          "Poison Powder"
+        ],
+        [
+          15,
+          "Sleep Powder"
+        ],
+        [
+          18,
+          "Seed Bomb"
+        ],
+        [
+          21,
+          "Take Down"
+        ],
+        [
+          24,
+          "Sweet Scent"
+        ],
+        [
+          27,
+          "Synthesis"
+        ],
+        [
+          30,
+          "Worry Seed"
+        ],
+        [
+          33,
+          "Double-Edge"
+        ],
+        [
+          36,
+          "Solar Beam"
+        ]
+      ],
+      "tm_moves": [
+        [
+          10,
+          "Magical Leaf"
+        ],
+        [
+          11,
+          "Solar Beam"
+        ],
+        [
+          17,
+          "Light Screen"
+        ],
+        [
+          19,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          29,
+          "Charm"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          34,
+          "Sunny Day"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          41,
+          "Helping Hand"
+        ],
+        [
+          46,
+          "Weather Ball"
+        ],
+        [
+          50,
+          "Bullet Seed"
+        ],
+        [
+          74,
+          "Venoshock"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          88,
+          "Grassy Terrain"
+        ],
+        [
+          94,
+          "False Swipe"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          17,
+          "Amnesia"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          22,
+          "Sludge Bomb"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          59,
+          "Seed Bomb"
+        ],
+        [
+          65,
+          "Energy Ball"
+        ],
+        [
+          71,
+          "Leaf Storm"
+        ],
+        [
+          72,
+          "Power Whip"
+        ],
+        [
+          77,
+          "Grass Knot"
+        ],
+        [
+          85,
+          "Work Up"
+        ]
+      ],
+      "egg_moves": [
+        "Curse",
+        "Ingrain",
+        "Nature Power",
+        "Petal Dance",
+        "Skull Bash",
+        "Toxic"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

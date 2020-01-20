@@ -1,0 +1,717 @@
+[
+  {
+    "species_name": "Steelix",
+    "variant_name": "Steelix",
+    "base_stats": {
+      "hp": 75,
+      "attack": 85,
+      "defense": 200,
+      "speed": 30,
+      "special_attack": 55,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 208,
+      "types": [
+        "Steel",
+        "Ground"
+      ],
+      "height": 9.2,
+      "weight": 400.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Iron Snake Pok\u00e9mon",
+      "flavor_text": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+      "abilities": [
+        "Rock Head",
+        "Sturdy"
+      ],
+      "hidden_abilities": [
+        "Sheer Force"
+      ],
+      "regional_dex_nums": [
+        63,
+        35,
+        35,
+        63,
+        72,
+        54,
+        179
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 179,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 25,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bind"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Mud Sport"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          4,
+          "Curse"
+        ],
+        [
+          7,
+          "Rock Throw"
+        ],
+        [
+          10,
+          "Rock Tomb"
+        ],
+        [
+          13,
+          "Rage"
+        ],
+        [
+          16,
+          "Stealth Rock"
+        ],
+        [
+          19,
+          "Autotomize"
+        ],
+        [
+          20,
+          "Gyro Ball"
+        ],
+        [
+          22,
+          "Smack Down"
+        ],
+        [
+          25,
+          "Dragon Breath"
+        ],
+        [
+          28,
+          "Slam"
+        ],
+        [
+          31,
+          "Screech"
+        ],
+        [
+          34,
+          "Rock Slide"
+        ],
+        [
+          37,
+          "Crunch"
+        ],
+        [
+          40,
+          "Iron Tail"
+        ],
+        [
+          43,
+          "Dig"
+        ],
+        [
+          46,
+          "Stone Edge"
+        ],
+        [
+          49,
+          "Double-Edge"
+        ],
+        [
+          52,
+          "Sandstorm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Block",
+        "Defense Curl",
+        "Flail",
+        "Heavy Slam",
+        "Rock Blast",
+        "Rock Climb",
+        "Rollout",
+        "Rototiller",
+        "Stealth Rock",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Block",
+        "Dragon Pulse",
+        "Earth Power",
+        "Iron Head",
+        "Iron Tail",
+        "Magnet Rise",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Twister"
+      ]
+    }
+  },
+  {
+    "species_name": "Steelix",
+    "variant_name": "Mega Steelix",
+    "base_stats": {
+      "hp": 75,
+      "attack": 125,
+      "defense": 230,
+      "speed": 30,
+      "special_attack": 55,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 208,
+      "types": [
+        "Steel",
+        "Ground"
+      ],
+      "height": 10.5,
+      "weight": 740.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Iron Snake Pok\u00e9mon",
+      "flavor_text": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+      "abilities": [
+        "Sand Force"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        63,
+        35,
+        35,
+        63,
+        72,
+        54,
+        179
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 214,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 2,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 25,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bind"
+        ],
+        [
+          1,
+          "Fire Fang"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Ice Fang"
+        ],
+        [
+          1,
+          "Mud Sport"
+        ],
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          4,
+          "Curse"
+        ],
+        [
+          7,
+          "Rock Throw"
+        ],
+        [
+          10,
+          "Rock Tomb"
+        ],
+        [
+          13,
+          "Rage"
+        ],
+        [
+          16,
+          "Stealth Rock"
+        ],
+        [
+          19,
+          "Autotomize"
+        ],
+        [
+          20,
+          "Gyro Ball"
+        ],
+        [
+          22,
+          "Smack Down"
+        ],
+        [
+          25,
+          "Dragon Breath"
+        ],
+        [
+          28,
+          "Slam"
+        ],
+        [
+          31,
+          "Screech"
+        ],
+        [
+          34,
+          "Rock Slide"
+        ],
+        [
+          37,
+          "Crunch"
+        ],
+        [
+          40,
+          "Iron Tail"
+        ],
+        [
+          43,
+          "Dig"
+        ],
+        [
+          46,
+          "Stone Edge"
+        ],
+        [
+          49,
+          "Double-Edge"
+        ],
+        [
+          52,
+          "Sandstorm"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          26,
+          "Earthquake"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          37,
+          "Sandstorm"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          69,
+          "Rock Polish"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          74,
+          "Gyro Ball"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          78,
+          "Bulldoze"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Block",
+        "Defense Curl",
+        "Flail",
+        "Heavy Slam",
+        "Rock Blast",
+        "Rock Climb",
+        "Rollout",
+        "Rototiller",
+        "Stealth Rock",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Block",
+        "Dragon Pulse",
+        "Earth Power",
+        "Iron Head",
+        "Iron Tail",
+        "Magnet Rise",
+        "Snore",
+        "Stealth Rock",
+        "Stomping Tantrum"
+      ],
+      "transfer_moves": [
+        "Ancient Power",
+        "Body Slam",
+        "Captivate",
+        "Cut",
+        "Endure",
+        "Headbutt",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Twister"
+      ]
+    }
+  }
+]

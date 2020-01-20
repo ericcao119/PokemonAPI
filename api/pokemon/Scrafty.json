@@ -1,0 +1,350 @@
+[
+  {
+    "species_name": "Scrafty",
+    "variant_name": "Scrafty",
+    "base_stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 115,
+      "speed": 58,
+      "special_attack": 45,
+      "special_defense": 115
+    },
+    "dex_entry": {
+      "national_dex_num": 560,
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "height": 1.1,
+      "weight": 30.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Hoodlum Pok\u00e9mon",
+      "flavor_text": "While mostly known for having the temperament of an aggressive ruffian, this Pok\u00e9mon takes very good care of its family, friends, and territory.",
+      "abilities": [
+        "Shed Skin",
+        "Moxie"
+      ],
+      "hidden_abilities": [
+        "Intimidate"
+      ],
+      "regional_dex_nums": [
+        66,
+        118,
+        101,
+        336,
+        225
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 171,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 90,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Dragon",
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Feint Attack"
+        ],
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Sand Attack"
+        ],
+        [
+          5,
+          "Sand Attack"
+        ],
+        [
+          9,
+          "Feint Attack"
+        ],
+        [
+          12,
+          "Swagger"
+        ],
+        [
+          16,
+          "Low Kick"
+        ],
+        [
+          20,
+          "Payback"
+        ],
+        [
+          23,
+          "Brick Break"
+        ],
+        [
+          27,
+          "Chip Away"
+        ],
+        [
+          31,
+          "High Jump Kick"
+        ],
+        [
+          34,
+          "Scary Face"
+        ],
+        [
+          38,
+          "Crunch"
+        ],
+        [
+          45,
+          "Facade"
+        ],
+        [
+          51,
+          "Rock Climb"
+        ],
+        [
+          58,
+          "Focus Punch"
+        ],
+        [
+          65,
+          "Head Smash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          2,
+          "Dragon Claw"
+        ],
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          8,
+          "Bulk Up"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          23,
+          "Smack Down"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          47,
+          "Low Sweep"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          71,
+          "Stone Edge"
+        ],
+        [
+          80,
+          "Rock Slide"
+        ],
+        [
+          82,
+          "Dragon Tail"
+        ],
+        [
+          84,
+          "Poison Jab"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Acid Spray",
+        "Amnesia",
+        "Counter",
+        "Detect",
+        "Dragon Dance",
+        "Drain Punch",
+        "Fake Out",
+        "Feint Attack",
+        "Fire Punch",
+        "Ice Punch",
+        "Power-Up Punch",
+        "Quick Guard",
+        "Thunder Punch",
+        "Zen Headbutt"
+      ],
+      "tutor_moves": [
+        "Dragon Pulse",
+        "Drain Punch",
+        "Dual Chop",
+        "Fire Punch",
+        "Focus Punch",
+        "Foul Play",
+        "Ice Punch",
+        "Iron Defense",
+        "Iron Head",
+        "Iron Tail",
+        "Knock Off",
+        "Low Kick",
+        "Outrage",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Throat Chop",
+        "Thunder Punch",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Incinerate",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength"
+      ]
+    }
+  }
+]

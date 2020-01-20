@@ -1,0 +1,279 @@
+[
+  {
+    "species_name": "Vanilluxe",
+    "variant_name": "Vanilluxe",
+    "base_stats": {
+      "hp": 71,
+      "attack": 95,
+      "defense": 85,
+      "speed": 79,
+      "special_attack": 110,
+      "special_defense": 95
+    },
+    "dex_entry": {
+      "national_dex_num": 584,
+      "types": [
+        "Ice"
+      ],
+      "height": 1.3,
+      "weight": 57.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Snowstorm Pok\u00e9mon",
+      "flavor_text": "People believe this Pok\u00e9mon formed when two Vanillish stuck together. Its body temperature is roughly 21 degrees Fahrenheit.",
+      "abilities": [
+        "Ice Body",
+        "Snow Warning"
+      ],
+      "hidden_abilities": [
+        "Weak Armor"
+      ],
+      "regional_dex_nums": [
+        90,
+        257,
+        87,
+        257,
+        334,
+        74
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 241,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 3,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Mineral"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Freeze-Dry"
+        ],
+        [
+          1,
+          "Harden"
+        ],
+        [
+          1,
+          "Icicle Spear"
+        ],
+        [
+          1,
+          "Sheer Cold"
+        ],
+        [
+          1,
+          "Uproar"
+        ],
+        [
+          1,
+          "Weather Ball"
+        ],
+        [
+          4,
+          "Harden"
+        ],
+        [
+          7,
+          "Astonish"
+        ],
+        [
+          10,
+          "Uproar"
+        ],
+        [
+          13,
+          "Icy Wind"
+        ],
+        [
+          16,
+          "Mist"
+        ],
+        [
+          19,
+          "Avalanche"
+        ],
+        [
+          22,
+          "Taunt"
+        ],
+        [
+          26,
+          "Mirror Shot"
+        ],
+        [
+          31,
+          "Acid Armor"
+        ],
+        [
+          36,
+          "Ice Beam"
+        ],
+        [
+          42,
+          "Hail"
+        ],
+        [
+          50,
+          "Mirror Coat"
+        ],
+        [
+          59,
+          "Blizzard"
+        ],
+        [
+          67,
+          "Sheer Cold"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          64,
+          "Explosion"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          79,
+          "Frost Breath"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Autotomize",
+        "Ice Shard",
+        "Imprison",
+        "Iron Defense",
+        "Magnet Rise",
+        "Natural Gift",
+        "Powder Snow",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Ally Switch",
+        "Icy Wind",
+        "Iron Defense",
+        "Magic Coat",
+        "Magnet Rise",
+        "Signal Beam",
+        "Snore",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Secret Power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "species_name": "Rapidash",
+    "variant_name": "Rapidash",
+    "base_stats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 70,
+      "speed": 105,
+      "special_attack": 80,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 78,
+      "types": [
+        "Fire"
+      ],
+      "height": 1.7,
+      "weight": 95.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fire Horse Pok\u00e9mon",
+      "flavor_text": "The fastest runner becomes the leader, and it decides the herd\u2019s pace and direction of travel.",
+      "abilities": [
+        "Run Away",
+        "Flash Fire"
+      ],
+      "hidden_abilities": [
+        "Flame Body"
+      ],
+      "regional_dex_nums": [
+        78,
+        202,
+        78,
+        91,
+        91,
+        207,
+        78,
+        334
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Rapidash",
+    "variant_name": "Galarian Rapidash",
+    "base_stats": {
+      "hp": 65,
+      "attack": 100,
+      "defense": 70,
+      "speed": 105,
+      "special_attack": 80,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 78,
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "height": 1.7,
+      "weight": 80.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Unique Horn Pok\u00e9mon",
+      "flavor_text": "The fastest runner becomes the leader, and it decides the herd\u2019s pace and direction of travel.",
+      "abilities": [
+        "Run Away",
+        "Pastel Veil"
+      ],
+      "hidden_abilities": [
+        "Anticipation"
+      ],
+      "regional_dex_nums": [
+        78,
+        202,
+        78,
+        91,
+        91,
+        207,
+        78,
+        334
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

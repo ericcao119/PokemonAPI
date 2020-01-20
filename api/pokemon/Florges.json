@@ -1,0 +1,251 @@
+[
+  {
+    "species_name": "Florges",
+    "variant_name": "Florges",
+    "base_stats": {
+      "hp": 78,
+      "attack": 65,
+      "defense": 68,
+      "speed": 75,
+      "special_attack": 112,
+      "special_defense": 154
+    },
+    "dex_entry": {
+      "national_dex_num": 671,
+      "types": [
+        "Fairy"
+      ],
+      "height": 1.1,
+      "weight": 10.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Garden Pok\u00e9mon",
+      "flavor_text": "Its life can span several hundred years. It\u2019s said to devote its entire life to protecting gardens.",
+      "abilities": [
+        "Flower Veil"
+      ],
+      "hidden_abilities": [
+        "Symbiosis"
+      ],
+      "regional_dex_nums": [
+        70,
+        102
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 248,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 3
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Aromatherapy"
+        ],
+        [
+          1,
+          "Disarming Voice"
+        ],
+        [
+          1,
+          "Flower Shield"
+        ],
+        [
+          1,
+          "Grass Knot"
+        ],
+        [
+          1,
+          "Grassy Terrain"
+        ],
+        [
+          1,
+          "Lucky Chant"
+        ],
+        [
+          1,
+          "Magical Leaf"
+        ],
+        [
+          1,
+          "Misty Terrain"
+        ],
+        [
+          1,
+          "Moonblast"
+        ],
+        [
+          1,
+          "Petal Blizzard"
+        ],
+        [
+          1,
+          "Petal Dance"
+        ],
+        [
+          1,
+          "Wish"
+        ]
+      ],
+      "tm_moves": [
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Camouflage",
+        "Captivate",
+        "Copycat",
+        "Tearful Look"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Ally Switch",
+        "Covet",
+        "Defog",
+        "Endeavor",
+        "Giga Drain",
+        "Heal Bell",
+        "Helping Hand",
+        "Magic Coat",
+        "Seed Bomb",
+        "Snore",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

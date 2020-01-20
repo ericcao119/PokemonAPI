@@ -1,0 +1,254 @@
+[
+  {
+    "species_name": "Cinccino",
+    "variant_name": "Cinccino",
+    "base_stats": {
+      "hp": 75,
+      "attack": 95,
+      "defense": 60,
+      "speed": 115,
+      "special_attack": 65,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 573,
+      "types": [
+        "Normal"
+      ],
+      "height": 0.5,
+      "weight": 7.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Scarf Pok\u00e9mon",
+      "flavor_text": "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.",
+      "abilities": [
+        "Cute Charm",
+        "Technician"
+      ],
+      "hidden_abilities": [
+        "Skill Link"
+      ],
+      "regional_dex_nums": [
+        79,
+        108,
+        267,
+        51
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 165,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 2,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 25.0,
+      "steps_to_hatch_lower": 3599,
+      "steps_to_hatch_upper": 3855,
+      "egg_cycles": 15
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bullet Seed"
+        ],
+        [
+          1,
+          "Helping Hand"
+        ],
+        [
+          1,
+          "Rock Blast"
+        ],
+        [
+          1,
+          "Sing"
+        ],
+        [
+          1,
+          "Tail Slap"
+        ],
+        [
+          1,
+          "Tickle"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          4,
+          "Calm Mind"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          52,
+          "Focus Blast"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Tail",
+        "Endure",
+        "Fake Tears",
+        "Flail",
+        "Iron Tail",
+        "Knock Off",
+        "Mud-Slap",
+        "Sleep Talk",
+        "Tail Whip"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Aqua Tail",
+        "Covet",
+        "Gunk Shot",
+        "Helping Hand",
+        "Hyper Voice",
+        "Iron Tail",
+        "Knock Off",
+        "Laser Focus",
+        "Last Resort",
+        "Seed Bomb",
+        "Shock Wave",
+        "Snore",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Dig",
+        "Growl",
+        "Retaliate",
+        "Secret Power"
+      ]
+    }
+  }
+]

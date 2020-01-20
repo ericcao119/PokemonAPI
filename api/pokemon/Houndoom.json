@@ -1,0 +1,675 @@
+[
+  {
+    "species_name": "Houndoom",
+    "variant_name": "Houndoom",
+    "base_stats": {
+      "hp": 75,
+      "attack": 90,
+      "defense": 50,
+      "speed": 95,
+      "special_attack": 110,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 229,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "height": 1.4,
+      "weight": 35.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Dark Pok\u00e9mon",
+      "flavor_text": "Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.",
+      "abilities": [
+        "Early Bird",
+        "Flash Fire"
+      ],
+      "hidden_abilities": [
+        "Unnerve"
+      ],
+      "regional_dex_nums": [
+        210,
+        177,
+        215,
+        76,
+        290
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 175,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Inferno"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Nasty Plot"
+        ],
+        [
+          1,
+          "Smog"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          4,
+          "Howl"
+        ],
+        [
+          8,
+          "Smog"
+        ],
+        [
+          13,
+          "Roar"
+        ],
+        [
+          16,
+          "Bite"
+        ],
+        [
+          20,
+          "Odor Sleuth"
+        ],
+        [
+          26,
+          "Beat Up"
+        ],
+        [
+          30,
+          "Fire Fang"
+        ],
+        [
+          35,
+          "Feint Attack"
+        ],
+        [
+          41,
+          "Embargo"
+        ],
+        [
+          45,
+          "Foul Play"
+        ],
+        [
+          50,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Crunch"
+        ],
+        [
+          60,
+          "Nasty Plot"
+        ],
+        [
+          65,
+          "Inferno"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Beat Up",
+        "Counter",
+        "Destiny Bond",
+        "Feint",
+        "Fire Fang",
+        "Fire Spin",
+        "Nasty Plot",
+        "Punishment",
+        "Pursuit",
+        "Rage",
+        "Reversal",
+        "Spite",
+        "Sucker Punch",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Foul Play",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Tail",
+        "Laser Focus",
+        "Role Play",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Throat Chop",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  },
+  {
+    "species_name": "Houndoom",
+    "variant_name": "Mega Houndoom",
+    "base_stats": {
+      "hp": 75,
+      "attack": 90,
+      "defense": 90,
+      "speed": 115,
+      "special_attack": 140,
+      "special_defense": 90
+    },
+    "dex_entry": {
+      "national_dex_num": 229,
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "height": 1.9,
+      "weight": 49.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Dark Pok\u00e9mon",
+      "flavor_text": "Houndoom\u2019s entire body generates heat when it Mega Evolves. Its fearsome fiery breath turns its opponents to ash.",
+      "abilities": [
+        "Solar Power"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        210,
+        177,
+        215,
+        76,
+        290
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 210,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Ember"
+        ],
+        [
+          1,
+          "Howl"
+        ],
+        [
+          1,
+          "Inferno"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Nasty Plot"
+        ],
+        [
+          1,
+          "Smog"
+        ],
+        [
+          1,
+          "Thunder Fang"
+        ],
+        [
+          4,
+          "Howl"
+        ],
+        [
+          8,
+          "Smog"
+        ],
+        [
+          13,
+          "Roar"
+        ],
+        [
+          16,
+          "Bite"
+        ],
+        [
+          20,
+          "Odor Sleuth"
+        ],
+        [
+          26,
+          "Beat Up"
+        ],
+        [
+          30,
+          "Fire Fang"
+        ],
+        [
+          35,
+          "Feint Attack"
+        ],
+        [
+          41,
+          "Embargo"
+        ],
+        [
+          45,
+          "Foul Play"
+        ],
+        [
+          50,
+          "Flamethrower"
+        ],
+        [
+          56,
+          "Crunch"
+        ],
+        [
+          60,
+          "Nasty Plot"
+        ],
+        [
+          65,
+          "Inferno"
+        ]
+      ],
+      "tm_moves": [
+        [
+          5,
+          "Roar"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          43,
+          "Flame Charge"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          50,
+          "Overheat"
+        ],
+        [
+          61,
+          "Will-O-Wisp"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Beat Up",
+        "Counter",
+        "Destiny Bond",
+        "Feint",
+        "Fire Fang",
+        "Fire Spin",
+        "Nasty Plot",
+        "Punishment",
+        "Pursuit",
+        "Rage",
+        "Reversal",
+        "Spite",
+        "Sucker Punch",
+        "Thunder Fang"
+      ],
+      "tutor_moves": [
+        "Foul Play",
+        "Heat Wave",
+        "Hyper Voice",
+        "Iron Tail",
+        "Laser Focus",
+        "Role Play",
+        "Snatch",
+        "Snore",
+        "Spite",
+        "Super Fang",
+        "Throat Chop",
+        "Uproar"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Curse",
+        "Detect",
+        "Double-Edge",
+        "Endure",
+        "Headbutt",
+        "Incinerate",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Nightmare",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power",
+        "Strength",
+        "Swift"
+      ]
+    }
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "species_name": "Vullaby",
+    "variant_name": "Vullaby",
+    "base_stats": {
+      "hp": 70,
+      "attack": 55,
+      "defense": 75,
+      "speed": 60,
+      "special_attack": 45,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 629,
+      "types": [
+        "Dark",
+        "Flying"
+      ],
+      "height": 0.5,
+      "weight": 9.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Diapered Pok\u00e9mon",
+      "flavor_text": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
+      "abilities": [
+        "Big Pecks",
+        "Overcoat"
+      ],
+      "hidden_abilities": [
+        "Weak Armor"
+      ],
+      "regional_dex_nums": [
+        135,
+        111,
+        77,
+        91,
+        283
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 74,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 35
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying"
+      ],
+      "male_rate": 0.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Gust"
+        ],
+        [
+          1,
+          "Leer"
+        ],
+        [
+          5,
+          "Fury Attack"
+        ],
+        [
+          10,
+          "Pluck"
+        ],
+        [
+          14,
+          "Nasty Plot"
+        ],
+        [
+          19,
+          "Flatter"
+        ],
+        [
+          23,
+          "Feint Attack"
+        ],
+        [
+          28,
+          "Punishment"
+        ],
+        [
+          32,
+          "Defog"
+        ],
+        [
+          37,
+          "Tailwind"
+        ],
+        [
+          41,
+          "Air Slash"
+        ],
+        [
+          46,
+          "Dark Pulse"
+        ],
+        [
+          50,
+          "Embargo"
+        ],
+        [
+          55,
+          "Whirlwind"
+        ],
+        [
+          59,
+          "Brave Bird"
+        ],
+        [
+          64,
+          "Mirror Move"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          41,
+          "Torment"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          63,
+          "Embargo"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          95,
+          "Snarl"
+        ],
+        [
+          97,
+          "Dark Pulse"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Fake Tears",
+        "Foul Play",
+        "Knock Off",
+        "Mean Look",
+        "Roost",
+        "Scary Face",
+        "Steel Wing"
+      ],
+      "tutor_moves": [
+        "Block",
+        "Defog",
+        "Foul Play",
+        "Heat Wave",
+        "Knock Off",
+        "Snatch",
+        "Snore",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Incinerate",
+        "Iron Defense",
+        "Retaliate",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

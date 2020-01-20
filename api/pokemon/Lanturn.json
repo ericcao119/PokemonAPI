@@ -1,0 +1,322 @@
+[
+  {
+    "species_name": "Lanturn",
+    "variant_name": "Lanturn",
+    "base_stats": {
+      "hp": 125,
+      "attack": 58,
+      "defense": 58,
+      "speed": 67,
+      "special_attack": 76,
+      "special_defense": 76
+    },
+    "dex_entry": {
+      "national_dex_num": 171,
+      "types": [
+        "Water",
+        "Electric"
+      ],
+      "height": 1.2,
+      "weight": 22.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Light Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+      "abilities": [
+        "Volt Absorb",
+        "Illuminate"
+      ],
+      "hidden_abilities": [
+        "Water Absorb"
+      ],
+      "regional_dex_nums": [
+        175,
+        182,
+        177,
+        148,
+        191,
+        202,
+        258,
+        221
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 161,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bubble"
+        ],
+        [
+          1,
+          "Eerie Impulse"
+        ],
+        [
+          1,
+          "Electro Ball"
+        ],
+        [
+          1,
+          "Spit Up"
+        ],
+        [
+          1,
+          "Spotlight"
+        ],
+        [
+          1,
+          "Stockpile"
+        ],
+        [
+          1,
+          "Supersonic"
+        ],
+        [
+          1,
+          "Swallow"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          6,
+          "Thunder Wave"
+        ],
+        [
+          9,
+          "Electro Ball"
+        ],
+        [
+          12,
+          "Water Gun"
+        ],
+        [
+          17,
+          "Confuse Ray"
+        ],
+        [
+          20,
+          "Bubble Beam"
+        ],
+        [
+          23,
+          "Spark"
+        ],
+        [
+          29,
+          "Signal Beam"
+        ],
+        [
+          33,
+          "Flail"
+        ],
+        [
+          37,
+          "Discharge"
+        ],
+        [
+          43,
+          "Take Down"
+        ],
+        [
+          47,
+          "Aqua Ring"
+        ],
+        [
+          51,
+          "Hydro Pump"
+        ],
+        [
+          54,
+          "Ion Deluge"
+        ],
+        [
+          58,
+          "Charge"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Amnesia",
+        "Brine",
+        "Flail",
+        "Mist",
+        "Psybeam",
+        "Screech",
+        "Shock Wave",
+        "Soak",
+        "Water Pulse",
+        "Whirlpool"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bounce",
+        "Heal Bell",
+        "Icy Wind",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Curse",
+        "Dive",
+        "Double-Edge",
+        "Endure",
+        "Flash",
+        "Mimic",
+        "Natural Gift",
+        "Secret Power",
+        "Sucker Punch",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

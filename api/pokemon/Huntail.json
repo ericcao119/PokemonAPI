@@ -1,0 +1,260 @@
+[
+  {
+    "species_name": "Huntail",
+    "variant_name": "Huntail",
+    "base_stats": {
+      "hp": 55,
+      "attack": 104,
+      "defense": 105,
+      "speed": 52,
+      "special_attack": 94,
+      "special_defense": 75
+    },
+    "dex_entry": {
+      "national_dex_num": 367,
+      "types": [
+        "Water"
+      ],
+      "height": 1.7,
+      "weight": 27.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Deep Sea Pok\u00e9mon",
+      "flavor_text": "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.",
+      "abilities": [
+        "Swift Swim"
+      ],
+      "hidden_abilities": [
+        "Water Veil"
+      ],
+      "regional_dex_nums": [
+        177,
+        142,
+        186,
+        141
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Erratic",
+      "base_exp_yield": 170,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 1,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Bite"
+        ],
+        [
+          1,
+          "Whirlpool"
+        ],
+        [
+          5,
+          "Screech"
+        ],
+        [
+          9,
+          "Scary Face"
+        ],
+        [
+          11,
+          "Feint Attack"
+        ],
+        [
+          14,
+          "Water Pulse"
+        ],
+        [
+          16,
+          "Ice Fang"
+        ],
+        [
+          19,
+          "Brine"
+        ],
+        [
+          23,
+          "Sucker Punch"
+        ],
+        [
+          26,
+          "Dive"
+        ],
+        [
+          29,
+          "Baton Pass"
+        ],
+        [
+          34,
+          "Crunch"
+        ],
+        [
+          39,
+          "Aqua Tail"
+        ],
+        [
+          45,
+          "Coil"
+        ],
+        [
+          50,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          39,
+          "Rock Tomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          83,
+          "Infestation"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Aqua Ring",
+        "Barrier",
+        "Body Slam",
+        "Brine",
+        "Confuse Ray",
+        "Endure",
+        "Mud Sport",
+        "Muddy Water",
+        "Refresh",
+        "Supersonic",
+        "Water Pulse"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Bounce",
+        "Icy Wind",
+        "Snatch",
+        "Snore",
+        "Super Fang",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Double-Edge",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

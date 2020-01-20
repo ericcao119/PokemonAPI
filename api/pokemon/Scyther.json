@@ -1,0 +1,307 @@
+[
+  {
+    "species_name": "Scyther",
+    "variant_name": "Scyther",
+    "base_stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 80,
+      "speed": 105,
+      "special_attack": 55,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 123,
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "height": 1.5,
+      "weight": 56.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mantis Pok\u00e9mon",
+      "flavor_text": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
+      "abilities": [
+        "Swarm",
+        "Technician"
+      ],
+      "hidden_abilities": [
+        "Steadfast"
+      ],
+      "regional_dex_nums": [
+        123,
+        110,
+        123,
+        195,
+        111,
+        136,
+        275,
+        365,
+        123
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 100,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Bug"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 6169,
+      "steps_to_hatch_upper": 6425,
+      "egg_cycles": 25
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Leer"
+        ],
+        [
+          1,
+          "Quick Attack"
+        ],
+        [
+          1,
+          "Vacuum Wave"
+        ],
+        [
+          5,
+          "Focus Energy"
+        ],
+        [
+          9,
+          "Pursuit"
+        ],
+        [
+          13,
+          "False Swipe"
+        ],
+        [
+          17,
+          "Agility"
+        ],
+        [
+          21,
+          "Wing Attack"
+        ],
+        [
+          25,
+          "Fury Cutter"
+        ],
+        [
+          29,
+          "Slash"
+        ],
+        [
+          33,
+          "Razor Wind"
+        ],
+        [
+          37,
+          "Double Team"
+        ],
+        [
+          41,
+          "X-Scissor"
+        ],
+        [
+          45,
+          "Night Slash"
+        ],
+        [
+          49,
+          "Double Hit"
+        ],
+        [
+          50,
+          "Air Slash"
+        ],
+        [
+          57,
+          "Swords Dance"
+        ],
+        [
+          61,
+          "Feint"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          59,
+          "Brutal Swing"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Baton Pass",
+        "Bug Buzz",
+        "Counter",
+        "Defog",
+        "Endure",
+        "Night Slash",
+        "Quick Guard",
+        "Razor Wind",
+        "Reversal",
+        "Silver Wind",
+        "Steel Wing"
+      ],
+      "tutor_moves": [
+        "Bug Bite",
+        "Defog",
+        "Knock Off",
+        "Laser Focus",
+        "Snore",
+        "Tailwind"
+      ],
+      "transfer_moves": [
+        "Bide",
+        "Captivate",
+        "Curse",
+        "Cut",
+        "Detect",
+        "Double-Edge",
+        "Headbutt",
+        "Mimic",
+        "Natural Gift",
+        "Ominous Wind",
+        "Rage",
+        "Rock Smash",
+        "Secret Power",
+        "Skull Bash",
+        "Struggle Bug",
+        "Swift",
+        "Take Down"
+      ]
+    }
+  }
+]

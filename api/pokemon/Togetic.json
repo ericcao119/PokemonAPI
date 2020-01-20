@@ -1,0 +1,374 @@
+[
+  {
+    "species_name": "Togetic",
+    "variant_name": "Togetic",
+    "base_stats": {
+      "hp": 55,
+      "attack": 40,
+      "defense": 85,
+      "speed": 40,
+      "special_attack": 80,
+      "special_defense": 105
+    },
+    "dex_entry": {
+      "national_dex_num": 176,
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "height": 0.6,
+      "weight": 3.2,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Happiness Pok\u00e9mon",
+      "flavor_text": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
+      "abilities": [
+        "Hustle",
+        "Serene Grace"
+      ],
+      "hidden_abilities": [
+        "Super Luck"
+      ],
+      "regional_dex_nums": [
+        47,
+        174,
+        47,
+        258
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 142,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 2
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Fairy",
+        "Flying"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Magical Leaf"
+        ],
+        [
+          1,
+          "Metronome"
+        ],
+        [
+          1,
+          "Sweet Kiss"
+        ],
+        [
+          5,
+          "Metronome"
+        ],
+        [
+          9,
+          "Sweet Kiss"
+        ],
+        [
+          13,
+          "Yawn"
+        ],
+        [
+          14,
+          "Fairy Wind"
+        ],
+        [
+          17,
+          "Encore"
+        ],
+        [
+          21,
+          "Follow Me"
+        ],
+        [
+          25,
+          "Bestow"
+        ],
+        [
+          29,
+          "Wish"
+        ],
+        [
+          33,
+          "Ancient Power"
+        ],
+        [
+          37,
+          "Safeguard"
+        ],
+        [
+          41,
+          "Baton Pass"
+        ],
+        [
+          45,
+          "Double-Edge"
+        ],
+        [
+          49,
+          "Last Resort"
+        ],
+        [
+          53,
+          "After You"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          31,
+          "Brick Break"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          67,
+          "Smart Strike"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Extrasensory",
+        "Foresight",
+        "Future Sight",
+        "Lucky Chant",
+        "Mirror Move",
+        "Morning Sun",
+        "Nasty Plot",
+        "Peck",
+        "Present",
+        "Psycho Shift",
+        "Secret Power",
+        "Stored Power"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Defog",
+        "Drain Punch",
+        "Endeavor",
+        "Focus Punch",
+        "Heal Bell",
+        "Heat Wave",
+        "Hyper Voice",
+        "Last Resort",
+        "Magic Coat",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Tailwind",
+        "Telekinesis",
+        "Trick",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Air Cutter",
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Defense Curl",
+        "Detect",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Retaliate",
+        "Rock Smash",
+        "Rollout",
+        "Seismic Toss",
+        "Silver Wind",
+        "Soft-Boiled",
+        "Swift",
+        "Twister",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

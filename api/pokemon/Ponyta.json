@@ -1,0 +1,160 @@
+[
+  {
+    "species_name": "Ponyta",
+    "variant_name": "Ponyta",
+    "base_stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 55,
+      "speed": 90,
+      "special_attack": 65,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 77,
+      "types": [
+        "Fire"
+      ],
+      "height": 1.0,
+      "weight": 30.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Fire Horse Pok\u00e9mon",
+      "flavor_text": "If you\u2019ve been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.",
+      "abilities": [
+        "Run Away",
+        "Flash Fire"
+      ],
+      "hidden_abilities": [
+        "Flame Body"
+      ],
+      "regional_dex_nums": [
+        77,
+        201,
+        77,
+        90,
+        90,
+        206,
+        77,
+        333
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 82,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [
+        "Double Kick",
+        "Double-Edge",
+        "Horn Drill",
+        "Hypnosis",
+        "Morning Sun",
+        "Thrash"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  },
+  {
+    "species_name": "Ponyta",
+    "variant_name": "Galarian Ponyta",
+    "base_stats": {
+      "hp": 50,
+      "attack": 85,
+      "defense": 55,
+      "speed": 90,
+      "special_attack": 65,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 77,
+      "types": [
+        "Psychic"
+      ],
+      "height": 0.8,
+      "weight": 24.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Unique Horn Pok\u00e9mon",
+      "flavor_text": "This Pok\u00e9mon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.",
+      "abilities": [
+        "Run Away",
+        "Pastel Veil"
+      ],
+      "hidden_abilities": [
+        "Anticipation"
+      ],
+      "regional_dex_nums": [
+        77,
+        201,
+        77,
+        90,
+        90,
+        206,
+        77,
+        333
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": null,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": null,
+      "base_friendship": null
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": null,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [],
+      "tm_moves": [],
+      "tr_moves": [],
+      "egg_moves": [
+        "Double Kick",
+        "Double-Edge",
+        "Horn Drill",
+        "Hypnosis",
+        "Morning Sun",
+        "Thrash"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "species_name": "Goldeen",
+    "variant_name": "Goldeen",
+    "base_stats": {
+      "hp": 45,
+      "attack": 67,
+      "defense": 60,
+      "speed": 63,
+      "special_attack": 35,
+      "special_defense": 50
+    },
+    "dex_entry": {
+      "national_dex_num": 118,
+      "types": [
+        "Water"
+      ],
+      "height": 0.6,
+      "weight": 15.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Goldfish Pok\u00e9mon",
+      "flavor_text": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+      "abilities": [
+        "Swift Swim",
+        "Water Veil"
+      ],
+      "hidden_abilities": [
+        "Lightning Rod"
+      ],
+      "regional_dex_nums": [
+        118,
+        78,
+        50,
+        118,
+        78,
+        78,
+        78,
+        53,
+        51,
+        153,
+        186,
+        118,
+        146
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 64,
+      "effort_points": {
+        "hp": 0,
+        "attack": 1,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 225,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Water2"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Peck"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          10,
+          "Water Pulse"
+        ],
+        [
+          15,
+          "Horn Attack"
+        ],
+        [
+          20,
+          "Agility"
+        ],
+        [
+          25,
+          "Aqua Ring"
+        ],
+        [
+          30,
+          "Flail"
+        ],
+        [
+          35,
+          "Waterfall"
+        ],
+        [
+          40,
+          "Soak"
+        ],
+        [
+          45,
+          "Megahorn"
+        ],
+        [
+          50,
+          "Horn Drill"
+        ]
+      ],
+      "tm_moves": [
+        [
+          21,
+          "Rest"
+        ],
+        [
+          24,
+          "Snore"
+        ],
+        [
+          25,
+          "Protect"
+        ],
+        [
+          27,
+          "Icy Wind"
+        ],
+        [
+          31,
+          "Attract"
+        ],
+        [
+          33,
+          "Rain Dance"
+        ],
+        [
+          35,
+          "Hail"
+        ],
+        [
+          36,
+          "Whirlpool"
+        ],
+        [
+          39,
+          "Facade"
+        ],
+        [
+          40,
+          "Swift"
+        ],
+        [
+          45,
+          "Dive"
+        ],
+        [
+          52,
+          "Bounce"
+        ],
+        [
+          53,
+          "Mud Shot"
+        ],
+        [
+          76,
+          "Round"
+        ],
+        [
+          96,
+          "Smart Strike"
+        ]
+      ],
+      "tr_moves": [
+        [
+          0,
+          "Swords Dance"
+        ],
+        [
+          1,
+          "Body Slam"
+        ],
+        [
+          3,
+          "Hydro Pump"
+        ],
+        [
+          4,
+          "Surf"
+        ],
+        [
+          5,
+          "Ice Beam"
+        ],
+        [
+          6,
+          "Blizzard"
+        ],
+        [
+          12,
+          "Agility"
+        ],
+        [
+          16,
+          "Waterfall"
+        ],
+        [
+          20,
+          "Substitute"
+        ],
+        [
+          26,
+          "Endure"
+        ],
+        [
+          27,
+          "Sleep Talk"
+        ],
+        [
+          28,
+          "Megahorn"
+        ],
+        [
+          45,
+          "Muddy Water"
+        ],
+        [
+          57,
+          "Poison Jab"
+        ],
+        [
+          84,
+          "Scald"
+        ],
+        [
+          87,
+          "Drill Run"
+        ],
+        [
+          95,
+          "Throat Chop"
+        ]
+      ],
+      "egg_moves": [
+        "Acupressure",
+        "Aqua Tail",
+        "Haze",
+        "Mud-Slap",
+        "Psybeam"
+      ],
+      "tutor_moves": [],
+      "transfer_moves": []
+    }
+  }
+]

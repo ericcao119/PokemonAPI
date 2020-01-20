@@ -1,0 +1,273 @@
+[
+  {
+    "species_name": "Wingull",
+    "variant_name": "Wingull",
+    "base_stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 30,
+      "speed": 85,
+      "special_attack": 55,
+      "special_defense": 30
+    },
+    "dex_entry": {
+      "national_dex_num": 278,
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "height": 0.6,
+      "weight": 9.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Seagull Pok\u00e9mon",
+      "flavor_text": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea\u2019s edge.",
+      "abilities": [
+        "Keen Eye",
+        "Hydration"
+      ],
+      "hidden_abilities": [
+        "Rain Dish"
+      ],
+      "regional_dex_nums": [
+        27,
+        119,
+        119,
+        212,
+        17,
+        27,
+        40,
+        47,
+        62
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 54,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 1,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Flying",
+        "Water1"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Growl"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          5,
+          "Supersonic"
+        ],
+        [
+          8,
+          "Wing Attack"
+        ],
+        [
+          12,
+          "Mist"
+        ],
+        [
+          15,
+          "Water Pulse"
+        ],
+        [
+          19,
+          "Quick Attack"
+        ],
+        [
+          22,
+          "Air Cutter"
+        ],
+        [
+          26,
+          "Pursuit"
+        ],
+        [
+          29,
+          "Aerial Ace"
+        ],
+        [
+          33,
+          "Roost"
+        ],
+        [
+          36,
+          "Agility"
+        ],
+        [
+          40,
+          "Air Slash"
+        ],
+        [
+          43,
+          "Hurricane"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          19,
+          "Roost"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          46,
+          "Thief"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          51,
+          "Steel Wing"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          76,
+          "Fly"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Agility",
+        "Aqua Ring",
+        "Brine",
+        "Gust",
+        "Knock Off",
+        "Mist",
+        "Roost",
+        "Soak",
+        "Twister",
+        "Water Sport",
+        "Wide Guard"
+      ],
+      "tutor_moves": [
+        "Defog",
+        "Icy Wind",
+        "Knock Off",
+        "Liquidation",
+        "Shock Wave",
+        "Sky Attack",
+        "Snore",
+        "Tailwind",
+        "Uproar",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Captivate",
+        "Double-Edge",
+        "Endure",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Ominous Wind",
+        "Pluck",
+        "Secret Power",
+        "Swift"
+      ]
+    }
+  }
+]

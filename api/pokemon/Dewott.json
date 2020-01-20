@@ -1,0 +1,282 @@
+[
+  {
+    "species_name": "Dewott",
+    "variant_name": "Dewott",
+    "base_stats": {
+      "hp": 75,
+      "attack": 75,
+      "defense": 60,
+      "speed": 60,
+      "special_attack": 83,
+      "special_defense": 60
+    },
+    "dex_entry": {
+      "national_dex_num": 502,
+      "types": [
+        "Water"
+      ],
+      "height": 0.8,
+      "weight": 24.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Discipline Pok\u00e9mon",
+      "flavor_text": "As a result of strict training, each Dewott learns different forms for using the scalchops.",
+      "abilities": [
+        "Torrent"
+      ],
+      "hidden_abilities": [
+        "Shell Armor"
+      ],
+      "regional_dex_nums": [
+        8,
+        8
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "MediumSlow",
+      "base_exp_yield": 145,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 2,
+        "special_defense": 0
+      },
+      "catch_rate": 45,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Field"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Tackle"
+        ],
+        [
+          1,
+          "Tail Whip"
+        ],
+        [
+          1,
+          "Water Gun"
+        ],
+        [
+          1,
+          "Water Sport"
+        ],
+        [
+          5,
+          "Tail Whip"
+        ],
+        [
+          7,
+          "Water Gun"
+        ],
+        [
+          11,
+          "Water Sport"
+        ],
+        [
+          13,
+          "Focus Energy"
+        ],
+        [
+          18,
+          "Razor Shell"
+        ],
+        [
+          21,
+          "Fury Cutter"
+        ],
+        [
+          26,
+          "Water Pulse"
+        ],
+        [
+          29,
+          "Revenge"
+        ],
+        [
+          34,
+          "Aqua Jet"
+        ],
+        [
+          37,
+          "Encore"
+        ],
+        [
+          42,
+          "Aqua Tail"
+        ],
+        [
+          45,
+          "Retaliate"
+        ],
+        [
+          50,
+          "Swords Dance"
+        ],
+        [
+          53,
+          "Hydro Pump"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          7,
+          "Hail"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          12,
+          "Taunt"
+        ],
+        [
+          13,
+          "Ice Beam"
+        ],
+        [
+          14,
+          "Blizzard"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          40,
+          "Aerial Ace"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          54,
+          "False Swipe"
+        ],
+        [
+          55,
+          "Scald"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          75,
+          "Swords Dance"
+        ],
+        [
+          81,
+          "X-Scissor"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          94,
+          "Surf"
+        ],
+        [
+          98,
+          "Waterfall"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Air Slash",
+        "Assurance",
+        "Brine",
+        "Copycat",
+        "Detect",
+        "Night Slash",
+        "Sacred Sword",
+        "Screech",
+        "Trump Card"
+      ],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Covet",
+        "Helping Hand",
+        "Icy Wind",
+        "Iron Tail",
+        "Snore",
+        "Water Pledge",
+        "Water Pulse"
+      ],
+      "transfer_moves": [
+        "Cut",
+        "Dig",
+        "Dive",
+        "Rock Smash",
+        "Secret Power"
+      ]
+    }
+  }
+]

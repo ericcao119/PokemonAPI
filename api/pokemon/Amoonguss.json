@@ -1,0 +1,265 @@
+[
+  {
+    "species_name": "Amoonguss",
+    "variant_name": "Amoonguss",
+    "base_stats": {
+      "hp": 114,
+      "attack": 85,
+      "defense": 70,
+      "speed": 30,
+      "special_attack": 85,
+      "special_defense": 80
+    },
+    "dex_entry": {
+      "national_dex_num": 591,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "height": 0.6,
+      "weight": 10.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Mushroom Pok\u00e9mon",
+      "flavor_text": "It lures prey close by dancing and waving its arm caps, which resemble Pok\u00e9 Balls, in a swaying motion.",
+      "abilities": [
+        "Effect Spore"
+      ],
+      "hidden_abilities": [
+        "Regenerator"
+      ],
+      "regional_dex_nums": [
+        97,
+        162,
+        54
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Medium",
+      "base_exp_yield": 162,
+      "effort_points": {
+        "hp": 2,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 75,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Grass"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Absorb"
+        ],
+        [
+          1,
+          "Astonish"
+        ],
+        [
+          1,
+          "Bide"
+        ],
+        [
+          1,
+          "Growth"
+        ],
+        [
+          6,
+          "Growth"
+        ],
+        [
+          8,
+          "Astonish"
+        ],
+        [
+          12,
+          "Bide"
+        ],
+        [
+          15,
+          "Mega Drain"
+        ],
+        [
+          18,
+          "Ingrain"
+        ],
+        [
+          20,
+          "Feint Attack"
+        ],
+        [
+          24,
+          "Sweet Scent"
+        ],
+        [
+          28,
+          "Giga Drain"
+        ],
+        [
+          32,
+          "Toxic"
+        ],
+        [
+          35,
+          "Synthesis"
+        ],
+        [
+          43,
+          "Clear Smog"
+        ],
+        [
+          49,
+          "Solar Beam"
+        ],
+        [
+          54,
+          "Rage Powder"
+        ],
+        [
+          62,
+          "Spore"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          9,
+          "Venoshock"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          15,
+          "Hyper Beam"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          36,
+          "Sludge Bomb"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          53,
+          "Energy Ball"
+        ],
+        [
+          66,
+          "Payback"
+        ],
+        [
+          68,
+          "Giga Impact"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          96,
+          "Nature Power"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Body Slam",
+        "Defense Curl",
+        "Endure",
+        "Gastro Acid",
+        "Growth",
+        "Poison Powder",
+        "Rollout",
+        "Stun Spore"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Foul Play",
+        "Gastro Acid",
+        "Giga Drain",
+        "Seed Bomb",
+        "Snore",
+        "Stomping Tantrum",
+        "Synthesis",
+        "Worry Seed"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]

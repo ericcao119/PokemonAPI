@@ -1,0 +1,315 @@
+[
+  {
+    "species_name": "Togepi",
+    "variant_name": "Togepi",
+    "base_stats": {
+      "hp": 35,
+      "attack": 20,
+      "defense": 65,
+      "speed": 20,
+      "special_attack": 40,
+      "special_defense": 65
+    },
+    "dex_entry": {
+      "national_dex_num": 175,
+      "types": [
+        "Fairy"
+      ],
+      "height": 0.3,
+      "weight": 1.5,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "Spike Ball Pok\u00e9mon",
+      "flavor_text": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
+      "abilities": [
+        "Hustle",
+        "Serene Grace"
+      ],
+      "hidden_abilities": [
+        "Super Luck"
+      ],
+      "regional_dex_nums": [
+        46,
+        173,
+        46,
+        257
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Fast",
+      "base_exp_yield": 49,
+      "effort_points": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 1
+      },
+      "catch_rate": 190,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Undiscovered"
+      ],
+      "male_rate": 87.5,
+      "steps_to_hatch_lower": 2314,
+      "steps_to_hatch_upper": 2570,
+      "egg_cycles": 10
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charm"
+        ],
+        [
+          1,
+          "Growl"
+        ],
+        [
+          5,
+          "Metronome"
+        ],
+        [
+          9,
+          "Sweet Kiss"
+        ],
+        [
+          13,
+          "Yawn"
+        ],
+        [
+          17,
+          "Encore"
+        ],
+        [
+          21,
+          "Follow Me"
+        ],
+        [
+          25,
+          "Bestow"
+        ],
+        [
+          29,
+          "Wish"
+        ],
+        [
+          33,
+          "Ancient Power"
+        ],
+        [
+          37,
+          "Safeguard"
+        ],
+        [
+          41,
+          "Baton Pass"
+        ],
+        [
+          45,
+          "Double-Edge"
+        ],
+        [
+          49,
+          "Last Resort"
+        ],
+        [
+          53,
+          "After You"
+        ]
+      ],
+      "tm_moves": [
+        [
+          1,
+          "Work Up"
+        ],
+        [
+          3,
+          "Psyshock"
+        ],
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          11,
+          "Sunny Day"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          20,
+          "Safeguard"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          22,
+          "Solar Beam"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          29,
+          "Psychic"
+        ],
+        [
+          30,
+          "Shadow Ball"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          33,
+          "Reflect"
+        ],
+        [
+          35,
+          "Flamethrower"
+        ],
+        [
+          38,
+          "Fire Blast"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          49,
+          "Echoed Voice"
+        ],
+        [
+          56,
+          "Fling"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          77,
+          "Psych Up"
+        ],
+        [
+          85,
+          "Dream Eater"
+        ],
+        [
+          86,
+          "Grass Knot"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          99,
+          "Dazzling Gleam"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [
+        "Extrasensory",
+        "Foresight",
+        "Future Sight",
+        "Lucky Chant",
+        "Mirror Move",
+        "Morning Sun",
+        "Nasty Plot",
+        "Peck",
+        "Present",
+        "Psycho Shift",
+        "Secret Power",
+        "Stored Power"
+      ],
+      "tutor_moves": [
+        "After You",
+        "Covet",
+        "Endeavor",
+        "Heal Bell",
+        "Hyper Voice",
+        "Last Resort",
+        "Magic Coat",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Telekinesis",
+        "Trick",
+        "Uproar",
+        "Water Pulse",
+        "Zen Headbutt"
+      ],
+      "transfer_moves": [
+        "Body Slam",
+        "Captivate",
+        "Counter",
+        "Curse",
+        "Defense Curl",
+        "Detect",
+        "Endure",
+        "Flash",
+        "Headbutt",
+        "Incinerate",
+        "Mega Kick",
+        "Mega Punch",
+        "Mimic",
+        "Mud-Slap",
+        "Natural Gift",
+        "Rock Smash",
+        "Rollout",
+        "Seismic Toss",
+        "Soft-Boiled",
+        "Swift",
+        "Zap Cannon"
+      ]
+    }
+  }
+]

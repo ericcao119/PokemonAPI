@@ -1,0 +1,244 @@
+[
+  {
+    "species_name": "Eelektrik",
+    "variant_name": "Eelektrik",
+    "base_stats": {
+      "hp": 65,
+      "attack": 85,
+      "defense": 70,
+      "speed": 40,
+      "special_attack": 75,
+      "special_defense": 70
+    },
+    "dex_entry": {
+      "national_dex_num": 603,
+      "types": [
+        "Electric"
+      ],
+      "height": 1.2,
+      "weight": 22.0,
+      "color": "INVALID",
+      "shape": "INVALID",
+      "kind": "EleFish Pok\u00e9mon",
+      "flavor_text": "These Pok\u00e9mon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+      "abilities": [
+        "Levitate"
+      ],
+      "hidden_abilities": [],
+      "regional_dex_nums": [
+        109,
+        178
+      ]
+    },
+    "training_info": {
+      "leveling_rate": "Slow",
+      "base_exp_yield": 142,
+      "effort_points": {
+        "hp": 0,
+        "attack": 2,
+        "defense": 0,
+        "speed": 0,
+        "special_attack": 0,
+        "special_defense": 0
+      },
+      "catch_rate": 60,
+      "base_friendship": 70
+    },
+    "breeding_info": {
+      "egg_groups": [
+        "Amorphous"
+      ],
+      "male_rate": 50.0,
+      "steps_to_hatch_lower": 4884,
+      "steps_to_hatch_upper": 5140,
+      "egg_cycles": 20
+    },
+    "move_info": {
+      "learned_moves": [
+        [
+          1,
+          "Charge Beam"
+        ],
+        [
+          1,
+          "Crunch"
+        ],
+        [
+          1,
+          "Headbutt"
+        ],
+        [
+          1,
+          "Spark"
+        ],
+        [
+          1,
+          "Thunder Wave"
+        ],
+        [
+          9,
+          "Bind"
+        ],
+        [
+          19,
+          "Acid"
+        ],
+        [
+          29,
+          "Discharge"
+        ],
+        [
+          44,
+          "Thunderbolt"
+        ],
+        [
+          49,
+          "Acid Spray"
+        ],
+        [
+          54,
+          "Coil"
+        ],
+        [
+          59,
+          "Wild Charge"
+        ],
+        [
+          64,
+          "Gastro Acid"
+        ],
+        [
+          69,
+          "Zap Cannon"
+        ],
+        [
+          74,
+          "Thrash"
+        ]
+      ],
+      "tm_moves": [
+        [
+          6,
+          "Toxic"
+        ],
+        [
+          10,
+          "Hidden Power"
+        ],
+        [
+          16,
+          "Light Screen"
+        ],
+        [
+          17,
+          "Protect"
+        ],
+        [
+          18,
+          "Rain Dance"
+        ],
+        [
+          21,
+          "Frustration"
+        ],
+        [
+          24,
+          "Thunderbolt"
+        ],
+        [
+          25,
+          "Thunder"
+        ],
+        [
+          27,
+          "Return"
+        ],
+        [
+          32,
+          "Double Team"
+        ],
+        [
+          42,
+          "Facade"
+        ],
+        [
+          44,
+          "Rest"
+        ],
+        [
+          45,
+          "Attract"
+        ],
+        [
+          48,
+          "Round"
+        ],
+        [
+          57,
+          "Charge Beam"
+        ],
+        [
+          62,
+          "Acrobatics"
+        ],
+        [
+          72,
+          "Volt Switch"
+        ],
+        [
+          73,
+          "Thunder Wave"
+        ],
+        [
+          87,
+          "Swagger"
+        ],
+        [
+          88,
+          "Sleep Talk"
+        ],
+        [
+          89,
+          "U-turn"
+        ],
+        [
+          90,
+          "Substitute"
+        ],
+        [
+          91,
+          "Flash Cannon"
+        ],
+        [
+          93,
+          "Wild Charge"
+        ],
+        [
+          100,
+          "Confide"
+        ]
+      ],
+      "tr_moves": [],
+      "egg_moves": [],
+      "tutor_moves": [
+        "Aqua Tail",
+        "Bind",
+        "Bounce",
+        "Gastro Acid",
+        "Giga Drain",
+        "Iron Tail",
+        "Knock Off",
+        "Magnet Rise",
+        "Shock Wave",
+        "Signal Beam",
+        "Snore",
+        "Super Fang",
+        "Throat Chop"
+      ],
+      "transfer_moves": [
+        "Flash",
+        "Secret Power"
+      ]
+    }
+  }
+]
