@@ -1,0 +1,4 @@
+{
+  "name": "Emergency Exit",
+  "description": "Switches out when HP falls below 50%."
+}

@@ -44,7 +44,7 @@
                 <ul>
                     <li><a href="#pokemon">Pokemon</a></li>
                     <li><a href="#items">Items</a></li>
-                    <li><a href="#about">About</a></li>
+                    <li><a href="#abilities">Abilities</a></li>
                     <li><a href="#credits">Credits</a></li>
                 </ul>
             </nav>
@@ -64,7 +64,7 @@
                 
                 <p>
                     {%- for poke in pokedex %}
-                    <div id="pokemon-selector-{{poke}}" class="pokemon" style="display:none">
+                    <div id="pokemon-selector-{{poke | idify}}" class="pokemon" style="display:none">
                         <pre><code class="language-json">{{pokedex[poke]}}</code></pre>
                     </div>
                     {% endfor -%}
@@ -81,8 +81,23 @@
                 </datalist>
             </article>
 
-            <article id="about">
+            <article id="abilities">
                 <!-- <pre><code>{% include 'code/test.py' %}</code></pre> -->
+                <label for="ability-selector">Abilities</label>
+                <input id="ability-selector-input" type="text" list="ability-selector" />
+                <datalist id="ability-selector">
+                    {%- for abil in abilities %}
+                    <option value="{{abil}}">{{abil}}</option>
+                    {%- endfor %}
+                </datalist>
+                
+                <p>
+                    {%- for abil in abilities %}
+                    <div id="ability-selector-{{abil | idify}}" class="ability" style="display:none">
+                        <pre><code class="language-json">{{abilities[abil]}}</code></pre>
+                    </div>
+                    {% endfor -%}
+                </p>
             </article>
 
             <article id="credits">

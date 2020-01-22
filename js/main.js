@@ -4,6 +4,12 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
+function idify(name) {
+	return name.replace(/\s/g, '-').replace(/[\.:]/g, '');
+}
+
+
 (function ($) {
 
 	var $window = $(window),
@@ -402,12 +408,24 @@
 	// Selectors
 	$('#pokemon-selector-input').change(function () {
 		$('.pokemon').hide();
-		// console.log('#' + 'pokemon-selector-' + $(this).val() + ' pre code');
-		// console.log($('#' + 'pokemon-selector-' + $(this).val() + ' pre code'));
-		$('#' + 'pokemon-selector-' + $(this).val() + ' pre code').each((key, block) => {
+		var id = '#' + 'pokemon-selector-' + idify($(this).val());
+		console.log(id + ' pre code');
+		console.log($(id + ' pre code'));
+		$(id + ' pre code').each((key, block) => {
 			hljs.highlightBlock(block);
 		});
-		$('#' + 'pokemon-selector-' + $(this).val()).show();
+		$(id).show();
+	});
+
+	$('#ability-selector-input').change(function () {
+		$('.ability').hide();
+		var id = '#' + 'ability-selector-' + idify($(this).val());
+		console.log(id + ' pre code');
+		console.log($(id + ' pre code'));
+		$(id + ' pre code').each((key, block) => {
+			hljs.highlightBlock(block);
+		});
+		$(id).show();
 	});
 
 })(jQuery);
