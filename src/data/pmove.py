@@ -1,9 +1,10 @@
 """Defines what a pokemon moves representatino in the database is"""
 
-from dataclasses import asdict, dataclass
-from typing import Any, Dict
+from dataclasses import asdict, dataclass, field
+from typing import Any, Dict, Optional
 
-from src.data.poke_enums import PType, Target
+from src.data.typing import ItemId
+from src.data.poke_enums import PType, Target, MoveCategory
 from src.utils.general import add_slots
 
 
@@ -14,7 +15,14 @@ class PMove:
 
     # TODO: Populate this
     name: str = ""
-    base_power: int = 0
+    ptype: PType = PType.INVALID
+    category: MoveCategory = MoveCategory.INVALID
+    power: int = 0
+    accuracy: Optional[int] = None
+    pp: int = 0
+    tm: ItemId = field(default_factory=lambda: "")
+    effect: str = field(default_factory=lambda: "")
+    prob: Optional[int] = None
 
     def _asdict(self) -> Dict[str, Any]:
         """Converts the class to a dict"""

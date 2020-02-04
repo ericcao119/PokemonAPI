@@ -22,7 +22,7 @@ def _parse_ability(html: bs4.BeautifulSoup) -> Ability:
 
 def scrape_abilities() -> List[Ability]:
     """Scrapes abilities"""
-    html = bs4.BeautifulSoup(ABILITY_LIST.read_text(), "html.parser")
+    html = bs4.BeautifulSoup(ABILITY_LIST.read_text(), "lxml")
 
     ability_html = html.select('tr:has(> td:has(> a[class="ent-name"]))')
     abilities = [_parse_ability(i) for i in ability_html]

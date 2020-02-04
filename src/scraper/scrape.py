@@ -16,13 +16,11 @@ def _create_species_wrapper(args):
     return create_species(*args)
 
 
-def complete_scrape():
+def generate_all_pokemon():
     """Completey scrape all supported information and compose them together"""
     species, variants, typing, stats = scrape_pokedex()
     geneology = create_multimap(species, variants)
     stat_mapping = create_multimap(species, stats)
-
-    abilities = scrape_abilities()
 
     _ = [request_pokeurl_pokemondb(spe) for spe in unique(species)]
 
@@ -31,11 +29,17 @@ def complete_scrape():
         entries = pool.map(
             _create_species_wrapper, zip(species, variants, stats), chunksize=60
         )
-
+        # entries = [_create_species_wrapper(i) for i in list(zip(species, variants, stats))[:4]]
         # print(species)
         # pprint(species)
-        pprint(create_multimap(species, entries), indent=1, sort_dicts=False, width=120)
+        return create_multimap(species, entries)
+        # pprint(create_multimap(species, entries), indent=1, sort_dicts=False, width=120)
 
     except Exception as e:
         logger.error(e)
         raise
+
+
+def generate_abilities():
+    abilities = scrape_abilities()
+    return {ability.name: ability for ability in abilities}

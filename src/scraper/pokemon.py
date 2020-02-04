@@ -65,9 +65,10 @@ def get_variant_basics_html(
     return variant_basics
 
 
+# @profile
 def parse_basics(db_dex_html: Tag, flavor_html: Tag) -> DexEntryComponent:
     """Creates a basic DexEntry from the given html"""
-    initial_filter = "h2:contains('Pokédex data') + table.vitals-table"
+    initial_filter = "h2:contains('Pokédex data') + .vitals-table"
     html_subset = db_dex_html.select_one(initial_filter)
 
     # Dead simple parsing of html
@@ -77,7 +78,9 @@ def parse_basics(db_dex_html: Tag, flavor_html: Tag) -> DexEntryComponent:
         html_subset.select_one("th:contains('National') + td > strong").string
     )
     dex_params["types"] = [
-        PType[i.string] for i in html_subset.select("th:contains('Type') + td > a")
+        # PType[i.string] for i in html_subset.select("th:contains('Type') + td > a")
+        PType[i.string]
+        for i in html_subset.select("th:contains('Type') + td > .type-icon")
     ]
     dex_params["kind"] = str(
         html_subset.select_one("th:contains('Species') + td").string
@@ -143,9 +146,10 @@ def _determine_gender_rate(raw_str: str):
     return float(match.group())
 
 
+# @profile
 def parse_breeding(db_dex_html: Tag) -> BreedingComponent:
     """Creates a basic DexEntry from the given html"""
-    initial_filter = "h2:contains('Breeding') + table.vitals-table"
+    initial_filter = "h2:contains('Breeding') + .vitals-table"
     html_subset = db_dex_html.select_one(initial_filter)
 
     # Dead simple parsing of html
@@ -178,9 +182,10 @@ def parse_breeding(db_dex_html: Tag) -> BreedingComponent:
     return BreedingComponent(**dex_params)
 
 
+# @profile
 def parse_training(db_dex_html: Tag) -> TrainingComponent:
     """Creates a basic TrainingComponent from the given html"""
-    initial_filter = "h2:contains('Training') + table.vitals-table"
+    initial_filter = "h2:contains('Training') + .vitals-table"
     html_subset = db_dex_html.select_one(initial_filter)
 
     # Dead simple parsing of html
@@ -235,6 +240,7 @@ def _select_move_tab(moves_html: Tag):
     return max(zip(generation_select, fragments), key=lambda x: len(x[0]))
 
 
+# @profile
 def parse_moves(
     moves_html: Tag, species: SpeciesId, variant: Optional[VariantId] = None
 ) -> MoveComponent:
@@ -300,6 +306,7 @@ def parse_moves(
     return MoveComponent(**moves)
 
 
+# @profile
 def _scrape_flavor_text(html, species: SpeciesId, variant: Optional[VariantId]) -> Tag:
     """Helper method to extract flavor text"""
     # main is necessary to greatly reduce the number of
@@ -339,9 +346,10 @@ def _scrape_flavor_text(html, species: SpeciesId, variant: Optional[VariantId]) 
     return flavor_html
 
 
+# @profile
 def scrape_pokemon(
     species: SpeciesId, variant: VariantId = None
-) -> Tuple[Tag, Tag, Tag, Tag]:
+) -> Tuple[Tag, Tag, Tag]:
     """Returns relevant html fragments from pokemon html file"""
     if variant is None:
         variant = species
@@ -351,23 +359,23 @@ def scrape_pokemon(
     if not db_file.exists():
         raise ValueError(f"File {db_file} does not exist")
 
-    html = bs4.BeautifulSoup(db_file.read_text(), "html.parser")
+    strainer = bs4.SoupStrainer("")
+    html = bs4.BeautifulSoup(db_file.read_text(), "lxml", parse_only=strainer)
 
-    dex_basics = html.select_one("#dex-basics ~ div.tabset-basics.tabs-wrapper")
+    dex_basics = html.select_one(".tabset-basics")
     dex_basics = get_variant_basics_html(dex_basics, species, variant)
 
-    evolution_html = html.select_one("div.infocard-list-evo")
-    moves_html = html.select_one("div.tabset-moves-game.tabs-wrapper")
+    # evolution_html = html.select_one("div.infocard-list-evo")
+    moves_html = html.select_one(".tabset-moves-game.tabs-wrapper")
     flavor_html = _scrape_flavor_text(html, species, variant)
 
-    return dex_basics, evolution_html, moves_html, flavor_html
+    return dex_basics, moves_html, flavor_html
 
 
+# @profile
 def create_species(species: SpeciesId, variant: VariantId, stats: BaseStats):
     """Create full species information"""
-    dex_basics, evolution_html, moves_html, flavor_html = scrape_pokemon(
-        species, variant
-    )
+    dex_basics, moves_html, flavor_html = scrape_pokemon(species, variant)
 
     species_info: Dict[str, Any] = {"species_name": species, "variant_name": species}
 

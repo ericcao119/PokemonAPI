@@ -53,6 +53,8 @@ Complete list of Pokemon with Regional Forms
 
 Complete list of Pokemon with Gigantimax Forms
 
+Optimize selectors
+
 ## Stretch features
 
 Complete list of Pokemon with stats (with forms - beware of darumaka it has both a regional form and a form change)

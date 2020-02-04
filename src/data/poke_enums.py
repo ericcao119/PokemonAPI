@@ -223,6 +223,30 @@ class Target(enum.Flag):
         return self.name
 
 
+class ItemCategory(enum.Enum):
+    INVALID = -1
+    Machines = (0,)
+    GeneralItems = (1,)
+    Pokeballs = (2,)
+    HoldItems = (3,)
+    BattleItems = (4,)
+    Berries = (5,)
+    Medicine = 6
+
+    def __str__(self):
+        return self.name
+
+    def __repr__(self):
+        return self.name
+
+
+class MoveCategory(enum.Enum):
+    INVALID = -1
+    Special = (0,)
+    Physical = (1,)
+    Status = 2
+
+
 POKE_ENUMS = [
     cls for (_, cls) in inspect.getmembers(sys.modules[__name__], inspect.isclass)
 ]
