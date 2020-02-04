@@ -3,8 +3,8 @@
 from dataclasses import asdict, dataclass, field
 from typing import Any, Dict, Optional
 
+from src.data.poke_enums import MoveCategory, PType, Target
 from src.data.typing import ItemId
-from src.data.poke_enums import PType, Target, MoveCategory
 from src.utils.general import add_slots
 
 

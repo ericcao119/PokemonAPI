@@ -28,6 +28,14 @@ src.data.egg\_group\_list module
    :undoc-members:
    :show-inheritance:
 
+src.data.item module
+--------------------
+
+.. automodule:: src.data.item
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 src.data.pmove module
 ---------------------
 

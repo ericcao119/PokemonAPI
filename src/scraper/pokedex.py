@@ -11,6 +11,7 @@ from src.data.poke_enums import PType
 from src.data.stats import BaseStats
 from src.data.typing import SpeciesId, VariantId
 
+
 # @profile
 def _parse_dex_entry(html):
     """Parses a single dex entry from the pokemon database.
