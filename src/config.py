@@ -9,9 +9,9 @@ from src.data.codec import TYPE_REGISTRY
 
 ROOT_DIR: Final[Path] = (Path(__file__).parent).absolute()
 CACHE_DIR: Final[Path] = (ROOT_DIR / "cache").absolute()
-SPECIES_DIR: Final[Path] = (CACHE_DIR / "species").absolute()
-SPECIES_BULBA_DIR: Final[Path] = (SPECIES_DIR / "bulbapedia").absolute()
-SPECIES_POKEDB_DIR: Final[Path] = (SPECIES_DIR / "pokemondb").absolute()
+POKEMONDB_DIR: Final[Path] = (CACHE_DIR / "pokemondb").absolute()
+SPECIES_POKEDB_DIR: Final[Path] = (POKEMONDB_DIR / "pokedex").absolute()
+MOVE_POKEDB_DIR: Final[Path] = (POKEMONDB_DIR / "move").absolute()
 
 # NationalDex: Final[Path] = CACHE_DIR / "NationalDex.html"
 # FormDifferences: Final[Path] = CACHE_DIR / "FormDifferences.html"
@@ -24,6 +24,7 @@ ITEMS_LIST: Final[Path] = CACHE_DIR / "Items.html"
 MOVES_LIST: Final[Path] = CACHE_DIR / "Moves.html"
 
 
+POKEMONDB_STUB: Final[str] = "https://pokemondb.net"
 DBDEX_STUB: Final[str] = "https://pokemondb.net/pokedex/"
 BULBADEX_STUB: Final[str] = "https://bulbapedia.bulbagarden.net/wiki/"
 

@@ -1,7 +1,7 @@
 """Contains basic code for completely defining a speciess/variant in pokemon"""
 
 import re
-from typing import Any, Dict, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 import bs4
 from bs4.element import Tag
@@ -9,6 +9,7 @@ from loguru import logger
 
 from src.data.poke_enums import EggGroup, LevelingRate, PType
 from src.data.species import (
+    REGIONAL_TEXT_MAPPING,
     BreedingComponent,
     DexEntryComponent,
     MoveComponent,
@@ -77,11 +78,11 @@ def parse_basics(db_dex_html: Tag, flavor_html: Tag) -> DexEntryComponent:
     dex_params["national_dex_num"] = int(
         html_subset.select_one("th:contains('National') + td > strong").string
     )
-    dex_params["types"] = [
-        # PType[i.string] for i in html_subset.select("th:contains('Type') + td > a")
-        PType[i.string]
-        for i in html_subset.select("th:contains('Type') + td > .type-icon")
-    ]
+    # dex_params["types"] = [
+    #     # PType[i.string] for i in html_subset.select("th:contains('Type') + td > a")
+    #     PType[i.string]
+    #     for i in html_subset.select("th:contains('Type') + td > .type-icon")
+    # ]
     dex_params["kind"] = str(
         html_subset.select_one("th:contains('Species') + td").string
     )
@@ -108,9 +109,18 @@ def parse_basics(db_dex_html: Tag, flavor_html: Tag) -> DexEntryComponent:
     raw_nums = html_subset.select_one("th:contains('Local') + td")
     NavigableString = bs4.element.NavigableString
     dex_params["regional_dex_nums"] = (
-        [int(i.strip()) for i in raw_nums if isinstance(i, NavigableString)]
+        dict(
+            zip(
+                [
+                    REGIONAL_TEXT_MAPPING[str(small.string)]
+                    for small in raw_nums
+                    if not isinstance(small, NavigableString)
+                ],
+                [int(i.strip()) for i in raw_nums if isinstance(i, NavigableString)],
+            )
+        )
         if raw_nums is None or raw_nums.string != "—"
-        else []
+        else {}
     )
 
     dex_params["flavor_text"] = str(flavor_html.select("tr > td")[-1].string)
@@ -256,6 +266,7 @@ def parse_moves(
         "Moves learnt by TR": "tr_moves",
         "Move Tutor moves": "tutor_moves",
         "Transfer-only moves": "transfer_moves",
+        "Moves learnt on evolution": "evolution_moves",
     }
 
     def sorted_moves(move_list):
@@ -277,13 +288,14 @@ def parse_moves(
         )
         return sorted([(int(i.string), str(j.string)) for (i, j) in pairs])
 
-    transform_mapping = {
+    TRANSFORM_MAPPING = {
         "learned_moves": number_extract,
         "tm_moves": technical_extract,
         "egg_moves": sorted_moves,
         "tr_moves": technical_extract,
         "tutor_moves": sorted_moves,
         "transfer_moves": sorted_moves,
+        "evolution_moves": sorted_moves,
     }
 
     move_anchors, href = _select_move_tab(moves_html)
@@ -301,7 +313,7 @@ def parse_moves(
         # i.findNext("div") for i in move_anchors if i.string in key_mapping.keys()
     ]
 
-    moves = {i: transform_mapping[i](j) for (i, j) in zip(keys, move_tables)}
+    moves = {i: TRANSFORM_MAPPING[i](j) for (i, j) in zip(keys, move_tables)}
 
     return MoveComponent(**moves)
 
@@ -332,7 +344,7 @@ def _scrape_flavor_text(html, species: SpeciesId, variant: Optional[VariantId]) 
         )
 
     if flavor_html is None:
-        logger.info(
+        logger.debug(
             f"Species does not contain a dex entry. Using a unlisted form dex entry"
         )
 
@@ -362,6 +374,9 @@ def scrape_pokemon(
     strainer = bs4.SoupStrainer("")
     html = bs4.BeautifulSoup(db_file.read_text(), "lxml", parse_only=strainer)
 
+    for linebreak in html.find_all("br"):
+        linebreak.extract()
+
     dex_basics = html.select_one(".tabset-basics")
     dex_basics = get_variant_basics_html(dex_basics, species, variant)
 
@@ -373,7 +388,9 @@ def scrape_pokemon(
 
 
 # @profile
-def create_species(species: SpeciesId, variant: VariantId, stats: BaseStats):
+def create_species(
+    species: SpeciesId, variant: VariantId, typing: List[PType], stats: BaseStats
+) -> Species:
     """Create full species information"""
     dex_basics, moves_html, flavor_html = scrape_pokemon(species, variant)
 
@@ -382,6 +399,7 @@ def create_species(species: SpeciesId, variant: VariantId, stats: BaseStats):
     species_info["species_name"] = species
     species_info["variant_name"] = variant
     species_info["base_stats"] = stats
+    species_info["types"] = typing
 
     species_info["dex_entry"] = parse_basics(dex_basics, flavor_html)
     species_info["move_info"] = parse_moves(moves_html, species)

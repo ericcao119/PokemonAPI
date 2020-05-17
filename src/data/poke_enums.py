@@ -242,9 +242,16 @@ class ItemCategory(enum.Enum):
 
 class MoveCategory(enum.Enum):
     INVALID = -1
-    Special = (0,)
-    Physical = (1,)
+    Special = 0
+    Physical = 1
     Status = 2
+    NoCategory = 3
+
+    def __str__(self):
+        return self.name
+
+    def __repr__(self):
+        return self.name
 
 
 POKE_ENUMS = [

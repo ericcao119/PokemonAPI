@@ -7,6 +7,7 @@ from loguru import logger
 from src.data.typing import SpeciesId, VariantId
 from src.gather_files import request_pokeurl_pokemondb
 from src.scraper.abilities_list import scrape_abilities
+from src.scraper.pmove import scrape_moves
 from src.scraper.pokedex import scrape_pokedex
 from src.scraper.pokemon import create_species
 from src.utils.general import create_multimap, unique
@@ -27,7 +28,7 @@ def generate_all_pokemon():
     try:
         pool = multiprocessing.Pool(4)
         entries = pool.map(
-            _create_species_wrapper, zip(species, variants, stats), chunksize=60
+            _create_species_wrapper, zip(species, variants, typing, stats), chunksize=60
         )
         # entries = [_create_species_wrapper(i) for i in list(zip(species, variants, stats))[:4]]
         # print(species)
