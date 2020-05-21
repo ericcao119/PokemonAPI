@@ -8,10 +8,10 @@ from flask import Flask, Response, render_template
 from flask.json import dumps
 
 from src.data.species import Species
-from src.scraper.pokemon import create_species
 from src.scraper.pokedex import scrape_pokedex
-from src.utils.general import create_multimap
+from src.scraper.pokemon import create_species
 from src.utils.codec_helpers import JsonEncoderCodec
+from src.utils.general import create_multimap
 
 
 def create_app(test_config=None):

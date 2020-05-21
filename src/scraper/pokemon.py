@@ -58,7 +58,8 @@ def _index_from_tablist(tablist_html: Tag, variant: VariantId) -> int:
 def _determine_gender_rate(raw_str: str):
     """Scrapes gender rate from the raw_string
 
-    >>> _determine_gender_rate('Genderless') # Returns None
+    >>> _determine_gender_rate('Genderless')
+    nan
     >>> _determine_gender_rate('87.5% male, 12.5% female')
     87.5
     >>> _determine_gender_rate('50% male, 50% female')
