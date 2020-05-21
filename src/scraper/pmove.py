@@ -1,6 +1,7 @@
 """Scrape Moves"""
 
 import re
+from functools import cached_property
 from pathlib import Path
 from pprint import pprint
 from typing import Final, List, Optional
@@ -28,20 +29,20 @@ class MovePage:
     TARGET_DESCR_SELECTOR: Final[str] = "p.mt-descr"
     MOVE_DESCR_TABLE: Final[str] = "#move-descr + div > table.vitals-table > tbody"
 
-    def __init__(self, html: Path):
-        self._soup = bs4.BeautifulSoup(html.read_text(), "lxml")
+    def __init__(self, path: Path):
+        self._soup = bs4.BeautifulSoup(path.read_text(), "lxml")
         self._move_data = self._soup.select_one(MovePage.MOVE_DATA_SELECTOR)
 
-    @property
+    @cached_property
     def name(self) -> str:
         h1 = self._soup.select_one("h1")
         return str(h1.contents[0]).strip()
 
-    @property
+    @cached_property
     def ptype(self) -> PType:
         return PType[self._move_data.select_one("a.type-icon").string]
 
-    @property
+    @cached_property
     def category(self) -> MoveCategory:
         html = self._move_data.select_one("th:contains('Category') + td")
         string = html.get_text().strip()
@@ -50,7 +51,7 @@ class MovePage:
             return MoveCategory.NoCategory
         return MoveCategory[string]
 
-    @property
+    @cached_property
     def power(self) -> float:
         html = self._move_data.select_one("th:contains('Power') + td")
         string = html.string.strip()
@@ -60,7 +61,7 @@ class MovePage:
             return float("inf")
         return float(html.string.strip())
 
-    @property
+    @cached_property
     def accuracy(self) -> float:
         html = self._move_data.select_one("th:contains('Accuracy') + td")
         string = html.string.strip()
@@ -70,7 +71,7 @@ class MovePage:
             return float("inf")
         return float(html.string.strip())
 
-    @property
+    @cached_property
     def pp(self) -> Optional[int]:
         html = self._move_data.select_one("th:contains('PP') + td")
         string = html.contents[0].strip()
@@ -78,7 +79,7 @@ class MovePage:
             return None
         return int(string)
 
-    @property
+    @cached_property
     def max_pp(self) -> Optional[int]:
         html = self._move_data.select_one("th:contains('PP') + td")
 
@@ -99,7 +100,7 @@ class MovePage:
             return None
         return int(string)
 
-    @property
+    @cached_property
     def generation_introduced(self) -> Optional[int]:
         html = self._move_data.select_one("th:contains('Introduced') + td")
         string = html.string.strip()
@@ -115,7 +116,7 @@ class MovePage:
             return None
         return int(string)
 
-    @property
+    @cached_property
     def tm(self) -> Optional[int]:
         html: bs4.Tag = self._soup.select_one(MovePage.TM_SELECTOR)
         if html is None:
@@ -126,7 +127,7 @@ class MovePage:
 
         return int(html("td")[-1].string[2:])
 
-    @property
+    @cached_property
     def effect(self) -> str:
         html: bs4.Tag = self._soup.select_one(MovePage.EFFECT_SELECTOR)
         text = []
@@ -139,7 +140,7 @@ class MovePage:
 
         return "\n".join(text)
 
-    @property
+    @cached_property
     def zmove_effect(self) -> Optional[str]:
         html: bs4.Tag = self._soup.select_one(MovePage.ZMOVE_EFFECT_SELECTOR)
 
@@ -156,18 +157,18 @@ class MovePage:
 
         return "\n".join(text)
 
-    @property
+    @cached_property
     def target_description(self) -> str:
         html: bs4.Tag = self._soup.select_one(MovePage.TARGET_DESCR_SELECTOR)
 
         return str(html.string).strip()
 
-    @property
+    @cached_property
     def description(self) -> str:
         html: bs4.Tag = self._soup.select_one(MovePage.MOVE_DESCR_TABLE)
         return str(html("td")[-1].string)
 
-    @property
+    @cached_property
     def tr(self) -> Optional[int]:
         # TODO: PokemonDb does not list this yet
         return None
@@ -196,16 +197,6 @@ class MovePage:
 
     def __repr__(self) -> str:
         return self.move.__repr__()
-
-
-def parse_accuracy_string(string: str) -> Optional[int]:
-    if string is None or string == "None":
-        return None
-    if string == "—":
-        return None
-    if string == "∞":
-        return -1
-    return int(string)
 
 
 def get_move_url(move_html: bs4.BeautifulSoup) -> str:

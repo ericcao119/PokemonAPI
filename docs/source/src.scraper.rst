@@ -11,10 +11,10 @@ Subpackages
 Submodules
 ----------
 
-src.scraper.abilities\_list module
-----------------------------------
+src.scraper.ability module
+--------------------------
 
-.. automodule:: src.scraper.abilities_list
+.. automodule:: src.scraper.ability
    :members:
    :undoc-members:
    :show-inheritance:

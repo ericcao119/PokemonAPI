@@ -65,8 +65,8 @@ class DexEntryComponent:
     kind: str = ""
     flavor_text: str = ""
 
-    abilities: List[Ability] = field(default_factory=lambda: [])
-    hidden_abilities: List[Ability] = field(default_factory=lambda: [])
+    abilities: List[str] = field(default_factory=lambda: [])
+    hidden_abilities: List[str] = field(default_factory=lambda: [])
     regional_dex_nums: Dict[str, int] = field(default_factory=lambda: {})
 
     def _asdict(self) -> Dict:
@@ -74,6 +74,19 @@ class DexEntryComponent:
 
     def get_regional_dex(self, key):
         return self.regional_dex_nums[key] if key in self.regional_dex_nums else None
+
+    def write_abilities_sql(self, cursor: Cursor, _id: int):
+        sql = """INSERT INTO PokemonWithAbility (
+            pokemon_id, ability_id, ability_index, is_hidden
+            ) VALUES (?, (
+                SELECT ability_id FROM Ability WHERE ability_name= ?
+            ), ?, ?)"""
+
+        for idx, ability in enumerate(self.abilities):
+            cursor.execute(sql, (_id, ability, idx, False))
+
+        for idx, ability in enumerate(self.hidden_abilities):
+            cursor.execute(sql, (_id, ability, idx, True))
 
 
 @add_slots
@@ -136,6 +149,86 @@ class MoveComponent:
 
     def _asdict(self) -> Dict:
         return asdict(self)
+
+    def write_moves_sql(self, cursor: Cursor, _id: int):
+        self.write_learned_moves_sql(cursor, _id)
+        self.write_tm_sql(cursor, _id)
+        # self.write_tr_sql(cursor, _id)
+        self.write_evolution_moves_sql(cursor, _id)
+        self.write_tutor_moves_sql(cursor, _id)
+        self.write_transferable_moves_sql(cursor, _id)
+        self.write_egg_moves_sql(cursor, _id)
+
+    def write_learned_moves_sql(self, cursor: Cursor, _id: int):
+        sql = """INSERT INTO LearntByLevelUp (
+            pokemon_id, move_id, level
+            ) VALUES (?, (
+                SELECT move_id FROM Move WHERE name= ?
+            ), ?)"""
+
+        for lvl, move_name in self.learned_moves:
+            cursor.execute(sql, (_id, move_name, lvl))
+
+    def write_tm_sql(self, cursor: Cursor, _id: int):
+        sql = """INSERT INTO LearntByTechnicalMachine (
+            pokemon_id, move_id, tm
+            ) VALUES (?, (
+                SELECT move_id FROM Move WHERE name= ?
+            ), ?)"""
+
+        for tm, move_name in self.tm_moves:
+            cursor.execute(sql, (_id, move_name, tm))
+
+    def write_tr_sql(self, cursor: Cursor, _id: int):
+        raise NotImplementedError("TR are not listed yet by PokemonDb")
+        # sql = """INSERT INTO LearntByTechnicalRecord (
+        #     pokemon_id, move_id, tr
+        #     ) VALUES (?, (
+        #         SELECT move_id FROM Move WHERE name= ?
+        #     ), ?)"""
+
+        # for tr, move_name in self.tr_moves:
+        #     cursor.execute(sql, (_id, move_name, tr))
+
+    def write_evolution_moves_sql(self, cursor: Cursor, _id: int):
+        sql = """INSERT INTO LearntByEvolution (
+            pokemon_id, move_id
+            ) VALUES (?, (
+                SELECT move_id FROM Move WHERE name= ?
+            ))"""
+
+        for move_name in self.evolution_moves:
+            cursor.execute(sql, (_id, move_name))
+
+    def write_tutor_moves_sql(self, cursor: Cursor, _id: int):
+        sql = """INSERT INTO LearntByMoveTutor (
+            pokemon_id, move_id
+            ) VALUES (?, (
+                SELECT move_id FROM Move WHERE name= ?
+            ))"""
+
+        for move_name in self.tutor_moves:
+            cursor.execute(sql, (_id, move_name))
+
+    def write_transferable_moves_sql(self, cursor: Cursor, _id: int):
+        sql = """INSERT INTO LearntByTransfer (
+            pokemon_id, move_id
+            ) VALUES (?, (
+                SELECT move_id FROM Move WHERE name= ?
+            ))"""
+
+        for move_name in self.transfer_moves:
+            cursor.execute(sql, (_id, move_name))
+
+    def write_egg_moves_sql(self, cursor: Cursor, _id: int):
+        sql = """INSERT INTO LearntByEggMove (
+            pokemon_id, move_id
+            ) VALUES (?, (
+                SELECT move_id FROM Move WHERE name= ?
+            ))"""
+
+        for move_name in self.transfer_moves:
+            cursor.execute(sql, (_id, move_name))
 
 
 @add_slots
@@ -294,3 +387,7 @@ class Species:
 
         t = self.get_sql_tuple()
         cursor.execute(entry_sql, tuple(chain(t, t)))
+        _id = cursor.lastrowid
+
+        self.dex_entry.write_abilities_sql(cursor, _id)
+        self.move_info.write_moves_sql(cursor, _id)

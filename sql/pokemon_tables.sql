@@ -64,21 +64,14 @@ CREATE TABLE IF NOT EXISTS Species (
 
 CREATE UNIQUE INDEX IF NOT EXISTS ux_species ON Species (species_name, variant_name);
 
-CREATE TABLE IF NOT EXISTS Evolution (
-  predecessor_id INT,
-  successor_id INT,
-  evolution_method TEXT,
-
-  FOREIGN KEY (predecessor_id) REFERENCES Pokemon(pokemon_id),
-  FOREIGN KEY (successor_id) REFERENCES Pokemon(pokemon_id)
-);
+-- Evolutions stored in json
 
 -- Ability Table
 CREATE TABLE IF NOT EXISTS Ability (
   ability_id INTEGER PRIMARY KEY AUTOINCREMENT,
   ability_name TEXT UNIQUE,
   effect TEXT,
-  game_description TEXT
+  description TEXT
 );
 
 CREATE UNIQUE INDEX IF NOT EXISTS ux_ability_name ON Ability (ability_name);
@@ -91,7 +84,7 @@ CREATE TABLE IF NOT EXISTS PokemonWithAbility (
   ability_index INT NOT NULL,
   is_hidden BOOLEAN NOT NULL,
 
-  UNIQUE (pokemon_id, ability_index) ON CONFLICT REPLACE,
+  UNIQUE (pokemon_id, ability_index, is_hidden) ON CONFLICT REPLACE,
   FOREIGN KEY (pokemon_id) REFERENCES Species(pokemon_id),
   FOREIGN KEY (ability_id) REFERENCES Ability(ability_id)
 );
@@ -122,10 +115,20 @@ CREATE TABLE IF NOT EXISTS Move (
 );
 
 
+CREATE TABLE IF NOT EXISTS LearntByLevelUp(
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  move_id INT,
+  pokemon_id INT,
+  level INT,
+  FOREIGN KEY (move_id) REFERENCES Move(move_id),
+  FOREIGN KEY (pokemon_id) REFERENCES Pokemon(pokemon_id)
+);
+
 CREATE TABLE IF NOT EXISTS LearntByTechnicalMachine (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   move_id INT,
   pokemon_id INT,
+  tm INT,
 
   FOREIGN KEY (move_id) REFERENCES Move(move_id),
   FOREIGN KEY (pokemon_id) REFERENCES Pokemon(pokemon_id)
@@ -135,6 +138,7 @@ CREATE TABLE IF NOT EXISTS LearntByTechnicalRecord (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   move_id INT,
   pokemon_id INT,
+  tr INT,
 
   FOREIGN KEY (move_id) REFERENCES Move(move_id),
   FOREIGN KEY (pokemon_id) REFERENCES Pokemon(pokemon_id)

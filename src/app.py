@@ -8,12 +8,9 @@ from flask import Flask, Response, render_template
 from flask.json import dumps
 
 from src.data.species import Species
-from src.scraper.pokemon import (
-    parse_basics,
-    parse_moves,
-    parse_training,
-    scrape_pokemon,
-)
+from src.scraper.pokemon import create_species
+from src.scraper.pokedex import scrape_pokedex
+from src.utils.general import create_multimap
 from src.utils.codec_helpers import JsonEncoderCodec
 
 
@@ -43,6 +40,13 @@ def create_app(test_config=None):
     except OSError:
         pass
 
+    species, variants, typing, stats, urls = scrape_pokedex()
+
+    variants_map = create_multimap(species, variants)
+    typing_map = create_multimap(species, typing)
+    stats_map = create_multimap(species, stats)
+    url_map = create_multimap(species, urls)
+
     # a simple page that says hello
     @app.route("/")
     def root():
@@ -50,23 +54,32 @@ def create_app(test_config=None):
 
     @app.route("/api/pokemon/<species>", methods=["GET"])
     def show_base(species: str):
-        dex_basics, evolution_html, moves_html, flavor_html = scrape_pokemon(species)
+        poke = create_species(
+            species,
+            variants_map[species][0],
+            typing_map[species][0],
+            stats_map[species][0],
+            url_map[species][0],
+        )
 
-        species_info: Dict[str, Any] = {
-            "species_name": species,
-            "variant_name": species,
-        }
-
-        species_info["dex_entry"] = parse_basics(dex_basics, flavor_html)
-        species_info["move_info"] = parse_moves(moves_html, species)
-        species_info["training_info"] = parse_training(dex_basics)
-
-        json_str = json.dumps(asdict(Species(**species_info)), cls=JsonEncoderCodec)
+        json_str = json.dumps(asdict(poke), cls=JsonEncoderCodec)
 
         return Response(response=json_str, mimetype="application/json")
 
     @app.route("/api/pokemon/<species>/<variant>", methods=["GET"])
     def show_variant(species: str, variant: str):
-        return scrape_pokemon(species, variant)
+        variant_idx = variants_map[species].index(variant)
+
+        poke = create_species(
+            species,
+            variant,
+            typing_map[species][variant_idx],
+            stats_map[species][variant_idx],
+            url_map[species][variant_idx],
+        )
+
+        json_str = json.dumps(asdict(poke), cls=JsonEncoderCodec)
+
+        return Response(response=json_str, mimetype="application/json")
 
     return app

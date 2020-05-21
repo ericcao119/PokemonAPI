@@ -12,6 +12,7 @@ CACHE_DIR: Final[Path] = (ROOT_DIR / "cache").absolute()
 POKEMONDB_DIR: Final[Path] = (CACHE_DIR / "pokemondb").absolute()
 SPECIES_POKEDB_DIR: Final[Path] = (POKEMONDB_DIR / "pokedex").absolute()
 MOVE_POKEDB_DIR: Final[Path] = (POKEMONDB_DIR / "move").absolute()
+ABILITY_POKEDB_DIR: Final[Path] = (POKEMONDB_DIR / "ability").absolute()
 
 # NationalDex: Final[Path] = CACHE_DIR / "NationalDex.html"
 # FormDifferences: Final[Path] = CACHE_DIR / "FormDifferences.html"

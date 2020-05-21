@@ -31,6 +31,16 @@ Scraping all pokemon + variants
 
 Scraping all evolution chains
 
+Complete list of Pokemon with different forms
+
+Complete list of Pokemon with Mega Forms
+
+Complete list of Pokemon with Regional Forms
+
+Complete list of Pokemon with Gigantimax Forms
+
+Complete list of Pokemon with stats (with forms - beware of darumaka it has both a regional form and a form change)
+
 ## Mandatory Features
 
 Support for multiple database types
@@ -45,25 +55,19 @@ Complete list of items (with descriptions and multiple ones per game)
 
 Complete list of TMs
 
-Complete list of Pokemon with different forms
-
-Complete list of Pokemon with Mega Forms
-
-Complete list of Pokemon with Regional Forms
-
-Complete list of Pokemon with Gigantimax Forms
-
 Optimize selectors
 
 ## Stretch features
-
-Complete list of Pokemon with stats (with forms - beware of darumaka it has both a regional form and a form change)
 
 Complete list of Pokemon API with all details (optional variants or separate)
 
 Complete pokemon colors and shapes (Particularly hard since Variants are the same between websites. Minior really messes this up.)
 
 Scrape based on time periods and handle all errors
+
+## Current Issues
+
+More unicode support needed
 
 ## Rationale for using Python 3.8
 
