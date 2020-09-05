@@ -87,12 +87,20 @@ class MovePage:
             return None
 
         string = html.contents[1].string.strip()
+
+        if "zap" in self.name:
+            logger.error(self.name)
+            logger.error(html.string)
+            logger.error(string)
+
         match = RE_MAX_PP.search(string)
 
         if match:
             string = match.group(1)
         else:
-            logger.error("Could not find / parse max PP. Using default PP value")
+            logger.error(
+                f"{self.name}: Could not find / parse max PP. Using default PP value"
+            )
             return self.pp
 
         if string == "—":
