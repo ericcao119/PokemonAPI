@@ -1,21 +1,36 @@
 src.scraper package
 ===================
 
+Subpackages
+-----------
+
+.. toctree::
+
+   src.scraper.evolutions
+
 Submodules
 ----------
 
-src.scraper.abilities\_list module
-----------------------------------
+src.scraper.ability module
+--------------------------
 
-.. automodule:: src.scraper.abilities_list
+.. automodule:: src.scraper.ability
    :members:
    :undoc-members:
    :show-inheritance:
 
-src.scraper.evolution\_graph module
------------------------------------
+src.scraper.items module
+------------------------
 
-.. automodule:: src.scraper.evolution_graph
+.. automodule:: src.scraper.items
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.scraper.pmove module
+------------------------
+
+.. automodule:: src.scraper.pmove
    :members:
    :undoc-members:
    :show-inheritance:
@@ -32,6 +47,14 @@ src.scraper.pokemon module
 --------------------------
 
 .. automodule:: src.scraper.pokemon
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+src.scraper.scrape module
+-------------------------
+
+.. automodule:: src.scraper.scrape
    :members:
    :undoc-members:
    :show-inheritance:

@@ -28,6 +28,14 @@ src.utils.general module
    :undoc-members:
    :show-inheritance:
 
+src.utils.poke\_helpers module
+------------------------------
+
+.. automodule:: src.utils.poke_helpers
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 Module contents
 ---------------

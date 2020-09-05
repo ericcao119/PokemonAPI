@@ -1,9 +1,17 @@
-"""Defines what a pokemon moves representatino in the database is"""
+"""Defines what a pokemon moves representation in the database is"""
 
-from dataclasses import asdict, dataclass
-from typing import Any, Dict
 
-from src.data.poke_enums import PType, Target
+# TODO: INITVAR to read from sqlite
+
+import dataclasses
+from dataclasses import asdict, astuple, dataclass, field, fields
+from enum import Enum
+from itertools import chain
+from sqlite3 import Cursor
+from typing import Any, Dict, Optional
+
+from src.data.poke_enums import MoveCategory, PType, Target
+from src.data.typing import ItemId
 from src.utils.general import add_slots
 
 
@@ -12,15 +20,47 @@ from src.utils.general import add_slots
 class PMove:
     """Description of a move and its effects. """
 
-    # TODO: Populate this
     name: str = ""
-    base_power: int = 0
+    ptype: PType = PType.INVALID
+    category: MoveCategory = MoveCategory.INVALID
+    power: float = 0.0
+    accuracy: float = 0.0
+    pp: Optional[int] = None
+    max_pp: int = 0
+    generation_introduced: int = 0
+    tm: Optional[int] = None
+    tr: Optional[int] = None
+
+    effect: str = field(default_factory=lambda: "")
+    zmove_effect: Optional[str] = None
+
+    description: str = field(default_factory=lambda: "")
+    target_description: str = field(default_factory=lambda: "")
 
     def _asdict(self) -> Dict[str, Any]:
         """Converts the class to a dict"""
         return asdict(self)
 
     # def to_pokemon_essential(self):
+    def write_to_sql(self, cursor: Cursor):
+        fields = [field.name for field in dataclasses.fields(self)]
+
+        fields_str = ", ".join(fields)
+        values_str = ", ".join("?" * len(fields))
+        update_str = ",\n".join([f"{i}=?" for i in fields])
+        entry_sql = (
+            "INSERT OR REPLACE INTO\n\tMove ("
+            + fields_str
+            + ")\nVALUES\n\t("
+            + values_str
+            + ") ON CONFLICT (name) DO UPDATE SET\n"
+            + update_str
+            + ";"
+        )
+
+        t = [str(i) if issubclass(type(i), Enum) else i for i in astuple(self)]
+        # print(t)
+        cursor.execute(entry_sql, tuple(chain(t, t)))
 
 
 @dataclass

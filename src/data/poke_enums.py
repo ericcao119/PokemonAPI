@@ -46,7 +46,7 @@ class LevelingRate(enum.Enum):
     MediumSlow = 3
     Parabolic = 3
     Erratic = 4
-    Fluctating = 5
+    Fluctuating = 5
 
     def __str__(self):
         return self.name
@@ -215,6 +215,37 @@ class Target(enum.Flag):
     SINGLE_OPPOSING = 0x400
     SINGLE_OPPOSING_DIRECT_OPPOSITE = 0x800
     INVALID = 0x1000
+
+    def __str__(self):
+        return self.name
+
+    def __repr__(self):
+        return self.name
+
+
+class ItemCategory(enum.Enum):
+    INVALID = -1
+    Machines = (0,)
+    GeneralItems = (1,)
+    Pokeballs = (2,)
+    HoldItems = (3,)
+    BattleItems = (4,)
+    Berries = (5,)
+    Medicine = 6
+
+    def __str__(self):
+        return self.name
+
+    def __repr__(self):
+        return self.name
+
+
+class MoveCategory(enum.Enum):
+    INVALID = -1
+    Special = 0
+    Physical = 1
+    Status = 2
+    NoCategory = 3
 
     def __str__(self):
         return self.name

@@ -3,26 +3,103 @@ This does not mean that they use pure python functions, but instead are things l
 list operations that are fairly common."""
 
 import dataclasses
+import time
 import unicodedata
+from collections import defaultdict
 from itertools import tee, zip_longest
-from typing import Generator, List
+from typing import Any, DefaultDict, Dict, Generator, Iterable, List
 
 import networkx as nx
 
 
-def unique(iterable):
+def rate_limited(maxPerSecond):
+    minInterval = 1.0 / float(maxPerSecond)
+
+    def decorate(func):
+        lastTimeCalled = [0.0]
+
+        def rateLimitedFunction(*args, **kargs):
+            elapsed = time.perf_counter() - lastTimeCalled[0]
+            leftToWait = minInterval - elapsed
+            if leftToWait > 0:
+                time.sleep(leftToWait)
+            ret = func(*args, **kargs)
+            lastTimeCalled[0] = time.perf_counter()
+            return ret
+
+        return rateLimitedFunction
+
+    return decorate
+
+
+def create_multimap(keys: Iterable, values: Iterable) -> DefaultDict[Any, List[Any]]:
+    """Creates a multimap from the keys and values. This preserves Key order.
+    
+    >>> create_multimap("AAABBC", "123111")
+    defaultdict(<class 'list'>, {'A': ['1', '2', '3'], 'B': ['1', '1'], 'C': ['1']})
+    """
+    # keys_list = list(keys)
+    # mapping: Dict = {i: [] for i in keys_list}
+
+    # _ = [
+    #     mapping[key].append(value) for key, value in zip(keys_list, values)
+    # ]
+    # return mapping
+
+    mapping: DefaultDict = defaultdict(list)
+    _ = [mapping[key].append(value) for key, value in zip(keys, values)]
+    return mapping
+
+
+def unique(iterable: Iterable):
+    """
+    >>> unique([1, 2, 3, 4, 5, 6])
+    [1, 2, 3, 4, 5, 6]
+    >>> unique([1, 2, 3, 4, 5, 6, 1, 2, 3, 4])
+    [1, 2, 3, 4, 5, 6]
+    >>> unique({1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1})
+    [1, 2, 3, 4, 5, 6]
+    """
     return list(dict.fromkeys(iterable))
 
 
-def unique_frozen(iterable):
+def unique_frozen(iterable: Iterable):
+    """
+    >>> unique_frozen([1, 2, 3, 4, 5, 6])
+    (1, 2, 3, 4, 5, 6)
+    >>> unique_frozen([1, 2, 3, 4, 5, 6, 1, 2, 3, 4])
+    (1, 2, 3, 4, 5, 6)
+    >>> unique_frozen({1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1})
+    (1, 2, 3, 4, 5, 6)"""
     return tuple(dict.fromkeys(iterable))
 
 
-def get_components(iterable):
+def pairwise(iterable: Iterable) -> Iterable:
+    """s -> (s0,s1), (s1,s2), (s2, s3), ...
+    >>> list(pairwise([1, 2, 3, 4]))
+    [(1, 2), (2, 3), (3, 4)]
+    """
+    elem1, elem2 = tee(iterable)
+    next(elem2, None)
+    return zip(elem1, elem2)
+
+
+def get_components(iterable: Iterable[Iterable]):
     """Expects a iterable of subiterables (representing subgraph vertices).
     All elements in the subgraph are expected to be hashable vertices. This
     will then return the connected components in the form of a generator
-    yeilding sets."""
+    yeilding sets.
+
+    >>> a = list(get_components([["a", "b", "c"], ["a", "d"], ["e", "f"]]))
+    >>> a.sort(key=lambda x:len(x))
+    >>> for i in a:
+    ...     print(sorted(i))
+    ['e', 'f']
+    ['a', 'b', 'c', 'd']
+    >>> a = list(get_components([]))
+    >>> a
+    []
+    """
 
     def to_graph(list_graph):
         graph = nx.Graph()
@@ -30,50 +107,41 @@ def get_components(iterable):
             # each sublist is a bunch of nodes
             graph.add_nodes_from(part)
             # it also imlies a number of edges:
-            graph.add_edges_from(to_edges(part))
+            graph.add_edges_from(pairwise(part))
         return graph
-
-    def to_edges(list_graph):
-        """
-        treat `list_graph` as a Graph and returns it's edges
-        to_edges(['a','b','c','d']) -> [(a,b), (b,c),(c,d)]
-        """
-        iterator = iter(list_graph)
-        last = next(iterator)
-
-        for current in iterator:
-            yield last, current
-            last = current
 
     graph = to_graph(iterable)
 
     return nx.connected_components(graph)
 
 
-def pairwise(iterable):
-    """s -> (s0,s1), (s1,s2), (s2, s3), ..."""
-    elem1, elem2 = tee(iterable)
-    next(elem2, None)
-    return zip(elem1, elem2)
-
-
-def grouper(iterable, num, fillvalue=None):
-    """Collect data into fixed-length chunks or blocks"""
+def grouper(iterable: Iterable, num: int, fillvalue=None):
+    """Collect data into fixed-length chunks or blocks
+    >>> list(grouper('ABCDEFG', 3, 'x'))
+    [('A', 'B', 'C'), ('D', 'E', 'F'), ('G', 'x', 'x')]
+    """
     # grouper('ABCDEFG', 3, 'x') --> ABC DEF Gxx"
     args = [iter(iterable)] * num
     return zip_longest(*args, fillvalue=fillvalue)
 
 
-def grouper_discard_uneven(iterable, num):
-    "Collect data into fixed-length chunks or blocks"
-    # grouper('ABCDEFG', 3, 'x') --> ABC DEF Gxx"
+def grouper_discard(iterable, num):
+    """Collect data into fixed-length chunks or blocks and discard uneven chunks
+    >>> list(grouper_discard('ABCDEFG', 3))
+    [('A', 'B', 'C'), ('D', 'E', 'F')]"""
+    # grouper_discard('ABCDEFG', 3, 'x') --> ABC DEF"
     args = [iter(iterable)] * num
     return zip(*args)
 
 
 def normalize_unicode(string: str) -> str:
     """Removed non-ascii characters from a unicode string. Many characters will be
-    converted to their nearest ASCII quivalent."""
+    converted to their nearest ASCII quivalent.
+    >>> normalize_unicode("Flabébé")
+    'Flabebe'
+    >>> normalize_unicode("Flabebe")
+    'Flabebe'
+    """
     return (
         unicodedata.normalize("NFKD", string).encode("ascii", "ignore").decode("utf-8")
     )
@@ -81,13 +149,21 @@ def normalize_unicode(string: str) -> str:
 
 def chunk_list(lst: List, num: int) -> List[List]:
     """Chunks a list in a list of chunks each size num.
-    The last chunk may not be divisible by num, but all others will be."""
+    The last chunk may not be divisible by num, but all others will be.
+    >>> chunk_list([1, 2, 3, 4, 5, 6, 7, 8, 9], 3)
+    [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+    >>> chunk_list([1, 2, 3, 4, 5, 6, 7, 8], 3)
+    [[1, 2, 3], [4, 5, 6], [7, 8]]"""
     return [lst[i : i + num] for i in range(0, len(lst), num)]
 
 
 def xchunk_list(lst: List, num: int) -> Generator[List, None, None]:
     """Chunks a list in a list of chunks each size num.
-    The last chunk may not be divisible by num, but all others will be."""
+    The last chunk may not be divisible by num, but all others will be.
+    >>> list(xchunk_list([1, 2, 3, 4, 5, 6, 7, 8, 9], 3))
+    [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+    >>> list(xchunk_list([1, 2, 3, 4, 5, 6, 7, 8], 3))
+    [[1, 2, 3], [4, 5, 6], [7, 8]]"""
     for i in range(0, len(lst), num):
         yield lst[i : i + num]
 

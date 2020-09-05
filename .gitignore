@@ -141,3 +141,6 @@ dmypy.json
 *.secret
 secret/
 secrets/
+
+# cache for space reasons
+cache/
