@@ -2,6 +2,9 @@
   {
     "species_name": "Swalot",
     "variant_name": "Swalot",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 73,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 317,
-      "types": [
-        "Poison"
-      ],
       "height": 1.7,
       "weight": 80.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Bag Pok\u00e9mon",
-      "flavor_text": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pok\u00e9mon\u2019s mouth.",
+      "kind": "Poison Bag Pokémon",
+      "flavor_text": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
       "abilities": [
         "Liquid Ooze",
         "Sticky Hold"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Gluttony"
       ],
-      "regional_dex_nums": [
-        96,
-        99,
-        101
-      ]
+      "regional_dex_nums": {
+        "rse": 96,
+        "xy_central": 99,
+        "oras": 101
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -271,6 +271,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Body Slam"
+      ],
       "egg_moves": [
         "Acid Armor",
         "Curse",

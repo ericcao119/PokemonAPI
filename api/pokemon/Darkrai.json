@@ -2,6 +2,9 @@
   {
     "species_name": "Darkrai",
     "variant_name": "Darkrai",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 90,
@@ -12,20 +15,17 @@
     },
     "dex_entry": {
       "national_dex_num": 491,
-      "types": [
-        "Dark"
-      ],
       "height": 1.5,
       "weight": 50.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pitch-Black Pok\u00e9mon",
+      "kind": "Pitch-Black Pokémon",
       "flavor_text": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
       "abilities": [
         "Bad Dreams"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": []
+      "regional_dex_nums": {}
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -45,7 +45,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -292,6 +292,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Drain Punch",

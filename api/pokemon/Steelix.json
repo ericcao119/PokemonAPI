@@ -2,6 +2,10 @@
   {
     "species_name": "Steelix",
     "variant_name": "Steelix",
+    "types": [
+      "Steel",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 85,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 208,
-      "types": [
-        "Steel",
-        "Ground"
-      ],
       "height": 9.2,
       "weight": 400.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Snake Pok\u00e9mon",
+      "kind": "Iron Snake Pokémon",
       "flavor_text": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
       "abilities": [
         "Rock Head",
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        63,
-        35,
-        35,
-        63,
-        72,
-        54,
-        179
-      ]
+      "regional_dex_nums": {
+        "gsc": 63,
+        "dp": 35,
+        "plat": 35,
+        "hgss": 63,
+        "b2w2": 72,
+        "xy_coastal": 54,
+        "swsh": 179
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -316,6 +316,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Block",
         "Defense Curl",
@@ -361,6 +362,10 @@
   {
     "species_name": "Steelix",
     "variant_name": "Mega Steelix",
+    "types": [
+      "Steel",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 125,
@@ -371,29 +376,25 @@
     },
     "dex_entry": {
       "national_dex_num": 208,
-      "types": [
-        "Steel",
-        "Ground"
-      ],
       "height": 10.5,
       "weight": 740.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Snake Pok\u00e9mon",
+      "kind": "Iron Snake Pokémon",
       "flavor_text": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
       "abilities": [
         "Sand Force"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        63,
-        35,
-        35,
-        63,
-        72,
-        54,
-        179
-      ]
+      "regional_dex_nums": {
+        "gsc": 63,
+        "dp": 35,
+        "plat": 35,
+        "hgss": 63,
+        "b2w2": 72,
+        "xy_coastal": 54,
+        "swsh": 179
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -672,6 +673,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Block",
         "Defense Curl",

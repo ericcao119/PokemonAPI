@@ -2,6 +2,10 @@
   {
     "species_name": "Deino",
     "variant_name": "Deino",
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 52,
       "attack": 65,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 633,
-      "types": [
-        "Dark",
-        "Dragon"
-      ],
       "height": 0.8,
       "weight": 17.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Irate Pok\u00e9mon",
-      "flavor_text": "Because it can\u2019t see, this Pok\u00e9mon is constantly biting at everything it touches, trying to keep track of its surroundings.",
+      "kind": "Irate Pokémon",
+      "flavor_text": "Because it can’t see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings.",
       "abilities": [
         "Hustle"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        139,
-        273,
-        142,
-        386
-      ]
+      "regional_dex_nums": {
+        "bw": 139,
+        "b2w2": 273,
+        "xy_mountain": 142,
+        "swsh": 386
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -226,6 +226,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assurance",
         "Astonish",

@@ -2,6 +2,9 @@
   {
     "species_name": "Regirock",
     "variant_name": "Regirock",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 100,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 377,
-      "types": [
-        "Rock"
-      ],
       "height": 1.7,
       "weight": 230.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rock Peak Pok\u00e9mon",
-      "flavor_text": "Regirock\u2019s body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
+      "kind": "Rock Peak Pokémon",
+      "flavor_text": "Regirock’s body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
       "abilities": [
         "Clear Body"
       ],
       "hidden_abilities": [
         "Sturdy"
       ],
-      "regional_dex_nums": [
-        193,
-        202
-      ]
+      "regional_dex_nums": {
+        "rse": 193,
+        "oras": 202
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -265,6 +265,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Block",

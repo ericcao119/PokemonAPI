@@ -1,4 +1,5 @@
 {
-  "name": "Electric Surge",
-  "description": "The Pok\u00e9mon creates an Electric Terrain when it enters a battle."
+  "ability_name": "Electric Surge",
+  "effect": "Electric Surge creates a low-lying electric field, like the move Electric Terrain, when the Pokémon enters battle. It prevents grounded Pokémon from falling asleep, and increases the power of Electric type attacks.",
+  "description": "Turns the ground into Electric Terrain when the Pokémon enters a battle."
 }

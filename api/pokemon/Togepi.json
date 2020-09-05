@@ -2,6 +2,9 @@
   {
     "species_name": "Togepi",
     "variant_name": "Togepi",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 20,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 175,
-      "types": [
-        "Fairy"
-      ],
       "height": 0.3,
       "weight": 1.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spike Ball Pok\u00e9mon",
+      "kind": "Spike Ball Pokémon",
       "flavor_text": "It is considered to be a symbol of good luck. Its shell is said to be filled with happiness.",
       "abilities": [
         "Hustle",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Super Luck"
       ],
-      "regional_dex_nums": [
-        46,
-        173,
-        46,
-        257
-      ]
+      "regional_dex_nums": {
+        "gsc": 46,
+        "plat": 173,
+        "hgss": 46,
+        "swsh": 257
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -256,6 +256,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Extrasensory",
         "Foresight",

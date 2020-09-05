@@ -1,4 +1,6 @@
 {
-  "name": "Insomnia",
-  "description": "Prevents the Pok\u00e9mon from falling asleep."
+  "ability_name": "Insomnia",
+  "effect": "Insomnia prevents the ability-bearer from falling asleep, both from moves by other Pokémon like Sing, and self-inflicted sleep like Rest.
+If a sleeping Pokémon aquires Insomnia (e.g. from Worry Seed, it will wake up on its next turn.",
+  "description": "The Pokémon is suffering from insomnia and cannot fall asleep."
 }

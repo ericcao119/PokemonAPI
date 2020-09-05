@@ -2,6 +2,10 @@
   {
     "species_name": "Solgaleo",
     "variant_name": "Solgaleo",
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 137,
       "attack": 137,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 791,
-      "types": [
-        "Psychic",
-        "Steel"
-      ],
       "height": 3.4,
       "weight": 230.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sunne Pok\u00e9mon",
+      "kind": "Sunne Pokémon",
       "flavor_text": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it.",
       "abilities": [
         "Full Metal Body"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        291,
-        389
-      ]
+      "regional_dex_nums": {
+        "sm": 291,
+        "usum": 389
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -300,6 +300,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Sunsteel Strike"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Endeavor",

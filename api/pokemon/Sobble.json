@@ -2,6 +2,9 @@
   {
     "species_name": "Sobble",
     "variant_name": "Sobble",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 40,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 816,
-      "types": [
-        "Water"
-      ],
       "height": 0.3,
       "weight": 4.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Water Lizard Pok\u00e9mon",
-      "flavor_text": "When it gets wet, its skin changes color, and this Pok\u00e9mon becomes invisible as if it were camouflaged.",
+      "kind": "Water Lizard Pokémon",
+      "flavor_text": "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged.",
       "abilities": [
         "Torrent"
       ],
       "hidden_abilities": [
         "Sniper"
       ],
-      "regional_dex_nums": [
-        7
-      ]
+      "regional_dex_nums": {
+        "swsh": 7
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
         "Field",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -206,6 +206,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Jet",
         "Aqua Ring",

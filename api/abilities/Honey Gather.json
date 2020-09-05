@@ -1,4 +1,6 @@
 {
-  "name": "Honey Gather",
-  "description": "The Pok\u00e9mon may gather Honey from somewhere."
+  "ability_name": "Honey Gather",
+  "effect": "Honey Gather has no effect in battle.
+When a battle ends, any party Pokémon with Honey Gather may pick up honey as a held item (if they are not already holding an item).",
+  "description": "The Pokémon may gather Honey after a battle."
 }

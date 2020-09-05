@@ -2,6 +2,9 @@
   {
     "species_name": "Machoke",
     "variant_name": "Machoke",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 100,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 67,
-      "types": [
-        "Fighting"
-      ],
       "height": 1.5,
       "weight": 70.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Superpower Pok\u00e9mon",
+      "kind": "Superpower Pokémon",
       "flavor_text": "Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.",
       "abilities": [
         "Guts",
@@ -28,21 +28,21 @@
       "hidden_abilities": [
         "Steadfast"
       ],
-      "regional_dex_nums": [
-        67,
-        141,
-        74,
-        67,
-        41,
-        41,
-        143,
-        58,
-        76,
-        96,
-        118,
-        67,
-        139
-      ]
+      "regional_dex_nums": {
+        "rby": 67,
+        "gsc": 141,
+        "rse": 74,
+        "frlg": 67,
+        "dp": 41,
+        "plat": 41,
+        "hgss": 143,
+        "xy_coastal": 58,
+        "oras": 76,
+        "sm": 96,
+        "usum": 118,
+        "lets_go": 67,
+        "swsh": 139
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -322,7 +322,14 @@
           "Work Up"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Bullet Punch",
+        "Counter",
+        "Quick Guard",
+        "Submission",
+        "Tickle"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

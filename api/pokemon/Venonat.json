@@ -2,6 +2,10 @@
   {
     "species_name": "Venonat",
     "variant_name": "Venonat",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 55,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 48,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 1.0,
       "weight": 30.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Insect Pok\u00e9mon",
+      "kind": "Insect Pokémon",
       "flavor_text": "Its large eyes act as a radar. In a bright place, you can see that they are clusters of many tiny eyes.",
       "abilities": [
         "Compound Eyes",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Run Away"
       ],
-      "regional_dex_nums": [
-        48,
-        108,
-        48,
-        109,
-        48
-      ]
+      "regional_dex_nums": {
+        "rby": 48,
+        "gsc": 108,
+        "frlg": 48,
+        "hgss": 109,
+        "lets_go": 48
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -210,6 +210,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Baton Pass",

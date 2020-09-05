@@ -2,6 +2,10 @@
   {
     "species_name": "Drakloak",
     "variant_name": "Drakloak",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 68,
       "attack": 80,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 886,
-      "types": [
-        "Dragon",
-        "Ghost"
-      ],
       "height": 1.4,
       "weight": 11.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Caretaker Pok\u00e9mon",
-      "flavor_text": "Without a Dreepy to place on its head and care for, it gets so uneasy it\u2019ll try to substitute any Pok\u00e9mon it finds for the missing Dreepy.",
+      "kind": "Caretaker Pokémon",
+      "flavor_text": "Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy.",
       "abilities": [
         "Clear Body",
         "Infiltrator"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Cursed Body"
       ],
-      "regional_dex_nums": [
-        396
-      ]
+      "regional_dex_nums": {
+        "swsh": 396
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -52,7 +52,7 @@
         "Amorphous",
         "Dragon"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -288,7 +288,18 @@
           "Psychic Fangs"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Dragon Pulse"
+      ],
+      "egg_moves": [
+        "Confuse Ray",
+        "Curse",
+        "Disable",
+        "Double Team",
+        "Dragon Tail",
+        "Grudge",
+        "Sucker Punch"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

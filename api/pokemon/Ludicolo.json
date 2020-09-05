@@ -2,6 +2,10 @@
   {
     "species_name": "Ludicolo",
     "variant_name": "Ludicolo",
+    "types": [
+      "Water",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 70,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 272,
-      "types": [
-        "Water",
-        "Grass"
-      ],
       "height": 1.5,
       "weight": 55.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Carefree Pok\u00e9mon",
+      "kind": "Carefree Pokémon",
       "flavor_text": "If it hears festive music, it begins moving in rhythm in order to amplify its power.",
       "abilities": [
         "Swift Swim",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Own Tempo"
       ],
-      "regional_dex_nums": [
-        21,
-        57,
-        21,
-        38
-      ]
+      "regional_dex_nums": {
+        "rse": 21,
+        "xy_mountain": 57,
+        "oras": 21,
+        "swsh": 38
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -218,6 +218,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Counter",
         "Flail",

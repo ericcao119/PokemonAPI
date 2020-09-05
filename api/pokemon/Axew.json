@@ -2,6 +2,9 @@
   {
     "species_name": "Axew",
     "variant_name": "Axew",
+    "types": [
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 46,
       "attack": 87,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 610,
-      "types": [
-        "Dragon"
-      ],
       "height": 0.6,
       "weight": 18.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tusk Pok\u00e9mon",
-      "flavor_text": "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn\u2019t a concern.",
+      "kind": "Tusk Pokémon",
+      "flavor_text": "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn’t a concern.",
       "abilities": [
         "Rivalry",
         "Mold Breaker"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        116,
-        183,
-        148,
-        324
-      ]
+      "regional_dex_nums": {
+        "bw": 116,
+        "b2w2": 183,
+        "xy_central": 148,
+        "swsh": 324
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -241,6 +241,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Counter",
         "Dragon Pulse",

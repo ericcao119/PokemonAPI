@@ -1,4 +1,6 @@
 {
-  "name": "Wandering Spirit",
-  "description": "Swaps abilities with opponents on contact."
+  "ability_name": "Wandering Spirit",
+  "effect": "Swaps abilities with opponents on contact.
+",
+  "description": "The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact."
 }

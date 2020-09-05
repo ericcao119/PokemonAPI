@@ -1,4 +1,6 @@
 {
-  "name": "Receiver",
-  "description": "Inherits an ally's ability when it faints."
+  "ability_name": "Receiver",
+  "effect": "A Pokémon with Receiver will inherit the ability of a teammate in a double/triple battle when that teammate faints.
+Abilities that activate upon entering the field, such as Intimidate, will activate when the Pokémon with Receiver inherits it.",
+  "description": "The Pokémon copies the Ability of a defeated ally."
 }

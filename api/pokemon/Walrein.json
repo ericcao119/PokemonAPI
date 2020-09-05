@@ -2,6 +2,10 @@
   {
     "species_name": "Walrein",
     "variant_name": "Walrein",
+    "types": [
+      "Ice",
+      "Water"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 80,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 365,
-      "types": [
-        "Ice",
-        "Water"
-      ],
       "height": 1.4,
       "weight": 150.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ice Break Pok\u00e9mon",
+      "kind": "Ice Break Pokémon",
       "flavor_text": "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
       "abilities": [
         "Thick Fat",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Oblivious"
       ],
-      "regional_dex_nums": [
-        175,
-        245,
-        184
-      ]
+      "regional_dex_nums": {
+        "rse": 175,
+        "b2w2": 245,
+        "oras": 184
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -253,6 +253,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Ice Fang"
+      ],
       "egg_moves": [
         "Aqua Ring",
         "Belly Drum",

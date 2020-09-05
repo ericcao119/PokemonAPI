@@ -1,4 +1,6 @@
 {
-  "name": "Victory Star",
+  "ability_name": "Victory Star",
+  "effect": "Boosts the accuracy of its allies and itself.
+",
   "description": "Boosts the accuracy of its allies and itself."
 }

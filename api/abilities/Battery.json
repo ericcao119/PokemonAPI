@@ -1,4 +1,5 @@
 {
-  "name": "Battery",
-  "description": "Raises power of teammates' Special moves."
+  "ability_name": "Battery",
+  "effect": "Battery allows the Pokémon to raise the power of teammates' special moves.",
+  "description": "Powers up ally Pokémon’s special moves."
 }

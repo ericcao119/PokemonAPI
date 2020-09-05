@@ -1,4 +1,6 @@
 {
-  "name": "Klutz",
-  "description": "The Pok\u00e9mon can't use any held items."
+  "ability_name": "Klutz",
+  "effect": "The Pokémon can't use any held items.
+",
+  "description": "The Pokémon can’t use any held items."
 }

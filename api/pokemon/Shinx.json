@@ -2,6 +2,9 @@
   {
     "species_name": "Shinx",
     "variant_name": "Shinx",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 403,
-      "types": [
-        "Electric"
-      ],
       "height": 0.5,
       "weight": 9.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flash Pok\u00e9mon",
+      "kind": "Flash Pokémon",
       "flavor_text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
       "abilities": [
         "Rivalry",
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Guts"
       ],
-      "regional_dex_nums": [
-        17,
-        17
-      ]
+      "regional_dex_nums": {
+        "dp": 17,
+        "plat": 17
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -214,6 +214,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Double Kick",
         "Eerie Impulse",

@@ -2,6 +2,9 @@
   {
     "species_name": "Shellos",
     "variant_name": "Shellos",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 76,
       "attack": 48,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 422,
-      "types": [
-        "Water"
-      ],
       "height": 0.3,
       "weight": 6.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Slug Pok\u00e9mon",
+      "kind": "Sea Slug Pokémon",
       "flavor_text": "Its shape and coloration vary, depending on its habitat.",
       "abilities": [
         "Sticky Hold",
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        60,
-        60,
-        260,
-        341,
-        230
-      ]
+      "regional_dex_nums": {
+        "dp": 60,
+        "plat": 60,
+        "sm": 260,
+        "usum": 341,
+        "swsh": 230
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -190,6 +190,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Armor",
         "Amnesia",

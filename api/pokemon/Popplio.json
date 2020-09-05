@@ -2,6 +2,9 @@
   {
     "species_name": "Popplio",
     "variant_name": "Popplio",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 54,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 728,
-      "types": [
-        "Water"
-      ],
       "height": 0.4,
       "weight": 7.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Lion Pok\u00e9mon",
-      "flavor_text": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pok\u00e9mon to develop their skills.",
+      "kind": "Sea Lion Pokémon",
+      "flavor_text": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills.",
       "abilities": [
         "Torrent"
       ],
       "hidden_abilities": [
         "Liquid Voice"
       ],
-      "regional_dex_nums": [
-        7,
-        7
-      ]
+      "regional_dex_nums": {
+        "sm": 7,
+        "usum": 7
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -255,6 +255,7 @@
           "Play Rough"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Life Dew",

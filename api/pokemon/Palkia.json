@@ -2,6 +2,10 @@
   {
     "species_name": "Palkia",
     "variant_name": "Palkia",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 120,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 484,
-      "types": [
-        "Water",
-        "Dragon"
-      ],
       "height": 4.2,
       "weight": 336.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spatial Pok\u00e9mon",
+      "kind": "Spatial Pokémon",
       "flavor_text": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
       "abilities": [
         "Pressure"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        150,
-        150
-      ]
+      "regional_dex_nums": {
+        "dp": 150,
+        "plat": 150
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -294,6 +294,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",

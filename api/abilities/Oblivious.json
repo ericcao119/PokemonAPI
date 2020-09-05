@@ -1,4 +1,5 @@
 {
-  "name": "Oblivious",
-  "description": "Prevents it from becoming infatuated."
+  "ability_name": "Oblivious",
+  "effect": "Oblivious makes the Pokémon immune to gender-based moves and abilities, specifically Attract, Captivate and Cute Charm.",
+  "description": "The Pokémon is oblivious, and that keeps it from being infatuated or falling for taunts."
 }

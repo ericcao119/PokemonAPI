@@ -1,4 +1,6 @@
 {
-  "name": "Mirror Armor",
-  "description": "Reflects any stat-lowering effects."
+  "ability_name": "Mirror Armor",
+  "effect": "Reflects any stat-lowering effects.
+",
+  "description": "Bounces back only the stat-lowering effects that the Pokémon receives."
 }

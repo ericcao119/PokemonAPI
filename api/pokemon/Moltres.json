@@ -2,6 +2,10 @@
   {
     "species_name": "Moltres",
     "variant_name": "Moltres",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 100,
@@ -12,30 +16,26 @@
     },
     "dex_entry": {
       "national_dex_num": 146,
-      "types": [
-        "Fire",
-        "Flying"
-      ],
       "height": 2.0,
       "weight": 60.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flame Pok\u00e9mon",
-      "flavor_text": "A legendary bird Pok\u00e9mon. As it flaps its flaming wings, even the night sky will turn red.",
+      "kind": "Flame Pokémon",
+      "flavor_text": "A legendary bird Pokémon. As it flaps its flaming wings, even the night sky will turn red.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [
         "Flame Body"
       ],
-      "regional_dex_nums": [
-        146,
-        237,
-        146,
-        242,
-        153,
-        146
-      ]
+      "regional_dex_nums": {
+        "rby": 146,
+        "gsc": 237,
+        "frlg": 146,
+        "hgss": 242,
+        "xy_coastal": 153,
+        "lets_go": 146
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -55,7 +55,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -258,6 +258,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",

@@ -1,4 +1,7 @@
 {
-  "name": "Magic Guard",
-  "description": "Protects the Pok\u00e9mon from indirect damage."
+  "ability_name": "Magic Guard",
+  "effect": "Magic Guard protects the Pokémon from indirect damage, including:
+It does not prevent damage from confusion, trapping moves (e.g. Bind) or Struggle.
+In Generation 4 a Pokémon with Magic Guard cannot be poisoned from Toxic Spikes, nor become fully immobile through paralysis (though the Speed drop still occurs).",
+  "description": "The Pokémon only takes damage from attacks."
 }

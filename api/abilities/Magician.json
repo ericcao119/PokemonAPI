@@ -1,4 +1,6 @@
 {
-  "name": "Magician",
-  "description": "The Pok\u00e9mon steals the held item of a Pok\u00e9mon it hits with a move."
+  "ability_name": "Magician",
+  "effect": "The Pokémon steals the held item of a Pokémon it hits with a move.
+",
+  "description": "The Pokémon steals the held item of a Pokémon it hits with a move."
 }

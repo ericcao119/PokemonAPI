@@ -2,6 +2,9 @@
   {
     "species_name": "Perrserker",
     "variant_name": "Perrserker",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 110,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 863,
-      "types": [
-        "Steel"
-      ],
       "height": 0.8,
       "weight": 28.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Viking Pok\u00e9mon",
+      "kind": "Viking Pokémon",
       "flavor_text": "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
       "abilities": [
         "Battle Armor",
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Steely Spirit"
       ],
-      "regional_dex_nums": [
-        183
-      ]
+      "regional_dex_nums": {
+        "swsh": 183
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -318,7 +318,17 @@
           "Throat Chop"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Iron Head"
+      ],
+      "egg_moves": [
+        "Covet",
+        "Curse",
+        "Double-Edge",
+        "Flail",
+        "Night Slash",
+        "Spite"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

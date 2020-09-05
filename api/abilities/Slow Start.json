@@ -1,4 +1,6 @@
 {
-  "name": "Slow Start",
-  "description": "Temporarily halves Attack and Speed."
+  "ability_name": "Slow Start",
+  "effect": "Temporarily halves Attack and Speed.
+",
+  "description": "For five turns, the Pokémon’s Attack and Speed stats are halved."
 }

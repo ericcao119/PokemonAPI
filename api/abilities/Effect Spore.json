@@ -1,4 +1,6 @@
 {
-  "name": "Effect Spore",
-  "description": "Contact may poison or cause paralysis or sleep."
+  "ability_name": "Effect Spore",
+  "effect": "Contact may poison or cause paralysis or sleep.
+",
+  "description": "Contact with the Pokémon may inflict poison, sleep, or paralysis on its attacker."
 }

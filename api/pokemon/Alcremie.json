@@ -2,6 +2,9 @@
   {
     "species_name": "Alcremie",
     "variant_name": "Alcremie",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 60,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 869,
-      "types": [
-        "Fairy"
-      ],
       "height": 0.3,
       "weight": 0.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cream Pok\u00e9mon",
+      "kind": "Cream Pokémon",
       "flavor_text": "The cells that compose its cream fluctuated suddenly during evolution, giving the cream a bitter flavor.",
       "abilities": [
         "Sweet Veil"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Aroma Veil"
       ],
-      "regional_dex_nums": [
-        186
-      ]
+      "regional_dex_nums": {
+        "swsh": 186
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
         "Amorphous",
         "Fairy"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -262,7 +262,13 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Decorate"
+      ],
+      "egg_moves": [
+        "Baby-Doll Eyes",
+        "Last Resort"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

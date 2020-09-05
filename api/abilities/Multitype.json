@@ -1,4 +1,9 @@
 {
-  "name": "Multitype",
-  "description": "Changes type to match the held Plate."
+  "ability_name": "Multitype",
+  "effect": "Multitype changes the ability-bearer's type if it is holding one of the Type Plate items. Moves of the corresponding type receive STAB.
+The moves Gastro Acid, Role Play, Skill Swap, Worry Seed or the ability Trace do not affect a Pokémon with Multitype.
+The moves Covet, Knock Off, Switcheroo and Thief cannot remove Plates from a Pokémon with Multitype, but they can remove any other item.
+The Plates are:
+In Generation 4 the moves Covet, Knock Off, Switcheroo and Thief (all of which remove items) do not affect Pokémon with Multitype.",
+  "description": "Changes the Pokémon’s type to match the Plate or Z-Crystal it holds."
 }

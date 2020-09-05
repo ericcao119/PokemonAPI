@@ -2,6 +2,9 @@
   {
     "species_name": "Grapploct",
     "variant_name": "Grapploct",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 118,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 853,
-      "types": [
-        "Fighting"
-      ],
       "height": 1.6,
       "weight": 39.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tantrum Pok\u00e9mon",
+      "kind": "Tantrum Pokémon",
       "flavor_text": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
       "abilities": [
         "Limber"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Technician"
       ],
-      "regional_dex_nums": [
-        352
-      ]
+      "regional_dex_nums": {
+        "swsh": 352
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
         "Humanlike",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -274,7 +274,17 @@
           "Liquidation"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Octolock"
+      ],
+      "egg_moves": [
+        "Circle Throw",
+        "Pain Split",
+        "Power-Up Punch",
+        "Seismic Toss",
+        "Soak",
+        "Sucker Punch"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

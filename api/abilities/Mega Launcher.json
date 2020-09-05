@@ -1,4 +1,7 @@
 {
-  "name": "Mega Launcher",
-  "description": "Boosts the power of aura and pulse moves."
+  "ability_name": "Mega Launcher",
+  "effect": "Mega Launcher increases the power of all aura and pulse moves by 50%. Heal Pulse boosts the HP restored by 50%.
+The attacks classed as aura and pulse moves are shown below with their normal and boosted power:
+* No Pokémon with Mega Launcher can learn this move.",
+  "description": "Powers up aura and pulse moves."
 }

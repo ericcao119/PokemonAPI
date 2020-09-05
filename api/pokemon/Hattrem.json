@@ -2,6 +2,9 @@
   {
     "species_name": "Hattrem",
     "variant_name": "Hattrem",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 57,
       "attack": 40,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 857,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.6,
       "weight": 4.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Serene Pok\u00e9mon",
+      "kind": "Serene Pokémon",
       "flavor_text": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
       "abilities": [
         "Healer",
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Magic Bounce"
       ],
-      "regional_dex_nums": [
-        242
-      ]
+      "regional_dex_nums": {
+        "swsh": 242
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Fairy"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -226,7 +226,15 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Brutal Swing"
+      ],
+      "egg_moves": [
+        "After You",
+        "Aromatic Mist",
+        "Nuzzle",
+        "Quash"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

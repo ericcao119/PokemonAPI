@@ -1,4 +1,5 @@
 {
-  "name": "Infiltrator",
-  "description": "Passes through the foe's barrier and strikes."
+  "ability_name": "Infiltrator",
+  "effect": "Infiltrator ignores the effects of Reflect, Light Screen and Safeguard. In other words, if the opponent has used Safeguard, Toxic would still badly poison them.",
+  "description": "Passes through the opposing Pokémon’s barrier, substitute, and the like and strikes."
 }

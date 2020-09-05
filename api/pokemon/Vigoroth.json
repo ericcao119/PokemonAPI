@@ -2,6 +2,9 @@
   {
     "species_name": "Vigoroth",
     "variant_name": "Vigoroth",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 80,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 288,
-      "types": [
-        "Normal"
-      ],
       "height": 1.4,
       "weight": 46.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wild Monkey Pok\u00e9mon",
-      "flavor_text": "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pok\u00e9mon to run wild throughout the jungle before it can settle down.",
+      "kind": "Wild Monkey Pokémon",
+      "flavor_text": "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pokémon to run wild throughout the jungle before it can settle down.",
       "abilities": [
         "Vital Spirit"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        37,
-        277,
-        38
-      ]
+      "regional_dex_nums": {
+        "rse": 37,
+        "b2w2": 277,
+        "oras": 38
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -268,6 +268,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "After You",
         "Body Slam",

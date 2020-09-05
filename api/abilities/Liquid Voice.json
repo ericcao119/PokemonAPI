@@ -1,4 +1,7 @@
 {
-  "name": "Liquid Voice",
+  "ability_name": "Liquid Voice",
+  "effect": "Liquid Voice causes all sound-based moves used by the Pokémon to become Water type. Water type Pokémon also gain STAB from those moves.
+It is the signature ability of the Primarina evolution line, though other Pokémon may acquire Liquid Voice via certain abilities or moves such as Skill Swap.
+Attacks shown in bold can be learned by Primarina, though the others can be called via moves such as Metronome.",
   "description": "All sound-based moves become Water-type moves."
 }

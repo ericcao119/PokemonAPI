@@ -2,6 +2,9 @@
   {
     "species_name": "Dragonair",
     "variant_name": "Dragonair",
+    "types": [
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 61,
       "attack": 84,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 148,
-      "types": [
-        "Dragon"
-      ],
       "height": 4.0,
       "weight": 16.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dragon Pok\u00e9mon",
+      "kind": "Dragon Pokémon",
       "flavor_text": "According to a witness, its body was surrounded by a strange aura that gave it a mystical look.",
       "abilities": [
         "Shed Skin"
@@ -27,16 +27,16 @@
       "hidden_abilities": [
         "Marvel Scale"
       ],
-      "regional_dex_nums": [
-        148,
-        242,
-        148,
-        247,
-        146,
-        282,
-        380,
-        148
-      ]
+      "regional_dex_nums": {
+        "rby": 148,
+        "gsc": 242,
+        "frlg": 148,
+        "hgss": 247,
+        "xy_mountain": 146,
+        "sm": 282,
+        "usum": 380,
+        "lets_go": 148
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -256,6 +256,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Jet",
         "Dragon Breath",

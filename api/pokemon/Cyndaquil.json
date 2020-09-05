@@ -2,6 +2,9 @@
   {
     "species_name": "Cyndaquil",
     "variant_name": "Cyndaquil",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 39,
       "attack": 52,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 155,
-      "types": [
-        "Fire"
-      ],
       "height": 0.5,
       "weight": 7.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fire Mouse Pok\u00e9mon",
-      "flavor_text": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pok\u00e9mon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+      "kind": "Fire Mouse Pokémon",
+      "flavor_text": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
       "abilities": [
         "Blaze"
       ],
       "hidden_abilities": [
         "Flash Fire"
       ],
-      "regional_dex_nums": [
-        4,
-        4
-      ]
+      "regional_dex_nums": {
+        "gsc": 4,
+        "hgss": 4
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -221,6 +221,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Covet",
         "Crush Claw",

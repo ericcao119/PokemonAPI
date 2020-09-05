@@ -2,6 +2,9 @@
   {
     "species_name": "Granbull",
     "variant_name": "Granbull",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 120,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 210,
-      "types": [
-        "Fairy"
-      ],
       "height": 1.4,
       "weight": 48.7,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fairy Pok\u00e9mon",
-      "flavor_text": "Although it\u2019s popular with young people, Granbull is timid and sensitive, so it\u2019s totally incompetent as a watchdog.",
+      "kind": "Fairy Pokémon",
+      "flavor_text": "Although it’s popular with young people, Granbull is timid and sensitive, so it’s totally incompetent as a watchdog.",
       "abilities": [
         "Intimidate",
         "Quick Feet"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        124,
-        126,
-        72,
-        259,
-        340
-      ]
+      "regional_dex_nums": {
+        "gsc": 124,
+        "hgss": 126,
+        "xy_coastal": 72,
+        "sm": 259,
+        "usum": 340
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -318,6 +318,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Close Combat",
         "Crunch",

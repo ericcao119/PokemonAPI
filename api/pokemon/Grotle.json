@@ -2,6 +2,9 @@
   {
     "species_name": "Grotle",
     "variant_name": "Grotle",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 89,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 388,
-      "types": [
-        "Grass"
-      ],
       "height": 1.1,
       "weight": 97.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Grove Pok\u00e9mon",
-      "flavor_text": "It knows where pure water wells up. It carries fellow Pok\u00e9mon there on its back.",
+      "kind": "Grove Pokémon",
+      "flavor_text": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Shell Armor"
       ],
-      "regional_dex_nums": [
-        2,
-        2
-      ]
+      "regional_dex_nums": {
+        "dp": 2,
+        "plat": 2
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -214,6 +214,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Body Slam",

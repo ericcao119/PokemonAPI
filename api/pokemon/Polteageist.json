@@ -2,6 +2,9 @@
   {
     "species_name": "Polteageist",
     "variant_name": "Polteageist",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 65,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 855,
-      "types": [
-        "Ghost"
-      ],
       "height": 0.2,
       "weight": 0.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Black Tea Pok\u00e9mon",
-      "flavor_text": "Leaving leftover black tea unattended is asking for this Pok\u00e9mon to come along and pour itself into it, turning the tea into a new Polteageist.",
+      "kind": "Black Tea Pokémon",
+      "flavor_text": "When angered, it launches tea from its body at the offender’s mouth. The tea causes strong chills if swallowed.",
       "abilities": [
         "Weak Armor"
       ],
       "hidden_abilities": [
         "Cursed Body"
       ],
-      "regional_dex_nums": [
-        336
-      ]
+      "regional_dex_nums": {
+        "swsh": 336
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
         "Amorphous",
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -245,6 +245,9 @@
           83,
           "Ally Switch"
         ]
+      ],
+      "evolution_moves": [
+        "Teatime"
       ],
       "egg_moves": [],
       "tutor_moves": [],

@@ -2,6 +2,9 @@
   {
     "species_name": "Kricketot",
     "variant_name": "Kricketot",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 37,
       "attack": 25,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 401,
-      "types": [
-        "Bug"
-      ],
       "height": 0.3,
       "weight": 2.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cricket Pok\u00e9mon",
+      "kind": "Cricket Pokémon",
       "flavor_text": "When its antennae hit each other, it sounds like the music of a xylophone.",
       "abilities": [
         "Shed Skin"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Run Away"
       ],
-      "regional_dex_nums": [
-        15,
-        15
-      ]
+      "regional_dex_nums": {
+        "dp": 15,
+        "plat": 15
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -76,6 +76,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

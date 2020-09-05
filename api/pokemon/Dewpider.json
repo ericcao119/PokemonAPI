@@ -2,6 +2,10 @@
   {
     "species_name": "Dewpider",
     "variant_name": "Dewpider",
+    "types": [
+      "Water",
+      "Bug"
+    ],
     "base_stats": {
       "hp": 38,
       "attack": 40,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 751,
-      "types": [
-        "Water",
-        "Bug"
-      ],
       "height": 0.3,
       "weight": 4.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Water Bubble Pok\u00e9mon",
+      "kind": "Water Bubble Pokémon",
       "flavor_text": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head.",
       "abilities": [
         "Water Bubble"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Water Absorb"
       ],
-      "regional_dex_nums": [
-        141,
-        174,
-        214
-      ]
+      "regional_dex_nums": {
+        "sm": 141,
+        "usum": 174,
+        "swsh": 214
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -225,6 +225,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Power Split",
         "Spit Up",

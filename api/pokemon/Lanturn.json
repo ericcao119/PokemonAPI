@@ -2,6 +2,10 @@
   {
     "species_name": "Lanturn",
     "variant_name": "Lanturn",
+    "types": [
+      "Water",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 125,
       "attack": 58,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 171,
-      "types": [
-        "Water",
-        "Electric"
-      ],
       "height": 1.2,
       "weight": 22.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Light Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+      "kind": "Light Pokémon",
+      "flavor_text": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
       "abilities": [
         "Volt Absorb",
         "Illuminate"
@@ -29,16 +29,16 @@
       "hidden_abilities": [
         "Water Absorb"
       ],
-      "regional_dex_nums": [
-        175,
-        182,
-        177,
-        148,
-        191,
-        202,
-        258,
-        221
-      ]
+      "regional_dex_nums": {
+        "gsc": 175,
+        "rse": 182,
+        "hgss": 177,
+        "xy_coastal": 148,
+        "oras": 191,
+        "sm": 202,
+        "usum": 258,
+        "swsh": 221
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -281,6 +281,11 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Spit Up",
+        "Stockpile",
+        "Swallow"
+      ],
       "egg_moves": [
         "Agility",
         "Amnesia",

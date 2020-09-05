@@ -2,6 +2,9 @@
   {
     "species_name": "Wishiwashi",
     "variant_name": "Solo Form",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 20,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 746,
-      "types": [
-        "Water"
-      ],
       "height": 0.2,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Small Fry Pok\u00e9mon",
+      "kind": "Small Fry Pokémon",
       "flavor_text": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather.",
       "abilities": [
         "Schooling"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        110,
-        133,
-        155
-      ]
+      "regional_dex_nums": {
+        "sm": 110,
+        "usum": 133,
+        "swsh": 155
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -233,6 +233,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Mist",
         "Take Down",
@@ -245,6 +246,9 @@
   {
     "species_name": "Wishiwashi",
     "variant_name": "School Form",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 140,
@@ -255,24 +259,21 @@
     },
     "dex_entry": {
       "national_dex_num": 746,
-      "types": [
-        "Water"
-      ],
       "height": 8.2,
       "weight": 78.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Small Fry Pok\u00e9mon",
-      "flavor_text": "When facing tough opponents, they get into formation. But if they get wounded in battle, they\u2019ll scatter and become solitary again.",
+      "kind": "Small Fry Pokémon",
+      "flavor_text": "When facing tough opponents, they get into formation. But if they get wounded in battle, they’ll scatter and become solitary again.",
       "abilities": [
         "Schooling"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        110,
-        133,
-        155
-      ]
+      "regional_dex_nums": {
+        "sm": 110,
+        "usum": 133,
+        "swsh": 155
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -476,6 +477,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Mist",
         "Take Down",

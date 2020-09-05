@@ -2,6 +2,9 @@
   {
     "species_name": "Treecko",
     "variant_name": "Treecko",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 45,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 252,
-      "types": [
-        "Grass"
-      ],
       "height": 0.5,
       "weight": 5.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wood Gecko Pok\u00e9mon",
-      "flavor_text": "Treecko is cool, calm, and collected\u2014it never panics under any situation. If a bigger foe were to glare at this Pok\u00e9mon, it would glare right back without conceding an inch of ground.",
+      "kind": "Wood Gecko Pokémon",
+      "flavor_text": "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Unburden"
       ],
-      "regional_dex_nums": [
-        1,
-        1
-      ]
+      "regional_dex_nums": {
+        "rse": 1,
+        "oras": 1
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -230,6 +230,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bullet Seed",
         "Crunch",

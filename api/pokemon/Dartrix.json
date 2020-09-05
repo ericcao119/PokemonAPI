@@ -2,6 +2,10 @@
   {
     "species_name": "Dartrix",
     "variant_name": "Dartrix",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 75,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 723,
-      "types": [
-        "Grass",
-        "Flying"
-      ],
       "height": 0.7,
       "weight": 16.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Blade Quill Pok\u00e9mon",
+      "kind": "Blade Quill Pokémon",
       "flavor_text": "It never slacks when it comes to the task of cleaning its feathers. Thorough preening keeps it looking spiffy and its blade quills nice and sharp.",
       "abilities": [
         "Overgrow"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Long Reach"
       ],
-      "regional_dex_nums": [
-        2,
-        2
-      ]
+      "regional_dex_nums": {
+        "sm": 2,
+        "usum": 2
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -227,7 +227,13 @@
           "Work Up"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Confuse Ray",
+        "Defog",
+        "Double Team",
+        "Knock Off"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

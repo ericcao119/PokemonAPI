@@ -1,4 +1,5 @@
 {
-  "name": "Protean",
-  "description": "Changes the Pok\u00e9mon's type to its last used move."
+  "ability_name": "Protean",
+  "effect": "Protean changes the Pokémon's type to that of its previously used attack.",
+  "description": "Changes the Pokémon’s type to the type of the move it’s about to use."
 }

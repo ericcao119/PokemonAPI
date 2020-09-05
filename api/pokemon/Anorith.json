@@ -2,6 +2,10 @@
   {
     "species_name": "Anorith",
     "variant_name": "Anorith",
+    "types": [
+      "Rock",
+      "Bug"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 95,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 347,
-      "types": [
-        "Rock",
-        "Bug"
-      ],
       "height": 0.7,
       "weight": 12.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Old Shrimp Pok\u00e9mon",
-      "flavor_text": "This is one kind of primeval bug Pok\u00e9mon. With eight wings, it could apparently swim a lot faster than you\u2019d expect.",
+      "kind": "Old Shrimp Pokémon",
+      "flavor_text": "This is one kind of primeval bug Pokémon. With eight wings, it could apparently swim a lot faster than you’d expect.",
       "abilities": [
         "Battle Armor"
       ],
       "hidden_abilities": [
         "Swift Swim"
       ],
-      "regional_dex_nums": [
-        135,
-        140,
-        233
-      ]
+      "regional_dex_nums": {
+        "rse": 135,
+        "oras": 140,
+        "usum": 233
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -223,6 +223,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Jet",
         "Cross Poison",

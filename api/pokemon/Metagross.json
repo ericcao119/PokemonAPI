@@ -2,6 +2,10 @@
   {
     "species_name": "Metagross",
     "variant_name": "Metagross",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 135,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 376,
-      "types": [
-        "Steel",
-        "Psychic"
-      ],
       "height": 1.6,
       "weight": 550.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Leg Pok\u00e9mon",
+      "kind": "Iron Leg Pokémon",
       "flavor_text": "It analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner.",
       "abilities": [
         "Clear Body"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Light Metal"
       ],
-      "regional_dex_nums": [
-        192,
-        264,
-        201,
-        216,
-        280
-      ]
+      "regional_dex_nums": {
+        "rse": 192,
+        "b2w2": 264,
+        "oras": 201,
+        "sm": 216,
+        "usum": 280
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -54,7 +54,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -269,6 +269,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Hammer Arm"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -315,6 +318,10 @@
   {
     "species_name": "Metagross",
     "variant_name": "Mega Metagross",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 145,
@@ -325,27 +332,23 @@
     },
     "dex_entry": {
       "national_dex_num": 376,
-      "types": [
-        "Steel",
-        "Psychic"
-      ],
       "height": 2.5,
       "weight": 942.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Leg Pok\u00e9mon",
-      "flavor_text": "When it knows it can\u2019t win, it digs the claws on its legs into its opponent and starts the countdown to a big explosion.",
+      "kind": "Iron Leg Pokémon",
+      "flavor_text": "When it knows it can’t win, it digs the claws on its legs into its opponent and starts the countdown to a big explosion.",
       "abilities": [
         "Tough Claws"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        192,
-        264,
-        201,
-        216,
-        280
-      ]
+      "regional_dex_nums": {
+        "rse": 192,
+        "b2w2": 264,
+        "oras": 201,
+        "sm": 216,
+        "usum": 280
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -365,7 +368,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -580,6 +583,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Hammer Arm"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

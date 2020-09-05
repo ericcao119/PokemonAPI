@@ -2,6 +2,9 @@
   {
     "species_name": "Makuhita",
     "variant_name": "Makuhita",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 72,
       "attack": 60,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 296,
-      "types": [
-        "Fighting"
-      ],
       "height": 1.0,
       "weight": 86.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Guts Pok\u00e9mon",
-      "flavor_text": "There\u2019s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita.",
+      "kind": "Guts Pokémon",
+      "flavor_text": "There’s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita.",
       "abilities": [
         "Thick Fat",
         "Guts"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        48,
-        95,
-        49,
-        56,
-        68
-      ]
+      "regional_dex_nums": {
+        "rse": 48,
+        "xy_coastal": 95,
+        "oras": 49,
+        "sm": 56,
+        "usum": 68
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -249,6 +249,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bullet Punch",
         "Chip Away",

@@ -1,4 +1,5 @@
 {
-  "name": "Flash Fire",
-  "description": "It powers up Fire-type moves if it's hit by one."
+  "ability_name": "Flash Fire",
+  "effect": "When a Pokémon with Flash Fire is hit by a Fire-type move, it does not deal damage but instead raises the power of the bearer's Fire-type moves by 50%. Subsequent hits do not raise the power even more, but the effect remains while the ability-bearer is in battle.",
+  "description": "Powers up the Pokémon’s Fire-type moves if it’s hit by one."
 }

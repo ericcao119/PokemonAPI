@@ -1,4 +1,5 @@
 {
-  "name": "Defeatist",
-  "description": "Lowers stats when HP drops below half."
+  "ability_name": "Defeatist",
+  "effect": "When the HP of a Pokémon with Defeatist falls below 50%, its Attack and Special Attack stats are halved.",
+  "description": "Halves the Pokémon’s Attack and Sp. Atk stats when its HP becomes half or less."
 }

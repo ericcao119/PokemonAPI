@@ -2,6 +2,10 @@
   {
     "species_name": "Zacian",
     "variant_name": "Crowned Sword",
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 92,
       "attack": 170,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 888,
-      "types": [
-        "Fairy",
-        "Steel"
-      ],
       "height": 2.8,
       "weight": 355.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Warrior Pok\u00e9mon",
-      "flavor_text": "Able to cut down anything with a single strike, it became known as the Fairy King\u2019s Sword, and it inspired awe in friend and foe alike.",
+      "kind": "Warrior Pokémon",
+      "flavor_text": "Able to cut down anything with a single strike, it became known as the Fairy King’s Sword, and it inspired awe in friend and foe alike.",
       "abilities": [
         "Intrepid Sword"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        398
-      ]
+      "regional_dex_nums": {
+        "swsh": 398
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -288,6 +288,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -296,6 +297,9 @@
   {
     "species_name": "Zacian",
     "variant_name": "Hero of Many Battles",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 92,
       "attack": 130,
@@ -306,22 +310,19 @@
     },
     "dex_entry": {
       "national_dex_num": 888,
-      "types": [
-        "Fairy"
-      ],
       "height": 2.8,
       "weight": 110.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Warrior Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon has slumbered for many years. Some say it\u2019s Zamazenta\u2019s elder sister\u2014others say the two Pok\u00e9mon are rivals.",
+      "kind": "Warrior Pokémon",
+      "flavor_text": "This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals.",
       "abilities": [
         "Intrepid Sword"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        398
-      ]
+      "regional_dex_nums": {
+        "swsh": 398
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -341,7 +342,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -581,6 +582,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

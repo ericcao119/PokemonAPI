@@ -2,6 +2,10 @@
   {
     "species_name": "Kirlia",
     "variant_name": "Kirlia",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 38,
       "attack": 35,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 281,
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
       "height": 0.8,
       "weight": 20.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Emotion Pok\u00e9mon",
+      "kind": "Emotion Pokémon",
       "flavor_text": "It has a psychic power that enables it to distort the space around it and see into the future.",
       "abilities": [
         "Synchronize",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        30,
-        158,
-        65,
-        30,
-        121
-      ]
+      "regional_dex_nums": {
+        "rse": 30,
+        "plat": 158,
+        "xy_central": 65,
+        "oras": 30,
+        "swsh": 121
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -295,6 +295,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Confuse Ray",

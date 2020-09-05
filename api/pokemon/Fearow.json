@@ -2,6 +2,10 @@
   {
     "species_name": "Fearow",
     "variant_name": "Fearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 90,
@@ -12,32 +16,28 @@
     },
     "dex_entry": {
       "national_dex_num": 22,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 1.2,
       "weight": 38.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Beak Pok\u00e9mon",
-      "flavor_text": "A Pok\u00e9mon that dates back many years. If it senses danger, it flies high and away, instantly.",
+      "kind": "Beak Pokémon",
+      "flavor_text": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
       "abilities": [
         "Keen Eye"
       ],
       "hidden_abilities": [
         "Sniper"
       ],
-      "regional_dex_nums": [
-        22,
-        14,
-        22,
-        14,
-        110,
-        74,
-        88,
-        22
-      ]
+      "regional_dex_nums": {
+        "rby": 22,
+        "gsc": 14,
+        "frlg": 22,
+        "hgss": 14,
+        "xy_mountain": 110,
+        "sm": 74,
+        "usum": 88,
+        "lets_go": 22
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -244,6 +244,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Feather Dance",

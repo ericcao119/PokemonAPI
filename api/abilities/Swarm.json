@@ -1,4 +1,6 @@
 {
-  "name": "Swarm",
-  "description": "Powers up Bug-type moves in a pinch."
+  "ability_name": "Swarm",
+  "effect": "Swarm increases the power of Bug-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).
+If a Pokémon with Swarm is the leading party Pokémon, wild Pokémon are twice as likely to appear.",
+  "description": "Powers up Bug-type moves when the Pokémon’s HP is low."
 }

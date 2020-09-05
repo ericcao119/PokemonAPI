@@ -2,6 +2,9 @@
   {
     "species_name": "Basculin",
     "variant_name": "Red-Striped Form",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 92,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 550,
-      "types": [
-        "Water"
-      ],
       "height": 1.0,
       "weight": 18.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hostile Pok\u00e9mon",
-      "flavor_text": "In the past, it often appeared on the dinner table. The meat of red-striped Basculin is on the fatty side, and it\u2019s more popular with the youth.",
+      "kind": "Hostile Pokémon",
+      "flavor_text": "In the past, it often appeared on the dinner table. The meat of red-striped Basculin is on the fatty side, and it’s more popular with the youth.",
       "abilities": [
         "Reckless",
         "Adaptability"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Mold Breaker"
       ],
-      "regional_dex_nums": [
-        56,
-        104,
-        60,
-        188,
-        154
-      ]
+      "regional_dex_nums": {
+        "bw": 56,
+        "b2w2": 104,
+        "xy_mountain": 60,
+        "usum": 188,
+        "swsh": 154
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -221,6 +221,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Brine",
@@ -254,6 +255,9 @@
   {
     "species_name": "Basculin",
     "variant_name": "Blue-Striped Form",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 92,
@@ -264,15 +268,12 @@
     },
     "dex_entry": {
       "national_dex_num": 550,
-      "types": [
-        "Water"
-      ],
       "height": 1.0,
       "weight": 18.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hostile Pok\u00e9mon",
-      "flavor_text": "Known for their violence, these Pok\u00e9mon have the most fights with schools of red-striped Basculin.",
+      "kind": "Hostile Pokémon",
+      "flavor_text": "Known for their violence, these Pokémon have the most fights with schools of red-striped Basculin.",
       "abilities": [
         "Rock Head",
         "Adaptability"
@@ -280,13 +281,13 @@
       "hidden_abilities": [
         "Mold Breaker"
       ],
-      "regional_dex_nums": [
-        56,
-        104,
-        60,
-        188,
-        154
-      ]
+      "regional_dex_nums": {
+        "bw": 56,
+        "b2w2": 104,
+        "xy_mountain": 60,
+        "usum": 188,
+        "swsh": 154
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -473,6 +474,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Brine",

@@ -1,4 +1,6 @@
 {
-  "name": "Trace",
-  "description": "The Pok\u00e9mon copies a foe's Ability."
+  "ability_name": "Trace",
+  "effect": "The Pokémon copies a foe's Ability.
+",
+  "description": "When it enters a battle, the Pokémon copies an opposing Pokémon’s Ability."
 }

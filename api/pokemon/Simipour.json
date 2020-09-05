@@ -2,6 +2,9 @@
   {
     "species_name": "Simipour",
     "variant_name": "Simipour",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 98,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 516,
-      "types": [
-        "Water"
-      ],
       "height": 1.0,
       "weight": 29.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Geyser Pok\u00e9mon",
+      "kind": "Geyser Pokémon",
       "flavor_text": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
       "abilities": [
         "Gluttony"
@@ -27,11 +27,11 @@
       "hidden_abilities": [
         "Torrent"
       ],
-      "regional_dex_nums": [
-        22,
-        42,
-        34
-      ]
+      "regional_dex_nums": {
+        "bw": 22,
+        "b2w2": 42,
+        "xy_central": 34
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -226,6 +226,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Aqua Tail",

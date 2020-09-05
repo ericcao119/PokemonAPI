@@ -2,6 +2,10 @@
   {
     "species_name": "Bibarel",
     "variant_name": "Bibarel",
+    "types": [
+      "Normal",
+      "Water"
+    ],
     "base_stats": {
       "hp": 79,
       "attack": 85,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 400,
-      "types": [
-        "Normal",
-        "Water"
-      ],
       "height": 1.0,
       "weight": 31.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Beaver Pok\u00e9mon",
+      "kind": "Beaver Pokémon",
       "flavor_text": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
       "abilities": [
         "Simple",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Moody"
       ],
-      "regional_dex_nums": [
-        14,
-        14,
-        39
-      ]
+      "regional_dex_nums": {
+        "dp": 14,
+        "plat": 14,
+        "xy_central": 39
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -277,6 +277,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Water Gun"
+      ],
       "egg_moves": [
         "Aqua Tail",
         "Defense Curl",

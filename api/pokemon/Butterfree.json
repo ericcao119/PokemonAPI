@@ -2,6 +2,10 @@
   {
     "species_name": "Butterfree",
     "variant_name": "Butterfree",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 45,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 12,
-      "types": [
-        "Bug",
-        "Flying"
-      ],
       "height": 1.1,
       "weight": 32.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Butterfly Pok\u00e9mon",
+      "kind": "Butterfly Pokémon",
       "flavor_text": "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.",
       "abilities": [
         "Compound Eyes"
@@ -28,17 +28,17 @@
       "hidden_abilities": [
         "Tinted Lens"
       ],
-      "regional_dex_nums": [
-        12,
-        26,
-        12,
-        26,
-        25,
-        19,
-        19,
-        12,
-        15
-      ]
+      "regional_dex_nums": {
+        "rby": 12,
+        "gsc": 26,
+        "frlg": 12,
+        "hgss": 26,
+        "xy_central": 25,
+        "sm": 19,
+        "usum": 19,
+        "lets_go": 12,
+        "swsh": 15
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -273,6 +273,9 @@
           96,
           "Pollen Puff"
         ]
+      ],
+      "evolution_moves": [
+        "Gust"
       ],
       "egg_moves": [],
       "tutor_moves": [],

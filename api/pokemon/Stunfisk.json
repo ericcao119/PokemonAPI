@@ -2,6 +2,10 @@
   {
     "species_name": "Stunfisk",
     "variant_name": "Stunfisk",
+    "types": [
+      "Ground",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 109,
       "attack": 66,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 618,
-      "types": [
-        "Ground",
-        "Electric"
-      ],
       "height": 0.7,
       "weight": 11.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Trap Pok\u00e9mon",
-      "flavor_text": "For some reason, this Pok\u00e9mon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
+      "kind": "Trap Pokémon",
+      "flavor_text": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
       "abilities": [
         "Static",
         "Limber"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        124,
-        231,
-        39,
-        226
-      ]
+      "regional_dex_nums": {
+        "bw": 124,
+        "b2w2": 231,
+        "xy_mountain": 39,
+        "swsh": 226
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -262,6 +262,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Curse",
@@ -303,6 +304,10 @@
   {
     "species_name": "Stunfisk",
     "variant_name": "Galarian Stunfisk",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 109,
       "attack": 81,
@@ -313,26 +318,22 @@
     },
     "dex_entry": {
       "national_dex_num": 618,
-      "types": [
-        "Ground",
-        "Steel"
-      ],
       "height": 0.7,
       "weight": 20.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Trap Pok\u00e9mon",
-      "flavor_text": "For some reason, this Pok\u00e9mon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
+      "kind": "Trap Pokémon",
+      "flavor_text": "Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.",
       "abilities": [
         "Mimicry"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        124,
-        231,
-        39,
-        226
-      ]
+      "regional_dex_nums": {
+        "bw": 124,
+        "b2w2": 231,
+        "xy_mountain": 39,
+        "swsh": 226
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -353,7 +354,7 @@
         "Amorphous",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -560,6 +561,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Curse",

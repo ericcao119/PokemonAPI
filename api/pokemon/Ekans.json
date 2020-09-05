@@ -2,6 +2,9 @@
   {
     "species_name": "Ekans",
     "variant_name": "Ekans",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 60,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 23,
-      "types": [
-        "Poison"
-      ],
       "height": 2.0,
       "weight": 6.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Snake Pok\u00e9mon",
+      "kind": "Snake Pokémon",
       "flavor_text": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
       "abilities": [
         "Intimidate",
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        23,
-        50,
-        23,
-        50,
-        37,
-        61,
-        23
-      ]
+      "regional_dex_nums": {
+        "rby": 23,
+        "gsc": 50,
+        "frlg": 23,
+        "hgss": 50,
+        "xy_mountain": 37,
+        "usum": 61,
+        "lets_go": 23
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -256,6 +256,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Beat Up",
         "Disable",

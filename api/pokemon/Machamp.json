@@ -2,6 +2,9 @@
   {
     "species_name": "Machamp",
     "variant_name": "Machamp",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 130,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 68,
-      "types": [
-        "Fighting"
-      ],
       "height": 1.6,
       "weight": 130.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Superpower Pok\u00e9mon",
+      "kind": "Superpower Pokémon",
       "flavor_text": "With four arms that react more quickly than it can think, it can execute many punches at once.",
       "abilities": [
         "Guts",
@@ -28,21 +28,21 @@
       "hidden_abilities": [
         "Steadfast"
       ],
-      "regional_dex_nums": [
-        68,
-        142,
-        75,
-        68,
-        42,
-        42,
-        144,
-        59,
-        77,
-        97,
-        119,
-        68,
-        140
-      ]
+      "regional_dex_nums": {
+        "rby": 68,
+        "gsc": 142,
+        "rse": 75,
+        "frlg": 68,
+        "dp": 42,
+        "plat": 42,
+        "hgss": 144,
+        "xy_coastal": 59,
+        "oras": 77,
+        "sm": 97,
+        "usum": 119,
+        "lets_go": 68,
+        "swsh": 140
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -362,7 +362,14 @@
           "Throat Chop"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Bullet Punch",
+        "Counter",
+        "Quick Guard",
+        "Submission",
+        "Tickle"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -2,6 +2,10 @@
   {
     "species_name": "Binacle",
     "variant_name": "Binacle",
+    "types": [
+      "Rock",
+      "Water"
+    ],
     "base_stats": {
       "hp": 42,
       "attack": 52,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 688,
-      "types": [
-        "Rock",
-        "Water"
-      ],
       "height": 0.5,
       "weight": 31.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Two-Handed Pok\u00e9mon",
-      "flavor_text": "If the two don\u2019t work well together, both their offense and defense fall apart. Without good teamwork, they won\u2019t survive.",
+      "kind": "Two-Handed Pokémon",
+      "flavor_text": "If the two don’t work well together, both their offense and defense fall apart. Without good teamwork, they won’t survive.",
       "abilities": [
         "Sniper",
         "Tough Claws"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Pickpocket"
       ],
-      "regional_dex_nums": [
-        21,
-        234
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 21,
+        "swsh": 234
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -311,6 +311,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Helping Hand",
         "Switcheroo",

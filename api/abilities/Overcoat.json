@@ -1,4 +1,5 @@
 {
-  "name": "Overcoat",
-  "description": "Protects the Pok\u00e9mon from weather damage."
+  "ability_name": "Overcoat",
+  "effect": "Overcoat makes the Pokémon immune to residual damage from weather conditions (specifically Hail and Sandstorm).",
+  "description": "Protects the Pokémon from things like sand, hail, and powder."
 }

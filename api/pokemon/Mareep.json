@@ -2,6 +2,9 @@
   {
     "species_name": "Mareep",
     "variant_name": "Mareep",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 40,
@@ -12,28 +15,25 @@
     },
     "dex_entry": {
       "national_dex_num": 179,
-      "types": [
-        "Electric"
-      ],
       "height": 0.6,
       "weight": 7.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wool Pok\u00e9mon",
-      "flavor_text": "Rubbing its fleece generates electricity. You\u2019ll want to pet it because it\u2019s cute, but if you use your bare hand, you\u2019ll get a painful shock.",
+      "kind": "Wool Pokémon",
+      "flavor_text": "Rubbing its fleece generates electricity. You’ll want to pet it because it’s cute, but if you use your bare hand, you’ll get a painful shock.",
       "abilities": [
         "Static"
       ],
       "hidden_abilities": [
         "Plus"
       ],
-      "regional_dex_nums": [
-        53,
-        53,
-        25,
-        127,
-        162
-      ]
+      "regional_dex_nums": {
+        "gsc": 53,
+        "hgss": 53,
+        "b2w2": 25,
+        "xy_coastal": 127,
+        "usum": 162
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -217,6 +217,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "After You",
         "Agility",

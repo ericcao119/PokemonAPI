@@ -2,6 +2,10 @@
   {
     "species_name": "Starmie",
     "variant_name": "Starmie",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 75,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 121,
-      "types": [
-        "Water",
-        "Psychic"
-      ],
       "height": 1.1,
       "weight": 80.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mysterious Pok\u00e9mon",
+      "kind": "Mysterious Pokémon",
       "flavor_text": "The center section is named the core. People think it is communicating when it glows in seven colors.",
       "abilities": [
         "Illuminate",
@@ -29,19 +29,19 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        121,
-        168,
-        144,
-        121,
-        170,
-        239,
-        35,
-        149,
-        185,
-        224,
-        121
-      ]
+      "regional_dex_nums": {
+        "rby": 121,
+        "gsc": 168,
+        "rse": 144,
+        "frlg": 121,
+        "hgss": 170,
+        "b2w2": 239,
+        "xy_coastal": 35,
+        "oras": 149,
+        "sm": 185,
+        "usum": 224,
+        "lets_go": 121
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -61,7 +61,7 @@
       "egg_groups": [
         "Water3"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -244,6 +244,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

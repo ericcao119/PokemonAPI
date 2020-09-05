@@ -2,6 +2,9 @@
   {
     "species_name": "Solosis",
     "variant_name": "Solosis",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 30,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 577,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.3,
       "weight": 1.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cell Pok\u00e9mon",
-      "flavor_text": "Many say that the special liquid covering this Pok\u00e9mon\u2019s body would allow it to survive in the vacuum of space.",
+      "kind": "Cell Pokémon",
+      "flavor_text": "Many say that the special liquid covering this Pokémon’s body would allow it to survive in the vacuum of space.",
       "abilities": [
         "Overcoat",
         "Magic Guard"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        83,
-        139,
-        115,
-        270
-      ]
+      "regional_dex_nums": {
+        "bw": 83,
+        "b2w2": 139,
+        "xy_coastal": 115,
+        "swsh": 270
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -268,6 +268,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Armor",
         "Astonish",

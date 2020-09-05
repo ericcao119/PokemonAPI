@@ -2,6 +2,9 @@
   {
     "species_name": "Ursaring",
     "variant_name": "Ursaring",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 130,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 217,
-      "types": [
-        "Normal"
-      ],
       "height": 1.8,
       "weight": 125.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hibernator Pok\u00e9mon",
-      "flavor_text": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pok\u00e9mon walks through its forest gathering food every day.",
+      "kind": "Hibernator Pokémon",
+      "flavor_text": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.",
       "abilities": [
         "Guts",
         "Quick Feet"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        194,
-        199,
-        133
-      ]
+      "regional_dex_nums": {
+        "gsc": 194,
+        "hgss": 199,
+        "xy_mountain": 133
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -275,6 +275,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Belly Drum",
         "Chip Away",

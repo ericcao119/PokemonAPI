@@ -2,6 +2,9 @@
   {
     "species_name": "Tynamo",
     "variant_name": "Tynamo",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 55,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 602,
-      "types": [
-        "Electric"
-      ],
       "height": 0.2,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "EleFish Pok\u00e9mon",
+      "kind": "EleFish Pokémon",
       "flavor_text": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        108,
-        177
-      ]
+      "regional_dex_nums": {
+        "bw": 108,
+        "b2w2": 177
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -83,6 +83,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Magnet Rise"

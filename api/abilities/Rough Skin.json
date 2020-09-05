@@ -1,4 +1,7 @@
 {
-  "name": "Rough Skin",
-  "description": "Inflicts damage to the attacker on contact."
+  "ability_name": "Rough Skin",
+  "effect": "When a Pokémon with Rough Skin is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP.
+Multi-hit moves (e.g. DoubleSlap) activate Rough Skin for each strike.
+In Generation 3, the damage from Rough Skin is 1⁄16 of the maximum HP.",
+  "description": "This Pokémon inflicts damage with its rough skin to the attacker on contact."
 }

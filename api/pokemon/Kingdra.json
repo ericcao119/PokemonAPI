@@ -2,6 +2,10 @@
   {
     "species_name": "Kingdra",
     "variant_name": "Kingdra",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 95,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 230,
-      "types": [
-        "Water",
-        "Dragon"
-      ],
       "height": 1.8,
       "weight": 152.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dragon Pok\u00e9mon",
-      "flavor_text": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pok\u00e9mon is said to awaken and wander about in search of prey.",
+      "kind": "Dragon Pokémon",
+      "flavor_text": "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.",
       "abilities": [
         "Swift Swim",
         "Sniper"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Damp"
       ],
-      "regional_dex_nums": [
-        188,
-        186,
-        192,
-        41,
-        195
-      ]
+      "regional_dex_nums": {
+        "gsc": 188,
+        "rse": 186,
+        "hgss": 192,
+        "xy_coastal": 41,
+        "oras": 195
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -235,6 +235,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aurora Beam",
         "Clear Smog",

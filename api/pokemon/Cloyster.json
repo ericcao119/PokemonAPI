@@ -2,6 +2,10 @@
   {
     "species_name": "Cloyster",
     "variant_name": "Cloyster",
+    "types": [
+      "Water",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 95,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 91,
-      "types": [
-        "Water",
-        "Ice"
-      ],
       "height": 1.5,
       "weight": 132.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bivalve Pok\u00e9mon",
+      "kind": "Bivalve Pokémon",
       "flavor_text": "Once it slams its shell shut, it is impossible to open, even by those with superior strength.",
       "abilities": [
         "Shell Armor",
@@ -29,17 +29,17 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        91,
-        170,
-        91,
-        172,
-        37,
-        116,
-        139,
-        91,
-        151
-      ]
+      "regional_dex_nums": {
+        "rby": 91,
+        "gsc": 170,
+        "frlg": 91,
+        "hgss": 172,
+        "xy_coastal": 37,
+        "sm": 116,
+        "usum": 139,
+        "lets_go": 91,
+        "swsh": 151
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -303,7 +303,15 @@
           "Liquidation"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Icicle Spear"
+      ],
+      "egg_moves": [
+        "Aqua Ring",
+        "Bubble Beam",
+        "Life Dew",
+        "Water Pulse"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

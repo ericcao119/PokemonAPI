@@ -2,6 +2,9 @@
   {
     "species_name": "Bagon",
     "variant_name": "Bagon",
+    "types": [
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 75,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 371,
-      "types": [
-        "Dragon"
-      ],
       "height": 0.6,
       "weight": 42.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rock Head Pok\u00e9mon",
+      "kind": "Rock Head Pokémon",
       "flavor_text": "Some theories suggest that its behavior of forcefully bashing its head into things stimulates cells that affect its evolution.",
       "abilities": [
         "Rock Head"
@@ -27,13 +27,13 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        187,
-        14,
-        196,
-        117,
-        147
-      ]
+      "regional_dex_nums": {
+        "rse": 187,
+        "xy_coastal": 14,
+        "oras": 196,
+        "sm": 117,
+        "usum": 147
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -216,6 +216,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Defense Curl",
         "Dragon Dance",

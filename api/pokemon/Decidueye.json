@@ -2,6 +2,10 @@
   {
     "species_name": "Decidueye",
     "variant_name": "Decidueye",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 107,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 724,
-      "types": [
-        "Grass",
-        "Ghost"
-      ],
       "height": 1.6,
       "weight": 36.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Arrow Quill Pok\u00e9mon",
-      "flavor_text": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent\u2019s weak point before they notice what\u2019s happening.",
+      "kind": "Arrow Quill Pokémon",
+      "flavor_text": "In a tenth of a second, it can nock and fire an arrow quill, piercing an opponent’s weak point before they notice what’s happening.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Long Reach"
       ],
-      "regional_dex_nums": [
-        3,
-        3
-      ]
+      "regional_dex_nums": {
+        "sm": 3,
+        "usum": 3
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -303,7 +303,15 @@
           "Hurricane"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Spirit Shackle"
+      ],
+      "egg_moves": [
+        "Confuse Ray",
+        "Defog",
+        "Double Team",
+        "Knock Off"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

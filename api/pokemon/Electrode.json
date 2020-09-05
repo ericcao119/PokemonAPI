@@ -2,6 +2,9 @@
   {
     "species_name": "Electrode",
     "variant_name": "Electrode",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 50,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 101,
-      "types": [
-        "Electric"
-      ],
       "height": 1.2,
       "weight": 66.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ball Pok\u00e9mon",
+      "kind": "Ball Pokémon",
       "flavor_text": "Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.",
       "abilities": [
         "Soundproof",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Aftermath"
       ],
-      "regional_dex_nums": [
-        101,
-        121,
-        85,
-        101,
-        122,
-        73,
-        88,
-        101
-      ]
+      "regional_dex_nums": {
+        "rby": 101,
+        "gsc": 121,
+        "rse": 85,
+        "frlg": 101,
+        "hgss": 122,
+        "xy_mountain": 73,
+        "oras": 88,
+        "lets_go": 101
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -57,7 +57,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Foul Play",

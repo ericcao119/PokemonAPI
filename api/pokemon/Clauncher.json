@@ -2,6 +2,9 @@
   {
     "species_name": "Clauncher",
     "variant_name": "Clauncher",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 53,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 692,
-      "types": [
-        "Water"
-      ],
       "height": 0.5,
       "weight": 8.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Water Gun Pok\u00e9mon",
-      "flavor_text": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it\u2019s terrible at swimming straight.",
+      "kind": "Water Gun Pokémon",
+      "flavor_text": "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it’s terrible at swimming straight.",
       "abilities": [
         "Mega Launcher"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        32,
-        349
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 32,
+        "usum": 349
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -220,6 +220,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Jet",
         "Crabhammer",

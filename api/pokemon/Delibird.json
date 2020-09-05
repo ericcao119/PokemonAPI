@@ -2,6 +2,10 @@
   {
     "species_name": "Delibird",
     "variant_name": "Delibird",
+    "types": [
+      "Ice",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 55,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 225,
-      "types": [
-        "Ice",
-        "Flying"
-      ],
       "height": 0.9,
       "weight": 16.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Delivery Pok\u00e9mon",
-      "flavor_text": "It has a generous habit of sharing its food with people and Pok\u00e9mon, so it\u2019s always scrounging around for more food.",
+      "kind": "Delivery Pokémon",
+      "flavor_text": "It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food.",
       "abilities": [
         "Vital Spirit",
         "Hustle"
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Insomnia"
       ],
-      "regional_dex_nums": [
-        190,
-        194,
-        254,
-        90,
-        81,
-        95,
-        78
-      ]
+      "regional_dex_nums": {
+        "gsc": 190,
+        "hgss": 194,
+        "b2w2": 254,
+        "xy_mountain": 90,
+        "sm": 81,
+        "usum": 95,
+        "swsh": 78
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -181,6 +181,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aurora Beam",
         "Bestow",

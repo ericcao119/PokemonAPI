@@ -2,6 +2,9 @@
   {
     "species_name": "Abra",
     "variant_name": "Abra",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 25,
       "attack": 20,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 63,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.9,
       "weight": 19.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Psi Pok\u00e9mon",
+      "kind": "Psi Pokémon",
       "flavor_text": "Sleeps 18 hours a day. If it senses danger, it will teleport itself to safety even as it sleeps.",
       "abilities": [
         "Synchronize",
@@ -28,20 +28,20 @@
       "hidden_abilities": [
         "Magic Guard"
       ],
-      "regional_dex_nums": [
-        63,
-        89,
-        39,
-        63,
-        20,
-        20,
-        89,
-        102,
-        40,
-        42,
-        49,
-        63
-      ]
+      "regional_dex_nums": {
+        "rby": 63,
+        "gsc": 89,
+        "rse": 39,
+        "frlg": 63,
+        "dp": 20,
+        "plat": 20,
+        "hgss": 89,
+        "xy_central": 102,
+        "oras": 40,
+        "sm": 42,
+        "usum": 49,
+        "lets_go": 63
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -220,6 +220,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Barrier",

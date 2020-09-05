@@ -2,6 +2,10 @@
   {
     "species_name": "Morelull",
     "variant_name": "Morelull",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 35,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 755,
-      "types": [
-        "Grass",
-        "Fairy"
-      ],
       "height": 0.2,
       "weight": 1.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Illuminating Pok\u00e9mon",
+      "kind": "Illuminating Pokémon",
       "flavor_text": "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep.",
       "abilities": [
         "Illuminate",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        145,
-        178,
-        340
-      ]
+      "regional_dex_nums": {
+        "sm": 145,
+        "usum": 178,
+        "swsh": 340
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -217,6 +217,7 @@
           "Pollen Puff"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Growth",
         "Leech Seed",

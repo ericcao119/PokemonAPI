@@ -2,6 +2,10 @@
   {
     "species_name": "Indeedee",
     "variant_name": "Male",
+    "types": [
+      "Psychic",
+      "Normal"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 65,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 876,
-      "types": [
-        "Psychic",
-        "Normal"
-      ],
       "height": 0.9,
       "weight": 28.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Emotion Pok\u00e9mon",
+      "kind": "Emotion Pokémon",
       "flavor_text": "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.",
       "abilities": [
         "Inner Focus",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Psychic Surge"
       ],
-      "regional_dex_nums": [
-        337
-      ]
+      "regional_dex_nums": {
+        "swsh": 337
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Fairy"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -60,6 +60,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -68,6 +69,10 @@
   {
     "species_name": "Indeedee",
     "variant_name": "Female",
+    "types": [
+      "Psychic",
+      "Normal"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 55,
@@ -78,16 +83,12 @@
     },
     "dex_entry": {
       "national_dex_num": 876,
-      "types": [
-        "Psychic",
-        "Normal"
-      ],
       "height": 0.9,
       "weight": 28.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Emotion Pok\u00e9mon",
-      "flavor_text": "They diligently serve people and Pok\u00e9mon so they can gather feelings of gratitude. The females are particularly good at babysitting.",
+      "kind": "Emotion Pokémon",
+      "flavor_text": "They diligently serve people and Pokémon so they can gather feelings of gratitude. The females are particularly good at babysitting.",
       "abilities": [
         "Own Tempo",
         "Synchronize"
@@ -95,9 +96,9 @@
       "hidden_abilities": [
         "Psychic Surge"
       ],
-      "regional_dex_nums": [
-        337
-      ]
+      "regional_dex_nums": {
+        "swsh": 337
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -117,7 +118,7 @@
       "egg_groups": [
         "Fairy"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -126,6 +127,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

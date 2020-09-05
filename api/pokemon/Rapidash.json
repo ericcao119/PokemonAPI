@@ -2,6 +2,9 @@
   {
     "species_name": "Rapidash",
     "variant_name": "Rapidash",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 100,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 78,
-      "types": [
-        "Fire"
-      ],
       "height": 1.7,
       "weight": 95.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fire Horse Pok\u00e9mon",
-      "flavor_text": "The fastest runner becomes the leader, and it decides the herd\u2019s pace and direction of travel.",
+      "kind": "Fire Horse Pokémon",
+      "flavor_text": "The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.",
       "abilities": [
         "Run Away",
         "Flash Fire"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Flame Body"
       ],
-      "regional_dex_nums": [
-        78,
-        202,
-        78,
-        91,
-        91,
-        207,
-        78,
-        334
-      ]
+      "regional_dex_nums": {
+        "rby": 78,
+        "gsc": 202,
+        "frlg": 78,
+        "dp": 91,
+        "plat": 91,
+        "hgss": 207,
+        "lets_go": 78,
+        "swsh": 334
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -66,7 +66,15 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Double Kick",
+        "Double-Edge",
+        "Horn Drill",
+        "Hypnosis",
+        "Morning Sun",
+        "Thrash"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -74,6 +82,10 @@
   {
     "species_name": "Rapidash",
     "variant_name": "Galarian Rapidash",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 100,
@@ -84,16 +96,12 @@
     },
     "dex_entry": {
       "national_dex_num": 78,
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
       "height": 1.7,
       "weight": 80.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Unique Horn Pok\u00e9mon",
-      "flavor_text": "The fastest runner becomes the leader, and it decides the herd\u2019s pace and direction of travel.",
+      "kind": "Unique Horn Pokémon",
+      "flavor_text": "Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.",
       "abilities": [
         "Run Away",
         "Pastel Veil"
@@ -101,16 +109,16 @@
       "hidden_abilities": [
         "Anticipation"
       ],
-      "regional_dex_nums": [
-        78,
-        202,
-        78,
-        91,
-        91,
-        207,
-        78,
-        334
-      ]
+      "regional_dex_nums": {
+        "rby": 78,
+        "gsc": 202,
+        "frlg": 78,
+        "dp": 91,
+        "plat": 91,
+        "hgss": 207,
+        "lets_go": 78,
+        "swsh": 334
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -130,7 +138,7 @@
       "egg_groups": [
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -139,7 +147,15 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Double Kick",
+        "Double-Edge",
+        "Horn Drill",
+        "Hypnosis",
+        "Morning Sun",
+        "Thrash"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

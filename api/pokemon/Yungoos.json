@@ -2,6 +2,9 @@
   {
     "species_name": "Yungoos",
     "variant_name": "Yungoos",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 48,
       "attack": 70,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 734,
-      "types": [
-        "Normal"
-      ],
       "height": 0.4,
       "weight": 6.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Loitering Pok\u00e9mon",
+      "kind": "Loitering Pokémon",
       "flavor_text": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
       "abilities": [
         "Strong Jaw",
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Adaptability"
       ],
-      "regional_dex_nums": [
-        13,
-        13
-      ]
+      "regional_dex_nums": {
+        "sm": 13,
+        "usum": 13
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -222,6 +222,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Fire Fang",
         "Ice Fang",

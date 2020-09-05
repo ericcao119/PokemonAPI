@@ -2,6 +2,10 @@
   {
     "species_name": "Vullaby",
     "variant_name": "Vullaby",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 55,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 629,
-      "types": [
-        "Dark",
-        "Flying"
-      ],
       "height": 0.5,
       "weight": 9.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Diapered Pok\u00e9mon",
+      "kind": "Diapered Pokémon",
       "flavor_text": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
       "abilities": [
         "Big Pecks",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        135,
-        111,
-        77,
-        91,
-        283
-      ]
+      "regional_dex_nums": {
+        "bw": 135,
+        "b2w2": 111,
+        "sm": 77,
+        "usum": 91,
+        "swsh": 283
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -254,6 +254,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Fake Tears",
         "Foul Play",

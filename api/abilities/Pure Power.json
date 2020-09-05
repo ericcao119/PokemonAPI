@@ -1,4 +1,6 @@
 {
-  "name": "Pure Power",
-  "description": "Raises the Pok\u00e9mon's Attack stat."
+  "ability_name": "Pure Power",
+  "effect": "Raises the Pokémon's Attack stat.
+",
+  "description": "Using its pure power, the Pokémon doubles its Attack stat."
 }

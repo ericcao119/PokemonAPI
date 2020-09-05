@@ -2,6 +2,10 @@
   {
     "species_name": "Cacturne",
     "variant_name": "Cacturne",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 115,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 332,
-      "types": [
-        "Grass",
-        "Dark"
-      ],
       "height": 1.3,
       "weight": 77.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scarecrow Pok\u00e9mon",
-      "flavor_text": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pok\u00e9mon are biding their time, waiting for the traveler to tire and become incapable of moving.",
+      "kind": "Scarecrow Pokémon",
+      "flavor_text": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.",
       "abilities": [
         "Sand Veil"
       ],
       "hidden_abilities": [
         "Water Absorb"
       ],
-      "regional_dex_nums": [
-        120,
-        125
-      ]
+      "regional_dex_nums": {
+        "rse": 120,
+        "oras": 125
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -275,6 +275,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Spiky Shield"
+      ],
       "egg_moves": [
         "Acid",
         "Belch",

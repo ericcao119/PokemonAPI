@@ -2,6 +2,10 @@
   {
     "species_name": "Pyroar",
     "variant_name": "Pyroar",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
     "base_stats": {
       "hp": 86,
       "attack": 68,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 668,
-      "types": [
-        "Fire",
-        "Normal"
-      ],
       "height": 1.5,
       "weight": 81.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Royal Pok\u00e9mon",
-      "flavor_text": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn\u2019t use it on its prey. This Pok\u00e9mon prefers to eat raw meat.",
+      "kind": "Royal Pokémon",
+      "flavor_text": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn’t use it on its prey. This Pokémon prefers to eat raw meat.",
       "abilities": [
         "Rivalry",
         "Unnerve"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Moxie"
       ],
-      "regional_dex_nums": [
-        58,
-        371
-      ]
+      "regional_dex_nums": {
+        "xy_central": 58,
+        "usum": 371
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -271,6 +271,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Entrainment",
         "Fire Spin",

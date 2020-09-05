@@ -1,4 +1,6 @@
 {
-  "name": "Intrepid Sword",
-  "description": "Boosts Attack in battle."
+  "ability_name": "Intrepid Sword",
+  "effect": "Boosts Attack in battle.
+",
+  "description": "Boosts the Pokémon’s Attack stat when the Pokémon enters a battle."
 }

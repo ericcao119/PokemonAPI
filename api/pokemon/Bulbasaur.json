@@ -2,6 +2,10 @@
   {
     "species_name": "Bulbasaur",
     "variant_name": "Bulbasaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 49,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 1,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 0.7,
       "weight": 6.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Seed Pok\u00e9mon",
+      "kind": "Seed Pokémon",
       "flavor_text": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
       "abilities": [
         "Overgrow"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Chlorophyll"
       ],
-      "regional_dex_nums": [
-        1,
-        226,
-        1,
-        231,
-        80,
-        1
-      ]
+      "regional_dex_nums": {
+        "rby": 1,
+        "gsc": 226,
+        "frlg": 1,
+        "hgss": 231,
+        "xy_central": 80,
+        "lets_go": 1
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -256,6 +256,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Curse",
         "Ingrain",

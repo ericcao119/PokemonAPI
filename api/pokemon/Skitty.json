@@ -2,6 +2,9 @@
   {
     "species_name": "Skitty",
     "variant_name": "Skitty",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 45,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 300,
-      "types": [
-        "Normal"
-      ],
       "height": 0.6,
       "weight": 11.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Kitten Pok\u00e9mon",
-      "flavor_text": "Skitty is known to chase around playfully after its own tail. In the wild, this Pok\u00e9mon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
+      "kind": "Kitten Pokémon",
+      "flavor_text": "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
       "abilities": [
         "Cute Charm",
         "Normalize"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Wonder Skin"
       ],
-      "regional_dex_nums": [
-        61,
-        78,
-        78,
-        63
-      ]
+      "regional_dex_nums": {
+        "rse": 61,
+        "b2w2": 78,
+        "xy_central": 78,
+        "oras": 63
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -273,6 +273,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baton Pass",
         "Captivate",

@@ -2,6 +2,9 @@
   {
     "species_name": "Sandslash",
     "variant_name": "Sandslash",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 100,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 28,
-      "types": [
-        "Ground"
-      ],
       "height": 1.0,
       "weight": 29.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mouse Pok\u00e9mon",
+      "kind": "Mouse Pokémon",
       "flavor_text": "It is skilled at slashing enemies with its claws. If broken, they start to grow back in a day.",
       "abilities": [
         "Sand Veil"
@@ -27,19 +27,19 @@
       "hidden_abilities": [
         "Sand Rush"
       ],
-      "regional_dex_nums": [
-        28,
-        49,
-        113,
-        28,
-        49,
-        114,
-        98,
-        118,
-        252,
-        329,
-        28
-      ]
+      "regional_dex_nums": {
+        "rby": 28,
+        "gsc": 49,
+        "rse": 113,
+        "frlg": 28,
+        "hgss": 49,
+        "b2w2": 114,
+        "xy_mountain": 98,
+        "oras": 118,
+        "sm": 252,
+        "usum": 329,
+        "lets_go": 28
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -68,6 +68,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -76,6 +77,10 @@
   {
     "species_name": "Sandslash",
     "variant_name": "Alolan Sandslash",
+    "types": [
+      "Ice",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 100,
@@ -86,35 +91,31 @@
     },
     "dex_entry": {
       "national_dex_num": 28,
-      "types": [
-        "Ice",
-        "Steel"
-      ],
       "height": 1.2,
       "weight": 55.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mouse Pok\u00e9mon",
-      "flavor_text": "This is Sandslash\u2019s form after adaptation to a frigid environment. The cold air emitted by its body sharpens its icy spikes.",
+      "kind": "Mouse Pokémon",
+      "flavor_text": "This is Sandslash’s form after adaptation to a frigid environment. The cold air emitted by its body sharpens its icy spikes.",
       "abilities": [
         "Snow Cloak"
       ],
       "hidden_abilities": [
         "Slush Rush"
       ],
-      "regional_dex_nums": [
-        28,
-        49,
-        113,
-        28,
-        49,
-        114,
-        98,
-        118,
-        252,
-        329,
-        28
-      ]
+      "regional_dex_nums": {
+        "rby": 28,
+        "gsc": 49,
+        "rse": 113,
+        "frlg": 28,
+        "hgss": 49,
+        "b2w2": 114,
+        "xy_mountain": 98,
+        "oras": 118,
+        "sm": 252,
+        "usum": 329,
+        "lets_go": 28
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -143,6 +144,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

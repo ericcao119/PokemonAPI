@@ -2,6 +2,10 @@
   {
     "species_name": "Blaziken",
     "variant_name": "Blaziken",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 120,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 257,
-      "types": [
-        "Fire",
-        "Fighting"
-      ],
       "height": 1.9,
       "weight": 52.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Blaze Pok\u00e9mon",
-      "flavor_text": "Blaziken has incredibly strong legs\u2014it can easily clear a 30-story building in one leap. This Pok\u00e9mon\u2019s blazing punches leave its foes scorched and blackened.",
+      "kind": "Blaze Pokémon",
+      "flavor_text": "Blaziken has incredibly strong legs—it can easily clear a 30-story building in one leap. This Pokémon’s blazing punches leave its foes scorched and blackened.",
       "abilities": [
         "Blaze"
       ],
       "hidden_abilities": [
         "Speed Boost"
       ],
-      "regional_dex_nums": [
-        6,
-        6
-      ]
+      "regional_dex_nums": {
+        "rse": 6,
+        "oras": 6
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -306,6 +306,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Blaze Kick"
+      ],
       "egg_moves": [
         "Agility",
         "Baton Pass",
@@ -370,6 +373,10 @@
   {
     "species_name": "Blaziken",
     "variant_name": "Mega Blaziken",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 160,
@@ -380,24 +387,20 @@
     },
     "dex_entry": {
       "national_dex_num": 257,
-      "types": [
-        "Fire",
-        "Fighting"
-      ],
       "height": 1.9,
       "weight": 52.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Blaze Pok\u00e9mon",
-      "flavor_text": "Blaziken has incredibly strong legs\u2014it can easily clear a 30-story building in one leap. This Pok\u00e9mon\u2019s blazing punches leave its foes scorched and blackened.",
+      "kind": "Blaze Pokémon",
+      "flavor_text": "Blaziken has incredibly strong legs—it can easily clear a 30-story building in one leap. This Pokémon’s blazing punches leave its foes scorched and blackened.",
       "abilities": [
         "Speed Boost"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        6,
-        6
-      ]
+      "regional_dex_nums": {
+        "rse": 6,
+        "oras": 6
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -672,6 +675,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Blaze Kick"
+      ],
       "egg_moves": [
         "Agility",
         "Baton Pass",

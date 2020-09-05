@@ -1,4 +1,7 @@
 {
-  "name": "Dancer",
-  "description": "Copies the foe's Dance moves."
+  "ability_name": "Dancer",
+  "effect": "When another Pokémon on the field uses any Dance move, Dancer causes the ability-bearer to use that same move immediately afterward. They will still use their own move originally selected, at the usual time (e.g. after the opponent if they are slower).
+Effects and status conditions apply for both the copied move and original move. For example if the Dancer Pokémon is confused, they may hurt themselves in confusion when using their move and when copying a Dance move.
+The moves that Dancer can copy are:",
+  "description": "When another Pokémon uses a dance move, it can use a dance move following it regardless of its Speed."
 }

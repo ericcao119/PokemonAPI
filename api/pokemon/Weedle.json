@@ -2,6 +2,10 @@
   {
     "species_name": "Weedle",
     "variant_name": "Weedle",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 35,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 13,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 0.3,
       "weight": 3.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hairy Bug Pok\u00e9mon",
+      "kind": "Hairy Bug Pokémon",
       "flavor_text": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
       "abilities": [
         "Shield Dust"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Run Away"
       ],
-      "regional_dex_nums": [
-        13,
-        27,
-        13,
-        27,
-        26,
-        13
-      ]
+      "regional_dex_nums": {
+        "rby": 13,
+        "gsc": 27,
+        "frlg": 13,
+        "hgss": 27,
+        "xy_central": 26,
+        "lets_go": 13
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -77,6 +77,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

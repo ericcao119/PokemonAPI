@@ -2,6 +2,9 @@
   {
     "species_name": "Comfey",
     "variant_name": "Comfey",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 51,
       "attack": 52,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 764,
-      "types": [
-        "Fairy"
-      ],
       "height": 0.1,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Posy Picker Pok\u00e9mon",
+      "kind": "Posy Picker Pokémon",
       "flavor_text": "It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect.",
       "abilities": [
         "Flower Veil",
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Natural Cure"
       ],
-      "regional_dex_nums": [
-        174,
-        210
-      ]
+      "regional_dex_nums": {
+        "sm": 174,
+        "usum": 210
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -266,6 +266,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "After You",
         "Amnesia",

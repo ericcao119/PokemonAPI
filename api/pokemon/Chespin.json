@@ -2,6 +2,9 @@
   {
     "species_name": "Chespin",
     "variant_name": "Chespin",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 56,
       "attack": 61,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 650,
-      "types": [
-        "Grass"
-      ],
       "height": 0.4,
       "weight": 9.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spiny Nut Pok\u00e9mon",
-      "flavor_text": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn\u2019t faze it.",
+      "kind": "Spiny Nut Pokémon",
+      "flavor_text": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Bulletproof"
       ],
-      "regional_dex_nums": [
-        1
-      ]
+      "regional_dex_nums": {
+        "xy_central": 1
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -272,6 +272,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Belly Drum",
         "Curse",

@@ -2,6 +2,10 @@
   {
     "species_name": "Carkol",
     "variant_name": "Carkol",
+    "types": [
+      "Rock",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 60,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 838,
-      "types": [
-        "Rock",
-        "Fire"
-      ],
       "height": 1.1,
       "weight": 78.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Coal Pok\u00e9mon",
+      "kind": "Coal Pokémon",
       "flavor_text": "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
       "abilities": [
         "Steam Engine",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Flash Fire"
       ],
-      "regional_dex_nums": [
-        162
-      ]
+      "regional_dex_nums": {
+        "swsh": 162
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -251,7 +251,14 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Flame Charge"
+      ],
+      "egg_moves": [
+        "Block",
+        "Explosion",
+        "Mud-Slap"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -2,6 +2,10 @@
   {
     "species_name": "Bruxish",
     "variant_name": "Bruxish",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 68,
       "attack": 105,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 779,
-      "types": [
-        "Water",
-        "Psychic"
-      ],
       "height": 0.9,
       "weight": 19.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gnash Teeth Pok\u00e9mon",
-      "flavor_text": "Its skin is thick enough to fend off Mareanie\u2019s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
+      "kind": "Gnash Teeth Pokémon",
+      "flavor_text": "Its skin is thick enough to fend off Mareanie’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
       "abilities": [
         "Dazzling",
         "Strong Jaw"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Wonder Skin"
       ],
-      "regional_dex_nums": [
-        243,
-        320
-      ]
+      "regional_dex_nums": {
+        "sm": 243,
+        "usum": 320
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -263,6 +263,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ice Fang",
         "Poison Fang",

@@ -2,6 +2,10 @@
   {
     "species_name": "Kabuto",
     "variant_name": "Kabuto",
+    "types": [
+      "Rock",
+      "Water"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 80,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 140,
-      "types": [
-        "Rock",
-        "Water"
-      ],
       "height": 0.5,
       "weight": 11.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Shellfish Pok\u00e9mon",
-      "flavor_text": "A Pok\u00e9mon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
+      "kind": "Shellfish Pokémon",
+      "flavor_text": "A Pokémon that was recovered from a fossil. It used the eyes on its back while hiding on the seafloor.",
       "abilities": [
         "Swift Swim",
         "Battle Armor"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        140,
-        222,
-        140,
-        227,
-        229,
-        140
-      ]
+      "regional_dex_nums": {
+        "rby": 140,
+        "gsc": 222,
+        "frlg": 140,
+        "hgss": 227,
+        "usum": 229,
+        "lets_go": 140
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -228,6 +228,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aurora Beam",
         "Bubble Beam",

@@ -1,4 +1,5 @@
 {
-  "name": "Disguise",
-  "description": "Avoids damage for one turn."
+  "ability_name": "Disguise",
+  "effect": "Disguise allows the bearer to avoid damage for one attack, in a similar way to Substitute.",
+  "description": "Once per battle, the shroud that covers the Pokémon can protect it from an attack."
 }

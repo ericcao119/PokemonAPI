@@ -2,6 +2,10 @@
   {
     "species_name": "Metang",
     "variant_name": "Metang",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 75,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 375,
-      "types": [
-        "Steel",
-        "Psychic"
-      ],
       "height": 1.2,
       "weight": 202.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Claw Pok\u00e9mon",
+      "kind": "Iron Claw Pokémon",
       "flavor_text": "It flies at high speeds around the skies. When it finds its prey, Metang takes a firm grip with its sharp claws and never lets go.",
       "abilities": [
         "Clear Body"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Light Metal"
       ],
-      "regional_dex_nums": [
-        191,
-        263,
-        200,
-        215,
-        279
-      ]
+      "regional_dex_nums": {
+        "rse": 191,
+        "b2w2": 263,
+        "oras": 200,
+        "sm": 215,
+        "usum": 279
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -54,7 +54,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -261,6 +261,10 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Confusion",
+        "Metal Claw"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

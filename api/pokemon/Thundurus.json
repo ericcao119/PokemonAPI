@@ -2,6 +2,10 @@
   {
     "species_name": "Thundurus",
     "variant_name": "Incarnate Forme",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 79,
       "attack": 115,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 642,
-      "types": [
-        "Electric",
-        "Flying"
-      ],
       "height": 1.5,
       "weight": 61.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bolt Strike Pok\u00e9mon",
+      "kind": "Bolt Strike Pokémon",
       "flavor_text": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
       "abilities": [
         "Prankster"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Defiant"
       ],
-      "regional_dex_nums": [
-        148,
-        199
-      ]
+      "regional_dex_nums": {
+        "bw": 148,
+        "b2w2": 199
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -318,6 +318,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",
@@ -343,6 +344,10 @@
   {
     "species_name": "Thundurus",
     "variant_name": "Therian Forme",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 79,
       "attack": 105,
@@ -353,24 +358,20 @@
     },
     "dex_entry": {
       "national_dex_num": 642,
-      "types": [
-        "Electric",
-        "Flying"
-      ],
       "height": 3.0,
       "weight": 61.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bolt Strike Pok\u00e9mon",
+      "kind": "Bolt Strike Pokémon",
       "flavor_text": "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
       "abilities": [
         "Volt Absorb"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        148,
-        199
-      ]
+      "regional_dex_nums": {
+        "bw": 148,
+        "b2w2": 199
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -657,6 +658,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",

@@ -2,6 +2,10 @@
   {
     "species_name": "Stunky",
     "variant_name": "Stunky",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 63,
       "attack": 63,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 434,
-      "types": [
-        "Poison",
-        "Dark"
-      ],
       "height": 0.4,
       "weight": 19.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Skunk Pok\u00e9mon",
-      "flavor_text": "If it lifts its tail and points its rear at you, beware. It\u2019s about to spray you with a fluid stinky enough to make you faint.",
+      "kind": "Skunk Pokémon",
+      "flavor_text": "If it lifts its tail and points its rear at you, beware. It’s about to spray you with a fluid stinky enough to make you faint.",
       "abilities": [
         "Stench",
         "Aftermath"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Keen Eye"
       ],
-      "regional_dex_nums": [
-        84,
-        84,
-        102,
-        130
-      ]
+      "regional_dex_nums": {
+        "dp": 84,
+        "plat": 84,
+        "xy_coastal": 102,
+        "swsh": 130
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -253,6 +253,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Crunch",

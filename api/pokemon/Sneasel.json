@@ -2,6 +2,10 @@
   {
     "species_name": "Sneasel",
     "variant_name": "Sneasel",
+    "types": [
+      "Dark",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 95,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 215,
-      "types": [
-        "Dark",
-        "Ice"
-      ],
       "height": 0.9,
       "weight": 28.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sharp Claw Pok\u00e9mon",
+      "kind": "Sharp Claw Pokémon",
       "flavor_text": "It has a cunning yet savage disposition. It waits for parents to leave their nests, and then it sneaks in to steal their eggs.",
       "abilities": [
         "Inner Focus",
@@ -29,17 +29,17 @@
       "hidden_abilities": [
         "Pickpocket"
       ],
-      "regional_dex_nums": [
-        213,
-        144,
-        144,
-        218,
-        252,
-        91,
-        249,
-        326,
-        292
-      ]
+      "regional_dex_nums": {
+        "gsc": 213,
+        "dp": 144,
+        "plat": 144,
+        "hgss": 218,
+        "b2w2": 252,
+        "xy_mountain": 91,
+        "sm": 249,
+        "usum": 326,
+        "swsh": 292
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -298,6 +298,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assist",
         "Avalanche",

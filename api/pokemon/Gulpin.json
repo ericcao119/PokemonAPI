@@ -2,6 +2,9 @@
   {
     "species_name": "Gulpin",
     "variant_name": "Gulpin",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 43,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 316,
-      "types": [
-        "Poison"
-      ],
       "height": 0.4,
       "weight": 10.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Stomach Pok\u00e9mon",
-      "flavor_text": "Most of Gulpin\u2019s body is made up of its stomach\u2014its heart and brain are very small in comparison. This Pok\u00e9mon\u2019s stomach contains special enzymes that dissolve anything.",
+      "kind": "Stomach Pokémon",
+      "flavor_text": "Most of Gulpin’s body is made up of its stomach—its heart and brain are very small in comparison. This Pokémon’s stomach contains special enzymes that dissolve anything.",
       "abilities": [
         "Liquid Ooze",
         "Sticky Hold"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Gluttony"
       ],
-      "regional_dex_nums": [
-        95,
-        98,
-        100
-      ]
+      "regional_dex_nums": {
+        "rse": 95,
+        "xy_central": 98,
+        "oras": 100
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -227,6 +227,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Armor",
         "Curse",

@@ -2,6 +2,9 @@
   {
     "species_name": "Luxio",
     "variant_name": "Luxio",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 85,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 404,
-      "types": [
-        "Electric"
-      ],
       "height": 0.9,
       "weight": 30.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spark Pok\u00e9mon",
+      "kind": "Spark Pokémon",
       "flavor_text": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
       "abilities": [
         "Rivalry",
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Guts"
       ],
-      "regional_dex_nums": [
-        18,
-        18
-      ]
+      "regional_dex_nums": {
+        "dp": 18,
+        "plat": 18
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -214,6 +214,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Double Kick",
         "Eerie Impulse",

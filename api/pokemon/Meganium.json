@@ -2,6 +2,9 @@
   {
     "species_name": "Meganium",
     "variant_name": "Meganium",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 82,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 154,
-      "types": [
-        "Grass"
-      ],
       "height": 1.8,
       "weight": 100.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Herb Pok\u00e9mon",
-      "flavor_text": "The fragrance of Meganium\u2019s flower soothes and calms emotions. In battle, this Pok\u00e9mon gives off more of its becalming scent to blunt the foe\u2019s fighting spirit.",
+      "kind": "Herb Pokémon",
+      "flavor_text": "The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Leaf Guard"
       ],
-      "regional_dex_nums": [
-        3,
-        3
-      ]
+      "regional_dex_nums": {
+        "gsc": 3,
+        "hgss": 3
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -258,6 +258,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Petal Dance"
+      ],
       "egg_moves": [
         "Ancient Power",
         "Aromatherapy",

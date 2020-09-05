@@ -2,6 +2,9 @@
   {
     "species_name": "Gothorita",
     "variant_name": "Gothorita",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 45,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 575,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.7,
       "weight": 18.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Manipulate Pok\u00e9mon",
-      "flavor_text": "On nights when the stars shine, this Pok\u00e9mon\u2019s psychic power is at its strongest. It\u2019s unknown just what link Gothorita has to the greater universe.",
+      "kind": "Manipulate Pokémon",
+      "flavor_text": "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe.",
       "abilities": [
         "Frisk",
         "Competitive"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Shadow Tag"
       ],
-      "regional_dex_nums": [
-        81,
-        137,
-        127,
-        268
-      ]
+      "regional_dex_nums": {
+        "bw": 81,
+        "b2w2": 137,
+        "xy_mountain": 127,
+        "swsh": 268
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -296,6 +296,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Dark Pulse",

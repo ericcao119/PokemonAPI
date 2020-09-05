@@ -2,6 +2,10 @@
   {
     "species_name": "Lileep",
     "variant_name": "Lileep",
+    "types": [
+      "Rock",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 66,
       "attack": 41,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 345,
-      "types": [
-        "Rock",
-        "Grass"
-      ],
       "height": 1.0,
       "weight": 23.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Lily Pok\u00e9mon",
-      "flavor_text": "It sticks to rocks with its powerful suckers and can\u2019t be washed away no matter how rough the surf gets.",
+      "kind": "Sea Lily Pokémon",
+      "flavor_text": "It sticks to rocks with its powerful suckers and can’t be washed away no matter how rough the surf gets.",
       "abilities": [
         "Suction Cups"
       ],
       "hidden_abilities": [
         "Storm Drain"
       ],
-      "regional_dex_nums": [
-        133,
-        138,
-        231
-      ]
+      "regional_dex_nums": {
+        "rse": 133,
+        "oras": 138,
+        "usum": 231
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -227,6 +227,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Barrier",
         "Curse",

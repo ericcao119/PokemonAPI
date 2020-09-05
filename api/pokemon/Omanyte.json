@@ -2,6 +2,10 @@
   {
     "species_name": "Omanyte",
     "variant_name": "Omanyte",
+    "types": [
+      "Rock",
+      "Water"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 40,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 138,
-      "types": [
-        "Rock",
-        "Water"
-      ],
       "height": 0.4,
       "weight": 7.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spiral Pok\u00e9mon",
-      "flavor_text": "An ancient Pok\u00e9mon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
+      "kind": "Spiral Pokémon",
+      "flavor_text": "An ancient Pokémon that was recovered from a fossil. It swam by cleverly twisting its 10 tentacles about.",
       "abilities": [
         "Swift Swim",
         "Shell Armor"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        138,
-        220,
-        138,
-        225,
-        227,
-        138
-      ]
+      "regional_dex_nums": {
+        "rby": 138,
+        "gsc": 220,
+        "frlg": 138,
+        "hgss": 225,
+        "usum": 227,
+        "lets_go": 138
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -236,6 +236,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aurora Beam",
         "Bide",

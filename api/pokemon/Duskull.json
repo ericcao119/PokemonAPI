@@ -2,6 +2,9 @@
   {
     "species_name": "Duskull",
     "variant_name": "Duskull",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 20,
       "attack": 40,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 355,
-      "types": [
-        "Ghost"
-      ],
       "height": 0.8,
       "weight": 15.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Requiem Pok\u00e9mon",
+      "kind": "Requiem Pokémon",
       "flavor_text": "Making itself invisible, it silently sneaks up to prey. It has the ability to slip through thick walls.",
       "abilities": [
         "Levitate"
@@ -27,12 +27,12 @@
       "hidden_abilities": [
         "Frisk"
       ],
-      "regional_dex_nums": [
-        148,
-        189,
-        153,
-        135
-      ]
+      "regional_dex_nums": {
+        "rse": 148,
+        "plat": 189,
+        "oras": 153,
+        "swsh": 135
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -259,6 +259,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Dark Pulse",
         "Destiny Bond",

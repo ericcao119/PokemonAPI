@@ -2,6 +2,10 @@
   {
     "species_name": "Palossand",
     "variant_name": "Palossand",
+    "types": [
+      "Ghost",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 75,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 770,
-      "types": [
-        "Ghost",
-        "Ground"
-      ],
       "height": 1.3,
       "weight": 250.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sand Castle Pok\u00e9mon",
-      "flavor_text": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pok\u00e9mon snatches away their vitality.",
+      "kind": "Sand Castle Pokémon",
+      "flavor_text": "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.",
       "abilities": [
         "Water Compaction"
       ],
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        187,
-        226
-      ]
+      "regional_dex_nums": {
+        "sm": 187,
+        "usum": 226
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -246,6 +246,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Ancient Power",

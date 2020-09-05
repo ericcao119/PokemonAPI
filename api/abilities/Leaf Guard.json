@@ -1,4 +1,6 @@
 {
-  "name": "Leaf Guard",
-  "description": "Prevents problems with status in sunny weather."
+  "ability_name": "Leaf Guard",
+  "effect": "Leaf Guard prevents the bearer from succumbing to major status ailments (sleep, burns, poisoning, paralysis or freezing) during sunny weather.
+It does not prevent minor status ailments such as Confusion or Infatuation, nor does it prevent self-inflicted status conditions such as from using Rest.",
+  "description": "Prevents status conditions in harsh sunlight."
 }

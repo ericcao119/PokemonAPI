@@ -2,6 +2,9 @@
   {
     "species_name": "Castform",
     "variant_name": "Castform",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 70,
@@ -12,26 +15,23 @@
     },
     "dex_entry": {
       "national_dex_num": 351,
-      "types": [
-        "Normal"
-      ],
       "height": 0.3,
       "weight": 0.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Weather Pok\u00e9mon",
-      "flavor_text": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform\u2019s disposition!",
+      "kind": "Weather Pokémon",
+      "flavor_text": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!",
       "abilities": [
         "Forecast"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        142,
-        163,
-        147,
-        181,
-        220
-      ]
+      "regional_dex_nums": {
+        "rse": 142,
+        "b2w2": 163,
+        "oras": 147,
+        "sm": 181,
+        "usum": 220
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -243,6 +243,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Clear Smog",
@@ -284,6 +285,9 @@
   {
     "species_name": "Castform",
     "variant_name": "Sunny Form",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 70,
@@ -294,26 +298,23 @@
     },
     "dex_entry": {
       "national_dex_num": 351,
-      "types": [
-        "Fire"
-      ],
       "height": 0.3,
       "weight": 0.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Weather Pok\u00e9mon",
+      "kind": "Weather Pokémon",
       "flavor_text": "Castform changes to this form when it basks in bright sunlight. When you touch its glowing skin, it feels all dried out!",
       "abilities": [
         "Forecast"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        142,
-        163,
-        147,
-        181,
-        220
-      ]
+      "regional_dex_nums": {
+        "rse": 142,
+        "b2w2": 163,
+        "oras": 147,
+        "sm": 181,
+        "usum": 220
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -525,6 +526,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Clear Smog",
@@ -566,6 +568,9 @@
   {
     "species_name": "Castform",
     "variant_name": "Rainy Form",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 70,
@@ -576,26 +581,23 @@
     },
     "dex_entry": {
       "national_dex_num": 351,
-      "types": [
-        "Water"
-      ],
       "height": 0.3,
       "weight": 0.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Weather Pok\u00e9mon",
-      "flavor_text": "This is Castform\u2019s form when pelted by rain. In an experiment where it was placed in a shower, this Pok\u00e9mon didn\u2019t change to this form.",
+      "kind": "Weather Pokémon",
+      "flavor_text": "This is Castform’s form when pelted by rain. In an experiment where it was placed in a shower, this Pokémon didn’t change to this form.",
       "abilities": [
         "Forecast"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        142,
-        163,
-        147,
-        181,
-        220
-      ]
+      "regional_dex_nums": {
+        "rse": 142,
+        "b2w2": 163,
+        "oras": 147,
+        "sm": 181,
+        "usum": 220
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -807,6 +809,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Clear Smog",
@@ -848,6 +851,9 @@
   {
     "species_name": "Castform",
     "variant_name": "Snowy Form",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 70,
@@ -858,26 +864,23 @@
     },
     "dex_entry": {
       "national_dex_num": 351,
-      "types": [
-        "Ice"
-      ],
       "height": 0.3,
       "weight": 0.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Weather Pok\u00e9mon",
-      "flavor_text": "This is Castform\u2019s form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!",
+      "kind": "Weather Pokémon",
+      "flavor_text": "This is Castform’s form when caught in a hailstorm. Its whole body is chilled, and its skin is partially frozen!",
       "abilities": [
         "Forecast"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        142,
-        163,
-        147,
-        181,
-        220
-      ]
+      "regional_dex_nums": {
+        "rse": 142,
+        "b2w2": 163,
+        "oras": 147,
+        "sm": 181,
+        "usum": 220
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -1089,6 +1092,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Clear Smog",

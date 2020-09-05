@@ -1,4 +1,5 @@
 {
-  "name": "Soul-Heart",
-  "description": "Raises Special Attack when an ally faints."
+  "ability_name": "Soul-Heart",
+  "effect": "Soul-Heart raises the bearer's Special Attack one stage when a teammate faints.",
+  "description": "Boosts its Sp. Atk stat every time a Pokémon faints."
 }

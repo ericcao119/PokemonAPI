@@ -2,6 +2,9 @@
   {
     "species_name": "Grimer",
     "variant_name": "Grimer",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 80,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 88,
-      "types": [
-        "Poison"
-      ],
       "height": 0.9,
       "weight": 30.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sludge Pok\u00e9mon",
-      "flavor_text": "Made of congealed sludge. It smells too putrid to touch. Even weeds won\u2019t grow in its path.",
+      "kind": "Sludge Pokémon",
+      "flavor_text": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
       "abilities": [
         "Stench",
         "Sticky Hold"
@@ -28,18 +28,18 @@
       "hidden_abilities": [
         "Poison Touch"
       ],
-      "regional_dex_nums": [
-        88,
-        116,
-        106,
-        88,
-        117,
-        64,
-        111,
-        50,
-        57,
-        88
-      ]
+      "regional_dex_nums": {
+        "rby": 88,
+        "gsc": 116,
+        "rse": 106,
+        "frlg": 88,
+        "hgss": 117,
+        "b2w2": 64,
+        "oras": 111,
+        "sm": 50,
+        "usum": 57,
+        "lets_go": 88
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -68,6 +68,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -76,6 +77,10 @@
   {
     "species_name": "Grimer",
     "variant_name": "Alolan Grimer",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 80,
@@ -86,15 +91,11 @@
     },
     "dex_entry": {
       "national_dex_num": 88,
-      "types": [
-        "Poison",
-        "Dark"
-      ],
       "height": 0.7,
       "weight": 42.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sludge Pok\u00e9mon",
+      "kind": "Sludge Pokémon",
       "flavor_text": "It has a passion for trash above all else, speedily digesting it and creating brilliant crystals of sparkling poison.",
       "abilities": [
         "Poison Touch",
@@ -103,18 +104,18 @@
       "hidden_abilities": [
         "Power of Alchemy"
       ],
-      "regional_dex_nums": [
-        88,
-        116,
-        106,
-        88,
-        117,
-        64,
-        111,
-        50,
-        57,
-        88
-      ]
+      "regional_dex_nums": {
+        "rby": 88,
+        "gsc": 116,
+        "rse": 106,
+        "frlg": 88,
+        "hgss": 117,
+        "b2w2": 64,
+        "oras": 111,
+        "sm": 50,
+        "usum": 57,
+        "lets_go": 88
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -143,6 +144,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

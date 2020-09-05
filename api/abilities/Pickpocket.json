@@ -1,4 +1,6 @@
 {
-  "name": "Pickpocket",
-  "description": "Steals an item when hit by another Pok\u00e9mon."
+  "ability_name": "Pickpocket",
+  "effect": "Steals an item when hit by another Pokémon.
+",
+  "description": "Steals an item from an attacker that made direct contact."
 }

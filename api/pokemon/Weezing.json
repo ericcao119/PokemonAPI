@@ -2,6 +2,9 @@
   {
     "species_name": "Weezing",
     "variant_name": "Weezing",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 90,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 110,
-      "types": [
-        "Poison"
-      ],
       "height": 1.2,
       "weight": 9.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Gas Pok\u00e9mon",
-      "flavor_text": "It can\u2019t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
+      "kind": "Poison Gas Pokémon",
+      "flavor_text": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
       "abilities": [
         "Levitate",
         "Neutralizing Gas"
@@ -28,17 +28,17 @@
       "hidden_abilities": [
         "Stench"
       ],
-      "regional_dex_nums": [
-        110,
-        115,
-        109,
-        110,
-        116,
-        47,
-        114,
-        110,
-        251
-      ]
+      "regional_dex_nums": {
+        "rby": 110,
+        "gsc": 115,
+        "rse": 109,
+        "frlg": 110,
+        "hgss": 116,
+        "b2w2": 47,
+        "oras": 114,
+        "lets_go": 110,
+        "swsh": 251
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -67,7 +67,19 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Double Hit"
+      ],
+      "egg_moves": [
+        "Curse",
+        "Grudge",
+        "Pain Split",
+        "Psybeam",
+        "Spit Up",
+        "Spite",
+        "Stockpile",
+        "Swallow"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -75,6 +87,10 @@
   {
     "species_name": "Weezing",
     "variant_name": "Galarian Weezing",
+    "types": [
+      "Poison",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 90,
@@ -85,16 +101,12 @@
     },
     "dex_entry": {
       "national_dex_num": 110,
-      "types": [
-        "Poison",
-        "Fairy"
-      ],
       "height": 3.0,
       "weight": 16.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Gas Pok\u00e9mon",
-      "flavor_text": "It can\u2019t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
+      "kind": "Poison Gas Pokémon",
+      "flavor_text": "Long ago, during a time when droves of factories fouled the air with pollution, Weezing changed into this form for some reason.",
       "abilities": [
         "Levitate",
         "Neutralizing Gas"
@@ -102,17 +114,17 @@
       "hidden_abilities": [
         "Misty Surge"
       ],
-      "regional_dex_nums": [
-        110,
-        115,
-        109,
-        110,
-        116,
-        47,
-        114,
-        110,
-        251
-      ]
+      "regional_dex_nums": {
+        "rby": 110,
+        "gsc": 115,
+        "rse": 109,
+        "frlg": 110,
+        "hgss": 116,
+        "b2w2": 47,
+        "oras": 114,
+        "lets_go": 110,
+        "swsh": 251
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -132,7 +144,7 @@
       "egg_groups": [
         "Amorphous"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -141,7 +153,19 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Double Hit"
+      ],
+      "egg_moves": [
+        "Curse",
+        "Grudge",
+        "Pain Split",
+        "Psybeam",
+        "Spit Up",
+        "Spite",
+        "Stockpile",
+        "Swallow"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

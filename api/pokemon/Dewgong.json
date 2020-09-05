@@ -2,6 +2,10 @@
   {
     "species_name": "Dewgong",
     "variant_name": "Dewgong",
+    "types": [
+      "Water",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 70,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 87,
-      "types": [
-        "Water",
-        "Ice"
-      ],
       "height": 1.7,
       "weight": 120.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Lion Pok\u00e9mon",
+      "kind": "Sea Lion Pokémon",
       "flavor_text": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
       "abilities": [
         "Thick Fat",
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Ice Body"
       ],
-      "regional_dex_nums": [
-        87,
-        177,
-        87,
-        179,
-        266,
-        116,
-        87
-      ]
+      "regional_dex_nums": {
+        "rby": 87,
+        "gsc": 177,
+        "frlg": 87,
+        "hgss": 179,
+        "b2w2": 266,
+        "usum": 116,
+        "lets_go": 87
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -265,6 +265,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Sheer Cold"
+      ],
       "egg_moves": [
         "Belch",
         "Disable",

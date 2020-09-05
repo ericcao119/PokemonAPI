@@ -2,6 +2,10 @@
   {
     "species_name": "Togedemaru",
     "variant_name": "Togedemaru",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 98,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 777,
-      "types": [
-        "Electric",
-        "Steel"
-      ],
       "height": 0.3,
       "weight": 3.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Roly-Poly Pok\u00e9mon",
-      "flavor_text": "When it\u2019s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
+      "kind": "Roly-Poly Pokémon",
+      "flavor_text": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
       "abilities": [
         "Iron Barbs",
         "Lightning Rod"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Sturdy"
       ],
-      "regional_dex_nums": [
-        225,
-        292,
-        348
-      ]
+      "regional_dex_nums": {
+        "sm": 225,
+        "usum": 292,
+        "swsh": 348
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -282,6 +282,7 @@
           "Wild Charge"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Disarming Voice",
         "Fake Out",

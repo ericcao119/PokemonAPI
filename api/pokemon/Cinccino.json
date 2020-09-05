@@ -2,6 +2,9 @@
   {
     "species_name": "Cinccino",
     "variant_name": "Cinccino",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 95,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 573,
-      "types": [
-        "Normal"
-      ],
       "height": 0.5,
       "weight": 7.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scarf Pok\u00e9mon",
+      "kind": "Scarf Pokémon",
       "flavor_text": "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.",
       "abilities": [
         "Cute Charm",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Skill Link"
       ],
-      "regional_dex_nums": [
-        79,
-        108,
-        267,
-        51
-      ]
+      "regional_dex_nums": {
+        "bw": 79,
+        "b2w2": 108,
+        "usum": 267,
+        "swsh": 51
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -216,6 +216,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Tail",
         "Endure",

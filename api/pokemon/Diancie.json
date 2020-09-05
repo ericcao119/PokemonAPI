@@ -2,6 +2,10 @@
   {
     "species_name": "Diancie",
     "variant_name": "Diancie",
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 100,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 719,
-      "types": [
-        "Rock",
-        "Fairy"
-      ],
       "height": 0.7,
       "weight": 8.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Jewel Pok\u00e9mon",
+      "kind": "Jewel Pokémon",
       "flavor_text": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
       "abilities": [
         "Clear Body"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        151
-      ]
+      "regional_dex_nums": {
+        "xy_central": 151
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -271,6 +271,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "After You",
@@ -298,6 +299,10 @@
   {
     "species_name": "Diancie",
     "variant_name": "Mega Diancie",
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 160,
@@ -308,23 +313,19 @@
     },
     "dex_entry": {
       "national_dex_num": 719,
-      "types": [
-        "Rock",
-        "Fairy"
-      ],
       "height": 1.1,
       "weight": 27.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Jewel Pok\u00e9mon",
+      "kind": "Jewel Pokémon",
       "flavor_text": "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
       "abilities": [
         "Magic Bounce"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        151
-      ]
+      "regional_dex_nums": {
+        "xy_central": 151
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -344,7 +345,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -567,6 +568,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "After You",

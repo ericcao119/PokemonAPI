@@ -2,6 +2,10 @@
   {
     "species_name": "Crobat",
     "variant_name": "Crobat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 90,
@@ -12,34 +16,30 @@
     },
     "dex_entry": {
       "national_dex_num": 169,
-      "types": [
-        "Poison",
-        "Flying"
-      ],
       "height": 1.8,
       "weight": 75.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bat Pok\u00e9mon",
-      "flavor_text": "It feeds on the blood of living people and Pok\u00e9mon. If it can\u2019t drink any blood for even a short while, it becomes weak and unable to fly.",
+      "kind": "Bat Pokémon",
+      "flavor_text": "It feeds on the blood of living people and Pokémon. If it can’t drink any blood for even a short while, it becomes weak and unable to fly.",
       "abilities": [
         "Inner Focus"
       ],
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        39,
-        65,
-        30,
-        30,
-        39,
-        63,
-        147,
-        67,
-        70,
-        82
-      ]
+      "regional_dex_nums": {
+        "gsc": 39,
+        "rse": 65,
+        "dp": 30,
+        "plat": 30,
+        "hgss": 39,
+        "b2w2": 63,
+        "xy_central": 147,
+        "oras": 67,
+        "sm": 70,
+        "usum": 82
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -286,6 +286,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Cross Poison"
+      ],
       "egg_moves": [
         "Brave Bird",
         "Curse",

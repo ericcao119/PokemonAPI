@@ -1,4 +1,5 @@
 {
-  "name": "Damp",
-  "description": "Prevents the use of self-destructing moves."
+  "ability_name": "Damp",
+  "effect": "Damp prevents all Pokémon on the field from using the moves Selfdestruct and Explosion. It also prevents damage (to the Damp Pokémon only) from the ability Aftermath.",
+  "description": "Prevents the use of explosive moves, such as Self-Destruct, by dampening its surroundings."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Roselia",
     "variant_name": "Roselia",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 60,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 315,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 0.3,
       "weight": 2.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Thorn Pok\u00e9mon",
+      "kind": "Thorn Pokémon",
       "flavor_text": "It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.",
       "abilities": [
         "Natural Cure",
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Leaf Guard"
       ],
-      "regional_dex_nums": [
-        94,
-        26,
-        26,
-        134,
-        72,
-        98,
-        60
-      ]
+      "regional_dex_nums": {
+        "rse": 94,
+        "dp": 26,
+        "plat": 26,
+        "b2w2": 134,
+        "xy_central": 72,
+        "oras": 98,
+        "swsh": 60
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -245,6 +245,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bullet Seed",
         "Cotton Spore",

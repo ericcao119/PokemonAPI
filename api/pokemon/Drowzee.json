@@ -2,6 +2,9 @@
   {
     "species_name": "Drowzee",
     "variant_name": "Drowzee",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 48,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 96,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.0,
       "weight": 32.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hypnosis Pok\u00e9mon",
+      "kind": "Hypnosis Pokémon",
       "flavor_text": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
       "abilities": [
         "Insomnia",
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Inner Focus"
       ],
-      "regional_dex_nums": [
-        96,
-        87,
-        96,
-        87,
-        54,
-        66,
-        96
-      ]
+      "regional_dex_nums": {
+        "rby": 96,
+        "gsc": 87,
+        "frlg": 96,
+        "hgss": 87,
+        "sm": 54,
+        "usum": 66,
+        "lets_go": 96
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -275,6 +275,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assist",
         "Barrier",

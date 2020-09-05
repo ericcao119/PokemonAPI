@@ -2,6 +2,10 @@
   {
     "species_name": "Oddish",
     "variant_name": "Oddish",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 50,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 43,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 0.5,
       "weight": 5.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Weed Pok\u00e9mon",
+      "kind": "Weed Pokémon",
       "flavor_text": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
       "abilities": [
         "Chlorophyll"
@@ -28,17 +28,17 @@
       "hidden_abilities": [
         "Run Away"
       ],
-      "regional_dex_nums": [
-        43,
-        83,
-        88,
-        43,
-        83,
-        105,
-        91,
-        43,
-        55
-      ]
+      "regional_dex_nums": {
+        "rby": 43,
+        "gsc": 83,
+        "rse": 88,
+        "frlg": 43,
+        "hgss": 83,
+        "xy_central": 105,
+        "oras": 91,
+        "lets_go": 43,
+        "swsh": 55
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -214,6 +214,7 @@
           "Dazzling Gleam"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "After You",
         "Flail",

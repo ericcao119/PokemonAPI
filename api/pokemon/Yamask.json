@@ -2,6 +2,9 @@
   {
     "species_name": "Yamask",
     "variant_name": "Yamask",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 38,
       "attack": 30,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 562,
-      "types": [
-        "Ghost"
-      ],
       "height": 0.5,
       "weight": 1.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spirit Pok\u00e9mon",
-      "flavor_text": "The spirit of a person from a bygone age became this Pok\u00e9mon. It rambles through ruins, searching for someone who knows its face.",
+      "kind": "Spirit Pokémon",
+      "flavor_text": "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.",
       "abilities": [
         "Mummy"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        68,
-        124,
-        327
-      ]
+      "regional_dex_nums": {
+        "bw": 68,
+        "b2w2": 124,
+        "swsh": 327
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -237,6 +237,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Crafty Shield",
@@ -278,6 +279,10 @@
   {
     "species_name": "Yamask",
     "variant_name": "Galarian Yamask",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 38,
       "attack": 55,
@@ -288,25 +293,21 @@
     },
     "dex_entry": {
       "national_dex_num": 562,
-      "types": [
-        "Ground",
-        "Ghost"
-      ],
       "height": 0.5,
       "weight": 1.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spirit Pok\u00e9mon",
-      "flavor_text": "The spirit of a person from a bygone age became this Pok\u00e9mon. It rambles through ruins, searching for someone who knows its face.",
+      "kind": "Spirit Pokémon",
+      "flavor_text": "It’s said that this Pokémon was formed when an ancient clay tablet was drawn to a vengeful spirit.",
       "abilities": [
         "Wandering Spirit"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        68,
-        124,
-        327
-      ]
+      "regional_dex_nums": {
+        "bw": 68,
+        "b2w2": 124,
+        "swsh": 327
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -327,7 +328,7 @@
         "Amorphous",
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -514,6 +515,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Crafty Shield",

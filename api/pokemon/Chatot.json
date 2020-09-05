@@ -2,6 +2,10 @@
   {
     "species_name": "Chatot",
     "variant_name": "Chatot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 76,
       "attack": 65,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 441,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.5,
       "weight": 1.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Music Note Pok\u00e9mon",
+      "kind": "Music Note Pokémon",
       "flavor_text": "It can learn and speak human words. If they gather, they all learn the same saying.",
       "abilities": [
         "Keen Eye",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Big Pecks"
       ],
-      "regional_dex_nums": [
-        102,
-        102,
-        138
-      ]
+      "regional_dex_nums": {
+        "dp": 102,
+        "plat": 102,
+        "xy_coastal": 138
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -244,6 +244,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Air Cutter",

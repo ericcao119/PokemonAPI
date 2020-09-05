@@ -2,6 +2,10 @@
   {
     "species_name": "Oranguru",
     "variant_name": "Oranguru",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 60,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 765,
-      "types": [
-        "Normal",
-        "Psychic"
-      ],
       "height": 1.5,
       "weight": 76.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sage Pok\u00e9mon",
-      "flavor_text": "It knows the forest inside and out. If it comes across a wounded Pok\u00e9mon, Oranguru will gather medicinal herbs to treat it.",
+      "kind": "Sage Pokémon",
+      "flavor_text": "It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it.",
       "abilities": [
         "Inner Focus",
         "Telepathy"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Symbiosis"
       ],
-      "regional_dex_nums": [
-        176,
-        215,
-        342
-      ]
+      "regional_dex_nums": {
+        "sm": 176,
+        "usum": 215,
+        "swsh": 342
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -313,6 +313,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Dream Eater",
         "Extrasensory",

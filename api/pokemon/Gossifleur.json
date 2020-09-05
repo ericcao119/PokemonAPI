@@ -2,6 +2,9 @@
   {
     "species_name": "Gossifleur",
     "variant_name": "Gossifleur",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 40,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 829,
-      "types": [
-        "Grass"
-      ],
       "height": 0.4,
       "weight": 2.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flowering Pok\u00e9mon",
-      "flavor_text": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pok\u00e9mon.",
+      "kind": "Flowering Pokémon",
+      "flavor_text": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
       "abilities": [
         "Cotton Down",
         "Regenerator"
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Effect Spore"
       ],
-      "regional_dex_nums": [
-        126
-      ]
+      "regional_dex_nums": {
+        "swsh": 126
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Grass"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -198,6 +198,7 @@
           "Pollen Puff"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Growth",
         "Leech Seed",

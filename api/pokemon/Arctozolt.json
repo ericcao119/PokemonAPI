@@ -2,6 +2,10 @@
   {
     "species_name": "Arctozolt",
     "variant_name": "Arctozolt",
+    "types": [
+      "Electric",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 100,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 881,
-      "types": [
-        "Electric",
-        "Ice"
-      ],
       "height": 2.3,
       "weight": 150.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fossil Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.",
+      "kind": "Fossil Pokémon",
+      "flavor_text": "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.",
       "abilities": [
         "Volt Absorb",
         "Static"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Slush Rush"
       ],
-      "regional_dex_nums": [
-        375
-      ]
+      "regional_dex_nums": {
+        "swsh": 375
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 8739,
       "steps_to_hatch_upper": 8995,
       "egg_cycles": 35
@@ -279,6 +279,7 @@
           "Wild Charge"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

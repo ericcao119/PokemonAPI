@@ -1,4 +1,5 @@
 {
-  "name": "Anger Point",
-  "description": "Maxes Attack after taking a critical hit."
+  "ability_name": "Anger Point",
+  "effect": "Anger Point raises the ability-bearer's Attack to its maximum level - +6 stages or 4× usual power - when a move targeting it receives a critical hit.",
+  "description": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
 }

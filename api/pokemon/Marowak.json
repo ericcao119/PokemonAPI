@@ -2,6 +2,9 @@
   {
     "species_name": "Marowak",
     "variant_name": "Marowak",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 80,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 105,
-      "types": [
-        "Ground"
-      ],
       "height": 1.0,
       "weight": 45.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bone Keeper Pok\u00e9mon",
-      "flavor_text": "Small and weak, this Pok\u00e9mon is adept with its bone club. It has grown more vicious over the ages.",
+      "kind": "Bone Keeper Pokémon",
+      "flavor_text": "Small and weak, this Pokémon is adept with its bone club. It has grown more vicious over the ages.",
       "abilities": [
         "Rock Head",
         "Lightning Rod"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Battle Armor"
       ],
-      "regional_dex_nums": [
-        105,
-        204,
-        105,
-        209,
-        61,
-        164,
-        198,
-        105
-      ]
+      "regional_dex_nums": {
+        "rby": 105,
+        "gsc": 204,
+        "frlg": 105,
+        "hgss": 209,
+        "xy_coastal": 61,
+        "sm": 164,
+        "usum": 198,
+        "lets_go": 105
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -66,6 +66,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Belly Drum",
@@ -86,6 +87,10 @@
   {
     "species_name": "Marowak",
     "variant_name": "Alolan Marowak",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 80,
@@ -96,15 +101,11 @@
     },
     "dex_entry": {
       "national_dex_num": 105,
-      "types": [
-        "Fire",
-        "Ghost"
-      ],
       "height": 1.0,
       "weight": 34.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bone Keeper Pok\u00e9mon",
+      "kind": "Bone Keeper Pokémon",
       "flavor_text": "It has transformed the spirit of its dear departed mother into flames, and tonight it will once again dance in mourning of others of its kind.",
       "abilities": [
         "Cursed Body",
@@ -113,16 +114,16 @@
       "hidden_abilities": [
         "Rock Head"
       ],
-      "regional_dex_nums": [
-        105,
-        204,
-        105,
-        209,
-        61,
-        164,
-        198,
-        105
-      ]
+      "regional_dex_nums": {
+        "rby": 105,
+        "gsc": 204,
+        "frlg": 105,
+        "hgss": 209,
+        "xy_coastal": 61,
+        "sm": 164,
+        "usum": 198,
+        "lets_go": 105
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -151,6 +152,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Belly Drum",

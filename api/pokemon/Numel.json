@@ -2,6 +2,10 @@
   {
     "species_name": "Numel",
     "variant_name": "Numel",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 60,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 322,
-      "types": [
-        "Fire",
-        "Ground"
-      ],
       "height": 0.7,
       "weight": 24.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Numb Pok\u00e9mon",
-      "flavor_text": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pok\u00e9mon\u2019s body grows heavy and its movements become sluggish.",
+      "kind": "Numb Pokémon",
+      "flavor_text": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish.",
       "abilities": [
         "Oblivious",
         "Simple"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Own Tempo"
       ],
-      "regional_dex_nums": [
-        101,
-        204,
-        106
-      ]
+      "regional_dex_nums": {
+        "rse": 101,
+        "b2w2": 204,
+        "oras": 106
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -232,6 +232,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Body Slam",

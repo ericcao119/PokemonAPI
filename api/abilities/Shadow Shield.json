@@ -1,4 +1,6 @@
 {
-  "name": "Shadow Shield",
-  "description": "Reduces damage when HP is full."
+  "ability_name": "Shadow Shield",
+  "effect": "Reduces damage when HP is full.
+",
+  "description": "Reduces the amount of damage the Pokémon takes while its HP is full."
 }

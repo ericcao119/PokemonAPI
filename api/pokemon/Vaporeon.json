@@ -2,6 +2,9 @@
   {
     "species_name": "Vaporeon",
     "variant_name": "Vaporeon",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 130,
       "attack": 65,
@@ -12,34 +15,31 @@
     },
     "dex_entry": {
       "national_dex_num": 134,
-      "types": [
-        "Water"
-      ],
       "height": 1.0,
       "weight": 29.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bubble Jet Pok\u00e9mon",
-      "flavor_text": "Its body\u2019s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
+      "kind": "Bubble Jet Pokémon",
+      "flavor_text": "Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.",
       "abilities": [
         "Water Absorb"
       ],
       "hidden_abilities": [
         "Hydration"
       ],
-      "regional_dex_nums": [
-        134,
-        181,
-        134,
-        164,
-        185,
-        92,
-        78,
-        124,
-        154,
-        134,
-        197
-      ]
+      "regional_dex_nums": {
+        "rby": 134,
+        "gsc": 181,
+        "frlg": 134,
+        "plat": 164,
+        "hgss": 185,
+        "b2w2": 92,
+        "xy_coastal": 78,
+        "sm": 124,
+        "usum": 154,
+        "lets_go": 134,
+        "swsh": 197
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -335,7 +335,19 @@
           "Liquidation"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Water Gun"
+      ],
+      "egg_moves": [
+        "Curse",
+        "Detect",
+        "Double Kick",
+        "Flail",
+        "Mud-Slap",
+        "Tickle",
+        "Wish",
+        "Yawn"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

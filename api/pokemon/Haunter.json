@@ -2,6 +2,10 @@
   {
     "species_name": "Haunter",
     "variant_name": "Haunter",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 50,
@@ -12,33 +16,29 @@
     },
     "dex_entry": {
       "national_dex_num": 93,
-      "types": [
-        "Ghost",
-        "Poison"
-      ],
       "height": 1.6,
       "weight": 0.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gas Pok\u00e9mon",
+      "kind": "Gas Pokémon",
       "flavor_text": "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        93,
-        59,
-        93,
-        70,
-        70,
-        59,
-        31,
-        62,
-        74,
-        93,
-        142
-      ]
+      "regional_dex_nums": {
+        "rby": 93,
+        "gsc": 59,
+        "frlg": 93,
+        "dp": 70,
+        "plat": 70,
+        "hgss": 59,
+        "xy_mountain": 31,
+        "sm": 62,
+        "usum": 74,
+        "lets_go": 93,
+        "swsh": 142
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -302,7 +302,20 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Shadow Punch"
+      ],
+      "egg_moves": [
+        "Astonish",
+        "Clear Smog",
+        "Disable",
+        "Grudge",
+        "Haze",
+        "Perish Song",
+        "Reflect Type",
+        "Smog",
+        "Toxic"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

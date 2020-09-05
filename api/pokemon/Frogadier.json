@@ -2,6 +2,9 @@
   {
     "species_name": "Frogadier",
     "variant_name": "Frogadier",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 54,
       "attack": 63,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 657,
-      "types": [
-        "Water"
-      ],
       "height": 0.6,
       "weight": 10.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bubble Frog Pok\u00e9mon",
-      "flavor_text": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute\u2019s time.",
+      "kind": "Bubble Frog Pokémon",
+      "flavor_text": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute’s time.",
       "abilities": [
         "Torrent"
       ],
       "hidden_abilities": [
         "Protean"
       ],
-      "regional_dex_nums": [
-        8
-      ]
+      "regional_dex_nums": {
+        "xy_central": 8
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -252,6 +252,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Camouflage",

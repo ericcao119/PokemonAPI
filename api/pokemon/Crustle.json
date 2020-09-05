@@ -2,6 +2,10 @@
   {
     "species_name": "Crustle",
     "variant_name": "Crustle",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 105,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 558,
-      "types": [
-        "Bug",
-        "Rock"
-      ],
       "height": 1.4,
       "weight": 200.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Stone Home Pok\u00e9mon",
-      "flavor_text": "Its thick claws are its greatest weapons. They\u2019re mighty enough to crack Rhyperior\u2019s carapace.",
+      "kind": "Stone Home Pokémon",
+      "flavor_text": "Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace.",
       "abilities": [
         "Sturdy",
         "Shell Armor"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        64,
-        116,
-        24,
-        87
-      ]
+      "regional_dex_nums": {
+        "bw": 64,
+        "b2w2": 116,
+        "xy_coastal": 24,
+        "swsh": 87
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -262,6 +262,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Block",
         "Counter",

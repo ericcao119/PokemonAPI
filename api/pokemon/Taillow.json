@@ -2,6 +2,10 @@
   {
     "species_name": "Taillow",
     "variant_name": "Taillow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 55,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 276,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.3,
       "weight": 2.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "TinySwallow Pok\u00e9mon",
-      "flavor_text": "Taillow is young\u2014it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pok\u00e9mon feeds on Wurmple that live in forests.",
+      "kind": "TinySwallow Pokémon",
+      "flavor_text": "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests.",
       "abilities": [
         "Guts"
       ],
       "hidden_abilities": [
         "Scrappy"
       ],
-      "regional_dex_nums": [
-        25,
-        19,
-        25
-      ]
+      "regional_dex_nums": {
+        "rse": 25,
+        "xy_coastal": 19,
+        "oras": 25
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -211,6 +211,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Boomburst",
         "Brave Bird",

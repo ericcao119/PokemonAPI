@@ -2,6 +2,9 @@
   {
     "species_name": "Oshawott",
     "variant_name": "Oshawott",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 55,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 501,
-      "types": [
-        "Water"
-      ],
       "height": 0.5,
       "weight": 5.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Otter Pok\u00e9mon",
-      "flavor_text": "The scalchop on its stomach isn\u2019t just used for battle\u2014it can be used to break open hard berries as well.",
+      "kind": "Sea Otter Pokémon",
+      "flavor_text": "The scalchop on its stomach isn’t just used for battle—it can be used to break open hard berries as well.",
       "abilities": [
         "Torrent"
       ],
       "hidden_abilities": [
         "Shell Armor"
       ],
-      "regional_dex_nums": [
-        7,
-        7
-      ]
+      "regional_dex_nums": {
+        "bw": 7,
+        "b2w2": 7
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -237,6 +237,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Air Slash",
         "Assurance",

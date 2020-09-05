@@ -2,6 +2,10 @@
   {
     "species_name": "Zapdos",
     "variant_name": "Zapdos",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 90,
@@ -12,30 +16,26 @@
     },
     "dex_entry": {
       "national_dex_num": 145,
-      "types": [
-        "Electric",
-        "Flying"
-      ],
       "height": 1.6,
       "weight": 52.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Electric Pok\u00e9mon",
-      "flavor_text": "This legendary bird Pok\u00e9mon is said to appear when the sky turns dark and lightning showers down.",
+      "kind": "Electric Pokémon",
+      "flavor_text": "This legendary bird Pokémon is said to appear when the sky turns dark and lightning showers down.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [
         "Static"
       ],
-      "regional_dex_nums": [
-        145,
-        236,
-        145,
-        241,
-        152,
-        145
-      ]
+      "regional_dex_nums": {
+        "rby": 145,
+        "gsc": 236,
+        "frlg": 145,
+        "hgss": 241,
+        "xy_coastal": 152,
+        "lets_go": 145
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -55,7 +55,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -258,6 +258,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",

@@ -2,6 +2,10 @@
   {
     "species_name": "Sandygast",
     "variant_name": "Sandygast",
+    "types": [
+      "Ghost",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 55,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 769,
-      "types": [
-        "Ghost",
-        "Ground"
-      ],
       "height": 0.5,
       "weight": 70.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sand Heap Pok\u00e9mon",
-      "flavor_text": "If you build sand mounds when you\u2019re playing, destroy them before you go home, or they may get possessed and become Sandygast.",
+      "kind": "Sand Heap Pokémon",
+      "flavor_text": "If you build sand mounds when you’re playing, destroy them before you go home, or they may get possessed and become Sandygast.",
       "abilities": [
         "Water Compaction"
       ],
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        186,
-        225
-      ]
+      "regional_dex_nums": {
+        "sm": 186,
+        "usum": 225
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -218,6 +218,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Ancient Power",

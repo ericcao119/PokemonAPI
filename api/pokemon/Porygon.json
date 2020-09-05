@@ -2,6 +2,9 @@
   {
     "species_name": "Porygon",
     "variant_name": "Porygon",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 60,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 137,
-      "types": [
-        "Normal"
-      ],
       "height": 0.8,
       "weight": 36.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Virtual Pok\u00e9mon",
-      "flavor_text": "The only Pok\u00e9mon that people anticipate can fly into space. None has managed the feat yet, however.",
+      "kind": "Virtual Pokémon",
+      "flavor_text": "The only Pokémon that people anticipate can fly into space. None has managed the feat yet, however.",
       "abilities": [
         "Trace",
         "Download"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        137,
-        215,
-        137,
-        192,
-        220,
-        217,
-        281,
-        137
-      ]
+      "regional_dex_nums": {
+        "rby": 137,
+        "gsc": 215,
+        "frlg": 137,
+        "plat": 192,
+        "hgss": 220,
+        "sm": 217,
+        "usum": 281,
+        "lets_go": 137
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -57,7 +57,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -256,6 +256,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

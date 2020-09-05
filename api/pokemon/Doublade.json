@@ -2,6 +2,10 @@
   {
     "species_name": "Doublade",
     "variant_name": "Doublade",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 59,
       "attack": 110,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 680,
-      "types": [
-        "Steel",
-        "Ghost"
-      ],
       "height": 0.8,
       "weight": 4.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sword Pok\u00e9mon",
+      "kind": "Sword Pokémon",
       "flavor_text": "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.",
       "abilities": [
         "No Guard"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        118,
-        331
-      ]
+      "regional_dex_nums": {
+        "xy_central": 118,
+        "swsh": 331
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -220,6 +220,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Destiny Bond",
         "Metal Sound",

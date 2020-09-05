@@ -2,6 +2,9 @@
   {
     "species_name": "Garbodor",
     "variant_name": "Garbodor",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 95,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 569,
-      "types": [
-        "Poison"
-      ],
       "height": 1.9,
       "weight": 107.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Trash Heap Pok\u00e9mon",
+      "kind": "Trash Heap Pokémon",
       "flavor_text": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
       "abilities": [
         "Stench",
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Aftermath"
       ],
-      "regional_dex_nums": [
-        75,
-        106,
-        75,
-        207,
-        265,
-        158
-      ]
+      "regional_dex_nums": {
+        "bw": 75,
+        "b2w2": 106,
+        "xy_mountain": 75,
+        "sm": 207,
+        "usum": 265,
+        "swsh": 158
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -274,6 +274,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Autotomize",
         "Curse",

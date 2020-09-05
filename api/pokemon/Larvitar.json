@@ -2,6 +2,10 @@
   {
     "species_name": "Larvitar",
     "variant_name": "Larvitar",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 64,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 246,
-      "types": [
-        "Rock",
-        "Ground"
-      ],
       "height": 0.6,
       "weight": 72.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rock Skin Pok\u00e9mon",
+      "kind": "Rock Skin Pokémon",
       "flavor_text": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
       "abilities": [
         "Guts"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        244,
-        249,
-        292,
-        102,
-        247,
-        383
-      ]
+      "regional_dex_nums": {
+        "gsc": 244,
+        "hgss": 249,
+        "b2w2": 292,
+        "xy_mountain": 102,
+        "usum": 247,
+        "swsh": 383
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -246,6 +246,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Assurance",

@@ -1,4 +1,5 @@
 {
-  "name": "Shell Armor",
-  "description": "The Pok\u00e9mon is protected against critical hits."
+  "ability_name": "Shell Armor",
+  "effect": "Shell Armor prevents the Pokémon from receiving a critical hit.",
+  "description": "A hard shell protects the Pokémon from critical hits."
 }

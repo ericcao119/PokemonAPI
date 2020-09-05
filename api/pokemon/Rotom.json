@@ -2,6 +2,10 @@
   {
     "species_name": "Rotom",
     "variant_name": "Rotom",
+    "types": [
+      "Electric",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 50,
@@ -12,25 +16,21 @@
     },
     "dex_entry": {
       "national_dex_num": 479,
-      "types": [
-        "Electric",
-        "Ghost"
-      ],
       "height": 0.3,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Plasma Pok\u00e9mon",
+      "kind": "Plasma Pokémon",
       "flavor_text": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152,
-        68,
-        372
-      ]
+      "regional_dex_nums": {
+        "plat": 152,
+        "xy_mountain": 68,
+        "swsh": 372
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Amorphous"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -237,6 +237,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -267,6 +268,10 @@
   {
     "species_name": "Rotom",
     "variant_name": "Heat Rotom",
+    "types": [
+      "Electric",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 65,
@@ -277,25 +282,21 @@
     },
     "dex_entry": {
       "national_dex_num": 479,
-      "types": [
-        "Electric",
-        "Fire"
-      ],
       "height": 0.3,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Plasma Pok\u00e9mon",
-      "flavor_text": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
+      "kind": "Plasma Pokémon",
+      "flavor_text": "This form of Rotom enjoys making mischief by turning up the heat. It will gleefully burn your favorite outfit.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152,
-        68,
-        372
-      ]
+      "regional_dex_nums": {
+        "plat": 152,
+        "xy_mountain": 68,
+        "swsh": 372
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -315,7 +316,7 @@
       "egg_groups": [
         "Amorphous"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -502,6 +503,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -532,6 +534,10 @@
   {
     "species_name": "Rotom",
     "variant_name": "Wash Rotom",
+    "types": [
+      "Electric",
+      "Water"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 65,
@@ -542,25 +548,21 @@
     },
     "dex_entry": {
       "national_dex_num": 479,
-      "types": [
-        "Electric",
-        "Water"
-      ],
       "height": 0.3,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Plasma Pok\u00e9mon",
-      "flavor_text": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
+      "kind": "Plasma Pokémon",
+      "flavor_text": "This Rotom has possessed a washing machine that uses a special motor. It blasts out water to get enemies to back down.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152,
-        68,
-        372
-      ]
+      "regional_dex_nums": {
+        "plat": 152,
+        "xy_mountain": 68,
+        "swsh": 372
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -580,7 +582,7 @@
       "egg_groups": [
         "Amorphous"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -767,6 +769,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -797,6 +800,10 @@
   {
     "species_name": "Rotom",
     "variant_name": "Frost Rotom",
+    "types": [
+      "Electric",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 65,
@@ -807,25 +814,21 @@
     },
     "dex_entry": {
       "national_dex_num": 479,
-      "types": [
-        "Electric",
-        "Ice"
-      ],
       "height": 0.3,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Plasma Pok\u00e9mon",
-      "flavor_text": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
+      "kind": "Plasma Pokémon",
+      "flavor_text": "When it’s like this, Rotom likes to play pranks that are freezing cold. You may find it’s turned the bath you just filled to solid ice!",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152,
-        68,
-        372
-      ]
+      "regional_dex_nums": {
+        "plat": 152,
+        "xy_mountain": 68,
+        "swsh": 372
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -845,7 +848,7 @@
       "egg_groups": [
         "Amorphous"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -1032,6 +1035,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -1062,6 +1066,10 @@
   {
     "species_name": "Rotom",
     "variant_name": "Fan Rotom",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 65,
@@ -1072,25 +1080,21 @@
     },
     "dex_entry": {
       "national_dex_num": 479,
-      "types": [
-        "Electric",
-        "Flying"
-      ],
       "height": 0.3,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Plasma Pok\u00e9mon",
-      "flavor_text": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
+      "kind": "Plasma Pokémon",
+      "flavor_text": "This Rotom has taken over a fan that has a special motor. Its gusts of wind blow its opponents away!",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152,
-        68,
-        372
-      ]
+      "regional_dex_nums": {
+        "plat": 152,
+        "xy_mountain": 68,
+        "swsh": 372
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -1110,7 +1114,7 @@
       "egg_groups": [
         "Amorphous"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -1297,6 +1301,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -1327,6 +1332,10 @@
   {
     "species_name": "Rotom",
     "variant_name": "Mow Rotom",
+    "types": [
+      "Electric",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 65,
@@ -1337,25 +1346,21 @@
     },
     "dex_entry": {
       "national_dex_num": 479,
-      "types": [
-        "Electric",
-        "Grass"
-      ],
       "height": 0.3,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Plasma Pok\u00e9mon",
-      "flavor_text": "With a body made of plasma, it can inhabit all sorts of machines. It loves to surprise others.",
+      "kind": "Plasma Pokémon",
+      "flavor_text": "In this form, Rotom focuses its antics on plants. Any flowers you were growing are going to get mowed down.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152,
-        68,
-        372
-      ]
+      "regional_dex_nums": {
+        "plat": 152,
+        "xy_mountain": 68,
+        "swsh": 372
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -1375,7 +1380,7 @@
       "egg_groups": [
         "Amorphous"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -1562,6 +1567,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

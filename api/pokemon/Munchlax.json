@@ -2,6 +2,9 @@
   {
     "species_name": "Munchlax",
     "variant_name": "Munchlax",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 135,
       "attack": 85,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 446,
-      "types": [
-        "Normal"
-      ],
       "height": 0.6,
       "weight": 105.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Big Eater Pok\u00e9mon",
+      "kind": "Big Eater Pokémon",
       "flavor_text": "It stores food beneath its fur. It might share just one bite, but only if it really trusts you.",
       "abilities": [
         "Pickup",
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Gluttony"
       ],
-      "regional_dex_nums": [
-        112,
-        112,
-        138,
-        35,
-        42,
-        260
-      ]
+      "regional_dex_nums": {
+        "dp": 112,
+        "plat": 112,
+        "xy_central": 138,
+        "sm": 35,
+        "usum": 42,
+        "swsh": 260
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -282,6 +282,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "After You",
         "Belch",

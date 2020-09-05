@@ -1,4 +1,8 @@
 {
-  "name": "Simple",
-  "description": "Doubles all stat changes."
+  "ability_name": "Simple",
+  "effect": "The Simple ability doubles the number of stages of all stat changes. Stats can be raised to a maximum of +6 stages each, or lowered to a minimum of -6 stages each.
+For example, using Swords Dance would increase the Pokémon's attack by 4 stages instead of the usual 2. If Tail Whip was targeted at a Pokémon with Simple, its Defense would drop 2 stages instead of 1.
+The move Simple Beam can change a Pokémon's ability to Simple.
+In Generation 4, Simple doubles the effects of stat changes but does not increase the actual number of stages. Stat increases are capped at the same multiplier of ×4, as per the table below. However, the resulting effect is exactly the same as current games.",
+  "description": "The stat changes the Pokémon receives are doubled."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Yanma",
     "variant_name": "Yanma",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 65,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 193,
-      "types": [
-        "Bug",
-        "Flying"
-      ],
       "height": 1.2,
       "weight": 38.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Clear Wing Pok\u00e9mon",
-      "flavor_text": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pok\u00e9mon uses its flying ability to quickly chase down targeted prey.",
+      "kind": "Clear Wing Pokémon",
+      "flavor_text": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
       "abilities": [
         "Speed Boost",
         "Compound Eyes"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Frisk"
       ],
-      "regional_dex_nums": [
-        101,
-        183,
-        101,
-        286,
-        87
-      ]
+      "regional_dex_nums": {
+        "gsc": 101,
+        "plat": 183,
+        "hgss": 101,
+        "b2w2": 286,
+        "xy_coastal": 87
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -226,6 +226,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Double-Edge",
         "Feint",

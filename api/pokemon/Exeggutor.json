@@ -2,6 +2,10 @@
   {
     "species_name": "Exeggutor",
     "variant_name": "Exeggutor",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 95,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 103,
-      "types": [
-        "Grass",
-        "Psychic"
-      ],
       "height": 2.0,
       "weight": 120.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Coconut Pok\u00e9mon",
+      "kind": "Coconut Pokémon",
       "flavor_text": "Its cries are very noisy. This is because each of the three heads thinks about whatever it likes.",
       "abilities": [
         "Chlorophyll"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Harvest"
       ],
-      "regional_dex_nums": [
-        103,
-        105,
-        103,
-        106,
-        137,
-        270,
-        356,
-        103
-      ]
+      "regional_dex_nums": {
+        "rby": 103,
+        "gsc": 105,
+        "frlg": 103,
+        "hgss": 106,
+        "xy_coastal": 137,
+        "sm": 270,
+        "usum": 356,
+        "lets_go": 103
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -66,6 +66,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Block",
@@ -89,6 +90,10 @@
   {
     "species_name": "Exeggutor",
     "variant_name": "Alolan Exeggutor",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 105,
@@ -99,15 +104,11 @@
     },
     "dex_entry": {
       "national_dex_num": 103,
-      "types": [
-        "Grass",
-        "Dragon"
-      ],
       "height": 10.9,
       "weight": 415.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Coconut Pok\u00e9mon",
+      "kind": "Coconut Pokémon",
       "flavor_text": "The strong sunlight of the Alola region has awakened the power hidden within Exeggcute. This is the result.",
       "abilities": [
         "Frisk"
@@ -115,16 +116,16 @@
       "hidden_abilities": [
         "Harvest"
       ],
-      "regional_dex_nums": [
-        103,
-        105,
-        103,
-        106,
-        137,
-        270,
-        356,
-        103
-      ]
+      "regional_dex_nums": {
+        "rby": 103,
+        "gsc": 105,
+        "frlg": 103,
+        "hgss": 106,
+        "xy_coastal": 137,
+        "sm": 270,
+        "usum": 356,
+        "lets_go": 103
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -153,6 +154,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Block",

@@ -2,6 +2,9 @@
   {
     "species_name": "Boltund",
     "variant_name": "Boltund",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 69,
       "attack": 90,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 836,
-      "types": [
-        "Electric"
-      ],
       "height": 1.0,
       "weight": 34.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dog Pok\u00e9mon",
+      "kind": "Dog Pokémon",
       "flavor_text": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
       "abilities": [
         "Strong Jaw"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Competitive"
       ],
-      "regional_dex_nums": [
-        47
-      ]
+      "regional_dex_nums": {
+        "swsh": 47
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -249,7 +249,14 @@
           "Psychic Fangs"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Discharge",
+        "Double-Edge",
+        "Flame Charge",
+        "Howl",
+        "Sand Attack"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -1,4 +1,6 @@
 {
-  "name": "Rock Head",
-  "description": "Protects the Pok\u00e9mon from recoil damage."
+  "ability_name": "Rock Head",
+  "effect": "Protects the Pokémon from recoil damage.
+",
+  "description": "Protects the Pokémon from recoil damage."
 }

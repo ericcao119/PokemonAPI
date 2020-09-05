@@ -2,6 +2,10 @@
   {
     "species_name": "Delphox",
     "variant_name": "Delphox",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 69,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 655,
-      "types": [
-        "Fire",
-        "Psychic"
-      ],
       "height": 1.5,
       "weight": 39.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fox Pok\u00e9mon",
+      "kind": "Fox Pokémon",
       "flavor_text": "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.",
       "abilities": [
         "Blaze"
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Magician"
       ],
-      "regional_dex_nums": [
-        6
-      ]
+      "regional_dex_nums": {
+        "xy_central": 6
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -313,6 +313,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Mystical Fire"
+      ],
       "egg_moves": [
         "Heat Wave",
         "Hypnosis",

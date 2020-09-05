@@ -1,4 +1,6 @@
 {
-  "name": "Contrary",
+  "ability_name": "Contrary",
+  "effect": "Makes stat changes have an opposite effect.
+",
   "description": "Makes stat changes have an opposite effect."
 }

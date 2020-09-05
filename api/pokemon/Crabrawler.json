@@ -2,6 +2,9 @@
   {
     "species_name": "Crabrawler",
     "variant_name": "Crabrawler",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 47,
       "attack": 82,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 739,
-      "types": [
-        "Fighting"
-      ],
       "height": 0.6,
       "weight": 7.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Boxing Pok\u00e9mon",
+      "kind": "Boxing Pokémon",
       "flavor_text": "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.",
       "abilities": [
         "Hyper Cutter",
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Anger Point"
       ],
-      "regional_dex_nums": [
-        59,
-        71
-      ]
+      "regional_dex_nums": {
+        "sm": 59,
+        "usum": 71
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -238,6 +238,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Endeavor",

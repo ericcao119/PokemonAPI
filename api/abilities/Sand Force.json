@@ -1,4 +1,6 @@
 {
-  "name": "Sand Force",
-  "description": "Boosts certain moves' power in a sandstorm."
+  "ability_name": "Sand Force",
+  "effect": "Sand Force raises the power of Ground, Rock and Steel type moves by 30% during a sandstorm.
+It also grants immunity to the sandstorm damage, if not already immune (currently this only applies to Shellos since all other Pokémon with the ability are already immune).",
+  "description": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm."
 }

@@ -1,4 +1,6 @@
 {
-  "name": "Symbiosis",
-  "description": "The Pok\u00e9mon can pass an item to an ally."
+  "ability_name": "Symbiosis",
+  "effect": "The Pokémon can pass an item to an ally.
+",
+  "description": "The Pokémon passes its item to an ally that has used up an item."
 }

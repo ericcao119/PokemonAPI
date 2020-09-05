@@ -2,6 +2,9 @@
   {
     "species_name": "Sudowoodo",
     "variant_name": "Sudowoodo",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 100,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 185,
-      "types": [
-        "Rock"
-      ],
       "height": 1.2,
       "weight": 38.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Imitation Pok\u00e9mon",
+      "kind": "Imitation Pokémon",
       "flavor_text": "It disguises itself as a tree to avoid attack. It hates water, so it will disappear if it starts raining.",
       "abilities": [
         "Sturdy",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        106,
-        93,
-        93,
-        107,
-        130,
-        31,
-        38,
-        253
-      ]
+      "regional_dex_nums": {
+        "gsc": 106,
+        "dp": 93,
+        "plat": 93,
+        "hgss": 107,
+        "xy_mountain": 130,
+        "sm": 31,
+        "usum": 38,
+        "swsh": 253
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -280,6 +280,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Slam"
+      ],
       "egg_moves": [
         "Curse",
         "Defense Curl",

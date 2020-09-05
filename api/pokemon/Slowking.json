@@ -2,6 +2,10 @@
   {
     "species_name": "Slowking",
     "variant_name": "Slowking",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 75,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 199,
-      "types": [
-        "Water",
-        "Psychic"
-      ],
       "height": 2.0,
       "weight": 79.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Royal Pok\u00e9mon",
-      "flavor_text": "It\u2019s called \u201cthe sage of the sea.\u201d It engages in battles of wits with Oranguru, but the result is usually a draw.",
+      "kind": "Royal Pokémon",
+      "flavor_text": "It’s called “the sage of the sea.” It engages in battles of wits with Oranguru, but the result is usually a draw.",
       "abilities": [
         "Oblivious",
         "Own Tempo"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        82,
-        82,
-        135,
-        39,
-        46
-      ]
+      "regional_dex_nums": {
+        "gsc": 82,
+        "hgss": 82,
+        "xy_coastal": 135,
+        "sm": 39,
+        "usum": 46
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -319,6 +319,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Belch",
         "Belly Drum",

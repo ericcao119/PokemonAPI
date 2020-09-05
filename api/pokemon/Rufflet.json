@@ -2,6 +2,10 @@
   {
     "species_name": "Rufflet",
     "variant_name": "Rufflet",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 83,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 627,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.5,
       "weight": 10.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Eaglet Pok\u00e9mon",
-      "flavor_text": "A combative Pok\u00e9mon, it\u2019s ready to pick a fight with anyone. It has talons that can crush hard berries.",
+      "kind": "Eaglet Pokémon",
+      "flavor_text": "A combative Pokémon, it’s ready to pick a fight with anyone. It has talons that can crush hard berries.",
       "abilities": [
         "Keen Eye",
         "Sheer Force"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Hustle"
       ],
-      "regional_dex_nums": [
-        133,
-        109,
-        75,
-        89,
-        281
-      ]
+      "regional_dex_nums": {
+        "bw": 133,
+        "b2w2": 109,
+        "sm": 75,
+        "usum": 89,
+        "swsh": 281
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -238,6 +238,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",

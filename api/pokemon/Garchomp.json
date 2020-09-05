@@ -2,6 +2,10 @@
   {
     "species_name": "Garchomp",
     "variant_name": "Garchomp",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 108,
       "attack": 130,
@@ -12,29 +16,25 @@
     },
     "dex_entry": {
       "national_dex_num": 445,
-      "types": [
-        "Dragon",
-        "Ground"
-      ],
       "height": 1.9,
       "weight": 95.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mach Pok\u00e9mon",
-      "flavor_text": "Its fine scales don\u2019t just reduce wind resistance\u2014their sharp edges also cause injury to any opponent who attacks it.",
+      "kind": "Mach Pokémon",
+      "flavor_text": "Its fine scales don’t just reduce wind resistance—their sharp edges also cause injury to any opponent who attacks it.",
       "abilities": [
         "Sand Veil"
       ],
       "hidden_abilities": [
         "Rough Skin"
       ],
-      "regional_dex_nums": [
-        111,
-        111,
-        8,
-        240,
-        309
-      ]
+      "regional_dex_nums": {
+        "dp": 111,
+        "plat": 111,
+        "xy_mountain": 8,
+        "sm": 240,
+        "usum": 309
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -282,6 +282,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Crunch"
+      ],
       "egg_moves": [
         "Body Slam",
         "Double-Edge",
@@ -332,6 +335,10 @@
   {
     "species_name": "Garchomp",
     "variant_name": "Mega Garchomp",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 108,
       "attack": 170,
@@ -342,27 +349,23 @@
     },
     "dex_entry": {
       "national_dex_num": 445,
-      "types": [
-        "Dragon",
-        "Ground"
-      ],
       "height": 1.9,
       "weight": 95.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mach Pok\u00e9mon",
+      "kind": "Mach Pokémon",
       "flavor_text": "Its disposition is more vicious than before its Mega Evolution. Garchomp carves its opponents up with the scythes on both arms.",
       "abilities": [
         "Sand Force"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        111,
-        111,
-        8,
-        240,
-        309
-      ]
+      "regional_dex_nums": {
+        "dp": 111,
+        "plat": 111,
+        "xy_mountain": 8,
+        "sm": 240,
+        "usum": 309
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -610,6 +613,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Crunch"
+      ],
       "egg_moves": [
         "Body Slam",
         "Double-Edge",

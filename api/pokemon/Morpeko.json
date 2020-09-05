@@ -2,6 +2,10 @@
   {
     "species_name": "Morpeko",
     "variant_name": "Full Belly Mode",
+    "types": [
+      "Electric",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 58,
       "attack": 95,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 877,
-      "types": [
-        "Electric",
-        "Dark"
-      ],
       "height": 0.3,
       "weight": 3.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Two-Sided Pok\u00e9mon",
-      "flavor_text": "It carries electrically roasted seeds with it as if they\u2019re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+      "kind": "Two-Sided Pokémon",
+      "flavor_text": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
       "abilities": [
         "Hunger Switch"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        344
-      ]
+      "regional_dex_nums": {
+        "swsh": 344
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -49,7 +49,7 @@
         "Fairy",
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 2314,
       "steps_to_hatch_upper": 2570,
       "egg_cycles": 10
@@ -289,6 +289,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Charge",
         "Fake Out",
@@ -306,6 +307,10 @@
   {
     "species_name": "Morpeko",
     "variant_name": "Hangry Mode",
+    "types": [
+      "Electric",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 58,
       "attack": 95,
@@ -316,23 +321,19 @@
     },
     "dex_entry": {
       "national_dex_num": 877,
-      "types": [
-        "Electric",
-        "Dark"
-      ],
       "height": 0.3,
       "weight": 3.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Two-Sided Pok\u00e9mon",
-      "flavor_text": "It carries electrically roasted seeds with it as if they\u2019re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+      "kind": "Two-Sided Pokémon",
+      "flavor_text": "Hunger hormones affect its temperament. Until its hunger is appeased, it gets up to all manner of evil deeds.",
       "abilities": [
         "Hunger Switch"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        344
-      ]
+      "regional_dex_nums": {
+        "swsh": 344
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -353,7 +354,7 @@
         "Fairy",
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 2314,
       "steps_to_hatch_upper": 2570,
       "egg_cycles": 10
@@ -593,6 +594,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Charge",
         "Fake Out",

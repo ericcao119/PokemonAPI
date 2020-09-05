@@ -2,6 +2,10 @@
   {
     "species_name": "Swadloon",
     "variant_name": "Swadloon",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 63,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 541,
-      "types": [
-        "Bug",
-        "Grass"
-      ],
       "height": 0.5,
       "weight": 7.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Leaf-Wrapped Pok\u00e9mon",
+      "kind": "Leaf-Wrapped Pokémon",
       "flavor_text": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
       "abilities": [
         "Leaf Guard",
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        47,
-        18
-      ]
+      "regional_dex_nums": {
+        "bw": 47,
+        "b2w2": 18
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -183,6 +183,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Protect"
+      ],
       "egg_moves": [
         "Agility",
         "Air Slash",

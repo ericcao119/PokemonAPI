@@ -2,6 +2,10 @@
   {
     "species_name": "Flygon",
     "variant_name": "Flygon",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 100,
@@ -12,29 +16,25 @@
     },
     "dex_entry": {
       "national_dex_num": 330,
-      "types": [
-        "Ground",
-        "Dragon"
-      ],
       "height": 2.0,
       "weight": 82.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mystic Pok\u00e9mon",
+      "kind": "Mystic Pokémon",
       "flavor_text": "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        118,
-        123,
-        5,
-        123,
-        237,
-        306,
-        323
-      ]
+      "regional_dex_nums": {
+        "rse": 118,
+        "b2w2": 123,
+        "xy_mountain": 5,
+        "oras": 123,
+        "sm": 237,
+        "usum": 306,
+        "swsh": 323
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -282,6 +282,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Dragon Claw"
+      ],
       "egg_moves": [
         "Bug Bite",
         "Earth Power",

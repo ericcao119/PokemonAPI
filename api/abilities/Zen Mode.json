@@ -1,4 +1,6 @@
 {
-  "name": "Zen Mode",
-  "description": "Changes form when HP drops below half."
+  "ability_name": "Zen Mode",
+  "effect": "Zen Mode changes the ability-bearer's form to Zen Mode when their health falls below 50%.
+Currently it only applies to Darmanitan, whose form change makes it Fire/Psychic type and changes its stats around.",
+  "description": "Changes the Pokémon’s shape when HP is half or less."
 }

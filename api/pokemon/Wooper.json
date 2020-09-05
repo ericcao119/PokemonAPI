@@ -2,6 +2,10 @@
   {
     "species_name": "Wooper",
     "variant_name": "Wooper",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 45,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 194,
-      "types": [
-        "Water",
-        "Ground"
-      ],
       "height": 0.4,
       "weight": 8.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Water Fish Pok\u00e9mon",
+      "kind": "Water Fish Pokémon",
       "flavor_text": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
       "abilities": [
         "Damp",
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Unaware"
       ],
-      "regional_dex_nums": [
-        56,
-        117,
-        117,
-        56,
-        17,
-        100
-      ]
+      "regional_dex_nums": {
+        "gsc": 56,
+        "dp": 117,
+        "plat": 117,
+        "hgss": 56,
+        "xy_mountain": 17,
+        "swsh": 100
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -232,6 +232,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Spray",
         "After You",

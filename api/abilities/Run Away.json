@@ -1,4 +1,6 @@
 {
-  "name": "Run Away",
-  "description": "Enables a sure getaway from wild Pok\u00e9mon."
+  "ability_name": "Run Away",
+  "effect": "Run Away allows the bearer to flee a battle with a wild Pokémon without fail, even if the opposing Pokémon has used a move like Mean Look or Bind, or has an ability such as Arena Trap.
+Pokémon with Run Away cannot switch out for another Pokémon, only flee. It does not allow the Pokémon to flee from Trainer battles.",
+  "description": "Enables a sure getaway from wild Pokémon."
 }

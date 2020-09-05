@@ -2,6 +2,10 @@
   {
     "species_name": "Dracozolt",
     "variant_name": "Dracozolt",
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 100,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 880,
-      "types": [
-        "Electric",
-        "Dragon"
-      ],
       "height": 1.8,
       "weight": 190.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fossil Pok\u00e9mon",
+      "kind": "Fossil Pokémon",
       "flavor_text": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.",
       "abilities": [
         "Volt Absorb",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Sand Rush"
       ],
-      "regional_dex_nums": [
-        374
-      ]
+      "regional_dex_nums": {
+        "swsh": 374
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 8739,
       "steps_to_hatch_upper": 8995,
       "egg_cycles": 35
@@ -287,6 +287,7 @@
           "High Horsepower"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

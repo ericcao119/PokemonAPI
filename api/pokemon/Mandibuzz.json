@@ -2,6 +2,10 @@
   {
     "species_name": "Mandibuzz",
     "variant_name": "Mandibuzz",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 65,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 630,
-      "types": [
-        "Dark",
-        "Flying"
-      ],
       "height": 1.2,
       "weight": 39.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bone Vulture Pok\u00e9mon",
+      "kind": "Bone Vulture Pokémon",
       "flavor_text": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
       "abilities": [
         "Big Pecks",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        136,
-        112,
-        78,
-        92,
-        284
-      ]
+      "regional_dex_nums": {
+        "bw": 136,
+        "b2w2": 112,
+        "sm": 78,
+        "usum": 92,
+        "swsh": 284
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -286,6 +286,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Bone Rush"
+      ],
       "egg_moves": [
         "Fake Tears",
         "Foul Play",

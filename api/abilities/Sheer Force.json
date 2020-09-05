@@ -1,4 +1,11 @@
 {
-  "name": "Sheer Force",
-  "description": "Removes added effects to increase move damage."
+  "ability_name": "Sheer Force",
+  "effect": "Sheer Force increases the power of moves that have beneficial secondary effects by 30%, but removes those additional effects.
+Beneficial effects are defined as those that are positive for the user, such as:
+Non-beneficial effects, that Sheer Force will not activate for, include:
+If the user is holding a Life Orb and uses an attack that activates Sheer Force, it will not receive the 10% damage from Life Orb, but it gets boosts from both Life Orb and Sheer Force (total of 69% base power increase).
+Flamethrower normally has a 10% chance to burn the opponent. With Sheer Force, Flamethrower's base power is boosted from 95 to 124, but it will never cause a burn.
+Note that if a move has an advantageous and disadvantageous side-effect, Sheer Force still boosts the move but only the advantageous effect is removed. For example, Flare Blitz may cause a burn but also has recoil damage. A Pokémon with Sheer Force using the move would gain the power increase and still receive recoil damage, but it would never cause a burn.
+Here are the moves that increase in power under Sheer Force, listed alphabetically:",
+  "description": "Removes additional effects to increase the power of moves when attacking."
 }

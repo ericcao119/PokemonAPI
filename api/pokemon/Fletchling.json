@@ -2,6 +2,10 @@
   {
     "species_name": "Fletchling",
     "variant_name": "Fletchling",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 50,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 661,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.3,
       "weight": 1.7,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tiny Robin Pok\u00e9mon",
+      "kind": "Tiny Robin Pokémon",
       "flavor_text": "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
       "abilities": [
         "Big Pecks"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Gale Wings"
       ],
-      "regional_dex_nums": [
-        14,
-        158,
-        192
-      ]
+      "regional_dex_nums": {
+        "xy_central": 14,
+        "sm": 158,
+        "usum": 192
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -227,6 +227,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Quick Guard",
         "Snatch",

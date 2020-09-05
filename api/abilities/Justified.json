@@ -1,4 +1,6 @@
 {
-  "name": "Justified",
-  "description": "Raises Attack when hit by a Dark-type move."
+  "ability_name": "Justified",
+  "effect": "Justified raises the ability-bearer's Attack by one stage when hit by a damaging Dark-type move.
+The Attack rises for every hit of the move Beat Up.",
+  "description": "Being hit by a Dark-type move boosts the Attack stat of the Pokémon, for justice."
 }

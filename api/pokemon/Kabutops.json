@@ -2,6 +2,10 @@
   {
     "species_name": "Kabutops",
     "variant_name": "Kabutops",
+    "types": [
+      "Rock",
+      "Water"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 115,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 141,
-      "types": [
-        "Rock",
-        "Water"
-      ],
       "height": 1.3,
       "weight": 40.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Shellfish Pok\u00e9mon",
+      "kind": "Shellfish Pokémon",
       "flavor_text": "A slim and fast swimmer. It sliced its prey with its sharp sickles and drank the body fluids.",
       "abilities": [
         "Swift Swim",
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        141,
-        223,
-        141,
-        228,
-        230,
-        141
-      ]
+      "regional_dex_nums": {
+        "rby": 141,
+        "gsc": 223,
+        "frlg": 141,
+        "hgss": 228,
+        "usum": 230,
+        "lets_go": 141
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -280,6 +280,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Slash"
+      ],
       "egg_moves": [
         "Aurora Beam",
         "Bubble Beam",

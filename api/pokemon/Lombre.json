@@ -2,6 +2,10 @@
   {
     "species_name": "Lombre",
     "variant_name": "Lombre",
+    "types": [
+      "Water",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 50,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 271,
-      "types": [
-        "Water",
-        "Grass"
-      ],
       "height": 1.2,
       "weight": 32.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Jolly Pok\u00e9mon",
-      "flavor_text": "It lives at the water\u2019s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+      "kind": "Jolly Pokémon",
+      "flavor_text": "It lives at the water’s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
       "abilities": [
         "Swift Swim",
         "Rain Dish"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Own Tempo"
       ],
-      "regional_dex_nums": [
-        20,
-        56,
-        20,
-        37
-      ]
+      "regional_dex_nums": {
+        "rse": 20,
+        "xy_mountain": 56,
+        "oras": 20,
+        "swsh": 37
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -242,6 +242,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Counter",
         "Flail",

@@ -1,4 +1,6 @@
 {
-  "name": "Soundproof",
-  "description": "Gives immunity to sound-based moves."
+  "ability_name": "Soundproof",
+  "effect": "Soundproof grants the Pokémon immunity to all sound-based moves, preventing all damage and effects.
+In Generation 5 only, Pokémon with Soundproof could be cured of status conditions by Heal Bell.",
+  "description": "Soundproofing gives the Pokémon full immunity to all sound-based moves."
 }

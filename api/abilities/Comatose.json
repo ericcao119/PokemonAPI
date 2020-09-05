@@ -1,4 +1,7 @@
 {
-  "name": "Comatose",
-  "description": "The Pok\u00e9mon is always asleep but can still attack."
+  "ability_name": "Comatose",
+  "effect": "Comatose causes the Pokémon to behave as if it were asleep, though it doesn't officially have the Sleep status condition. It can still use its regular moves, but cannot be inflicted with any major status condition (sleep, poison, paralysis, burn, or freeze).
+Moves that target sleeping Pokémon (such as Dream Eater) work on a Pokémon with Comatose, and the ability-bearer can use the moves Sleep Talk and Snore. The power of Hex and Wake-Up Slap still doubles when targeted at a Comatose Pokémon (though Wake-Up Slap does not suppress Comatose).
+Comatose cannot be removed or replaced via moves like Skill Swap or the Mummy ability. The move Purify and the Chesto Berry item do not work on a Pokémon with Comatose.",
+  "description": "It’s always drowsing and will never wake up. It can attack without waking up."
 }

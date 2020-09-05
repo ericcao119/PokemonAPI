@@ -2,6 +2,9 @@
   {
     "species_name": "Metapod",
     "variant_name": "Metapod",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 20,
@@ -12,30 +15,27 @@
     },
     "dex_entry": {
       "national_dex_num": 11,
-      "types": [
-        "Bug"
-      ],
       "height": 0.7,
       "weight": 9.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cocoon Pok\u00e9mon",
-      "flavor_text": "Even though it is encased in a sturdy shell, the body inside is tender. It can\u2019t withstand a harsh attack.",
+      "kind": "Cocoon Pokémon",
+      "flavor_text": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
       "abilities": [
         "Shed Skin"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        11,
-        25,
-        11,
-        25,
-        24,
-        18,
-        18,
-        11,
-        14
-      ]
+      "regional_dex_nums": {
+        "rby": 11,
+        "gsc": 25,
+        "frlg": 11,
+        "hgss": 25,
+        "xy_central": 24,
+        "sm": 18,
+        "usum": 18,
+        "lets_go": 11,
+        "swsh": 14
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -78,6 +78,9 @@
           46,
           "Iron Defense"
         ]
+      ],
+      "evolution_moves": [
+        "Harden"
       ],
       "egg_moves": [],
       "tutor_moves": [],

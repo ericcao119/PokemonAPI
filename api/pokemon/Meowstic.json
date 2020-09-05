@@ -2,6 +2,9 @@
   {
     "species_name": "Meowstic",
     "variant_name": "Male",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 74,
       "attack": 48,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 678,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.6,
       "weight": 8.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Constraint Pok\u00e9mon",
-      "flavor_text": "The defensive instinct of the males is strong. It\u2019s when they\u2019re protecting themselves or their partners that they unleash their full power.",
+      "kind": "Constraint Pokémon",
+      "flavor_text": "The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power.",
       "abilities": [
         "Keen Eye",
         "Infiltrator"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Prankster"
       ],
-      "regional_dex_nums": [
-        115,
-        209
-      ]
+      "regional_dex_nums": {
+        "xy_central": 115,
+        "swsh": 209
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -209,6 +209,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -243,6 +244,9 @@
   {
     "species_name": "Meowstic",
     "variant_name": "Female",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 74,
       "attack": 48,
@@ -253,15 +257,12 @@
     },
     "dex_entry": {
       "national_dex_num": 678,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.6,
       "weight": 8.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Constraint Pok\u00e9mon",
-      "flavor_text": "If it doesn\u2019t hold back when it unleashes its psychic power, it can tear apart a tanker. Its unfriendliness is part of its charm.",
+      "kind": "Constraint Pokémon",
+      "flavor_text": "If it doesn’t hold back when it unleashes its psychic power, it can tear apart a tanker. Its unfriendliness is part of its charm.",
       "abilities": [
         "Keen Eye",
         "Infiltrator"
@@ -269,10 +270,10 @@
       "hidden_abilities": [
         "Competitive"
       ],
-      "regional_dex_nums": [
-        115,
-        209
-      ]
+      "regional_dex_nums": {
+        "xy_central": 115,
+        "swsh": 209
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -450,6 +451,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

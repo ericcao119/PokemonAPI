@@ -2,6 +2,10 @@
   {
     "species_name": "Surskit",
     "variant_name": "Surskit",
+    "types": [
+      "Bug",
+      "Water"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 30,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 283,
-      "types": [
-        "Bug",
-        "Water"
-      ],
       "height": 0.5,
       "weight": 1.7,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pond Skater Pok\u00e9mon",
+      "kind": "Pond Skater Pokémon",
       "flavor_text": "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar.",
       "abilities": [
         "Swift Swim"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        32,
-        47,
-        33,
-        139,
-        172
-      ]
+      "regional_dex_nums": {
+        "rse": 32,
+        "xy_central": 47,
+        "oras": 33,
+        "sm": 139,
+        "usum": 172
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -206,6 +206,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Jet",
         "Bug Bite",

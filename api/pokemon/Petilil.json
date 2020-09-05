@@ -2,6 +2,9 @@
   {
     "species_name": "Petilil",
     "variant_name": "Petilil",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 35,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 548,
-      "types": [
-        "Grass"
-      ],
       "height": 0.5,
       "weight": 6.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bulb Pok\u00e9mon",
+      "kind": "Bulb Pokémon",
       "flavor_text": "They prefer clean water and soil. When the environment they live in turns bad, the whole bunch will up and move to a new area.",
       "abilities": [
         "Chlorophyll",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Leaf Guard"
       ],
-      "regional_dex_nums": [
-        54,
-        84,
-        85,
-        103
-      ]
+      "regional_dex_nums": {
+        "bw": 54,
+        "b2w2": 84,
+        "sm": 85,
+        "usum": 103
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -212,6 +212,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bide",
         "Charm",

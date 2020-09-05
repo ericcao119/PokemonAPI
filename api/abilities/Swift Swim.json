@@ -1,4 +1,5 @@
 {
-  "name": "Swift Swim",
-  "description": "Boosts the Pok\u00e9mon's Speed in rain."
+  "ability_name": "Swift Swim",
+  "effect": "Swift Swim doubles the ability-bearer's Speed during rain.",
+  "description": "Boosts the Pokémon’s Speed stat in rain."
 }

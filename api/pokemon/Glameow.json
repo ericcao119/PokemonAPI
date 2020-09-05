@@ -2,6 +2,9 @@
   {
     "species_name": "Glameow",
     "variant_name": "Glameow",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 49,
       "attack": 55,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 431,
-      "types": [
-        "Normal"
-      ],
       "height": 0.5,
       "weight": 3.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Catty Pok\u00e9mon",
-      "flavor_text": "When it\u2019s happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.",
+      "kind": "Catty Pokémon",
+      "flavor_text": "When it’s happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.",
       "abilities": [
         "Limber",
         "Own Tempo"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Keen Eye"
       ],
-      "regional_dex_nums": [
-        76,
-        76
-      ]
+      "regional_dex_nums": {
+        "dp": 76,
+        "plat": 76
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -238,6 +238,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assurance",
         "Bite",

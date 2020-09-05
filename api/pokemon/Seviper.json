@@ -2,6 +2,9 @@
   {
     "species_name": "Seviper",
     "variant_name": "Seviper",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 73,
       "attack": 100,
@@ -12,27 +15,24 @@
     },
     "dex_entry": {
       "national_dex_num": 336,
-      "types": [
-        "Poison"
-      ],
       "height": 2.7,
       "weight": 52.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fang Snake Pok\u00e9mon",
-      "flavor_text": "Seviper\u2019s swordlike tail serves two purposes\u2014it slashes foes and douses them with secreted poison. This Pok\u00e9mon will not give up its long-running blood feud with Zangoose.",
+      "kind": "Fang Snake Pokémon",
+      "flavor_text": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
       "abilities": [
         "Shed Skin"
       ],
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        124,
-        187,
-        6,
-        129
-      ]
+      "regional_dex_nums": {
+        "rse": 124,
+        "b2w2": 187,
+        "xy_coastal": 6,
+        "oras": 129
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -272,6 +272,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assurance",
         "Body Slam",

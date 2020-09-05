@@ -2,6 +2,10 @@
   {
     "species_name": "Pumpkaboo",
     "variant_name": "Average Size",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 49,
       "attack": 66,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 710,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 0.4,
       "weight": 5.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pumpkin Pok\u00e9mon",
-      "flavor_text": "The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pok\u00e9mon that see it.",
+      "kind": "Pumpkin Pokémon",
+      "flavor_text": "The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it.",
       "abilities": [
         "Pickup",
         "Frisk"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Insomnia"
       ],
-      "regional_dex_nums": [
-        63,
-        191
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 63,
+        "swsh": 191
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -267,6 +267,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Curse",
@@ -299,6 +300,10 @@
   {
     "species_name": "Pumpkaboo",
     "variant_name": "Small Size",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 44,
       "attack": 66,
@@ -309,15 +314,11 @@
     },
     "dex_entry": {
       "national_dex_num": 710,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 0.3,
       "weight": 3.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pumpkin Pok\u00e9mon",
+      "kind": "Pumpkin Pokémon",
       "flavor_text": "Small Pumpkaboo are said to be the product of areas where few lost souls lingered.",
       "abilities": [
         "Pickup",
@@ -326,10 +327,10 @@
       "hidden_abilities": [
         "Insomnia"
       ],
-      "regional_dex_nums": [
-        63,
-        191
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 63,
+        "swsh": 191
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -564,6 +565,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Curse",
@@ -596,6 +598,10 @@
   {
     "species_name": "Pumpkaboo",
     "variant_name": "Large Size",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 54,
       "attack": 66,
@@ -606,15 +612,11 @@
     },
     "dex_entry": {
       "national_dex_num": 710,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 0.5,
       "weight": 7.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pumpkin Pok\u00e9mon",
+      "kind": "Pumpkin Pokémon",
       "flavor_text": "Large Pumpkaboo are said to be the product of areas where many lost souls lingered.",
       "abilities": [
         "Pickup",
@@ -623,10 +625,10 @@
       "hidden_abilities": [
         "Insomnia"
       ],
-      "regional_dex_nums": [
-        63,
-        191
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 63,
+        "swsh": 191
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -861,6 +863,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Curse",
@@ -893,6 +896,10 @@
   {
     "species_name": "Pumpkaboo",
     "variant_name": "Super Size",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 59,
       "attack": 66,
@@ -903,15 +910,11 @@
     },
     "dex_entry": {
       "national_dex_num": 710,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 0.8,
       "weight": 15.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pumpkin Pok\u00e9mon",
+      "kind": "Pumpkin Pokémon",
       "flavor_text": "Massive Pumpkaboo are said to be the product of areas where a great number of lost souls lingered.",
       "abilities": [
         "Pickup",
@@ -920,10 +923,10 @@
       "hidden_abilities": [
         "Insomnia"
       ],
-      "regional_dex_nums": [
-        63,
-        191
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 63,
+        "swsh": 191
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -1158,6 +1161,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Curse",

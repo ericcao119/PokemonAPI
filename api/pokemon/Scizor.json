@@ -2,6 +2,10 @@
   {
     "species_name": "Scizor",
     "variant_name": "Scizor",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 130,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 212,
-      "types": [
-        "Bug",
-        "Steel"
-      ],
       "height": 1.8,
       "weight": 118.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pincer Pok\u00e9mon",
-      "flavor_text": "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there\u2019s nothing left but scraps.",
+      "kind": "Pincer Pokémon",
+      "flavor_text": "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there’s nothing left but scraps.",
       "abilities": [
         "Swarm",
         "Technician"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Light Metal"
       ],
-      "regional_dex_nums": [
-        111,
-        196,
-        112,
-        137,
-        276,
-        366
-      ]
+      "regional_dex_nums": {
+        "gsc": 111,
+        "plat": 196,
+        "hgss": 112,
+        "xy_mountain": 137,
+        "sm": 276,
+        "usum": 366
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -283,6 +283,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baton Pass",
         "Bug Buzz",
@@ -328,6 +329,10 @@
   {
     "species_name": "Scizor",
     "variant_name": "Mega Scizor",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 150,
@@ -338,28 +343,24 @@
     },
     "dex_entry": {
       "national_dex_num": 212,
-      "types": [
-        "Bug",
-        "Steel"
-      ],
       "height": 2.0,
       "weight": 125.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pincer Pok\u00e9mon",
-      "flavor_text": "It\u2019s better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear.",
+      "kind": "Pincer Pokémon",
+      "flavor_text": "It’s better at beating things than grasping them. When it battles for a long time, the weight of its pincers becomes too much to bear.",
       "abilities": [
         "Technician"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        111,
-        196,
-        112,
-        137,
-        276,
-        366
-      ]
+      "regional_dex_nums": {
+        "gsc": 111,
+        "plat": 196,
+        "hgss": 112,
+        "xy_mountain": 137,
+        "sm": 276,
+        "usum": 366
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -606,6 +607,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baton Pass",
         "Bug Buzz",

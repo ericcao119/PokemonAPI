@@ -2,6 +2,9 @@
   {
     "species_name": "Hypno",
     "variant_name": "Hypno",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 73,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 97,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.6,
       "weight": 75.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hypnosis Pok\u00e9mon",
+      "kind": "Hypnosis Pokémon",
       "flavor_text": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
       "abilities": [
         "Insomnia",
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Inner Focus"
       ],
-      "regional_dex_nums": [
-        97,
-        88,
-        97,
-        88,
-        55,
-        67,
-        97
-      ]
+      "regional_dex_nums": {
+        "rby": 97,
+        "gsc": 88,
+        "frlg": 97,
+        "hgss": 88,
+        "sm": 55,
+        "usum": 67,
+        "lets_go": 97
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -311,6 +311,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assist",
         "Barrier",

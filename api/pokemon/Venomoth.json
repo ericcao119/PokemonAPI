@@ -2,6 +2,10 @@
   {
     "species_name": "Venomoth",
     "variant_name": "Venomoth",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 65,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 49,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 1.5,
       "weight": 12.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Moth Pok\u00e9mon",
+      "kind": "Poison Moth Pokémon",
       "flavor_text": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
       "abilities": [
         "Shield Dust",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Wonder Skin"
       ],
-      "regional_dex_nums": [
-        49,
-        109,
-        49,
-        110,
-        49
-      ]
+      "regional_dex_nums": {
+        "rby": 49,
+        "gsc": 109,
+        "frlg": 49,
+        "hgss": 110,
+        "lets_go": 49
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -266,6 +266,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Gust"
+      ],
       "egg_moves": [
         "Agility",
         "Baton Pass",

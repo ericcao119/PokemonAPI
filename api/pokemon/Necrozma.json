@@ -2,6 +2,9 @@
   {
     "species_name": "Necrozma",
     "variant_name": "Necrozma",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 97,
       "attack": 107,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 800,
-      "types": [
-        "Psychic"
-      ],
       "height": 2.4,
       "weight": 230.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Prism Pok\u00e9mon",
+      "kind": "Prism Pokémon",
       "flavor_text": "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces.",
       "abilities": [
         "Prism Armor"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        300,
-        400
-      ]
+      "regional_dex_nums": {
+        "sm": 300,
+        "usum": 400
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -344,6 +344,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -352,6 +353,10 @@
   {
     "species_name": "Necrozma",
     "variant_name": "Dusk Mane Necrozma",
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 97,
       "attack": 157,
@@ -362,24 +367,20 @@
     },
     "dex_entry": {
       "national_dex_num": 800,
-      "types": [
-        "Psychic",
-        "Steel"
-      ],
       "height": 3.8,
       "weight": 460.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Prism Pok\u00e9mon",
-      "flavor_text": "Necrozma has attached itself to Solgaleo. It siphons away its host\u2019s limitless energy, exploiting that energy to fuel a rampage.",
+      "kind": "Prism Pokémon",
+      "flavor_text": "Necrozma has attached itself to Solgaleo. It siphons away its host’s limitless energy, exploiting that energy to fuel a rampage.",
       "abilities": [
         "Prism Armor"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        300,
-        400
-      ]
+      "regional_dex_nums": {
+        "sm": 300,
+        "usum": 400
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -399,7 +400,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -695,6 +696,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -703,6 +705,10 @@
   {
     "species_name": "Necrozma",
     "variant_name": "Dawn Wings Necrozma",
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 97,
       "attack": 113,
@@ -713,24 +719,20 @@
     },
     "dex_entry": {
       "national_dex_num": 800,
-      "types": [
-        "Psychic",
-        "Ghost"
-      ],
       "height": 4.2,
       "weight": 350.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Prism Pok\u00e9mon",
+      "kind": "Prism Pokémon",
       "flavor_text": "When Necrozma latches on to Lunala, it becomes vicious, seeing enemies everywhere it looks. It will burn the world with lasers.",
       "abilities": [
         "Prism Armor"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        300,
-        400
-      ]
+      "regional_dex_nums": {
+        "sm": 300,
+        "usum": 400
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -750,7 +752,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -1046,6 +1048,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -1054,6 +1057,10 @@
   {
     "species_name": "Necrozma",
     "variant_name": "Ultra Necrozma",
+    "types": [
+      "Psychic",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 97,
       "attack": 167,
@@ -1064,24 +1071,20 @@
     },
     "dex_entry": {
       "national_dex_num": 800,
-      "types": [
-        "Psychic",
-        "Dragon"
-      ],
       "height": 7.5,
       "weight": 230.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Prism Pok\u00e9mon",
+      "kind": "Prism Pokémon",
       "flavor_text": "The light pouring out from all over its body affects living things and nature, impacting them in various ways.",
       "abilities": [
         "Neuroforce"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        300,
-        400
-      ]
+      "regional_dex_nums": {
+        "sm": 300,
+        "usum": 400
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -1101,7 +1104,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -1397,6 +1400,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

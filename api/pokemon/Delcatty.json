@@ -2,6 +2,9 @@
   {
     "species_name": "Delcatty",
     "variant_name": "Delcatty",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 65,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 301,
-      "types": [
-        "Normal"
-      ],
       "height": 1.1,
       "weight": 32.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Prim Pok\u00e9mon",
-      "flavor_text": "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pok\u00e9mon approach it as it sleeps, this Pok\u00e9mon will never fight\u2014it will just move away somewhere else.",
+      "kind": "Prim Pokémon",
+      "flavor_text": "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else.",
       "abilities": [
         "Cute Charm",
         "Normalize"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Wonder Skin"
       ],
-      "regional_dex_nums": [
-        62,
-        79,
-        79,
-        64
-      ]
+      "regional_dex_nums": {
+        "rse": 62,
+        "b2w2": 79,
+        "xy_central": 79,
+        "oras": 64
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -221,6 +221,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baton Pass",
         "Captivate",

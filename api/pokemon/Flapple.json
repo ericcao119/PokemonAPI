@@ -2,6 +2,10 @@
   {
     "species_name": "Flapple",
     "variant_name": "Flapple",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 110,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 841,
-      "types": [
-        "Grass",
-        "Dragon"
-      ],
       "height": 0.3,
       "weight": 1.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Apple Wing Pok\u00e9mon",
+      "kind": "Apple Wing Pokémon",
       "flavor_text": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
       "abilities": [
         "Ripen",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Hustle"
       ],
-      "regional_dex_nums": [
-        206
-      ]
+      "regional_dex_nums": {
+        "swsh": 206
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -52,7 +52,7 @@
         "Dragon",
         "Grass"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -248,7 +248,15 @@
           "Heavy Slam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Wing Attack"
+      ],
+      "egg_moves": [
+        "Defense Curl",
+        "Recycle",
+        "Rollout",
+        "Sucker Punch"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -1,4 +1,6 @@
 {
-  "name": "Thick Fat",
-  "description": "Ups resistance to Fire- and Ice-type moves."
+  "ability_name": "Thick Fat",
+  "effect": "Thick Fat reduces the damage taken from Fire-type and Ice-type moves by 50%.
+Interestingly, many Pokémon possessing this ability already take reduced damage from those types. A Dewgong or Walrein with Thick Fat would take 1⁄8 normal damage when hit by an Ice-type move.",
+  "description": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
 }

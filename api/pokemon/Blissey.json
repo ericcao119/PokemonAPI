@@ -2,6 +2,9 @@
   {
     "species_name": "Blissey",
     "variant_name": "Blissey",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 255,
       "attack": 10,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 242,
-      "types": [
-        "Normal"
-      ],
       "height": 1.5,
       "weight": 46.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Happiness Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is overflowing with love. Only Chansey that share a strong bond with their Trainer can evolve, so people say.",
+      "kind": "Happiness Pokémon",
+      "flavor_text": "This Pokémon is overflowing with love. Only Chansey that share a strong bond with their Trainer can evolve, so people say.",
       "abilities": [
         "Natural Cure",
         "Serene Grace"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Healer"
       ],
-      "regional_dex_nums": [
-        218,
-        98,
-        98,
-        223,
-        34,
-        41
-      ]
+      "regional_dex_nums": {
+        "gsc": 218,
+        "dp": 98,
+        "plat": 98,
+        "hgss": 223,
+        "sm": 34,
+        "usum": 41
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -330,6 +330,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aromatherapy",
         "Counter",

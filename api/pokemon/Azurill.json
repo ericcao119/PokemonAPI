@@ -2,6 +2,10 @@
   {
     "species_name": "Azurill",
     "variant_name": "Azurill",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 20,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 298,
-      "types": [
-        "Normal",
-        "Fairy"
-      ],
       "height": 0.2,
       "weight": 2.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Polka Dot Pok\u00e9mon",
-      "flavor_text": "Azurill\u2019s tail is large and bouncy. It is packed full of the nutrients this Pok\u00e9mon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
+      "kind": "Polka Dot Pokémon",
+      "flavor_text": "Azurill’s tail is large and bouncy. It is packed full of the nutrients this Pokémon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
       "abilities": [
         "Thick Fat",
         "Huge Power"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Sap Sipper"
       ],
-      "regional_dex_nums": [
-        54,
-        124,
-        124,
-        30,
-        41,
-        55
-      ]
+      "regional_dex_nums": {
+        "rse": 54,
+        "dp": 124,
+        "plat": 124,
+        "b2w2": 30,
+        "xy_central": 41,
+        "oras": 55
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -199,6 +199,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Camouflage",

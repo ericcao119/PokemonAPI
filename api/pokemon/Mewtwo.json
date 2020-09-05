@@ -2,6 +2,9 @@
   {
     "species_name": "Mewtwo",
     "variant_name": "Mewtwo",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 106,
       "attack": 110,
@@ -12,29 +15,26 @@
     },
     "dex_entry": {
       "national_dex_num": 150,
-      "types": [
-        "Psychic"
-      ],
       "height": 2.0,
       "weight": 122.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Genetic Pok\u00e9mon",
-      "flavor_text": "The research efforts of a certain scientist ultimately resulted in this Pok\u00e9mon. Its powers are dedicated to battling.",
+      "kind": "Genetic Pokémon",
+      "flavor_text": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        150,
-        249,
-        150,
-        254,
-        151,
-        150
-      ]
+      "regional_dex_nums": {
+        "rby": 150,
+        "gsc": 249,
+        "frlg": 150,
+        "hgss": 254,
+        "xy_mountain": 151,
+        "lets_go": 150
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -54,7 +54,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -466,6 +466,7 @@
           "Hurricane"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -474,6 +475,10 @@
   {
     "species_name": "Mewtwo",
     "variant_name": "Mega Mewtwo X",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 106,
       "attack": 190,
@@ -484,28 +489,24 @@
     },
     "dex_entry": {
       "national_dex_num": 150,
-      "types": [
-        "Psychic",
-        "Fighting"
-      ],
       "height": 2.3,
       "weight": 127.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Genetic Pok\u00e9mon",
+      "kind": "Genetic Pokémon",
       "flavor_text": "Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!",
       "abilities": [
         "Steadfast"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        150,
-        249,
-        150,
-        254,
-        151,
-        150
-      ]
+      "regional_dex_nums": {
+        "rby": 150,
+        "gsc": 249,
+        "frlg": 150,
+        "hgss": 254,
+        "xy_mountain": 151,
+        "lets_go": 150
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -525,7 +526,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -937,6 +938,7 @@
           "Hurricane"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -945,6 +947,9 @@
   {
     "species_name": "Mewtwo",
     "variant_name": "Mega Mewtwo Y",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 106,
       "attack": 150,
@@ -955,27 +960,24 @@
     },
     "dex_entry": {
       "national_dex_num": 150,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.5,
       "weight": 33.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Genetic Pok\u00e9mon",
+      "kind": "Genetic Pokémon",
       "flavor_text": "Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.",
       "abilities": [
         "Insomnia"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        150,
-        249,
-        150,
-        254,
-        151,
-        150
-      ]
+      "regional_dex_nums": {
+        "rby": 150,
+        "gsc": 249,
+        "frlg": 150,
+        "hgss": 254,
+        "xy_mountain": 151,
+        "lets_go": 150
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -995,7 +997,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -1407,6 +1409,7 @@
           "Hurricane"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

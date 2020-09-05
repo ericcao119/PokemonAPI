@@ -2,6 +2,9 @@
   {
     "species_name": "Ninetales",
     "variant_name": "Ninetales",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 73,
       "attack": 76,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 38,
-      "types": [
-        "Fire"
-      ],
       "height": 1.1,
       "weight": 19.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fox Pok\u00e9mon",
+      "kind": "Fox Pokémon",
       "flavor_text": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
       "abilities": [
         "Flash Fire"
@@ -27,19 +27,19 @@
       "hidden_abilities": [
         "Drought"
       ],
-      "regional_dex_nums": [
-        38,
-        126,
-        154,
-        38,
-        128,
-        249,
-        161,
-        254,
-        331,
-        38,
-        69
-      ]
+      "regional_dex_nums": {
+        "rby": 38,
+        "gsc": 126,
+        "rse": 154,
+        "frlg": 38,
+        "hgss": 128,
+        "b2w2": 249,
+        "oras": 161,
+        "sm": 254,
+        "usum": 331,
+        "lets_go": 38,
+        "swsh": 69
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -68,6 +68,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -76,6 +77,10 @@
   {
     "species_name": "Ninetales",
     "variant_name": "Alolan Ninetales",
+    "types": [
+      "Ice",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 73,
       "attack": 67,
@@ -86,35 +91,31 @@
     },
     "dex_entry": {
       "national_dex_num": 38,
-      "types": [
-        "Ice",
-        "Fairy"
-      ],
       "height": 1.1,
       "weight": 19.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fox Pok\u00e9mon",
-      "flavor_text": "While it will guide travelers who get lost on a snowy mountain down to the mountain\u2019s base, it won\u2019t forgive anyone who harms nature.",
+      "kind": "Fox Pokémon",
+      "flavor_text": "While it will guide travelers who get lost on a snowy mountain down to the mountain’s base, it won’t forgive anyone who harms nature.",
       "abilities": [
         "Snow Cloak"
       ],
       "hidden_abilities": [
         "Snow Warning"
       ],
-      "regional_dex_nums": [
-        38,
-        126,
-        154,
-        38,
-        128,
-        249,
-        161,
-        254,
-        331,
-        38,
-        69
-      ]
+      "regional_dex_nums": {
+        "rby": 38,
+        "gsc": 126,
+        "rse": 154,
+        "frlg": 38,
+        "hgss": 128,
+        "b2w2": 249,
+        "oras": 161,
+        "sm": 254,
+        "usum": 331,
+        "lets_go": 38,
+        "swsh": 69
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -143,6 +144,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

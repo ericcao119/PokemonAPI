@@ -1,4 +1,5 @@
 {
-  "name": "Berserk",
-  "description": "Raises Special Attack when HP drops below half."
+  "ability_name": "Berserk",
+  "effect": "Berserk raises the Pokémon's Special Attack by one stage when its HP falls below 50%.",
+  "description": "Boosts the Pokémon’s Sp. Atk stat when it takes a hit that causes its HP to become half or less."
 }

@@ -1,4 +1,7 @@
 {
-  "name": "Desolate Land",
-  "description": "Turns the sunlight extremely harsh when the ability activates."
+  "ability_name": "Desolate Land",
+  "effect": "Desolate Land creates extremely harsh sunlight when the ability is activated (by Groudon reverting to its Primal form).
+Extremely harsh sunlight has the same effects as harsh sunlight but with some additions:
+The abilities Cloud Nine or Air Lock are still able to bypass the effects of Desolate Land, but Mold Breaker is not.",
+  "description": "The Pokémon changes the weather to nullify Water-type attacks."
 }

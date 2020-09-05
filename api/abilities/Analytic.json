@@ -1,4 +1,6 @@
 {
-  "name": "Analytic",
-  "description": "Boosts move power when the Pok\u00e9mon moves last."
+  "ability_name": "Analytic",
+  "effect": "Boosts move power when the Pokémon moves last.
+",
+  "description": "Boosts move power when the Pokémon moves last."
 }

@@ -2,6 +2,9 @@
   {
     "species_name": "Cleffa",
     "variant_name": "Cleffa",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 25,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 173,
-      "types": [
-        "Fairy"
-      ],
       "height": 0.3,
       "weight": 3.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Star Shape Pok\u00e9mon",
+      "kind": "Star Shape Pokémon",
       "flavor_text": "Because of its unusual, starlike silhouette, people believe that it came here on a meteor.",
       "abilities": [
         "Cute Charm",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Friend Guard"
       ],
-      "regional_dex_nums": [
-        40,
-        99,
-        99,
-        40,
-        88,
-        210,
-        272,
-        254
-      ]
+      "regional_dex_nums": {
+        "gsc": 40,
+        "dp": 99,
+        "plat": 99,
+        "hgss": 40,
+        "b2w2": 88,
+        "sm": 210,
+        "usum": 272,
+        "swsh": 254
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -224,6 +224,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Aromatherapy",

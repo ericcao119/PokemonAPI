@@ -1,4 +1,7 @@
 {
-  "name": "Primordial Sea",
-  "description": "Makes it rain heavily when the ability activates."
+  "ability_name": "Primordial Sea",
+  "effect": "Primordial Sea creates heavy rain when the ability is activated (by Kyogre reverting to its Primal form).
+Heavy rain has the same effects as regular rain but with some additions:
+The abilities Cloud Nine or Air Lock are still able to bypass the effects of Primordial Sea, but Mold Breaker is not.",
+  "description": "The Pokémon changes the weather to nullify Fire-type attacks."
 }

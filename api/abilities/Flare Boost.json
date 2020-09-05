@@ -1,4 +1,6 @@
 {
-  "name": "Flare Boost",
-  "description": "Powers up special attacks when burned."
+  "ability_name": "Flare Boost",
+  "effect": "Powers up special attacks when burned.
+",
+  "description": "Powers up special attacks when the Pokémon is burned."
 }

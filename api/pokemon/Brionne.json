@@ -2,6 +2,9 @@
   {
     "species_name": "Brionne",
     "variant_name": "Brionne",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 69,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 729,
-      "types": [
-        "Water"
-      ],
       "height": 0.6,
       "weight": 17.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pop Star Pok\u00e9mon",
-      "flavor_text": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that\u2019s leading them.",
+      "kind": "Pop Star Pokémon",
+      "flavor_text": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that’s leading them.",
       "abilities": [
         "Torrent"
       ],
       "hidden_abilities": [
         "Liquid Voice"
       ],
-      "regional_dex_nums": [
-        8,
-        8
-      ]
+      "regional_dex_nums": {
+        "sm": 8,
+        "usum": 8
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -255,7 +255,12 @@
           "Play Rough"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Aqua Ring",
+        "Life Dew",
+        "Perish Song"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

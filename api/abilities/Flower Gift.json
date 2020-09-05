@@ -1,4 +1,5 @@
 {
-  "name": "Flower Gift",
-  "description": "Powers up party Pok\u00e9mon when it is sunny."
+  "ability_name": "Flower Gift",
+  "effect": "Flower Gift raises the Attack and Special Defense of all party Pokémon by 50% during harsh sunlight.",
+  "description": "Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight."
 }

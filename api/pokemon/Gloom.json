@@ -2,6 +2,10 @@
   {
     "species_name": "Gloom",
     "variant_name": "Gloom",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 65,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 44,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 0.8,
       "weight": 8.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Weed Pok\u00e9mon",
+      "kind": "Weed Pokémon",
       "flavor_text": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
       "abilities": [
         "Chlorophyll"
@@ -28,17 +28,17 @@
       "hidden_abilities": [
         "Stench"
       ],
-      "regional_dex_nums": [
-        44,
-        84,
-        89,
-        44,
-        84,
-        106,
-        92,
-        44,
-        56
-      ]
+      "regional_dex_nums": {
+        "rby": 44,
+        "gsc": 84,
+        "rse": 89,
+        "frlg": 44,
+        "hgss": 84,
+        "xy_central": 106,
+        "oras": 92,
+        "lets_go": 44,
+        "swsh": 56
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -222,7 +222,19 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "After You",
+        "Flail",
+        "Ingrain",
+        "Leech Seed",
+        "Nature Power",
+        "Razor Leaf",
+        "Strength Sap",
+        "Synthesis",
+        "Teeter Dance",
+        "Tickle"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

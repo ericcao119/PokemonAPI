@@ -2,6 +2,9 @@
   {
     "species_name": "Poliwag",
     "variant_name": "Poliwag",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 50,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 60,
-      "types": [
-        "Water"
-      ],
       "height": 0.6,
       "weight": 12.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tadpole Pok\u00e9mon",
+      "kind": "Tadpole Pokémon",
       "flavor_text": "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
       "abilities": [
         "Water Absorb",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Swift Swim"
       ],
-      "regional_dex_nums": [
-        60,
-        72,
-        60,
-        72,
-        33,
-        149,
-        182,
-        60
-      ]
+      "regional_dex_nums": {
+        "rby": 60,
+        "gsc": 72,
+        "frlg": 60,
+        "hgss": 72,
+        "xy_mountain": 33,
+        "sm": 149,
+        "usum": 182,
+        "lets_go": 60
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -212,6 +212,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bubble Beam",
         "Encore",

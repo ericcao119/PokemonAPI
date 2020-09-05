@@ -1,4 +1,5 @@
 {
-  "name": "Stakeout",
-  "description": "Deals double damage to Pok\u00e9mon switching in."
+  "ability_name": "Stakeout",
+  "effect": "Stakeout enables the Pokémon to deal twice the normal damage to any Pokémon that switches in or enters the field mid-battle.",
+  "description": "Doubles the damage dealt to the target’s replacement if the target switches out."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Sandile",
     "variant_name": "Sandile",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 72,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 551,
-      "types": [
-        "Ground",
-        "Dark"
-      ],
       "height": 0.7,
       "weight": 15.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Desert Croc Pok\u00e9mon",
-      "flavor_text": "Sandile\u2019s still not good at hunting, so it mostly eats things that have collapsed in the desert. It\u2019s called \u201cthe cleaner of the desert.\u201d",
+      "kind": "Desert Croc Pokémon",
+      "flavor_text": "Sandile’s still not good at hunting, so it mostly eats things that have collapsed in the desert. It’s called “the cleaner of the desert.”",
       "abilities": [
         "Intimidate",
         "Moxie"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Anger Point"
       ],
-      "regional_dex_nums": [
-        57,
-        99,
-        43,
-        232,
-        301
-      ]
+      "regional_dex_nums": {
+        "bw": 57,
+        "b2w2": 99,
+        "xy_coastal": 43,
+        "sm": 232,
+        "usum": 301
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -250,6 +250,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Beat Up",
         "Counter",

@@ -2,6 +2,10 @@
   {
     "species_name": "Swanna",
     "variant_name": "Swanna",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 87,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 581,
-      "types": [
-        "Water",
-        "Flying"
-      ],
       "height": 1.3,
       "weight": 24.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "White Bird Pok\u00e9mon",
+      "kind": "White Bird Pokémon",
       "flavor_text": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
       "abilities": [
         "Keen Eye",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Hydration"
       ],
-      "regional_dex_nums": [
-        87,
-        154,
-        128
-      ]
+      "regional_dex_nums": {
+        "bw": 87,
+        "b2w2": 154,
+        "xy_central": 128
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -237,6 +237,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Air Cutter",
         "Aqua Jet",

@@ -2,6 +2,10 @@
   {
     "species_name": "Primarina",
     "variant_name": "Primarina",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 74,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 730,
-      "types": [
-        "Water",
-        "Fairy"
-      ],
       "height": 1.8,
       "weight": 44.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Soloist Pok\u00e9mon",
-      "flavor_text": "For Primarina, every battle\u2019s a stage. Its singing and the dancing of its balloons will mesmerize the audience.",
+      "kind": "Soloist Pokémon",
+      "flavor_text": "For Primarina, every battle’s a stage. Its singing and the dancing of its balloons will mesmerize the audience.",
       "abilities": [
         "Torrent"
       ],
       "hidden_abilities": [
         "Liquid Voice"
       ],
-      "regional_dex_nums": [
-        9,
-        9
-      ]
+      "regional_dex_nums": {
+        "sm": 9,
+        "usum": 9
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -308,7 +308,14 @@
           "Liquidation"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Sparkling Aria"
+      ],
+      "egg_moves": [
+        "Aqua Ring",
+        "Life Dew",
+        "Perish Song"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

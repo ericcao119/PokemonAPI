@@ -2,6 +2,9 @@
   {
     "species_name": "Cursola",
     "variant_name": "Cursola",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 95,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 864,
-      "types": [
-        "Ghost"
-      ],
       "height": 1.0,
       "weight": 0.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Coral Pok\u00e9mon",
-      "flavor_text": "Be cautious of the ectoplasmic body surrounding its soul. You\u2019ll become stiff as stone if you touch it.",
+      "kind": "Coral Pokémon",
+      "flavor_text": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.",
       "abilities": [
         "Weak Armor"
       ],
       "hidden_abilities": [
         "Perish Body"
       ],
-      "regional_dex_nums": [
-        237
-      ]
+      "regional_dex_nums": {
+        "swsh": 237
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -50,7 +50,7 @@
         "Water1",
         "Water3"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -334,7 +334,15 @@
           "Liquidation"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Confuse Ray",
+        "Destiny Bond",
+        "Haze",
+        "Head Smash",
+        "Nature Power",
+        "Water Pulse"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

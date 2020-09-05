@@ -2,6 +2,10 @@
   {
     "species_name": "Aurorus",
     "variant_name": "Aurorus",
+    "types": [
+      "Rock",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 123,
       "attack": 77,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 699,
-      "types": [
-        "Rock",
-        "Ice"
-      ],
       "height": 2.7,
       "weight": 225.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tundra Pok\u00e9mon",
-      "flavor_text": "This usually quiet and kindly Pok\u00e9mon has a surface temperature of around \u2013240 degrees Fahrenheit.",
+      "kind": "Tundra Pokémon",
+      "flavor_text": "This usually quiet and kindly Pokémon has a surface temperature of around –240 degrees Fahrenheit.",
       "abilities": [
         "Refrigerate"
       ],
       "hidden_abilities": [
         "Snow Warning"
       ],
-      "regional_dex_nums": [
-        67,
-        246
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 67,
+        "usum": 246
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -326,6 +326,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Freeze-Dry"
+      ],
       "egg_moves": [
         "Barrier",
         "Discharge",

@@ -2,6 +2,9 @@
   {
     "species_name": "Gogoat",
     "variant_name": "Gogoat",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 123,
       "attack": 100,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 673,
-      "types": [
-        "Grass"
-      ],
       "height": 1.7,
       "weight": 91.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mount Pok\u00e9mon",
+      "kind": "Mount Pokémon",
       "flavor_text": "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
       "abilities": [
         "Sap Sipper"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Grass Pelt"
       ],
-      "regional_dex_nums": [
-        90
-      ]
+      "regional_dex_nums": {
+        "xy_central": 90
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -272,6 +272,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Aerial Ace"
+      ],
       "egg_moves": [
         "Defense Curl",
         "Grassy Terrain",

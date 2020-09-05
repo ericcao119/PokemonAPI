@@ -1,4 +1,7 @@
 {
-  "name": "Sturdy",
-  "description": "It cannot be knocked out with one hit."
+  "ability_name": "Sturdy",
+  "effect": "Sturdy allows the Pokémon to survive with 1 HP if attacked at full HP with an attack that would otherwise knock it out. It also prevents One-Hit-KO moves (Fissure, Horn Drill, Guillotine or Sheer Cold).
+If Sturdy activates before the final hit of a multi-hit move (such as Fury Swipes), the subsequent hit will still deal damage and therefore cause the Pokémon to faint.
+Sturdy does not prevent self-inflicted KO moves such as Selfdestruct, Explosion and Final Gambit.",
+  "description": "It cannot be knocked out with one hit. One-hit KO moves cannot knock it out, either."
 }

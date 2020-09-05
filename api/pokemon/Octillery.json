@@ -2,6 +2,9 @@
   {
     "species_name": "Octillery",
     "variant_name": "Octillery",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 105,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 224,
-      "types": [
-        "Water"
-      ],
       "height": 0.9,
       "weight": 28.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Jet Pok\u00e9mon",
+      "kind": "Jet Pokémon",
       "flavor_text": "It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head.",
       "abilities": [
         "Suction Cups",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Moody"
       ],
-      "regional_dex_nums": [
-        173,
-        133,
-        133,
-        175,
-        236,
-        145,
-        144,
-        149
-      ]
+      "regional_dex_nums": {
+        "gsc": 173,
+        "dp": 133,
+        "plat": 133,
+        "hgss": 175,
+        "b2w2": 236,
+        "xy_coastal": 145,
+        "usum": 144,
+        "swsh": 149
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -285,6 +285,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Octazooka"
+      ],
       "egg_moves": [
         "Acid Spray",
         "Aurora Beam",

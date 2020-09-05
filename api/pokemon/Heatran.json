@@ -2,6 +2,10 @@
   {
     "species_name": "Heatran",
     "variant_name": "Heatran",
+    "types": [
+      "Fire",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 91,
       "attack": 90,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 485,
-      "types": [
-        "Fire",
-        "Steel"
-      ],
       "height": 1.7,
       "weight": 430.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lava Dome Pok\u00e9mon",
+      "kind": "Lava Dome Pokémon",
       "flavor_text": "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
       "abilities": [
         "Flash Fire"
@@ -28,7 +28,7 @@
       "hidden_abilities": [
         "Flame Body"
       ],
-      "regional_dex_nums": []
+      "regional_dex_nums": {}
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -275,6 +275,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

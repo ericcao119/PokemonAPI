@@ -1,4 +1,5 @@
 {
-  "name": "Aftermath",
-  "description": "Damages the attacker landing the finishing hit."
+  "ability_name": "Aftermath",
+  "effect": "If an attacker faints a Pokémon with Aftermath using a contact move, the attacker will lose 1⁄4 of their maximum HP.",
+  "description": "Damages the attacker if it contacts the Pokémon with a finishing hit."
 }

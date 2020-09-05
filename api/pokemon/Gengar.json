@@ -2,6 +2,10 @@
   {
     "species_name": "Gengar",
     "variant_name": "Gengar",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 65,
@@ -12,33 +16,29 @@
     },
     "dex_entry": {
       "national_dex_num": 94,
-      "types": [
-        "Ghost",
-        "Poison"
-      ],
       "height": 1.5,
       "weight": 40.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Shadow Pok\u00e9mon",
+      "kind": "Shadow Pokémon",
       "flavor_text": "It is said to emerge from darkness to steal the lives of those who become lost in mountains.",
       "abilities": [
         "Cursed Body"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        94,
-        60,
-        94,
-        71,
-        71,
-        60,
-        32,
-        63,
-        75,
-        94,
-        143
-      ]
+      "regional_dex_nums": {
+        "rby": 94,
+        "gsc": 60,
+        "frlg": 94,
+        "dp": 71,
+        "plat": 71,
+        "hgss": 60,
+        "xy_mountain": 32,
+        "sm": 63,
+        "usum": 75,
+        "lets_go": 94,
+        "swsh": 143
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -362,7 +362,18 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Clear Smog",
+        "Disable",
+        "Grudge",
+        "Haze",
+        "Perish Song",
+        "Reflect Type",
+        "Smog",
+        "Toxic"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -370,6 +381,10 @@
   {
     "species_name": "Gengar",
     "variant_name": "Mega Gengar",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 65,
@@ -380,33 +395,29 @@
     },
     "dex_entry": {
       "national_dex_num": 94,
-      "types": [
-        "Ghost",
-        "Poison"
-      ],
       "height": 1.4,
       "weight": 40.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Shadow Pok\u00e9mon",
+      "kind": "Shadow Pokémon",
       "flavor_text": "It can pass through other dimensions and can appear anywhere. It caused a stir one time when it stuck just one leg out of a wall.",
       "abilities": [
         "Shadow Tag"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        94,
-        60,
-        94,
-        71,
-        71,
-        60,
-        32,
-        63,
-        75,
-        94,
-        143
-      ]
+      "regional_dex_nums": {
+        "rby": 94,
+        "gsc": 60,
+        "frlg": 94,
+        "dp": 71,
+        "plat": 71,
+        "hgss": 60,
+        "xy_mountain": 32,
+        "sm": 63,
+        "usum": 75,
+        "lets_go": 94,
+        "swsh": 143
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -730,7 +741,18 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Astonish",
+        "Clear Smog",
+        "Disable",
+        "Grudge",
+        "Haze",
+        "Perish Song",
+        "Reflect Type",
+        "Smog",
+        "Toxic"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

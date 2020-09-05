@@ -2,6 +2,9 @@
   {
     "species_name": "Avalugg",
     "variant_name": "Avalugg",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 117,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 713,
-      "types": [
-        "Ice"
-      ],
       "height": 2.0,
       "weight": 505.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iceberg Pok\u00e9mon",
-      "flavor_text": "As Avalugg moves about during the day, the cracks in its body deepen. The Pok\u00e9mon\u2019s body returns to a pristine state overnight.",
+      "kind": "Iceberg Pokémon",
+      "flavor_text": "As Avalugg moves about during the day, the cracks in its body deepen. The Pokémon’s body returns to a pristine state overnight.",
       "abilities": [
         "Own Tempo",
         "Ice Body"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Sturdy"
       ],
-      "regional_dex_nums": [
-        80,
-        359
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 80,
+        "swsh": 359
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -283,6 +283,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Body Slam"
+      ],
       "egg_moves": [
         "Barrier",
         "Mirror Coat",

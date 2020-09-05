@@ -2,6 +2,9 @@
   {
     "species_name": "Floatzel",
     "variant_name": "Floatzel",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 105,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 419,
-      "types": [
-        "Water"
-      ],
       "height": 1.1,
       "weight": 33.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Weasel Pok\u00e9mon",
+      "kind": "Sea Weasel Pokémon",
       "flavor_text": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
       "abilities": [
         "Swift Swim"
@@ -27,12 +27,12 @@
       "hidden_abilities": [
         "Water Veil"
       ],
-      "regional_dex_nums": [
-        57,
-        57,
-        150,
-        59
-      ]
+      "regional_dex_nums": {
+        "dp": 57,
+        "plat": 57,
+        "b2w2": 150,
+        "xy_mountain": 59
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -268,6 +268,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Aqua Tail",

@@ -2,6 +2,9 @@
   {
     "species_name": "Registeel",
     "variant_name": "Registeel",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 75,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 379,
-      "types": [
-        "Steel"
-      ],
       "height": 1.9,
       "weight": 205.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Pok\u00e9mon",
+      "kind": "Iron Pokémon",
       "flavor_text": "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
       "abilities": [
         "Clear Body"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Light Metal"
       ],
-      "regional_dex_nums": [
-        195,
-        204
-      ]
+      "regional_dex_nums": {
+        "rse": 195,
+        "oras": 204
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -281,6 +281,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Block",

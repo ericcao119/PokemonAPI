@@ -2,6 +2,10 @@
   {
     "species_name": "Monferno",
     "variant_name": "Monferno",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 64,
       "attack": 78,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 391,
-      "types": [
-        "Fire",
-        "Fighting"
-      ],
       "height": 0.9,
       "weight": 22.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Playful Pok\u00e9mon",
+      "kind": "Playful Pokémon",
       "flavor_text": "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
       "abilities": [
         "Blaze"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Iron Fist"
       ],
-      "regional_dex_nums": [
-        5,
-        5
-      ]
+      "regional_dex_nums": {
+        "dp": 5,
+        "plat": 5
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -271,6 +271,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Mach Punch"
+      ],
       "egg_moves": [
         "Assist",
         "Blaze Kick",

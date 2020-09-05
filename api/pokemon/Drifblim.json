@@ -2,6 +2,10 @@
   {
     "species_name": "Drifblim",
     "variant_name": "Drifblim",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 150,
       "attack": 80,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 426,
-      "types": [
-        "Ghost",
-        "Flying"
-      ],
       "height": 1.2,
       "weight": 15.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Blimp Pok\u00e9mon",
-      "flavor_text": "It grabs people and Pok\u00e9mon and carries them off somewhere. Where do they go? Nobody knows.",
+      "kind": "Blimp Pokémon",
+      "flavor_text": "It grabs people and Pokémon and carries them off somewhere. Where do they go? Nobody knows.",
       "abilities": [
         "Aftermath",
         "Unburden"
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Flare Boost"
       ],
-      "regional_dex_nums": [
-        66,
-        66,
-        209,
-        2,
-        65,
-        77,
-        125
-      ]
+      "regional_dex_nums": {
+        "dp": 66,
+        "plat": 66,
+        "b2w2": 209,
+        "xy_coastal": 2,
+        "sm": 65,
+        "usum": 77,
+        "swsh": 125
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -297,7 +297,17 @@
           "Ally Switch"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Phantom Force"
+      ],
+      "egg_moves": [
+        "Clear Smog",
+        "Defog",
+        "Disable",
+        "Haze",
+        "Hypnosis",
+        "Memento"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

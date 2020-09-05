@@ -1,4 +1,5 @@
 {
-  "name": "Sand Rush",
-  "description": "Boosts the Pok\u00e9mon's Speed in a sandstorm."
+  "ability_name": "Sand Rush",
+  "effect": "Sand Rush doubles the ability-bearer's Speed during a sandstorm.",
+  "description": "Boosts the Pokémon’s Speed stat in a sandstorm."
 }

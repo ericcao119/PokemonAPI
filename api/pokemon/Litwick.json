@@ -2,6 +2,10 @@
   {
     "species_name": "Litwick",
     "variant_name": "Litwick",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 30,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 607,
-      "types": [
-        "Ghost",
-        "Fire"
-      ],
       "height": 0.3,
       "weight": 3.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Candle Pok\u00e9mon",
-      "flavor_text": "The younger the life this Pok\u00e9mon absorbs, the brighter and eerier the flame on its head burns.",
+      "kind": "Candle Pokémon",
+      "flavor_text": "The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns.",
       "abilities": [
         "Flash Fire",
         "Flame Body"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        113,
-        190,
-        65,
-        287
-      ]
+      "regional_dex_nums": {
+        "bw": 113,
+        "b2w2": 190,
+        "xy_mountain": 65,
+        "swsh": 287
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -269,6 +269,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid",
         "Acid Armor",

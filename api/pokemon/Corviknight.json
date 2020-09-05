@@ -2,6 +2,10 @@
   {
     "species_name": "Corviknight",
     "variant_name": "Corviknight",
+    "types": [
+      "Flying",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 98,
       "attack": 87,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 823,
-      "types": [
-        "Flying",
-        "Steel"
-      ],
       "height": 2.2,
       "weight": 75.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Raven Pok\u00e9mon",
-      "flavor_text": "With their great intellect and flying skills, these Pok\u00e9mon very successfully act as the Galar region\u2019s airborne taxi service.",
+      "kind": "Raven Pokémon",
+      "flavor_text": "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service.",
       "abilities": [
         "Pressure",
         "Unnerve"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Mirror Armor"
       ],
-      "regional_dex_nums": [
-        23
-      ]
+      "regional_dex_nums": {
+        "swsh": 23
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Flying"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -283,7 +283,18 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Steel Wing"
+      ],
+      "egg_moves": [
+        "Defog",
+        "Rock Smash",
+        "Roost",
+        "Sand Attack",
+        "Sky Attack",
+        "Spite",
+        "Tailwind"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

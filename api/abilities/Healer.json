@@ -1,4 +1,6 @@
 {
-  "name": "Healer",
-  "description": "May heal an ally's status conditions."
+  "ability_name": "Healer",
+  "effect": "May heal an ally's status conditions.
+",
+  "description": "Sometimes heals an ally’s status condition."
 }

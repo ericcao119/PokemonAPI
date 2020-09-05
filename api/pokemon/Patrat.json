@@ -2,6 +2,9 @@
   {
     "species_name": "Patrat",
     "variant_name": "Patrat",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 55,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 504,
-      "types": [
-        "Normal"
-      ],
       "height": 0.5,
       "weight": 11.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scout Pok\u00e9mon",
-      "flavor_text": "Extremely cautious, one of them will always be on the lookout, but it won\u2019t notice a foe coming from behind.",
+      "kind": "Scout Pokémon",
+      "flavor_text": "Extremely cautious, one of them will always be on the lookout, but it won’t notice a foe coming from behind.",
       "abilities": [
         "Run Away",
         "Keen Eye"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        10,
-        10,
-        46
-      ]
+      "regional_dex_nums": {
+        "bw": 10,
+        "b2w2": 10,
+        "xy_mountain": 46
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -219,6 +219,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assurance",
         "Bullet Seed",

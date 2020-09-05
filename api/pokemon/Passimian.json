@@ -2,6 +2,9 @@
   {
     "species_name": "Passimian",
     "variant_name": "Passimian",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 120,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 766,
-      "types": [
-        "Fighting"
-      ],
       "height": 2.0,
       "weight": 82.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Teamwork Pok\u00e9mon",
+      "kind": "Teamwork Pokémon",
       "flavor_text": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
       "abilities": [
         "Receiver"
@@ -27,11 +27,11 @@
       "hidden_abilities": [
         "Defiant"
       ],
-      "regional_dex_nums": [
-        177,
-        216,
-        343
-      ]
+      "regional_dex_nums": {
+        "sm": 177,
+        "usum": 216,
+        "swsh": 343
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -323,6 +323,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Counter",
         "Feint",

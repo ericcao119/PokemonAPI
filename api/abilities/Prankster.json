@@ -1,4 +1,7 @@
 {
-  "name": "Prankster",
+  "ability_name": "Prankster",
+  "effect": "Prankster increases the priority of status moves by +1.
+This means that a slower Pokémon with Prankster can use a status move before the opponent uses a regular move. Or if the ability-bearer is faster, it could use a status move before the opponent uses a priority move like Aqua Jet.
+The move Quick Guard does not block moves whose priority is increased by Prankster (but it does block moves that already have increased priority).",
   "description": "Gives priority to a status move."
 }

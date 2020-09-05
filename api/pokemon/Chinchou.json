@@ -2,6 +2,10 @@
   {
     "species_name": "Chinchou",
     "variant_name": "Chinchou",
+    "types": [
+      "Water",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 38,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 170,
-      "types": [
-        "Water",
-        "Electric"
-      ],
       "height": 0.5,
       "weight": 12.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Angler Pok\u00e9mon",
+      "kind": "Angler Pokémon",
       "flavor_text": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
       "abilities": [
         "Volt Absorb",
@@ -29,16 +29,16 @@
       "hidden_abilities": [
         "Water Absorb"
       ],
-      "regional_dex_nums": [
-        174,
-        181,
-        176,
-        147,
-        190,
-        201,
-        257,
-        220
-      ]
+      "regional_dex_nums": {
+        "gsc": 174,
+        "rse": 181,
+        "hgss": 176,
+        "xy_coastal": 147,
+        "oras": 190,
+        "sm": 201,
+        "usum": 257,
+        "swsh": 220
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -245,6 +245,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Amnesia",

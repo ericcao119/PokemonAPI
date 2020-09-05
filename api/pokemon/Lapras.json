@@ -2,6 +2,10 @@
   {
     "species_name": "Lapras",
     "variant_name": "Lapras",
+    "types": [
+      "Water",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 130,
       "attack": 85,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 131,
-      "types": [
-        "Water",
-        "Ice"
-      ],
       "height": 2.5,
       "weight": 220.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Transport Pok\u00e9mon",
-      "flavor_text": "Crossing icy seas is no issue for this cold-resistant Pok\u00e9mon. Its smooth skin is a little cool to the touch.",
+      "kind": "Transport Pokémon",
+      "flavor_text": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
       "abilities": [
         "Water Absorb",
         "Shell Armor"
@@ -29,18 +29,18 @@
       "hidden_abilities": [
         "Hydration"
       ],
-      "regional_dex_nums": [
-        131,
-        219,
-        131,
-        224,
-        242,
-        150,
-        268,
-        353,
-        131,
-        361
-      ]
+      "regional_dex_nums": {
+        "rby": 131,
+        "gsc": 219,
+        "frlg": 131,
+        "hgss": 224,
+        "b2w2": 242,
+        "xy_coastal": 150,
+        "sm": 268,
+        "usum": 353,
+        "lets_go": 131,
+        "swsh": 361
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -313,6 +313,7 @@
           "Body Press"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Curse",

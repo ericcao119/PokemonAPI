@@ -2,6 +2,10 @@
   {
     "species_name": "Pidgey",
     "variant_name": "Pidgey",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 45,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 16,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.3,
       "weight": 1.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tiny Bird Pok\u00e9mon",
+      "kind": "Tiny Bird Pokémon",
       "flavor_text": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
       "abilities": [
         "Keen Eye",
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Big Pecks"
       ],
-      "regional_dex_nums": [
-        16,
-        10,
-        16,
-        10,
-        17,
-        16
-      ]
+      "regional_dex_nums": {
+        "rby": 16,
+        "gsc": 10,
+        "frlg": 16,
+        "hgss": 10,
+        "xy_central": 17,
+        "lets_go": 16
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -215,6 +215,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Air Cutter",
         "Air Slash",

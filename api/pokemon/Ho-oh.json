@@ -2,6 +2,10 @@
   {
     "species_name": "Ho-oh",
     "variant_name": "Ho-oh",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 106,
       "attack": 130,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 250,
-      "types": [
-        "Fire",
-        "Flying"
-      ],
       "height": 3.8,
       "weight": 199.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rainbow Pok\u00e9mon",
-      "flavor_text": "Ho-Oh\u2019s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pok\u00e9mon is said to live at the foot of a rainbow.",
+      "kind": "Rainbow Pokémon",
+      "flavor_text": "Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        248,
-        253
-      ]
+      "regional_dex_nums": {
+        "gsc": 248,
+        "hgss": 253
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -306,6 +306,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",

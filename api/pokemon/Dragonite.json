@@ -2,6 +2,10 @@
   {
     "species_name": "Dragonite",
     "variant_name": "Dragonite",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 91,
       "attack": 134,
@@ -12,32 +16,28 @@
     },
     "dex_entry": {
       "national_dex_num": 149,
-      "types": [
-        "Dragon",
-        "Flying"
-      ],
       "height": 2.2,
       "weight": 210.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dragon Pok\u00e9mon",
-      "flavor_text": "It is said that this Pok\u00e9mon lives somewhere in the sea and that it flies. However, these are only rumors.",
+      "kind": "Dragon Pokémon",
+      "flavor_text": "It is said that this Pokémon lives somewhere in the sea and that it flies. However, these are only rumors.",
       "abilities": [
         "Inner Focus"
       ],
       "hidden_abilities": [
         "Multiscale"
       ],
-      "regional_dex_nums": [
-        149,
-        243,
-        149,
-        248,
-        147,
-        283,
-        381,
-        149
-      ]
+      "regional_dex_nums": {
+        "rby": 149,
+        "gsc": 243,
+        "frlg": 149,
+        "hgss": 248,
+        "xy_mountain": 147,
+        "sm": 283,
+        "usum": 381,
+        "lets_go": 149
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -349,6 +349,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Wing Attack"
+      ],
       "egg_moves": [
         "Aqua Jet",
         "Dragon Breath",

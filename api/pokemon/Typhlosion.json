@@ -2,6 +2,9 @@
   {
     "species_name": "Typhlosion",
     "variant_name": "Typhlosion",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 84,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 157,
-      "types": [
-        "Fire"
-      ],
       "height": 1.7,
       "weight": 79.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Volcano Pok\u00e9mon",
-      "flavor_text": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pok\u00e9mon creates blazing explosive blasts that burn everything to cinders.",
+      "kind": "Volcano Pokémon",
+      "flavor_text": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
       "abilities": [
         "Blaze"
       ],
       "hidden_abilities": [
         "Flash Fire"
       ],
-      "regional_dex_nums": [
-        6,
-        6
-      ]
+      "regional_dex_nums": {
+        "gsc": 6,
+        "hgss": 6
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -293,6 +293,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Covet",
         "Crush Claw",

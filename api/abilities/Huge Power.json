@@ -1,4 +1,6 @@
 {
-  "name": "Huge Power",
-  "description": "Raises the Pok\u00e9mon's Attack stat."
+  "ability_name": "Huge Power",
+  "effect": "Raises the Pokémon's Attack stat.
+",
+  "description": "Doubles the Pokémon’s Attack stat."
 }

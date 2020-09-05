@@ -2,6 +2,10 @@
   {
     "species_name": "Shuckle",
     "variant_name": "Shuckle",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 20,
       "attack": 10,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 213,
-      "types": [
-        "Bug",
-        "Rock"
-      ],
       "height": 0.6,
       "weight": 20.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mold Pok\u00e9mon",
+      "kind": "Mold Pokémon",
       "flavor_text": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
       "abilities": [
         "Sturdy",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Contrary"
       ],
-      "regional_dex_nums": [
-        166,
-        168,
-        232,
-        14,
-        227
-      ]
+      "regional_dex_nums": {
+        "gsc": 166,
+        "hgss": 168,
+        "b2w2": 232,
+        "xy_mountain": 14,
+        "swsh": 227
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -262,6 +262,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid",
         "Acupressure",

@@ -2,6 +2,9 @@
   {
     "species_name": "Reuniclus",
     "variant_name": "Reuniclus",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 65,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 579,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.0,
       "weight": 20.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Multiplying Pok\u00e9mon",
-      "flavor_text": "It\u2019s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
+      "kind": "Multiplying Pokémon",
+      "flavor_text": "It’s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
       "abilities": [
         "Overcoat",
         "Magic Guard"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        85,
-        141,
-        117,
-        272
-      ]
+      "regional_dex_nums": {
+        "bw": 85,
+        "b2w2": 141,
+        "xy_coastal": 117,
+        "swsh": 272
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -304,6 +304,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Dizzy Punch"
+      ],
       "egg_moves": [
         "Acid Armor",
         "Astonish",

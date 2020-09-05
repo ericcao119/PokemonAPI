@@ -2,6 +2,10 @@
   {
     "species_name": "Ledian",
     "variant_name": "Ledian",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 35,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 166,
-      "types": [
-        "Bug",
-        "Flying"
-      ],
       "height": 1.4,
       "weight": 35.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Five Star Pok\u00e9mon",
+      "kind": "Five Star Pokémon",
       "flavor_text": "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you.",
       "abilities": [
         "Swarm",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Iron Fist"
       ],
-      "regional_dex_nums": [
-        31,
-        31,
-        75,
-        21,
-        21
-      ]
+      "regional_dex_nums": {
+        "gsc": 31,
+        "hgss": 31,
+        "xy_central": 75,
+        "sm": 21,
+        "usum": 21
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -254,6 +254,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bide",
         "Bug Bite",

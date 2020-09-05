@@ -2,6 +2,10 @@
   {
     "species_name": "Cutiefly",
     "variant_name": "Cutiefly",
+    "types": [
+      "Bug",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 45,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 742,
-      "types": [
-        "Bug",
-        "Fairy"
-      ],
       "height": 0.1,
       "weight": 0.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bee Fly Pok\u00e9mon",
-      "flavor_text": "An opponent\u2019s aura can tell Cutiefly what that opponent\u2019s next move will be. Then Cutiefly can glide around the attack and strike back.",
+      "kind": "Bee Fly Pokémon",
+      "flavor_text": "An opponent’s aura can tell Cutiefly what that opponent’s next move will be. Then Cutiefly can glide around the attack and strike back.",
       "abilities": [
         "Honey Gather",
         "Shield Dust"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Sweet Veil"
       ],
-      "regional_dex_nums": [
-        83,
-        98,
-        187
-      ]
+      "regional_dex_nums": {
+        "sm": 83,
+        "usum": 98,
+        "swsh": 187
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -254,6 +254,7 @@
           "Dazzling Gleam"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Aromatic Mist",
         "Moonblast",

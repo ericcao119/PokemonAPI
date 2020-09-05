@@ -1,4 +1,6 @@
 {
-  "name": "Dauntless Shield",
-  "description": "Boosts Defense in battle."
+  "ability_name": "Dauntless Shield",
+  "effect": "Boosts Defense in battle.
+",
+  "description": "Boosts the Pokémon’s Defense stat when the Pokémon enters a battle."
 }

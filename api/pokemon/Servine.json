@@ -2,6 +2,9 @@
   {
     "species_name": "Servine",
     "variant_name": "Servine",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 60,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 496,
-      "types": [
-        "Grass"
-      ],
       "height": 0.8,
       "weight": 16.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Grass Snake Pok\u00e9mon",
-      "flavor_text": "When it gets dirty, its leaves can\u2019t be used in photosynthesis, so it always keeps itself clean.",
+      "kind": "Grass Snake Pokémon",
+      "flavor_text": "When it gets dirty, its leaves can’t be used in photosynthesis, so it always keeps itself clean.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Contrary"
       ],
-      "regional_dex_nums": [
-        2,
-        2
-      ]
+      "regional_dex_nums": {
+        "bw": 2,
+        "b2w2": 2
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -246,6 +246,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Glare",

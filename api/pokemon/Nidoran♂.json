@@ -1,7 +1,10 @@
 [
   {
-    "species_name": "Nidoran\u2642",
-    "variant_name": "Nidoran\u2642",
+    "species_name": "Nidoran♂",
+    "variant_name": "Nidoran♂",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 46,
       "attack": 57,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 32,
-      "types": [
-        "Poison"
-      ],
       "height": 0.5,
       "weight": 9.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Pin Pok\u00e9mon",
+      "kind": "Poison Pin Pokémon",
       "flavor_text": "Its large ears are always kept upright. If it senses danger, it will attack with a poisonous sting.",
       "abilities": [
         "Poison Point",
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Hustle"
       ],
-      "regional_dex_nums": [
-        32,
-        98,
-        32,
-        98,
-        107,
-        32
-      ]
+      "regional_dex_nums": {
+        "rby": 32,
+        "gsc": 98,
+        "frlg": 32,
+        "hgss": 98,
+        "xy_coastal": 107,
+        "lets_go": 32
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -227,6 +227,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Beat Up",

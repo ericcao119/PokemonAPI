@@ -2,6 +2,9 @@
   {
     "species_name": "Alomomola",
     "variant_name": "Alomomola",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 165,
       "attack": 75,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 594,
-      "types": [
-        "Water"
-      ],
       "height": 1.2,
       "weight": 31.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Caring Pok\u00e9mon",
-      "flavor_text": "The reason it helps Pok\u00e9mon in a weakened condition is that any Pok\u00e9mon coming after them may also attack Alomomola.",
+      "kind": "Caring Pokémon",
+      "flavor_text": "The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola.",
       "abilities": [
         "Healer",
         "Hydration"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        100,
-        182,
-        149,
-        157,
-        191
-      ]
+      "regional_dex_nums": {
+        "bw": 100,
+        "b2w2": 182,
+        "xy_coastal": 149,
+        "sm": 157,
+        "usum": 191
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -266,6 +266,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Endure",
         "Mirror Coat",

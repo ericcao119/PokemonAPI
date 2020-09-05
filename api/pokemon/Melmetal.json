@@ -2,6 +2,9 @@
   {
     "species_name": "Melmetal",
     "variant_name": "Melmetal",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 135,
       "attack": 143,
@@ -12,22 +15,19 @@
     },
     "dex_entry": {
       "national_dex_num": 809,
-      "types": [
-        "Steel"
-      ],
       "height": 2.5,
       "weight": 800.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hex Nut Pok\u00e9mon",
-      "flavor_text": "Centrifugal force is behind the punches of Melmetal\u2019s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pok\u00e9mon.",
+      "kind": "Hex Nut Pokémon",
+      "flavor_text": "Centrifugal force is behind the punches of Melmetal’s heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
       "abilities": [
         "Iron Fist"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        153
-      ]
+      "regional_dex_nums": {
+        "lets_go": 153
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -47,7 +47,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -258,6 +258,9 @@
           99,
           "Body Press"
         ]
+      ],
+      "evolution_moves": [
+        "Thunder Punch"
       ],
       "egg_moves": [],
       "tutor_moves": [],

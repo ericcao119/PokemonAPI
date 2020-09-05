@@ -2,6 +2,9 @@
   {
     "species_name": "Eevee",
     "variant_name": "Eevee",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 55,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 133,
-      "types": [
-        "Normal"
-      ],
       "height": 0.3,
       "weight": 6.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Evolution Pok\u00e9mon",
-      "flavor_text": "Thanks to its unstable genetic makeup, this special Pok\u00e9mon conceals many different possible evolutions.",
+      "kind": "Evolution Pokémon",
+      "flavor_text": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
       "abilities": [
         "Run Away",
         "Adaptability"
@@ -28,19 +28,19 @@
       "hidden_abilities": [
         "Anticipation"
       ],
-      "regional_dex_nums": [
-        133,
-        180,
-        133,
-        163,
-        184,
-        91,
-        77,
-        123,
-        153,
-        133,
-        196
-      ]
+      "regional_dex_nums": {
+        "rby": 133,
+        "gsc": 180,
+        "frlg": 133,
+        "plat": 163,
+        "hgss": 184,
+        "b2w2": 91,
+        "xy_coastal": 77,
+        "sm": 123,
+        "usum": 153,
+        "lets_go": 133,
+        "swsh": 196
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -244,6 +244,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Curse",
         "Detect",
@@ -261,6 +262,9 @@
   {
     "species_name": "Eevee",
     "variant_name": "Partner Eevee",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 75,
@@ -271,30 +275,27 @@
     },
     "dex_entry": {
       "national_dex_num": 133,
-      "types": [
-        "Normal"
-      ],
       "height": 0.3,
       "weight": 6.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Evolution Pok\u00e9mon",
-      "flavor_text": "Thanks to its unstable genetic makeup, this special Pok\u00e9mon conceals many different possible evolutions.",
+      "kind": "Evolution Pokémon",
+      "flavor_text": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
       "abilities": [],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        133,
-        180,
-        133,
-        163,
-        184,
-        91,
-        77,
-        123,
-        153,
-        133,
-        196
-      ]
+      "regional_dex_nums": {
+        "rby": 133,
+        "gsc": 180,
+        "frlg": 133,
+        "plat": 163,
+        "hgss": 184,
+        "b2w2": 91,
+        "xy_coastal": 77,
+        "sm": 123,
+        "usum": 153,
+        "lets_go": 133,
+        "swsh": 196
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -496,6 +497,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Curse",
         "Detect",

@@ -1,4 +1,6 @@
 {
-  "name": "Grass Pelt",
-  "description": "Boosts the Defense stat in Grassy Terrain."
+  "ability_name": "Grass Pelt",
+  "effect": "Boosts the Defense stat in Grassy Terrain.
+",
+  "description": "Boosts the Pokémon’s Defense stat on Grassy Terrain."
 }

@@ -1,4 +1,6 @@
 {
-  "name": "Schooling",
-  "description": "Changes Wishiwashi to School Form."
+  "ability_name": "Schooling",
+  "effect": "Schooling changes Wishiwashi into its School Form, if its HP is above 25% and Wishiwashi is at least level 20. If its HP falls below 25%, Wishiwashi will revert back to Solo Form.
+Schooling cannot be removed or replaced via moves like Skill Swap or the Mummy ability.",
+  "description": "When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
 }

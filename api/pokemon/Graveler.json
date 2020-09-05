@@ -2,6 +2,10 @@
   {
     "species_name": "Graveler",
     "variant_name": "Graveler",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 95,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 75,
-      "types": [
-        "Rock",
-        "Ground"
-      ],
       "height": 1.0,
       "weight": 105.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rock Pok\u00e9mon",
+      "kind": "Rock Pokémon",
       "flavor_text": "Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",
       "abilities": [
         "Rock Head",
@@ -29,20 +29,20 @@
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        75,
-        35,
-        58,
-        75,
-        32,
-        32,
-        35,
-        10,
-        59,
-        230,
-        299,
-        75
-      ]
+      "regional_dex_nums": {
+        "rby": 75,
+        "gsc": 35,
+        "rse": 58,
+        "frlg": 75,
+        "dp": 32,
+        "plat": 32,
+        "hgss": 35,
+        "xy_mountain": 10,
+        "oras": 59,
+        "sm": 230,
+        "usum": 299,
+        "lets_go": 75
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -71,6 +71,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -79,6 +80,10 @@
   {
     "species_name": "Graveler",
     "variant_name": "Alolan Graveler",
+    "types": [
+      "Rock",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 95,
@@ -89,15 +94,11 @@
     },
     "dex_entry": {
       "national_dex_num": 75,
-      "types": [
-        "Rock",
-        "Electric"
-      ],
       "height": 1.0,
       "weight": 110.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rock Pok\u00e9mon",
+      "kind": "Rock Pokémon",
       "flavor_text": "When it comes rolling down a mountain path, anything in its way gets zapped by electricity and sent flying.",
       "abilities": [
         "Magnet Pull",
@@ -106,20 +107,20 @@
       "hidden_abilities": [
         "Galvanize"
       ],
-      "regional_dex_nums": [
-        75,
-        35,
-        58,
-        75,
-        32,
-        32,
-        35,
-        10,
-        59,
-        230,
-        299,
-        75
-      ]
+      "regional_dex_nums": {
+        "rby": 75,
+        "gsc": 35,
+        "rse": 58,
+        "frlg": 75,
+        "dp": 32,
+        "plat": 32,
+        "hgss": 35,
+        "xy_mountain": 10,
+        "oras": 59,
+        "sm": 230,
+        "usum": 299,
+        "lets_go": 75
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -148,6 +149,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

@@ -2,6 +2,10 @@
   {
     "species_name": "Lairon",
     "variant_name": "Lairon",
+    "types": [
+      "Steel",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 90,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 305,
-      "types": [
-        "Steel",
-        "Rock"
-      ],
       "height": 0.9,
       "weight": 120.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Armor Pok\u00e9mon",
-      "flavor_text": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pok\u00e9mon often clashes with humans mining the iron ore.",
+      "kind": "Iron Armor Pokémon",
+      "flavor_text": "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pokémon often clashes with humans mining the iron ore.",
       "abilities": [
         "Sturdy",
         "Rock Head"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Heavy Metal"
       ],
-      "regional_dex_nums": [
-        71,
-        167,
-        100,
-        73
-      ]
+      "regional_dex_nums": {
+        "rse": 71,
+        "b2w2": 167,
+        "xy_mountain": 100,
+        "oras": 73
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -249,6 +249,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Curse",

@@ -2,6 +2,10 @@
   {
     "species_name": "Nincada",
     "variant_name": "Nincada",
+    "types": [
+      "Bug",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 31,
       "attack": 45,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 290,
-      "types": [
-        "Bug",
-        "Ground"
-      ],
       "height": 0.5,
       "weight": 5.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Trainee Pok\u00e9mon",
+      "kind": "Trainee Pokémon",
       "flavor_text": "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees.",
       "abilities": [
         "Compound Eyes"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Run Away"
       ],
-      "regional_dex_nums": [
-        42,
-        111,
-        43,
-        104
-      ]
+      "regional_dex_nums": {
+        "rse": 42,
+        "xy_central": 111,
+        "oras": 43,
+        "swsh": 104
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -192,6 +192,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bug Bite",
         "Bug Buzz",

@@ -2,6 +2,9 @@
   {
     "species_name": "Klang",
     "variant_name": "Klang",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 80,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 600,
-      "types": [
-        "Steel"
-      ],
       "height": 0.6,
       "weight": 51.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gear Pok\u00e9mon",
-      "flavor_text": "Many companies in the Galar region choose Klang as their logo. This Pok\u00e9mon is considered the symbol of industrial technology.",
+      "kind": "Gear Pokémon",
+      "flavor_text": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.",
       "abilities": [
         "Plus",
         "Minus"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Clear Body"
       ],
-      "regional_dex_nums": [
-        106,
-        131,
-        114
-      ]
+      "regional_dex_nums": {
+        "bw": 106,
+        "b2w2": 131,
+        "swsh": 114
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -52,7 +52,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -223,6 +223,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

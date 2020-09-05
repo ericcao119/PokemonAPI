@@ -2,6 +2,9 @@
   {
     "species_name": "Cubchoo",
     "variant_name": "Cubchoo",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 70,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 613,
-      "types": [
-        "Ice"
-      ],
       "height": 0.5,
       "weight": 8.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Chill Pok\u00e9mon",
+      "kind": "Chill Pokémon",
       "flavor_text": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
       "abilities": [
         "Snow Cloak",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        119,
-        195,
-        81,
-        279
-      ]
+      "regional_dex_nums": {
+        "bw": 119,
+        "b2w2": 195,
+        "xy_mountain": 81,
+        "swsh": 279
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -232,6 +232,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assurance",
         "Avalanche",

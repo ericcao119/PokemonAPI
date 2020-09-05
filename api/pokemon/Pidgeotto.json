@@ -2,6 +2,10 @@
   {
     "species_name": "Pidgeotto",
     "variant_name": "Pidgeotto",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 63,
       "attack": 60,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 17,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 1.1,
       "weight": 30.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bird Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is full of vitality. It constantly flies around its large territory in search of prey.",
+      "kind": "Bird Pokémon",
+      "flavor_text": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
       "abilities": [
         "Keen Eye",
         "Tangled Feet"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Big Pecks"
       ],
-      "regional_dex_nums": [
-        17,
-        11,
-        17,
-        11,
-        18,
-        17
-      ]
+      "regional_dex_nums": {
+        "rby": 17,
+        "gsc": 11,
+        "frlg": 17,
+        "hgss": 11,
+        "xy_central": 18,
+        "lets_go": 17
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -223,6 +223,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Air Cutter",
         "Air Slash",

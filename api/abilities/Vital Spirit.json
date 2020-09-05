@@ -1,4 +1,6 @@
 {
-  "name": "Vital Spirit",
-  "description": "Prevents the Pok\u00e9mon from falling asleep."
+  "ability_name": "Vital Spirit",
+  "effect": "Vital Spirit prevents the ability-bearer from falling asleep. This means that it also prevents the use of the move Rest.
+If a Pokémon with Vital Spirit is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level.",
+  "description": "The Pokémon is full of vitality, and that prevents it from falling asleep."
 }

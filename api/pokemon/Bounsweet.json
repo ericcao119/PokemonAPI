@@ -2,6 +2,9 @@
   {
     "species_name": "Bounsweet",
     "variant_name": "Bounsweet",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 42,
       "attack": 30,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 761,
-      "types": [
-        "Grass"
-      ],
       "height": 0.3,
       "weight": 3.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fruit Pok\u00e9mon",
+      "kind": "Fruit Pokémon",
       "flavor_text": "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it.",
       "abilities": [
         "Leaf Guard",
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Sweet Veil"
       ],
-      "regional_dex_nums": [
-        171,
-        207,
-        52
-      ]
+      "regional_dex_nums": {
+        "sm": 171,
+        "usum": 207,
+        "swsh": 52
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -208,6 +208,7 @@
           "Dazzling Gleam"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Acupressure",
         "Endeavor",

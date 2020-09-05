@@ -2,6 +2,9 @@
   {
     "species_name": "Samurott",
     "variant_name": "Samurott",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 100,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 503,
-      "types": [
-        "Water"
-      ],
       "height": 1.5,
       "weight": 94.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Formidable Pok\u00e9mon",
+      "kind": "Formidable Pokémon",
       "flavor_text": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
       "abilities": [
         "Torrent"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Shell Armor"
       ],
-      "regional_dex_nums": [
-        9,
-        9
-      ]
+      "regional_dex_nums": {
+        "bw": 9,
+        "b2w2": 9
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -273,6 +273,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Slash"
+      ],
       "egg_moves": [
         "Air Slash",
         "Assurance",

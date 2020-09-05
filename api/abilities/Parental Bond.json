@@ -1,4 +1,7 @@
 {
-  "name": "Parental Bond",
-  "description": "Allows the Pok\u00e9mon to attack twice."
+  "ability_name": "Parental Bond",
+  "effect": "Parental Bond allows the ability-bearer to attack twice. The second attack hits with 25% of the power, so in effect it is equivalent to a 25% boost to all attacks.
+Parental Bond is the signature ability of Mega Kangaskhan. When the ability is in use, the mother and child each attack.
+In Generation 6, the second attack of Parental Bond hits with 50% power of the first.",
+  "description": "Parent and child each attacks."
 }

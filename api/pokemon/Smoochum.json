@@ -2,6 +2,10 @@
   {
     "species_name": "Smoochum",
     "variant_name": "Smoochum",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 30,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 238,
-      "types": [
-        "Ice",
-        "Psychic"
-      ],
       "height": 0.4,
       "weight": 6.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Kiss Pok\u00e9mon",
-      "flavor_text": "Highly perceptive sensors, Smoochum\u2019s lips are kept moist by its daily application of tree sap.",
+      "kind": "Kiss Pokémon",
+      "flavor_text": "Highly perceptive sensors, Smoochum’s lips are kept moist by its daily application of tree sap.",
       "abilities": [
         "Oblivious",
         "Forewarn"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Hydration"
       ],
-      "regional_dex_nums": [
-        152,
-        154,
-        83,
-        109
-      ]
+      "regional_dex_nums": {
+        "gsc": 152,
+        "hgss": 154,
+        "xy_mountain": 83,
+        "usum": 109
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -261,6 +261,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Fake Out",

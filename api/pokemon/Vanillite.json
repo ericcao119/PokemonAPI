@@ -2,6 +2,9 @@
   {
     "species_name": "Vanillite",
     "variant_name": "Vanillite",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 36,
       "attack": 50,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 582,
-      "types": [
-        "Ice"
-      ],
       "height": 0.4,
       "weight": 5.7,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fresh Snow Pok\u00e9mon",
-      "flavor_text": "Supposedly, this Pok\u00e9mon was born from an icicle. It spews out freezing air at \u221258 degrees Fahrenheit to make itself more comfortable.",
+      "kind": "Fresh Snow Pokémon",
+      "flavor_text": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
       "abilities": [
         "Ice Body",
         "Snow Cloak"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        88,
-        255,
-        85,
-        255,
-        332,
-        72
-      ]
+      "regional_dex_nums": {
+        "bw": 88,
+        "b2w2": 255,
+        "xy_mountain": 85,
+        "sm": 255,
+        "usum": 332,
+        "swsh": 72
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -218,6 +218,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Autotomize",
         "Ice Shard",

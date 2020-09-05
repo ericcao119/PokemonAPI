@@ -2,6 +2,9 @@
   {
     "species_name": "Pachirisu",
     "variant_name": "Pachirisu",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 45,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 417,
-      "types": [
-        "Electric"
-      ],
       "height": 0.4,
       "weight": 3.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "EleSquirrel Pok\u00e9mon",
+      "kind": "EleSquirrel Pokémon",
       "flavor_text": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
       "abilities": [
         "Run Away",
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Volt Absorb"
       ],
-      "regional_dex_nums": [
-        55,
-        55,
-        132
-      ]
+      "regional_dex_nums": {
+        "dp": 55,
+        "plat": 55,
+        "xy_coastal": 132
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -224,6 +224,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baby-Doll Eyes",
         "Bestow",

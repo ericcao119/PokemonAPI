@@ -2,6 +2,9 @@
   {
     "species_name": "Cranidos",
     "variant_name": "Cranidos",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 67,
       "attack": 125,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 408,
-      "types": [
-        "Rock"
-      ],
       "height": 0.9,
       "weight": 31.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Head Butt Pok\u00e9mon",
+      "kind": "Head Butt Pokémon",
       "flavor_text": "Its hard skull is its distinguishing feature. It snapped trees by headbutting them, and then it fed on their ripe berries.",
       "abilities": [
         "Mold Breaker"
@@ -27,12 +27,12 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        36,
-        36,
-        188,
-        235
-      ]
+      "regional_dex_nums": {
+        "dp": 36,
+        "plat": 36,
+        "sm": 188,
+        "usum": 235
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -251,6 +251,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Crunch",
         "Curse",

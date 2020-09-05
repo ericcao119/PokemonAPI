@@ -1,4 +1,6 @@
 {
-  "name": "Clear Body",
-  "description": "Prevents other Pok\u00e9mon from lowering its stats."
+  "ability_name": "Clear Body",
+  "effect": "Prevents other Pokémon from lowering its stats.
+",
+  "description": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats."
 }

@@ -2,6 +2,9 @@
   {
     "species_name": "Espeon",
     "variant_name": "Espeon",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 196,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.9,
       "weight": 26.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sun Pok\u00e9mon",
+      "kind": "Sun Pokémon",
       "flavor_text": "It unleashes psychic power from the orb on its forehead. When its power is exhausted, the orb grows dull and dark.",
       "abilities": [
         "Synchronize"
@@ -27,16 +27,16 @@
       "hidden_abilities": [
         "Magic Bounce"
       ],
-      "regional_dex_nums": [
-        184,
-        167,
-        188,
-        95,
-        81,
-        127,
-        157,
-        200
-      ]
+      "regional_dex_nums": {
+        "gsc": 184,
+        "plat": 167,
+        "hgss": 188,
+        "b2w2": 95,
+        "xy_coastal": 81,
+        "sm": 127,
+        "usum": 157,
+        "swsh": 200
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -251,6 +251,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Confusion"
+      ],
       "egg_moves": [
         "Captivate",
         "Charm",

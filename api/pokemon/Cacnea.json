@@ -2,6 +2,9 @@
   {
     "species_name": "Cacnea",
     "variant_name": "Cacnea",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 85,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 331,
-      "types": [
-        "Grass"
-      ],
       "height": 0.4,
       "weight": 51.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cactus Pok\u00e9mon",
-      "flavor_text": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pok\u00e9mon battles by wildly swinging its thorny arms.",
+      "kind": "Cactus Pokémon",
+      "flavor_text": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pokémon battles by wildly swinging its thorny arms.",
       "abilities": [
         "Sand Veil"
       ],
       "hidden_abilities": [
         "Water Absorb"
       ],
-      "regional_dex_nums": [
-        119,
-        124
-      ]
+      "regional_dex_nums": {
+        "rse": 119,
+        "oras": 124
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -238,6 +238,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid",
         "Belch",

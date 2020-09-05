@@ -2,6 +2,9 @@
   {
     "species_name": "Thwackey",
     "variant_name": "Thwackey",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 85,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 811,
-      "types": [
-        "Grass"
-      ],
       "height": 0.7,
       "weight": 14.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Beat Pok\u00e9mon",
-      "flavor_text": "When it\u2019s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won\u2019t even notice that it\u2019s already knocked out its opponent.",
+      "kind": "Beat Pokémon",
+      "flavor_text": "When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Grassy Surge"
       ],
-      "regional_dex_nums": [
-        2
-      ]
+      "regional_dex_nums": {
+        "swsh": 2
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
         "Field",
         "Grass"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -238,7 +238,18 @@
           "Work Up"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Double Hit"
+      ],
+      "egg_moves": [
+        "Fake Out",
+        "Growth",
+        "Hammer Arm",
+        "Leech Seed",
+        "Nature Power",
+        "Strength",
+        "Worry Seed"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

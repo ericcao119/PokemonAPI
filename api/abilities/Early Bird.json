@@ -1,4 +1,6 @@
 {
-  "name": "Early Bird",
-  "description": "The Pok\u00e9mon awakens quickly from sleep."
+  "ability_name": "Early Bird",
+  "effect": "The Pokémon awakens quickly from sleep.
+",
+  "description": "The Pokémon awakens from sleep twice as fast as other Pokémon."
 }

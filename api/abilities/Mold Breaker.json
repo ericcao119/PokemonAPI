@@ -1,4 +1,7 @@
 {
-  "name": "Mold Breaker",
-  "description": "Moves can be used regardless of Abilities."
+  "ability_name": "Mold Breaker",
+  "effect": "Mold Breaker prevents a target's ability from affecting moves that the Mold Breaker Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves.
+For example, a Haxorus with Mold Breaker would be able to hit a Gengar (having Levitate) using a Ground type move like Earthquake. Ground type moves would still not affect Flying types.
+However, if Dragon Claw KOs a Pokémon with Aftermath, a Mold Breaker Pokémon would still lose HP as Aftermath did not affect the Dragon Claw attack itself.",
+  "description": "Moves can be used on the target regardless of its Abilities."
 }

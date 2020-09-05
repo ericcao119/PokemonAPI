@@ -1,4 +1,5 @@
 {
-  "name": "Fur Coat",
-  "description": "Reduces damage from physical moves."
+  "ability_name": "Fur Coat",
+  "effect": "Fur Coat reduces damage taken from physical attacks by 50%.",
+  "description": "Halves the damage from physical moves."
 }

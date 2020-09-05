@@ -2,6 +2,10 @@
   {
     "species_name": "Cramorant",
     "variant_name": "Cramorant",
+    "types": [
+      "Flying",
+      "Water"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 85,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 845,
-      "types": [
-        "Flying",
-        "Water"
-      ],
       "height": 0.8,
       "weight": 18.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gulp Pok\u00e9mon",
-      "flavor_text": "This hungry Pok\u00e9mon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pok\u00e9mon other than its preferred prey.",
+      "kind": "Gulp Pokémon",
+      "flavor_text": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
       "abilities": [
         "Gulp Missile"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        309
-      ]
+      "regional_dex_nums": {
+        "swsh": 309
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -49,7 +49,7 @@
         "Flying",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -253,6 +253,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Aerial Ace",
         "Aqua Ring",

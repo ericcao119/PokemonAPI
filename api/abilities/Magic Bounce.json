@@ -1,4 +1,6 @@
 {
-  "name": "Magic Bounce",
-  "description": "Reflects status- changing moves."
+  "ability_name": "Magic Bounce",
+  "effect": "Reflects status- changing moves.
+",
+  "description": "Reflects status moves instead of getting hit by them."
 }

@@ -2,6 +2,9 @@
   {
     "species_name": "Shroomish",
     "variant_name": "Shroomish",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 40,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 285,
-      "types": [
-        "Grass"
-      ],
       "height": 0.4,
       "weight": 4.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mushroom Pok\u00e9mon",
-      "flavor_text": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pok\u00e9mon\u2019s spores are so toxic, they make trees and weeds wilt.",
+      "kind": "Mushroom Pokémon",
+      "flavor_text": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt.",
       "abilities": [
         "Effect Spore",
         "Poison Heal"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Quick Feet"
       ],
-      "regional_dex_nums": [
-        34,
-        35
-      ]
+      "regional_dex_nums": {
+        "rse": 34,
+        "oras": 35
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -207,6 +207,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bullet Seed",
         "Charm",

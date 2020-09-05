@@ -1,4 +1,6 @@
 {
-  "name": "Gale Wings",
-  "description": "Gives priority to Flying-type moves."
+  "ability_name": "Gale Wings",
+  "effect": "Gives priority to Flying-type moves.
+",
+  "description": "Gives priority to Flying-type moves when the Pokémon’s HP is full."
 }

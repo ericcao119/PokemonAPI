@@ -2,6 +2,9 @@
   {
     "species_name": "Zebstrika",
     "variant_name": "Zebstrika",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 100,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 523,
-      "types": [
-        "Electric"
-      ],
       "height": 1.6,
       "weight": 79.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Thunderbolt Pok\u00e9mon",
+      "kind": "Thunderbolt Pokémon",
       "flavor_text": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
       "abilities": [
         "Lightning Rod",
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Sap Sipper"
       ],
-      "regional_dex_nums": [
-        29,
-        148
-      ]
+      "regional_dex_nums": {
+        "bw": 29,
+        "b2w2": 148
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -238,6 +238,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Double Kick",
         "Double-Edge",

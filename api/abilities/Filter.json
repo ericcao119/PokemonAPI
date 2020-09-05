@@ -1,4 +1,6 @@
 {
-  "name": "Filter",
-  "description": "Reduces damage from super-effective attacks."
+  "ability_name": "Filter",
+  "effect": "Filter reduces the damage taken from super-effective attacks by 25%.
+For example, a Dark-type move used against a Psychic-type Pokémon with Filter would deal 1.5× the usual damage instead of 2×. A double weakness would be reduced from 4× to 3×.",
+  "description": "Reduces the power of supereffective attacks taken."
 }

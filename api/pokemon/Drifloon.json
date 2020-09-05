@@ -2,6 +2,10 @@
   {
     "species_name": "Drifloon",
     "variant_name": "Drifloon",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 50,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 425,
-      "types": [
-        "Ghost",
-        "Flying"
-      ],
       "height": 0.4,
       "weight": 1.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Balloon Pok\u00e9mon",
-      "flavor_text": "The gathering of many souls gave rise to this Pok\u00e9mon. During humid seasons, they seem to appear in abundance.",
+      "kind": "Balloon Pokémon",
+      "flavor_text": "The gathering of many souls gave rise to this Pokémon. During humid seasons, they seem to appear in abundance.",
       "abilities": [
         "Aftermath",
         "Unburden"
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Flare Boost"
       ],
-      "regional_dex_nums": [
-        65,
-        65,
-        208,
-        1,
-        64,
-        76,
-        124
-      ]
+      "regional_dex_nums": {
+        "dp": 65,
+        "plat": 65,
+        "b2w2": 208,
+        "xy_coastal": 1,
+        "sm": 64,
+        "usum": 76,
+        "swsh": 124
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -256,6 +256,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Clear Smog",

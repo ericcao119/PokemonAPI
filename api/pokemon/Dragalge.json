@@ -2,6 +2,10 @@
   {
     "species_name": "Dragalge",
     "variant_name": "Dragalge",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 75,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 691,
-      "types": [
-        "Poison",
-        "Dragon"
-      ],
       "height": 1.8,
       "weight": 81.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mock Kelp Pok\u00e9mon",
+      "kind": "Mock Kelp Pokémon",
       "flavor_text": "It blends in with seaweed to ambush its prey and then takes them down with a poisonous liquid strong enough to melt metal.",
       "abilities": [
         "Poison Point",
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Adaptability"
       ],
-      "regional_dex_nums": [
-        31,
-        348
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 31,
+        "usum": 348
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -260,6 +260,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Twister"
+      ],
       "egg_moves": [
         "Acid Armor",
         "Haze",

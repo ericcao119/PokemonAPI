@@ -2,6 +2,10 @@
   {
     "species_name": "Mantyke",
     "variant_name": "Mantyke",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 20,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 458,
-      "types": [
-        "Water",
-        "Flying"
-      ],
       "height": 1.0,
       "weight": 65.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Kite Pok\u00e9mon",
-      "flavor_text": "It swims along with a school of Remoraid, and they\u2019ll all fight together to repel attackers.",
+      "kind": "Kite Pokémon",
+      "flavor_text": "It swims along with a school of Remoraid, and they’ll all fight together to repel attackers.",
       "abilities": [
         "Swift Swim",
         "Water Absorb"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Water Veil"
       ],
-      "regional_dex_nums": [
-        140,
-        140,
-        233,
-        139,
-        145,
-        354
-      ]
+      "regional_dex_nums": {
+        "dp": 140,
+        "plat": 140,
+        "b2w2": 233,
+        "xy_coastal": 139,
+        "usum": 145,
+        "swsh": 354
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -231,6 +231,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Haze",

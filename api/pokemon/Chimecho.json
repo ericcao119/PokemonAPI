@@ -2,6 +2,9 @@
   {
     "species_name": "Chimecho",
     "variant_name": "Chimecho",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 50,
@@ -12,26 +15,23 @@
     },
     "dex_entry": {
       "national_dex_num": 358,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.6,
       "weight": 1.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wind Chime Pok\u00e9mon",
-      "flavor_text": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pok\u00e9mon plucks berries with its long tail and eats them.",
+      "kind": "Wind Chime Pokémon",
+      "flavor_text": "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        151,
-        83,
-        83,
-        112,
-        158
-      ]
+      "regional_dex_nums": {
+        "rse": 151,
+        "dp": 83,
+        "plat": 83,
+        "xy_coastal": 112,
+        "oras": 158
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -278,6 +278,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Cosmic Power",
         "Crafty Shield",

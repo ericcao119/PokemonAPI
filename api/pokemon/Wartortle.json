@@ -2,6 +2,9 @@
   {
     "species_name": "Wartortle",
     "variant_name": "Wartortle",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 59,
       "attack": 63,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 8,
-      "types": [
-        "Water"
-      ],
       "height": 1.0,
       "weight": 22.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Turtle Pok\u00e9mon",
+      "kind": "Turtle Pokémon",
       "flavor_text": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
       "abilities": [
         "Torrent"
@@ -27,14 +27,14 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        8,
-        233,
-        8,
-        238,
-        87,
-        8
-      ]
+      "regional_dex_nums": {
+        "rby": 8,
+        "gsc": 233,
+        "frlg": 8,
+        "hgss": 238,
+        "xy_central": 87,
+        "lets_go": 8
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -283,7 +283,19 @@
           "Work Up"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Aqua Jet",
+        "Aqua Ring",
+        "Fake Out",
+        "Flail",
+        "Haze",
+        "Life Dew",
+        "Mirror Coat",
+        "Mist",
+        "Water Spout",
+        "Yawn"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

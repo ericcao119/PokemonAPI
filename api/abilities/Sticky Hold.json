@@ -1,4 +1,6 @@
 {
-  "name": "Sticky Hold",
-  "description": "Protects the Pok\u00e9mon from item theft."
+  "ability_name": "Sticky Hold",
+  "effect": "Sticky Hold prevents held items from being taken or switched.
+If a Pokémon with Sticky Hold is the leading party Pokémon, the chance of hooking a Pokémon during fishing increases.",
+  "description": "Items held by the Pokémon are stuck fast and cannot be removed by other Pokémon."
 }

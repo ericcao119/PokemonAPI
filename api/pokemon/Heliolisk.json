@@ -2,6 +2,10 @@
   {
     "species_name": "Heliolisk",
     "variant_name": "Heliolisk",
+    "types": [
+      "Electric",
+      "Normal"
+    ],
     "base_stats": {
       "hp": 62,
       "attack": 55,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 695,
-      "types": [
-        "Electric",
-        "Normal"
-      ],
       "height": 1.0,
       "weight": 21.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Generator Pok\u00e9mon",
+      "kind": "Generator Pokémon",
       "flavor_text": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.",
       "abilities": [
         "Dry Skin",
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Solar Power"
       ],
-      "regional_dex_nums": [
-        47,
-        319
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 47,
+        "swsh": 319
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -240,6 +240,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Camouflage",

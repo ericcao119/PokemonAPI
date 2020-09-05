@@ -1,4 +1,5 @@
 {
-  "name": "Heatproof",
-  "description": "Weakens the power of Fire-type moves."
+  "ability_name": "Heatproof",
+  "effect": "Heatproof reduces the damage taken from Fire-type moves by 50%. It also halves the damage from a burn, from 1⁄8 to 1⁄16 of the Pokémon's maximum HP.",
+  "description": "The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it."
 }

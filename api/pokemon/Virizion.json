@@ -2,6 +2,10 @@
   {
     "species_name": "Virizion",
     "variant_name": "Virizion",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 91,
       "attack": 90,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 640,
-      "types": [
-        "Grass",
-        "Fighting"
-      ],
       "height": 2.0,
       "weight": 200.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Grassland Pok\u00e9mon",
+      "kind": "Grassland Pokémon",
       "flavor_text": "It darts around opponents with a flurry of quick movements, slicing them up with its horns.",
       "abilities": [
         "Justified"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        146,
-        227
-      ]
+      "regional_dex_nums": {
+        "bw": 146,
+        "b2w2": 227
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Block",

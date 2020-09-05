@@ -2,6 +2,10 @@
   {
     "species_name": "Joltik",
     "variant_name": "Joltik",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 47,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 595,
-      "types": [
-        "Bug",
-        "Electric"
-      ],
       "height": 0.1,
       "weight": 0.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Attaching Pok\u00e9mon",
-      "flavor_text": "Joltik latch on to other Pok\u00e9mon and suck out static electricity. They\u2019re often found sticking to Yamper\u2019s hindquarters.",
+      "kind": "Attaching Pokémon",
+      "flavor_text": "Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters.",
       "abilities": [
         "Compound Eyes",
         "Unnerve"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Swarm"
       ],
-      "regional_dex_nums": [
-        101,
-        173,
-        64
-      ]
+      "regional_dex_nums": {
+        "bw": 101,
+        "b2w2": 173,
+        "swsh": 64
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -236,6 +236,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Camouflage",
         "Cross Poison",

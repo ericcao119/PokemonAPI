@@ -2,6 +2,10 @@
   {
     "species_name": "Beldum",
     "variant_name": "Beldum",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 55,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 374,
-      "types": [
-        "Steel",
-        "Psychic"
-      ],
       "height": 0.6,
       "weight": 95.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Ball Pok\u00e9mon",
+      "kind": "Iron Ball Pokémon",
       "flavor_text": "If you anger it, it will do more than rampage. It will also burst out strong magnetism, causing nearby machines to break.",
       "abilities": [
         "Clear Body"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Light Metal"
       ],
-      "regional_dex_nums": [
-        190,
-        262,
-        199,
-        214,
-        278
-      ]
+      "regional_dex_nums": {
+        "rse": 190,
+        "b2w2": 262,
+        "oras": 199,
+        "sm": 214,
+        "usum": 278
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -54,7 +54,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -68,6 +68,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Iron Defense",

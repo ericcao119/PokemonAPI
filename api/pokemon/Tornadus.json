@@ -2,6 +2,9 @@
   {
     "species_name": "Tornadus",
     "variant_name": "Incarnate Forme",
+    "types": [
+      "Flying"
+    ],
     "base_stats": {
       "hp": 79,
       "attack": 115,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 641,
-      "types": [
-        "Flying"
-      ],
       "height": 1.5,
       "weight": 63.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cyclone Pok\u00e9mon",
+      "kind": "Cyclone Pokémon",
       "flavor_text": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
       "abilities": [
         "Prankster"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Defiant"
       ],
-      "regional_dex_nums": [
-        147,
-        198
-      ]
+      "regional_dex_nums": {
+        "bw": 147,
+        "b2w2": 198
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -293,6 +293,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",
@@ -318,6 +319,9 @@
   {
     "species_name": "Tornadus",
     "variant_name": "Therian Forme",
+    "types": [
+      "Flying"
+    ],
     "base_stats": {
       "hp": 79,
       "attack": 100,
@@ -328,23 +332,20 @@
     },
     "dex_entry": {
       "national_dex_num": 641,
-      "types": [
-        "Flying"
-      ],
       "height": 1.4,
       "weight": 63.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cyclone Pok\u00e9mon",
+      "kind": "Cyclone Pokémon",
       "flavor_text": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
       "abilities": [
         "Regenerator"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        147,
-        198
-      ]
+      "regional_dex_nums": {
+        "bw": 147,
+        "b2w2": 198
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -607,6 +608,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",

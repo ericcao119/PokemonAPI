@@ -1,4 +1,6 @@
 {
-  "name": "Skill Link",
-  "description": "Increases the frequency of multi-strike moves."
+  "ability_name": "Skill Link",
+  "effect": "Skill Link causes multi-strike moves to always hit their maximum number of times. The moves affected are listed below; note that moves such as Double Kick that always strike the same number of times are not affected.
+In Generation 4, Triple Kick is not affected by Skill Link.",
+  "description": "Maximizes the number of times multistrike moves hit."
 }

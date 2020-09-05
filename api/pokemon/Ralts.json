@@ -2,6 +2,10 @@
   {
     "species_name": "Ralts",
     "variant_name": "Ralts",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 28,
       "attack": 25,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 280,
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
       "height": 0.4,
       "weight": 6.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Feeling Pok\u00e9mon",
-      "flavor_text": "If its horns capture the warm feelings of people or Pok\u00e9mon, its body warms up slightly.",
+      "kind": "Feeling Pokémon",
+      "flavor_text": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
       "abilities": [
         "Synchronize",
         "Trace"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        29,
-        157,
-        64,
-        29,
-        120
-      ]
+      "regional_dex_nums": {
+        "rse": 29,
+        "plat": 157,
+        "xy_central": 64,
+        "oras": 29,
+        "swsh": 120
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -283,6 +283,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Confuse Ray",

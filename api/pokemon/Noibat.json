@@ -2,6 +2,10 @@
   {
     "species_name": "Noibat",
     "variant_name": "Noibat",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 30,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 714,
-      "types": [
-        "Flying",
-        "Dragon"
-      ],
       "height": 0.5,
       "weight": 8.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sound Wave Pok\u00e9mon",
-      "flavor_text": "No wavelength of sound is beyond Noibat\u2019s ability to produce. The ultrasonic waves it generates can overcome much larger Pok\u00e9mon.",
+      "kind": "Sound Wave Pokémon",
+      "flavor_text": "No wavelength of sound is beyond Noibat’s ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon.",
       "abilities": [
         "Frisk",
         "Infiltrator"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        113,
-        83,
-        176
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 113,
+        "usum": 83,
+        "swsh": 176
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -269,6 +269,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Outrage",
         "Snatch",

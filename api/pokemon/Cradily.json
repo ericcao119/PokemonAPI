@@ -2,6 +2,10 @@
   {
     "species_name": "Cradily",
     "variant_name": "Cradily",
+    "types": [
+      "Rock",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 86,
       "attack": 81,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 346,
-      "types": [
-        "Rock",
-        "Grass"
-      ],
       "height": 1.5,
       "weight": 60.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Barnacle Pok\u00e9mon",
-      "flavor_text": "This carnivorous Pok\u00e9mon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
+      "kind": "Barnacle Pokémon",
+      "flavor_text": "This carnivorous Pokémon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
       "abilities": [
         "Suction Cups"
       ],
       "hidden_abilities": [
         "Storm Drain"
       ],
-      "regional_dex_nums": [
-        134,
-        139,
-        232
-      ]
+      "regional_dex_nums": {
+        "rse": 134,
+        "oras": 139,
+        "usum": 232
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -263,6 +263,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Barrier",
         "Curse",

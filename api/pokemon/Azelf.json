@@ -2,6 +2,9 @@
   {
     "species_name": "Azelf",
     "variant_name": "Azelf",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 125,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 482,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.3,
       "weight": 0.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Willpower Pok\u00e9mon",
+      "kind": "Willpower Pokémon",
       "flavor_text": "It is thought that Uxie, Mesprit, and Azelf all came from the same egg.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        148,
-        148
-      ]
+      "regional_dex_nums": {
+        "dp": 148,
+        "plat": 148
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -291,6 +291,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

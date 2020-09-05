@@ -2,6 +2,10 @@
   {
     "species_name": "Toxtricity",
     "variant_name": "Low Key Form",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 98,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 849,
-      "types": [
-        "Electric",
-        "Poison"
-      ],
       "height": 1.6,
       "weight": 40.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Punk Pok\u00e9mon",
+      "kind": "Punk Pokémon",
       "flavor_text": "It has an electrical organ on its chest. While generating electricity, it fills its surroundings with what sounds like the strumming of a bass guitar.",
       "abilities": [
         "Punk Rock",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Technician"
       ],
-      "regional_dex_nums": [
-        311
-      ]
+      "regional_dex_nums": {
+        "swsh": 311
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Humanlike"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -60,7 +60,14 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Spark"
+      ],
+      "egg_moves": [
+        "Endeavor",
+        "Metal Sound",
+        "Power-Up Punch"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -68,6 +75,10 @@
   {
     "species_name": "Toxtricity",
     "variant_name": "Amped Form",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 98,
@@ -78,16 +89,12 @@
     },
     "dex_entry": {
       "national_dex_num": 849,
-      "types": [
-        "Electric",
-        "Poison"
-      ],
       "height": 1.6,
       "weight": 40.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Punk Pok\u00e9mon",
-      "flavor_text": "This short-tempered and aggressive Pok\u00e9mon chugs stagnant water to absorb any toxins it might contain.",
+      "kind": "Punk Pokémon",
+      "flavor_text": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
       "abilities": [
         "Punk Rock",
         "Plus"
@@ -95,9 +102,9 @@
       "hidden_abilities": [
         "Technician"
       ],
-      "regional_dex_nums": [
-        311
-      ]
+      "regional_dex_nums": {
+        "swsh": 311
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -117,7 +124,7 @@
       "egg_groups": [
         "Humanlike"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -126,7 +133,14 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Spark"
+      ],
+      "egg_moves": [
+        "Endeavor",
+        "Metal Sound",
+        "Power-Up Punch"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

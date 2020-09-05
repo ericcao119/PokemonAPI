@@ -2,6 +2,9 @@
   {
     "species_name": "Hariyama",
     "variant_name": "Hariyama",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 144,
       "attack": 120,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 297,
-      "types": [
-        "Fighting"
-      ],
       "height": 2.3,
       "weight": 253.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Arm Thrust Pok\u00e9mon",
-      "flavor_text": "Hariyama that are big and fat aren\u2019t necessarily strong. There are some small ones that move nimbly and use moves skillfully.",
+      "kind": "Arm Thrust Pokémon",
+      "flavor_text": "Hariyama that are big and fat aren’t necessarily strong. There are some small ones that move nimbly and use moves skillfully.",
       "abilities": [
         "Thick Fat",
         "Guts"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        49,
-        96,
-        50,
-        57,
-        69
-      ]
+      "regional_dex_nums": {
+        "rse": 49,
+        "xy_coastal": 96,
+        "oras": 50,
+        "sm": 57,
+        "usum": 69
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -277,6 +277,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bullet Punch",
         "Chip Away",

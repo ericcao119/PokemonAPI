@@ -2,6 +2,10 @@
   {
     "species_name": "Cottonee",
     "variant_name": "Cottonee",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 27,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 546,
-      "types": [
-        "Grass",
-        "Fairy"
-      ],
       "height": 0.3,
       "weight": 0.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cotton Puff Pok\u00e9mon",
-      "flavor_text": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that\u2019s highly prized by many luxury brands.",
+      "kind": "Cotton Puff Pokémon",
+      "flavor_text": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.",
       "abilities": [
         "Prankster",
         "Infiltrator"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Chlorophyll"
       ],
-      "regional_dex_nums": [
-        52,
-        82,
-        87,
-        105,
-        262
-      ]
+      "regional_dex_nums": {
+        "bw": 52,
+        "b2w2": 82,
+        "sm": 87,
+        "usum": 105,
+        "swsh": 262
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -227,6 +227,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Beat Up",
         "Captivate",

@@ -2,6 +2,10 @@
   {
     "species_name": "Dragapult",
     "variant_name": "Dragapult",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 88,
       "attack": 120,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 887,
-      "types": [
-        "Dragon",
-        "Ghost"
-      ],
       "height": 3.0,
       "weight": 50.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Stealth Pok\u00e9mon",
-      "flavor_text": "Apparently the Dreepy inside Dragapult\u2019s horns eagerly look forward to being launched out at Mach speeds.",
+      "kind": "Stealth Pokémon",
+      "flavor_text": "Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.",
       "abilities": [
         "Clear Body",
         "Infiltrator"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Cursed Body"
       ],
-      "regional_dex_nums": [
-        397
-      ]
+      "regional_dex_nums": {
+        "swsh": 397
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -52,7 +52,7 @@
         "Amorphous",
         "Dragon"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -332,7 +332,18 @@
           "Psychic Fangs"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Dragon Darts"
+      ],
+      "egg_moves": [
+        "Confuse Ray",
+        "Curse",
+        "Disable",
+        "Double Team",
+        "Dragon Tail",
+        "Grudge",
+        "Sucker Punch"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

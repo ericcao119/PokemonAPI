@@ -2,6 +2,9 @@
   {
     "species_name": "Bayleef",
     "variant_name": "Bayleef",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 62,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 153,
-      "types": [
-        "Grass"
-      ],
       "height": 1.2,
       "weight": 15.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Leaf Pok\u00e9mon",
-      "flavor_text": "Bayleef\u2019s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+      "kind": "Leaf Pokémon",
+      "flavor_text": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Leaf Guard"
       ],
-      "regional_dex_nums": [
-        2,
-        2
-      ]
+      "regional_dex_nums": {
+        "gsc": 2,
+        "hgss": 2
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -226,6 +226,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Aromatherapy",

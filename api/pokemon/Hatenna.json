@@ -2,6 +2,9 @@
   {
     "species_name": "Hatenna",
     "variant_name": "Hatenna",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 42,
       "attack": 30,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 856,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.4,
       "weight": 3.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Calm Pok\u00e9mon",
-      "flavor_text": "If this Pok\u00e9mon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
+      "kind": "Calm Pokémon",
+      "flavor_text": "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
       "abilities": [
         "Healer",
         "Anticipation"
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Magic Bounce"
       ],
-      "regional_dex_nums": [
-        241
-      ]
+      "regional_dex_nums": {
+        "swsh": 241
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Fairy"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -218,6 +218,7 @@
           "Dazzling Gleam"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "After You",
         "Aromatic Mist",

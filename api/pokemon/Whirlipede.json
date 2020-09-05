@@ -2,6 +2,10 @@
   {
     "species_name": "Whirlipede",
     "variant_name": "Whirlipede",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 55,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 544,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 1.2,
       "weight": 58.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Curlipede Pok\u00e9mon",
+      "kind": "Curlipede Pokémon",
       "flavor_text": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
       "abilities": [
         "Poison Point",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Speed Boost"
       ],
-      "regional_dex_nums": [
-        50,
-        44,
-        121
-      ]
+      "regional_dex_nums": {
+        "bw": 50,
+        "b2w2": 44,
+        "xy_central": 121
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -224,6 +224,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Iron Defense"
+      ],
       "egg_moves": [
         "Pin Missile",
         "Rock Climb",

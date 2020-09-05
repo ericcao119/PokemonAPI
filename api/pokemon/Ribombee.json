@@ -2,6 +2,10 @@
   {
     "species_name": "Ribombee",
     "variant_name": "Ribombee",
+    "types": [
+      "Bug",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 55,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 743,
-      "types": [
-        "Bug",
-        "Fairy"
-      ],
       "height": 0.2,
       "weight": 0.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bee Fly Pok\u00e9mon",
+      "kind": "Bee Fly Pokémon",
       "flavor_text": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen.",
       "abilities": [
         "Honey Gather",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Sweet Veil"
       ],
-      "regional_dex_nums": [
-        84,
-        99,
-        188
-      ]
+      "regional_dex_nums": {
+        "sm": 84,
+        "usum": 99,
+        "swsh": 188
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -282,7 +282,14 @@
           "Pollen Puff"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Pollen Puff"
+      ],
+      "egg_moves": [
+        "Aromatic Mist",
+        "Moonblast",
+        "Sticky Web"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

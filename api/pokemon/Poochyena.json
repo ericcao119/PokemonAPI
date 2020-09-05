@@ -2,6 +2,9 @@
   {
     "species_name": "Poochyena",
     "variant_name": "Poochyena",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 55,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 261,
-      "types": [
-        "Dark"
-      ],
       "height": 0.5,
       "weight": 13.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bite Pok\u00e9mon",
-      "flavor_text": "Poochyena is an omnivore\u2014it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pok\u00e9mon tries to intimidate its foes by making the hair on its tail bristle out.",
+      "kind": "Bite Pokémon",
+      "flavor_text": "Poochyena is an omnivore—it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokémon tries to intimidate its foes by making the hair on its tail bristle out.",
       "abilities": [
         "Run Away",
         "Quick Feet"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        10,
-        44,
-        10
-      ]
+      "regional_dex_nums": {
+        "rse": 10,
+        "xy_mountain": 44,
+        "oras": 10
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -227,6 +227,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Covet",

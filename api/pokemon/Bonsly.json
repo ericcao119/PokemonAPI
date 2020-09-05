@@ -2,6 +2,9 @@
   {
     "species_name": "Bonsly",
     "variant_name": "Bonsly",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 80,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 438,
-      "types": [
-        "Rock"
-      ],
       "height": 0.5,
       "weight": 15.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bonsai Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon lives in dry, rocky areas. As its green spheres dry out, their dull luster increases.",
+      "kind": "Bonsai Pokémon",
+      "flavor_text": "This Pokémon lives in dry, rocky areas. As its green spheres dry out, their dull luster increases.",
       "abilities": [
         "Sturdy",
         "Rock Head"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        92,
-        92,
-        129,
-        30,
-        37,
-        252
-      ]
+      "regional_dex_nums": {
+        "dp": 92,
+        "plat": 92,
+        "xy_mountain": 129,
+        "sm": 30,
+        "usum": 37,
+        "swsh": 252
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -226,6 +226,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Curse",
         "Defense Curl",

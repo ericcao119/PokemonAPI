@@ -2,6 +2,10 @@
   {
     "species_name": "Swellow",
     "variant_name": "Swellow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 85,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 277,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.7,
       "weight": 19.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Swallow Pok\u00e9mon",
-      "flavor_text": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other\u2019s wings.",
+      "kind": "Swallow Pokémon",
+      "flavor_text": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings.",
       "abilities": [
         "Guts"
       ],
       "hidden_abilities": [
         "Scrappy"
       ],
-      "regional_dex_nums": [
-        26,
-        20,
-        26
-      ]
+      "regional_dex_nums": {
+        "rse": 26,
+        "xy_coastal": 20,
+        "oras": 26
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -239,6 +239,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Boomburst",
         "Brave Bird",

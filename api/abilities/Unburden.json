@@ -1,4 +1,6 @@
 {
-  "name": "Unburden",
-  "description": "Raises Speed if a held item is used."
+  "ability_name": "Unburden",
+  "effect": "Raises Speed if a held item is used.
+",
+  "description": "Boosts the Speed stat if the Pokémon’s held item is used or lost."
 }

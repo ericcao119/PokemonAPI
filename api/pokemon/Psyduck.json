@@ -2,6 +2,9 @@
   {
     "species_name": "Psyduck",
     "variant_name": "Psyduck",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 52,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 54,
-      "types": [
-        "Water"
-      ],
       "height": 0.8,
       "weight": 19.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Duck Pok\u00e9mon",
+      "kind": "Duck Pokémon",
       "flavor_text": "Always tormented by headaches. It uses psychic powers, but whether it intends to do so is not known.",
       "abilities": [
         "Damp",
@@ -28,21 +28,21 @@
       "hidden_abilities": [
         "Swift Swim"
       ],
-      "regional_dex_nums": [
-        54,
-        138,
-        158,
-        54,
-        43,
-        43,
-        140,
-        28,
-        59,
-        165,
-        89,
-        107,
-        54
-      ]
+      "regional_dex_nums": {
+        "rby": 54,
+        "gsc": 138,
+        "rse": 158,
+        "frlg": 54,
+        "dp": 43,
+        "plat": 43,
+        "hgss": 140,
+        "b2w2": 28,
+        "xy_central": 59,
+        "oras": 165,
+        "sm": 89,
+        "usum": 107,
+        "lets_go": 54
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -258,6 +258,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Clear Smog",
         "Confuse Ray",

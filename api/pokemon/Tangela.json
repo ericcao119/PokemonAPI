@@ -2,6 +2,9 @@
   {
     "species_name": "Tangela",
     "variant_name": "Tangela",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 55,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 114,
-      "types": [
-        "Grass"
-      ],
       "height": 1.0,
       "weight": 35.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Vine Pok\u00e9mon",
+      "kind": "Vine Pokémon",
       "flavor_text": "Its identity is obscured by masses of thick blue vines. The vines are said to never stop growing.",
       "abilities": [
         "Chlorophyll",
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        114,
-        179,
-        114,
-        181,
-        182,
-        217,
-        114
-      ]
+      "regional_dex_nums": {
+        "rby": 114,
+        "gsc": 179,
+        "frlg": 114,
+        "plat": 181,
+        "hgss": 182,
+        "b2w2": 217,
+        "lets_go": 114
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -251,6 +251,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Confusion",

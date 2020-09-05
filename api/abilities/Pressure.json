@@ -1,4 +1,6 @@
 {
-  "name": "Pressure",
-  "description": "The Pok\u00e9mon raises the foe's PP usage."
+  "ability_name": "Pressure",
+  "effect": "Pressure makes any attack targeted at the ability-bearer - regardless of whether it hits - use 2 PP instead of 1.
+If a Pokémon with Pressure is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level.",
+  "description": "By putting pressure on the opposing Pokémon, it raises their PP usage."
 }

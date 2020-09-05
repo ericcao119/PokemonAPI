@@ -2,6 +2,10 @@
   {
     "species_name": "Qwilfish",
     "variant_name": "Qwilfish",
+    "types": [
+      "Water",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 95,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 211,
-      "types": [
-        "Water",
-        "Poison"
-      ],
       "height": 0.5,
       "weight": 3.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Balloon Pok\u00e9mon",
+      "kind": "Balloon Pokémon",
       "flavor_text": "The small spikes covering its body developed from scales. They inject a toxin that causes fainting.",
       "abilities": [
         "Poison Point",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Intimidate"
       ],
-      "regional_dex_nums": [
-        161,
-        163,
-        38,
-        304
-      ]
+      "regional_dex_nums": {
+        "gsc": 161,
+        "hgss": 163,
+        "xy_coastal": 38,
+        "swsh": 304
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -281,6 +281,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Spray",
         "Aqua Jet",

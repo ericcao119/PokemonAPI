@@ -1,4 +1,6 @@
 {
-  "name": "Snow Cloak",
-  "description": "Raises evasion in a hailstorm."
+  "ability_name": "Snow Cloak",
+  "effect": "Snow Cloak raises ability-bearer's evasion by 20% in a hail storm. It also gives immunity to damage by hail (if they are not already protected by being Ice type).
+If a Pokémon with Snow Cloak is the leading party Pokémon while travelling in a hail storm/blizzard, wild Pokémon are only half as likely to appear.",
+  "description": "Boosts evasiveness in a hailstorm."
 }

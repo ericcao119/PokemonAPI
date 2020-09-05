@@ -2,6 +2,10 @@
   {
     "species_name": "Beautifly",
     "variant_name": "Beautifly",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 70,
@@ -12,28 +16,24 @@
     },
     "dex_entry": {
       "national_dex_num": 267,
-      "types": [
-        "Bug",
-        "Flying"
-      ],
       "height": 1.0,
       "weight": 28.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Butterfly Pok\u00e9mon",
-      "flavor_text": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pok\u00e9mon rides the spring winds as it flits around gathering pollen.",
+      "kind": "Butterfly Pokémon",
+      "flavor_text": "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pokémon rides the spring winds as it flits around gathering pollen.",
       "abilities": [
         "Swarm"
       ],
       "hidden_abilities": [
         "Rivalry"
       ],
-      "regional_dex_nums": [
-        16,
-        50,
-        50,
-        16
-      ]
+      "regional_dex_nums": {
+        "rse": 16,
+        "dp": 50,
+        "plat": 50,
+        "oras": 16
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -232,6 +232,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Gust"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

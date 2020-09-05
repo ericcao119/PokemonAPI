@@ -1,4 +1,6 @@
 {
-  "name": "Tough Claws",
-  "description": "Boosts the power of contact moves."
+  "ability_name": "Tough Claws",
+  "effect": "Tough Claws increases the power of moves that make contact.
+Most Physical-category moves are contact moves.",
+  "description": "Powers up moves that make direct contact."
 }

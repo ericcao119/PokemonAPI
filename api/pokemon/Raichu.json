@@ -2,6 +2,9 @@
   {
     "species_name": "Raichu",
     "variant_name": "Raichu",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 90,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 26,
-      "types": [
-        "Electric"
-      ],
       "height": 0.8,
       "weight": 30.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mouse Pok\u00e9mon",
+      "kind": "Mouse Pokémon",
       "flavor_text": "If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.",
       "abilities": [
         "Static"
@@ -27,21 +27,21 @@
       "hidden_abilities": [
         "Lightning Rod"
       ],
-      "regional_dex_nums": [
-        26,
-        23,
-        157,
-        26,
-        105,
-        105,
-        23,
-        37,
-        164,
-        26,
-        33,
-        26,
-        195
-      ]
+      "regional_dex_nums": {
+        "rby": 26,
+        "gsc": 23,
+        "rse": 157,
+        "frlg": 26,
+        "dp": 105,
+        "plat": 105,
+        "hgss": 23,
+        "xy_central": 37,
+        "oras": 164,
+        "sm": 26,
+        "usum": 33,
+        "lets_go": 26,
+        "swsh": 195
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -71,7 +71,16 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Charge",
+        "Disarming Voice",
+        "Fake Out",
+        "Flail",
+        "Present",
+        "Tickle",
+        "Wish"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -79,6 +88,10 @@
   {
     "species_name": "Raichu",
     "variant_name": "Alolan Raichu",
+    "types": [
+      "Electric",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 85,
@@ -89,35 +102,31 @@
     },
     "dex_entry": {
       "national_dex_num": 26,
-      "types": [
-        "Electric",
-        "Psychic"
-      ],
       "height": 0.7,
       "weight": 21.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mouse Pok\u00e9mon",
-      "flavor_text": "It loves pancakes prepared with a secret Alolan recipe. Some wonder whether that recipe holds the key to this Pok\u00e9mon\u2019s evolution.",
+      "kind": "Mouse Pokémon",
+      "flavor_text": "This Pokémon rides on its tail while it uses its psychic powers to levitate. It attacks with star-shaped thunderbolts.",
       "abilities": [
         "Surge Surfer"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        26,
-        23,
-        157,
-        26,
-        105,
-        105,
-        23,
-        37,
-        164,
-        26,
-        33,
-        26,
-        195
-      ]
+      "regional_dex_nums": {
+        "rby": 26,
+        "gsc": 23,
+        "rse": 157,
+        "frlg": 26,
+        "dp": 105,
+        "plat": 105,
+        "hgss": 23,
+        "xy_central": 37,
+        "oras": 164,
+        "sm": 26,
+        "usum": 33,
+        "lets_go": 26,
+        "swsh": 195
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -147,7 +156,16 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Charge",
+        "Disarming Voice",
+        "Fake Out",
+        "Flail",
+        "Present",
+        "Tickle",
+        "Wish"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

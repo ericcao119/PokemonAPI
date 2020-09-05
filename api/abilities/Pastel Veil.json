@@ -1,4 +1,5 @@
 {
-  "name": "Pastel Veil",
-  "description": "Prevents the Pok\u00e9mon and its allies from being poisoned."
+  "ability_name": "Pastel Veil",
+  "effect": "Pastel Veil prevents the Pokémon and its teammates from being poisoned. It also cures teammates of poisoning when it enters the battlefield.",
+  "description": "Protects the Pokémon and its ally Pokémon from being poisoned."
 }

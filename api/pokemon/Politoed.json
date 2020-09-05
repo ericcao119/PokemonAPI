@@ -2,6 +2,9 @@
   {
     "species_name": "Politoed",
     "variant_name": "Politoed",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 75,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 186,
-      "types": [
-        "Water"
-      ],
       "height": 1.1,
       "weight": 33.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Frog Pok\u00e9mon",
+      "kind": "Frog Pokémon",
       "flavor_text": "The longer and more luxurious the curled hair on its head, the greater the number of Poliwag and Poliwhirl that will obey it.",
       "abilities": [
         "Water Absorb",
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Drizzle"
       ],
-      "regional_dex_nums": [
-        75,
-        75,
-        36,
-        152,
-        185
-      ]
+      "regional_dex_nums": {
+        "gsc": 75,
+        "hgss": 75,
+        "xy_mountain": 36,
+        "sm": 152,
+        "usum": 185
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -221,6 +221,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bubble Beam",
         "Encore",

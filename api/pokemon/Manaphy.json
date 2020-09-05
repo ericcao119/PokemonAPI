@@ -2,6 +2,9 @@
   {
     "species_name": "Manaphy",
     "variant_name": "Manaphy",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 100,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 490,
-      "types": [
-        "Water"
-      ],
       "height": 0.3,
       "weight": 1.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Seafaring Pok\u00e9mon",
-      "flavor_text": "It starts its life with a wondrous power that permits it to bond with any kind of Pok\u00e9mon.",
+      "kind": "Seafaring Pokémon",
+      "flavor_text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
       "abilities": [
         "Hydration"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        151,
-        151
-      ]
+      "regional_dex_nums": {
+        "dp": 151,
+        "plat": 151
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
         "Fairy",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 2314,
       "steps_to_hatch_upper": 2570,
       "egg_cycles": 10
@@ -248,6 +248,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Bounce",

@@ -2,6 +2,10 @@
   {
     "species_name": "Magnezone",
     "variant_name": "Magnezone",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 70,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 462,
-      "types": [
-        "Electric",
-        "Steel"
-      ],
       "height": 1.2,
       "weight": 180.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Magnet Area Pok\u00e9mon",
-      "flavor_text": "There are still people who believe that this Pok\u00e9mon came from outer space. It emanates a powerful magnetic field.",
+      "kind": "Magnet Area Pokémon",
+      "flavor_text": "There are still people who believe that this Pokémon came from outer space. It emanates a powerful magnetic field.",
       "abilities": [
         "Magnet Pull",
         "Sturdy"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        180,
-        50,
-        71,
-        86,
-        49,
-        56
-      ]
+      "regional_dex_nums": {
+        "plat": 180,
+        "b2w2": 50,
+        "xy_mountain": 71,
+        "oras": 86,
+        "sm": 49,
+        "usum": 56
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -56,7 +56,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -287,6 +287,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

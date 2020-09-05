@@ -2,6 +2,10 @@
   {
     "species_name": "Chandelure",
     "variant_name": "Chandelure",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 55,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 609,
-      "types": [
-        "Ghost",
-        "Fire"
-      ],
       "height": 1.0,
       "weight": 34.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Luring Pok\u00e9mon",
-      "flavor_text": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence\u2014 or so it\u2019s said.",
+      "kind": "Luring Pokémon",
+      "flavor_text": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it’s said.",
       "abilities": [
         "Flash Fire",
         "Flame Body"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        115,
-        192,
-        67,
-        289
-      ]
+      "regional_dex_nums": {
+        "bw": 115,
+        "b2w2": 192,
+        "xy_mountain": 67,
+        "swsh": 289
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -229,6 +229,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid",
         "Acid Armor",

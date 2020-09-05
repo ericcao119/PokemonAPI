@@ -2,6 +2,10 @@
   {
     "species_name": "Lampent",
     "variant_name": "Lampent",
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 40,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 608,
-      "types": [
-        "Ghost",
-        "Fire"
-      ],
       "height": 0.6,
       "weight": 13.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lamp Pok\u00e9mon",
+      "kind": "Lamp Pokémon",
       "flavor_text": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
       "abilities": [
         "Flash Fire",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        114,
-        191,
-        66,
-        288
-      ]
+      "regional_dex_nums": {
+        "bw": 114,
+        "b2w2": 191,
+        "xy_mountain": 66,
+        "swsh": 288
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -277,6 +277,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid",
         "Acid Armor",

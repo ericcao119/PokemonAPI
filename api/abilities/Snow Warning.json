@@ -1,4 +1,7 @@
 {
-  "name": "Snow Warning",
-  "description": "The Pok\u00e9mon summons a hailstorm in battle."
+  "ability_name": "Snow Warning",
+  "effect": "Snow Warning creates a hailstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.
+If multiple Pokémon with weather-generating abilities (Snow Warning, Drizzle, Drought or Sand Stream) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon.
+Prior to Generation 6, Snow Warning lasts indefinitely upon activation.",
+  "description": "The Pokémon summons a hailstorm when it enters a battle."
 }

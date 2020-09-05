@@ -2,6 +2,10 @@
   {
     "species_name": "Staravia",
     "variant_name": "Staravia",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 75,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 397,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.6,
       "weight": 15.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Starling Pok\u00e9mon",
+      "kind": "Starling Pokémon",
       "flavor_text": "It lives in forests and fields. Squabbles over territory occur when flocks collide.",
       "abilities": [
         "Intimidate"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Reckless"
       ],
-      "regional_dex_nums": [
-        11,
-        11,
-        100
-      ]
+      "regional_dex_nums": {
+        "dp": 11,
+        "plat": 11,
+        "xy_coastal": 100
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -211,6 +211,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Detect",

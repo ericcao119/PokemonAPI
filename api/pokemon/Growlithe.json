@@ -2,6 +2,9 @@
   {
     "species_name": "Growlithe",
     "variant_name": "Growlithe",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 70,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 58,
-      "types": [
-        "Fire"
-      ],
       "height": 0.7,
       "weight": 19.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Puppy Pok\u00e9mon",
+      "kind": "Puppy Pokémon",
       "flavor_text": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
       "abilities": [
         "Intimidate",
@@ -28,17 +28,17 @@
       "hidden_abilities": [
         "Justified"
       ],
-      "regional_dex_nums": [
-        58,
-        127,
-        58,
-        129,
-        51,
-        52,
-        64,
-        58,
-        70
-      ]
+      "regional_dex_nums": {
+        "rby": 58,
+        "gsc": 127,
+        "frlg": 58,
+        "hgss": 129,
+        "b2w2": 51,
+        "sm": 52,
+        "usum": 64,
+        "lets_go": 58,
+        "swsh": 70
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -274,6 +274,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Covet",
         "Double Kick",

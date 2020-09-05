@@ -2,6 +2,10 @@
   {
     "species_name": "Frillish",
     "variant_name": "Frillish",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 40,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 592,
-      "types": [
-        "Water",
-        "Ghost"
-      ],
       "height": 1.2,
       "weight": 33.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Floating Pok\u00e9mon",
+      "kind": "Floating Pokémon",
       "flavor_text": "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.",
       "abilities": [
         "Water Absorb",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Damp"
       ],
-      "regional_dex_nums": [
-        98,
-        180,
-        318,
-        305
-      ]
+      "regional_dex_nums": {
+        "bw": 98,
+        "b2w2": 180,
+        "usum": 318,
+        "swsh": 305
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -257,6 +257,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Armor",
         "Confuse Ray",

@@ -2,6 +2,9 @@
   {
     "species_name": "Scatterbug",
     "variant_name": "Scatterbug",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 38,
       "attack": 35,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 664,
-      "types": [
-        "Bug"
-      ],
       "height": 0.3,
       "weight": 2.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scatterdust Pok\u00e9mon",
+      "kind": "Scatterdust Pokémon",
       "flavor_text": "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
       "abilities": [
         "Shield Dust",
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Friend Guard"
       ],
-      "regional_dex_nums": [
-        20
-      ]
+      "regional_dex_nums": {
+        "xy_central": 20
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -76,6 +76,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Poison Powder",
         "Rage Powder",

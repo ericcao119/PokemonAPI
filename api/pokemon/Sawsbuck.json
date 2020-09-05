@@ -2,6 +2,10 @@
   {
     "species_name": "Sawsbuck",
     "variant_name": "Sawsbuck",
+    "types": [
+      "Normal",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 100,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 586,
-      "types": [
-        "Normal",
-        "Grass"
-      ],
       "height": 1.9,
       "weight": 92.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Season Pok\u00e9mon",
+      "kind": "Season Pokémon",
       "flavor_text": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
       "abilities": [
         "Chlorophyll",
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Serene Grace"
       ],
-      "regional_dex_nums": [
-        92,
-        160
-      ]
+      "regional_dex_nums": {
+        "bw": 92,
+        "b2w2": 160
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -259,6 +259,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Horn Leech"
+      ],
       "egg_moves": [
         "Agility",
         "Baton Pass",

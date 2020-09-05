@@ -2,6 +2,9 @@
   {
     "species_name": "Arbok",
     "variant_name": "Arbok",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 95,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 24,
-      "types": [
-        "Poison"
-      ],
       "height": 3.5,
       "weight": 65.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cobra Pok\u00e9mon",
+      "kind": "Cobra Pokémon",
       "flavor_text": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
       "abilities": [
         "Intimidate",
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        24,
-        51,
-        24,
-        51,
-        38,
-        62,
-        24
-      ]
+      "regional_dex_nums": {
+        "rby": 24,
+        "gsc": 51,
+        "frlg": 24,
+        "hgss": 51,
+        "xy_mountain": 38,
+        "usum": 62,
+        "lets_go": 24
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -292,6 +292,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Crunch"
+      ],
       "egg_moves": [
         "Beat Up",
         "Disable",

@@ -2,6 +2,10 @@
   {
     "species_name": "Greninja",
     "variant_name": "Greninja",
+    "types": [
+      "Water",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 72,
       "attack": 95,
@@ -12,25 +16,21 @@
     },
     "dex_entry": {
       "national_dex_num": 658,
-      "types": [
-        "Water",
-        "Dark"
-      ],
       "height": 1.5,
       "weight": 40.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ninja Pok\u00e9mon",
-      "flavor_text": "It appears and vanishes with a ninja\u2019s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+      "kind": "Ninja Pokémon",
+      "flavor_text": "It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
       "abilities": [
         "Torrent"
       ],
       "hidden_abilities": [
         "Protean"
       ],
-      "regional_dex_nums": [
-        9
-      ]
+      "regional_dex_nums": {
+        "xy_central": 9
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -297,6 +297,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Water Shuriken"
+      ],
       "egg_moves": [
         "Bestow",
         "Camouflage",
@@ -333,6 +336,10 @@
   {
     "species_name": "Greninja",
     "variant_name": "Ash-Greninja",
+    "types": [
+      "Water",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 72,
       "attack": 145,
@@ -343,23 +350,19 @@
     },
     "dex_entry": {
       "national_dex_num": 658,
-      "types": [
-        "Water",
-        "Dark"
-      ],
       "height": 1.5,
       "weight": 40.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ninja Pok\u00e9mon",
-      "flavor_text": "It appears and vanishes with a ninja\u2019s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
+      "kind": "Ninja Pokémon",
+      "flavor_text": "It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
       "abilities": [
         "Battle Bond"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        9
-      ]
+      "regional_dex_nums": {
+        "xy_central": 9
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -626,6 +629,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Water Shuriken"
+      ],
       "egg_moves": [
         "Bestow",
         "Camouflage",

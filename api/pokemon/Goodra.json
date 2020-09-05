@@ -2,6 +2,9 @@
   {
     "species_name": "Goodra",
     "variant_name": "Goodra",
+    "types": [
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 100,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 706,
-      "types": [
-        "Dragon"
-      ],
       "height": 2.0,
       "weight": 150.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dragon Pok\u00e9mon",
+      "kind": "Dragon Pokémon",
       "flavor_text": "Its form of offense is forcefully stretching out its horns. The strikes land 100 times harder than any blow from a heavyweight boxer.",
       "abilities": [
         "Sap Sipper",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Gooey"
       ],
-      "regional_dex_nums": [
-        21,
-        180,
-        219,
-        391
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 21,
+        "sm": 180,
+        "usum": 219,
+        "swsh": 391
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -272,6 +272,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Aqua Tail"
+      ],
       "egg_moves": [
         "Acid Armor",
         "Counter",

@@ -2,6 +2,9 @@
   {
     "species_name": "Burmy",
     "variant_name": "Burmy",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 29,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 412,
-      "types": [
-        "Bug"
-      ],
       "height": 0.2,
       "weight": 3.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bagworm Pok\u00e9mon",
+      "kind": "Bagworm Pokémon",
       "flavor_text": "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
       "abilities": [
         "Shed Skin"
@@ -27,11 +27,11 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        45,
-        45,
-        44
-      ]
+      "regional_dex_nums": {
+        "dp": 45,
+        "plat": 45,
+        "xy_central": 44
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -86,6 +86,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

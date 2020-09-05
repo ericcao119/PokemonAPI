@@ -1,4 +1,6 @@
 {
-  "name": "Tangled Feet",
-  "description": "Raises evasion if the Pok\u00e9mon is confused."
+  "ability_name": "Tangled Feet",
+  "effect": "Raises evasion if the Pokémon is confused.
+",
+  "description": "Raises evasiveness if the Pokémon is confused."
 }

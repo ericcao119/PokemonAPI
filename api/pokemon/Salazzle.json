@@ -2,6 +2,10 @@
   {
     "species_name": "Salazzle",
     "variant_name": "Salazzle",
+    "types": [
+      "Poison",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 68,
       "attack": 64,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 758,
-      "types": [
-        "Poison",
-        "Fire"
-      ],
       "height": 1.2,
       "weight": 22.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Toxic Lizard Pok\u00e9mon",
+      "kind": "Toxic Lizard Pokémon",
       "flavor_text": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it.",
       "abilities": [
         "Corrosion"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Oblivious"
       ],
-      "regional_dex_nums": [
-        162,
-        196,
-        245
-      ]
+      "regional_dex_nums": {
+        "sm": 162,
+        "usum": 196,
+        "swsh": 245
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -280,6 +280,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Captivate"
+      ],
       "egg_moves": [
         "Belch",
         "Fake Out",

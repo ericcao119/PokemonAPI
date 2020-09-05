@@ -2,6 +2,10 @@
   {
     "species_name": "Slowbro",
     "variant_name": "Slowbro",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 75,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 80,
-      "types": [
-        "Water",
-        "Psychic"
-      ],
       "height": 1.6,
       "weight": 78.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hermit Crab Pok\u00e9mon",
+      "kind": "Hermit Crab Pokémon",
       "flavor_text": "Lives lazily by the sea. If the Shellder on its tail comes off, it becomes a Slowpoke again.",
       "abilities": [
         "Oblivious",
@@ -29,16 +29,16 @@
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        80,
-        81,
-        80,
-        81,
-        134,
-        38,
-        45,
-        80
-      ]
+      "regional_dex_nums": {
+        "rby": 80,
+        "gsc": 81,
+        "frlg": 80,
+        "hgss": 81,
+        "xy_coastal": 134,
+        "sm": 38,
+        "usum": 45,
+        "lets_go": 80
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -318,6 +318,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Withdraw"
+      ],
       "egg_moves": [
         "Belch",
         "Belly Drum",
@@ -398,6 +401,10 @@
   {
     "species_name": "Slowbro",
     "variant_name": "Mega Slowbro",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 75,
@@ -408,30 +415,26 @@
     },
     "dex_entry": {
       "national_dex_num": 80,
-      "types": [
-        "Water",
-        "Psychic"
-      ],
       "height": 2.0,
       "weight": 120.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hermit Crab Pok\u00e9mon",
-      "flavor_text": "Under the influence of Shellder\u2019s digestive fluids, Slowpoke has awakened, gaining a great deal of power\u2014and a little motivation to boot.",
+      "kind": "Hermit Crab Pokémon",
+      "flavor_text": "Under the influence of Shellder’s digestive fluids, Slowpoke has awakened, gaining a great deal of power—and a little motivation to boot.",
       "abilities": [
         "Shell Armor"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        80,
-        81,
-        80,
-        81,
-        134,
-        38,
-        45,
-        80
-      ]
+      "regional_dex_nums": {
+        "rby": 80,
+        "gsc": 81,
+        "frlg": 80,
+        "hgss": 81,
+        "xy_coastal": 134,
+        "sm": 38,
+        "usum": 45,
+        "lets_go": 80
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -711,6 +714,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Withdraw"
+      ],
       "egg_moves": [
         "Belch",
         "Belly Drum",

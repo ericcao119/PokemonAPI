@@ -2,6 +2,10 @@
   {
     "species_name": "Tirtouga",
     "variant_name": "Tirtouga",
+    "types": [
+      "Water",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 54,
       "attack": 78,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 564,
-      "types": [
-        "Water",
-        "Rock"
-      ],
       "height": 0.7,
       "weight": 16.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Prototurtle Pok\u00e9mon",
+      "kind": "Prototurtle Pokémon",
       "flavor_text": "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
       "abilities": [
         "Solid Rock",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Swift Swim"
       ],
-      "regional_dex_nums": [
-        70,
-        126,
-        194,
-        241
-      ]
+      "regional_dex_nums": {
+        "bw": 70,
+        "b2w2": 126,
+        "sm": 194,
+        "usum": 241
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -250,6 +250,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bide",
         "Body Slam",

@@ -2,6 +2,9 @@
   {
     "species_name": "Clawitzer",
     "variant_name": "Clawitzer",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 71,
       "attack": 73,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 693,
-      "types": [
-        "Water"
-      ],
       "height": 1.3,
       "weight": 35.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Howitzer Pok\u00e9mon",
-      "flavor_text": "Its right arm is packed with meat. When its pincer falls off, it\u2019s exported to be used as a cooking ingredient.",
+      "kind": "Howitzer Pokémon",
+      "flavor_text": "Its right arm is packed with meat. When its pincer falls off, it’s exported to be used as a cooking ingredient.",
       "abilities": [
         "Mega Launcher"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        33,
-        350
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 33,
+        "usum": 350
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -264,6 +264,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Aura Sphere"
+      ],
       "egg_moves": [
         "Aqua Jet",
         "Crabhammer",

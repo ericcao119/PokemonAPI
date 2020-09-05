@@ -2,6 +2,10 @@
   {
     "species_name": "Gastly",
     "variant_name": "Gastly",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 35,
@@ -12,33 +16,29 @@
     },
     "dex_entry": {
       "national_dex_num": 92,
-      "types": [
-        "Ghost",
-        "Poison"
-      ],
       "height": 1.3,
       "weight": 0.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gas Pok\u00e9mon",
+      "kind": "Gas Pokémon",
       "flavor_text": "With its gas-like body, it can sneak into any place it desires. However, it can be blown away by wind.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        92,
-        58,
-        92,
-        69,
-        69,
-        58,
-        30,
-        61,
-        73,
-        92,
-        141
-      ]
+      "regional_dex_nums": {
+        "rby": 92,
+        "gsc": 58,
+        "frlg": 92,
+        "dp": 69,
+        "plat": 69,
+        "hgss": 58,
+        "xy_mountain": 30,
+        "sm": 61,
+        "usum": 73,
+        "lets_go": 92,
+        "swsh": 141
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -286,6 +286,7 @@
           "Dazzling Gleam"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Clear Smog",

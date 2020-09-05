@@ -1,4 +1,5 @@
 {
-  "name": "Misty Surge",
-  "description": "The Pok\u00e9mon creates a Misty Terrain when it enters a battle."
+  "ability_name": "Misty Surge",
+  "effect": "Misty Surge creates a low-lying mist, like the move Misty Terrain, when the bearer enters battle. It protects all grounded Pokémon from status conditions and halves the power of Dragon type attacks.",
+  "description": "Turns the ground into Misty Terrain when the Pokémon enters a battle."
 }

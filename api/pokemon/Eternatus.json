@@ -2,6 +2,10 @@
   {
     "species_name": "Eternatus",
     "variant_name": "Eternatus",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 140,
       "attack": 85,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 890,
-      "types": [
-        "Poison",
-        "Dragon"
-      ],
       "height": 20.0,
       "weight": 950.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gigantic Pok\u00e9mon",
-      "flavor_text": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pok\u00e9mon and the Dynamax phenomenon.",
+      "kind": "Gigantic Pokémon",
+      "flavor_text": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        400
-      ]
+      "regional_dex_nums": {
+        "swsh": 400
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -256,6 +256,7 @@
           "Venom Drench"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -264,6 +265,10 @@
   {
     "species_name": "Eternatus",
     "variant_name": "Eternamax",
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 255,
       "attack": 115,
@@ -274,21 +279,17 @@
     },
     "dex_entry": {
       "national_dex_num": 890,
-      "types": [
-        "Poison",
-        "Dragon"
-      ],
       "height": 100.0,
-      "weight": null,
+      "weight": NaN,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gigantic Pok\u00e9mon",
-      "flavor_text": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pok\u00e9mon and the Dynamax phenomenon.",
+      "kind": "Gigantic Pokémon",
+      "flavor_text": "Infinite amounts of energy pour from this Pokémon’s enlarged core, warping the surrounding space-time.",
       "abilities": [],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        400
-      ]
+      "regional_dex_nums": {
+        "swsh": 400
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -308,7 +309,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -516,6 +517,7 @@
           "Venom Drench"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

@@ -2,6 +2,9 @@
   {
     "species_name": "Seedot",
     "variant_name": "Seedot",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 40,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 273,
-      "types": [
-        "Grass"
-      ],
       "height": 0.5,
       "weight": 4.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Acorn Pok\u00e9mon",
+      "kind": "Acorn Pokémon",
       "flavor_text": "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.",
       "abilities": [
         "Chlorophyll",
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Pickpocket"
       ],
-      "regional_dex_nums": [
-        22,
-        22,
-        39
-      ]
+      "regional_dex_nums": {
+        "rse": 22,
+        "oras": 22,
+        "swsh": 39
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -184,6 +184,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Beat Up",

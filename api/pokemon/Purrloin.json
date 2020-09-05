@@ -2,6 +2,9 @@
   {
     "species_name": "Purrloin",
     "variant_name": "Purrloin",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 41,
       "attack": 50,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 509,
-      "types": [
-        "Dark"
-      ],
       "height": 0.4,
       "weight": 10.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Devious Pok\u00e9mon",
+      "kind": "Devious Pokémon",
       "flavor_text": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.",
       "abilities": [
         "Limber",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Prankster"
       ],
-      "regional_dex_nums": [
-        15,
-        12,
-        42,
-        44
-      ]
+      "regional_dex_nums": {
+        "bw": 15,
+        "b2w2": 12,
+        "xy_mountain": 42,
+        "swsh": 44
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Charm",
         "Copycat",

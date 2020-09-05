@@ -2,6 +2,9 @@
   {
     "species_name": "Chikorita",
     "variant_name": "Chikorita",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 49,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 152,
-      "types": [
-        "Grass"
-      ],
       "height": 0.9,
       "weight": 6.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Leaf Pok\u00e9mon",
-      "flavor_text": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pok\u00e9mon and creating a cozy, friendly atmosphere all around.",
+      "kind": "Leaf Pokémon",
+      "flavor_text": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Leaf Guard"
       ],
-      "regional_dex_nums": [
-        1,
-        1
-      ]
+      "regional_dex_nums": {
+        "gsc": 1,
+        "hgss": 1
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -218,6 +218,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Aromatherapy",

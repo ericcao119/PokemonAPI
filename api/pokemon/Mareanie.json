@@ -2,6 +2,10 @@
   {
     "species_name": "Mareanie",
     "variant_name": "Mareanie",
+    "types": [
+      "Poison",
+      "Water"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 53,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 747,
-      "types": [
-        "Poison",
-        "Water"
-      ],
       "height": 0.4,
       "weight": 8.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Brutal Star Pok\u00e9mon",
+      "kind": "Brutal Star Pokémon",
       "flavor_text": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious.",
       "abilities": [
         "Merciless",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        113,
-        136,
-        307
-      ]
+      "regional_dex_nums": {
+        "sm": 113,
+        "usum": 136,
+        "swsh": 307
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -241,6 +241,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Haze",
         "Infestation",

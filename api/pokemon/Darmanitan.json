@@ -2,6 +2,9 @@
   {
     "species_name": "Darmanitan",
     "variant_name": "Standard Mode",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 140,
@@ -12,26 +15,23 @@
     },
     "dex_entry": {
       "national_dex_num": 555,
-      "types": [
-        "Fire"
-      ],
       "height": 1.3,
       "weight": 92.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Blazing Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon\u2019s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.",
+      "kind": "Blazing Pokémon",
+      "flavor_text": "This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.",
       "abilities": [
         "Sheer Force"
       ],
       "hidden_abilities": [
         "Zen Mode"
       ],
-      "regional_dex_nums": [
-        61,
-        103,
-        368
-      ]
+      "regional_dex_nums": {
+        "bw": 61,
+        "b2w2": 103,
+        "swsh": 368
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -314,6 +314,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Hammer Arm"
+      ],
       "egg_moves": [
         "Encore",
         "Endure",
@@ -351,6 +354,10 @@
   {
     "species_name": "Darmanitan",
     "variant_name": "Zen Mode",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 30,
@@ -361,15 +368,11 @@
     },
     "dex_entry": {
       "national_dex_num": 555,
-      "types": [
-        "Fire",
-        "Psychic"
-      ],
       "height": 1.3,
       "weight": 92.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Blazing Pok\u00e9mon",
+      "kind": "Blazing Pokémon",
       "flavor_text": "When wounded, it stops moving. It goes as still as stone to meditate, sharpening its mind and spirit.",
       "abilities": [
         "Sheer Force"
@@ -377,11 +380,11 @@
       "hidden_abilities": [
         "Zen Mode"
       ],
-      "regional_dex_nums": [
-        61,
-        103,
-        368
-      ]
+      "regional_dex_nums": {
+        "bw": 61,
+        "b2w2": 103,
+        "swsh": 368
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -664,6 +667,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Hammer Arm"
+      ],
       "egg_moves": [
         "Encore",
         "Endure",
@@ -701,6 +707,9 @@
   {
     "species_name": "Darmanitan",
     "variant_name": "Galarian Standard Mode",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 140,
@@ -711,26 +720,23 @@
     },
     "dex_entry": {
       "national_dex_num": 555,
-      "types": [
-        "Ice"
-      ],
       "height": 1.7,
       "weight": 120.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Zen Charm Pok\u00e9mon",
-      "flavor_text": "Though it has a gentle disposition, it\u2019s also very strong. It will quickly freeze the snowball on its head before going for a headbutt.",
+      "kind": "Zen Charm Pokémon",
+      "flavor_text": "Though it has a gentle disposition, it’s also very strong. It will quickly freeze the snowball on its head before going for a headbutt.",
       "abilities": [
         "Gorilla Tactics"
       ],
       "hidden_abilities": [
         "Zen Mode"
       ],
-      "regional_dex_nums": [
-        61,
-        103,
-        368
-      ]
+      "regional_dex_nums": {
+        "bw": 61,
+        "b2w2": 103,
+        "swsh": 368
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -750,7 +756,7 @@
       "egg_groups": [
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -1013,6 +1019,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Hammer Arm"
+      ],
       "egg_moves": [
         "Encore",
         "Endure",
@@ -1050,6 +1059,10 @@
   {
     "species_name": "Darmanitan",
     "variant_name": "Galarian Zen Mode",
+    "types": [
+      "Ice",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 160,
@@ -1060,27 +1073,23 @@
     },
     "dex_entry": {
       "national_dex_num": 555,
-      "types": [
-        "Ice",
-        "Fire"
-      ],
       "height": 1.7,
       "weight": 120.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Zen Charm Pok\u00e9mon",
-      "flavor_text": "Darmanitan takes this form when enraged. It won\u2019t stop spewing flames until its rage has settled, even if its body starts to melt.",
+      "kind": "Zen Charm Pokémon",
+      "flavor_text": "Darmanitan takes this form when enraged. It won’t stop spewing flames until its rage has settled, even if its body starts to melt.",
       "abilities": [
         "Gorilla Tactics"
       ],
       "hidden_abilities": [
         "Zen Mode"
       ],
-      "regional_dex_nums": [
-        61,
-        103,
-        368
-      ]
+      "regional_dex_nums": {
+        "bw": 61,
+        "b2w2": 103,
+        "swsh": 368
+      }
     },
     "training_info": {
       "leveling_rate": "INVALID",
@@ -1091,7 +1100,7 @@
     },
     "breeding_info": {
       "egg_groups": [],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": null,
       "steps_to_hatch_upper": null,
       "egg_cycles": null
@@ -1354,6 +1363,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Hammer Arm"
+      ],
       "egg_moves": [
         "Encore",
         "Endure",

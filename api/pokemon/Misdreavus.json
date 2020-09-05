@@ -2,6 +2,9 @@
   {
     "species_name": "Misdreavus",
     "variant_name": "Misdreavus",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 60,
@@ -12,27 +15,24 @@
     },
     "dex_entry": {
       "national_dex_num": 200,
-      "types": [
-        "Ghost"
-      ],
       "height": 0.7,
       "weight": 1.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Screech Pok\u00e9mon",
-      "flavor_text": "What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn\u2019t deal well with folks who aren\u2019t easily frightened.",
+      "kind": "Screech Pokémon",
+      "flavor_text": "What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn’t deal well with folks who aren’t easily frightened.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        214,
-        72,
-        72,
-        219,
-        66,
-        372
-      ]
+      "regional_dex_nums": {
+        "gsc": 214,
+        "dp": 72,
+        "plat": 72,
+        "hgss": 219,
+        "sm": 66,
+        "usum": 372
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -263,6 +263,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Curse",
         "Destiny Bond",

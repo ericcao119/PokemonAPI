@@ -2,6 +2,9 @@
   {
     "species_name": "Skiddo",
     "variant_name": "Skiddo",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 66,
       "attack": 65,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 672,
-      "types": [
-        "Grass"
-      ],
       "height": 0.9,
       "weight": 31.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mount Pok\u00e9mon",
-      "flavor_text": "If it has sunshine and water, it doesn\u2019t need to eat, because it can generate energy from the leaves on its back.",
+      "kind": "Mount Pokémon",
+      "flavor_text": "If it has sunshine and water, it doesn’t need to eat, because it can generate energy from the leaves on its back.",
       "abilities": [
         "Sap Sipper"
       ],
       "hidden_abilities": [
         "Grass Pelt"
       ],
-      "regional_dex_nums": [
-        89
-      ]
+      "regional_dex_nums": {
+        "xy_central": 89
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -240,6 +240,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Defense Curl",
         "Grassy Terrain",

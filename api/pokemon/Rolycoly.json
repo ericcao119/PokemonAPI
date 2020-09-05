@@ -2,6 +2,9 @@
   {
     "species_name": "Rolycoly",
     "variant_name": "Rolycoly",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 40,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 837,
-      "types": [
-        "Rock"
-      ],
       "height": 0.3,
       "weight": 12.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Coal Pok\u00e9mon",
+      "kind": "Coal Pokémon",
       "flavor_text": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
       "abilities": [
         "Steam Engine",
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Flash Fire"
       ],
-      "regional_dex_nums": [
-        161
-      ]
+      "regional_dex_nums": {
+        "swsh": 161
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -202,6 +202,7 @@
           "Heat Crash"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Block",
         "Explosion",

@@ -2,6 +2,10 @@
   {
     "species_name": "Magneton",
     "variant_name": "Magneton",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 60,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 82,
-      "types": [
-        "Electric",
-        "Steel"
-      ],
       "height": 1.0,
       "weight": 60.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Magnet Pok\u00e9mon",
+      "kind": "Magnet Pokémon",
       "flavor_text": "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
       "abilities": [
         "Magnet Pull",
@@ -29,20 +29,20 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        82,
-        119,
-        83,
-        82,
-        179,
-        120,
-        49,
-        70,
-        85,
-        48,
-        55,
-        82
-      ]
+      "regional_dex_nums": {
+        "rby": 82,
+        "gsc": 119,
+        "rse": 83,
+        "frlg": 82,
+        "plat": 179,
+        "hgss": 120,
+        "b2w2": 49,
+        "xy_mountain": 70,
+        "oras": 85,
+        "sm": 48,
+        "usum": 55,
+        "lets_go": 82
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -62,7 +62,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -281,6 +281,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Tri Attack"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Electroweb",

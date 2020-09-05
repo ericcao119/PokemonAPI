@@ -2,6 +2,10 @@
   {
     "species_name": "Budew",
     "variant_name": "Budew",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 30,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 406,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 0.2,
       "weight": 1.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bud Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
+      "kind": "Bud Pokémon",
+      "flavor_text": "This Pokémon is highly sensitive to temperature changes. When its bud starts to open, that means spring is right around the corner.",
       "abilities": [
         "Natural Cure",
         "Poison Point"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Leaf Guard"
       ],
-      "regional_dex_nums": [
-        25,
-        25,
-        133,
-        71,
-        97,
-        59
-      ]
+      "regional_dex_nums": {
+        "dp": 25,
+        "plat": 25,
+        "b2w2": 133,
+        "xy_central": 71,
+        "oras": 97,
+        "swsh": 59
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -195,6 +195,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Cotton Spore",
         "Extrasensory",

@@ -2,6 +2,10 @@
   {
     "species_name": "Charjabug",
     "variant_name": "Charjabug",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 57,
       "attack": 82,
@@ -12,25 +16,21 @@
     },
     "dex_entry": {
       "national_dex_num": 737,
-      "types": [
-        "Bug",
-        "Electric"
-      ],
       "height": 0.5,
       "weight": 10.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Battery Pok\u00e9mon",
+      "kind": "Battery Pokémon",
       "flavor_text": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use.",
       "abilities": [
         "Battery"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        28,
-        35,
-        17
-      ]
+      "regional_dex_nums": {
+        "sm": 28,
+        "usum": 35,
+        "swsh": 17
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -218,7 +218,13 @@
           "Wild Charge"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Charge"
+      ],
+      "egg_moves": [
+        "Discharge",
+        "Harden"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -1,4 +1,6 @@
 {
-  "name": "Power Construct",
-  "description": "Changes form when HP drops below half."
+  "ability_name": "Power Construct",
+  "effect": "Power Construct is unique to Zygarde. When Zygarde 10% Forme or Zygarde 50% Forme falls below half HP, it changes into Zygarde Complete Forme.
+As Complete Forme has a higher base HP than the other two Formes, its HP is also restored by the same amount the maximum HP increased.",
+  "description": "Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme."
 }

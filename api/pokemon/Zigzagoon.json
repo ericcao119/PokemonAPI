@@ -2,6 +2,9 @@
   {
     "species_name": "Zigzagoon",
     "variant_name": "Zigzagoon",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 38,
       "attack": 30,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 263,
-      "types": [
-        "Normal"
-      ],
       "height": 0.4,
       "weight": 17.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "TinyRaccoon Pok\u00e9mon",
-      "flavor_text": "Zigzagoon that adapted to regions outside Galar acquired this appearance. If you\u2019ve lost something, this Pok\u00e9mon can likely find it.",
+      "kind": "TinyRaccoon Pokémon",
+      "flavor_text": "Zigzagoon that adapted to regions outside Galar acquired this appearance. If you’ve lost something, this Pokémon can likely find it.",
       "abilities": [
         "Pickup",
         "Gluttony"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Quick Feet"
       ],
-      "regional_dex_nums": [
-        12,
-        12,
-        12,
-        31
-      ]
+      "regional_dex_nums": {
+        "rse": 12,
+        "xy_central": 12,
+        "oras": 12,
+        "swsh": 31
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -244,6 +244,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Charm",
         "Extreme Speed",
@@ -295,6 +296,10 @@
   {
     "species_name": "Zigzagoon",
     "variant_name": "Galarian Zigzagoon",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
     "base_stats": {
       "hp": 38,
       "attack": 30,
@@ -305,15 +310,11 @@
     },
     "dex_entry": {
       "national_dex_num": 263,
-      "types": [
-        "Dark",
-        "Normal"
-      ],
       "height": 0.4,
       "weight": 17.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tiny Raccoon Pok\u00e9mon",
+      "kind": "Tiny Raccoon Pokémon",
       "flavor_text": "Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.",
       "abilities": [
         "Pickup",
@@ -322,12 +323,12 @@
       "hidden_abilities": [
         "Quick Feet"
       ],
-      "regional_dex_nums": [
-        12,
-        12,
-        12,
-        31
-      ]
+      "regional_dex_nums": {
+        "rse": 12,
+        "xy_central": 12,
+        "oras": 12,
+        "swsh": 31
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -347,7 +348,7 @@
       "egg_groups": [
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -538,6 +539,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Charm",
         "Extreme Speed",

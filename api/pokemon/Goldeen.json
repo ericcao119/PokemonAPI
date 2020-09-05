@@ -2,6 +2,9 @@
   {
     "species_name": "Goldeen",
     "variant_name": "Goldeen",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 67,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 118,
-      "types": [
-        "Water"
-      ],
       "height": 0.6,
       "weight": 15.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Goldfish Pok\u00e9mon",
+      "kind": "Goldfish Pokémon",
       "flavor_text": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
       "abilities": [
         "Swift Swim",
@@ -28,21 +28,21 @@
       "hidden_abilities": [
         "Lightning Rod"
       ],
-      "regional_dex_nums": [
-        118,
-        78,
-        50,
-        118,
-        78,
-        78,
-        78,
-        53,
-        51,
-        153,
-        186,
-        118,
-        146
-      ]
+      "regional_dex_nums": {
+        "rby": 118,
+        "gsc": 78,
+        "rse": 50,
+        "frlg": 118,
+        "dp": 78,
+        "plat": 78,
+        "hgss": 78,
+        "xy_central": 53,
+        "oras": 51,
+        "sm": 153,
+        "usum": 186,
+        "lets_go": 118,
+        "swsh": 146
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -250,6 +250,7 @@
           "Throat Chop"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Acupressure",
         "Aqua Tail",

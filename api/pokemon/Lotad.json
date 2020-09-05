@@ -2,6 +2,10 @@
   {
     "species_name": "Lotad",
     "variant_name": "Lotad",
+    "types": [
+      "Water",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 30,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 270,
-      "types": [
-        "Water",
-        "Grass"
-      ],
       "height": 0.5,
       "weight": 2.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Water Weed Pok\u00e9mon",
+      "kind": "Water Weed Pokémon",
       "flavor_text": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
       "abilities": [
         "Swift Swim",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Own Tempo"
       ],
-      "regional_dex_nums": [
-        19,
-        55,
-        19,
-        36
-      ]
+      "regional_dex_nums": {
+        "rse": 19,
+        "xy_mountain": 55,
+        "oras": 19,
+        "swsh": 36
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -230,6 +230,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Counter",
         "Flail",

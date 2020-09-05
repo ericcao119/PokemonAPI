@@ -2,6 +2,9 @@
   {
     "species_name": "Heatmor",
     "variant_name": "Heatmor",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 97,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 631,
-      "types": [
-        "Fire"
-      ],
       "height": 1.4,
       "weight": 58.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Anteater Pok\u00e9mon",
+      "kind": "Anteater Pokémon",
       "flavor_text": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
       "abilities": [
         "Gluttony",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "White Smoke"
       ],
-      "regional_dex_nums": [
-        137,
-        193,
-        105,
-        317
-      ]
+      "regional_dex_nums": {
+        "bw": 137,
+        "b2w2": 193,
+        "xy_mountain": 105,
+        "swsh": 317
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Belch",
         "Body Slam",

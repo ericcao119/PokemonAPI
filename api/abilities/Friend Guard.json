@@ -1,4 +1,6 @@
 {
-  "name": "Friend Guard",
+  "ability_name": "Friend Guard",
+  "effect": "Reduces damage done to allies.
+",
   "description": "Reduces damage done to allies."
 }

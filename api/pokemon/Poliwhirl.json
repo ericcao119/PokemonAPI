@@ -2,6 +2,9 @@
   {
     "species_name": "Poliwhirl",
     "variant_name": "Poliwhirl",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 61,
-      "types": [
-        "Water"
-      ],
       "height": 1.0,
       "weight": 20.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tadpole Pok\u00e9mon",
+      "kind": "Tadpole Pokémon",
       "flavor_text": "Under attack, it uses its belly spiral to put the foe to sleep. It then makes its escape.",
       "abilities": [
         "Water Absorb",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Swift Swim"
       ],
-      "regional_dex_nums": [
-        61,
-        73,
-        61,
-        73,
-        34,
-        150,
-        183,
-        61
-      ]
+      "regional_dex_nums": {
+        "rby": 61,
+        "gsc": 73,
+        "frlg": 61,
+        "hgss": 73,
+        "xy_mountain": 34,
+        "sm": 150,
+        "usum": 183,
+        "lets_go": 61
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -236,6 +236,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bubble Beam",
         "Encore",

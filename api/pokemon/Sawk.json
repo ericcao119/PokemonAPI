@@ -2,6 +2,9 @@
   {
     "species_name": "Sawk",
     "variant_name": "Sawk",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 125,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 539,
-      "types": [
-        "Fighting"
-      ],
       "height": 1.4,
       "weight": 51.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Karate Pok\u00e9mon",
-      "flavor_text": "The karate chops of a Sawk that\u2019s trained itself to the limit can cleave the ocean itself.",
+      "kind": "Karate Pokémon",
+      "flavor_text": "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself.",
       "abilities": [
         "Sturdy",
         "Inner Focus"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Mold Breaker"
       ],
-      "regional_dex_nums": [
-        45,
-        268,
-        98,
-        249
-      ]
+      "regional_dex_nums": {
+        "bw": 45,
+        "b2w2": 268,
+        "xy_coastal": 98,
+        "swsh": 249
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -252,6 +252,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Block",

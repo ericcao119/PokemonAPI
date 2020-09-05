@@ -1,4 +1,6 @@
 {
-  "name": "Cheek Pouch",
-  "description": "Restores additional HP when a Berry is consumed."
+  "ability_name": "Cheek Pouch",
+  "effect": "Cheek Pouch restores the bearer's HP when a Berry is consumed, on top of the berry's usual effects.
+So for example, it may cure a status condition and restore HP, or restore more HP than normal.",
+  "description": "Restores HP as well when the Pokémon eats a Berry."
 }

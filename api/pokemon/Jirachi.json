@@ -2,6 +2,10 @@
   {
     "species_name": "Jirachi",
     "variant_name": "Jirachi",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 100,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 385,
-      "types": [
-        "Steel",
-        "Psychic"
-      ],
       "height": 0.3,
       "weight": 1.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wish Pok\u00e9mon",
-      "flavor_text": "It\u2019s believed that when this Pok\u00e9mon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.",
+      "kind": "Wish Pokémon",
+      "flavor_text": "It’s believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.",
       "abilities": [
         "Serene Grace"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        201,
-        210
-      ]
+      "regional_dex_nums": {
+        "rse": 201,
+        "oras": 210
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -280,6 +280,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Drain Punch",

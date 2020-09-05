@@ -2,6 +2,10 @@
   {
     "species_name": "Tapu Koko",
     "variant_name": "Tapu Koko",
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 115,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 785,
-      "types": [
-        "Electric",
-        "Fairy"
-      ],
       "height": 1.8,
       "weight": 20.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Land Spirit Pok\u00e9mon",
+      "kind": "Land Spirit Pokémon",
       "flavor_text": "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
       "abilities": [
         "Electric Surge"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        285,
-        383
-      ]
+      "regional_dex_nums": {
+        "sm": 285,
+        "usum": 383
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -302,6 +302,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",

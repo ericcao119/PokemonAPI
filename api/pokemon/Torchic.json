@@ -2,6 +2,9 @@
   {
     "species_name": "Torchic",
     "variant_name": "Torchic",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 60,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 255,
-      "types": [
-        "Fire"
-      ],
       "height": 0.4,
       "weight": 2.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Chick Pok\u00e9mon",
-      "flavor_text": "Torchic has a place inside its body where it keeps its flame. Give it a hug\u2014it will be glowing with warmth. This Pok\u00e9mon is covered all over by a fluffy coat of down.",
+      "kind": "Chick Pokémon",
+      "flavor_text": "Torchic has a place inside its body where it keeps its flame. Give it a hug—it will be glowing with warmth. This Pokémon is covered all over by a fluffy coat of down.",
       "abilities": [
         "Blaze"
       ],
       "hidden_abilities": [
         "Speed Boost"
       ],
-      "regional_dex_nums": [
-        4,
-        4
-      ]
+      "regional_dex_nums": {
+        "rse": 4,
+        "oras": 4
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -217,6 +217,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Baton Pass",

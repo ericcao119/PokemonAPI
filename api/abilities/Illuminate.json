@@ -1,4 +1,6 @@
 {
-  "name": "Illuminate",
-  "description": "Raises the likelihood of meeting wild Pok\u00e9mon."
+  "ability_name": "Illuminate",
+  "effect": "Illuminate has no effect in battle.
+If a Pokémon with Illuminate is the leading party Pokémon, wild Pokémon are twice as likely to appear.",
+  "description": "Raises the likelihood of meeting wild Pokémon by illuminating the surroundings."
 }

@@ -1,4 +1,6 @@
 {
-  "name": "Own Tempo",
-  "description": "Prevents the Pok\u00e9mon from becoming confused."
+  "ability_name": "Own Tempo",
+  "effect": "Prevents the Pokémon from becoming confused.
+",
+  "description": "This Pokémon has its own tempo, and that prevents it from becoming confused."
 }

@@ -1,4 +1,6 @@
 {
-  "name": "Power Spot",
-  "description": "Just being next to the Pok\u00e9mon powers up moves."
+  "ability_name": "Power Spot",
+  "effect": "Just being next to the Pokémon powers up moves.
+",
+  "description": "Just being next to the Pokémon powers up moves."
 }

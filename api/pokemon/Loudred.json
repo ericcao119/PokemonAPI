@@ -2,6 +2,9 @@
   {
     "species_name": "Loudred",
     "variant_name": "Loudred",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 84,
       "attack": 71,
@@ -12,26 +15,23 @@
     },
     "dex_entry": {
       "national_dex_num": 294,
-      "types": [
-        "Normal"
-      ],
       "height": 1.0,
       "weight": 40.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Big Voice Pok\u00e9mon",
-      "flavor_text": "Loudred shouts while stamping its feet. After it finishes shouting, this Pok\u00e9mon becomes incapable of hearing anything for a while. This is considered to be a weak point.",
+      "kind": "Big Voice Pokémon",
+      "flavor_text": "Loudred shouts while stamping its feet. After it finishes shouting, this Pokémon becomes incapable of hearing anything for a while. This is considered to be a weak point.",
       "abilities": [
         "Soundproof"
       ],
       "hidden_abilities": [
         "Scrappy"
       ],
-      "regional_dex_nums": [
-        46,
-        141,
-        47
-      ]
+      "regional_dex_nums": {
+        "rse": 46,
+        "xy_central": 141,
+        "oras": 47
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -271,6 +271,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Bite"
+      ],
       "egg_moves": [
         "Circle Throw",
         "Disarming Voice",

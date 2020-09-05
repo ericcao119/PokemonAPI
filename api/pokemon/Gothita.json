@@ -2,6 +2,9 @@
   {
     "species_name": "Gothita",
     "variant_name": "Gothita",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 30,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 574,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.4,
       "weight": 5.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fixation Pok\u00e9mon",
-      "flavor_text": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it\u2019s speaking to something only it can see.",
+      "kind": "Fixation Pokémon",
+      "flavor_text": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see.",
       "abilities": [
         "Frisk",
         "Competitive"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Shadow Tag"
       ],
-      "regional_dex_nums": [
-        80,
-        136,
-        126,
-        267
-      ]
+      "regional_dex_nums": {
+        "bw": 80,
+        "b2w2": 136,
+        "xy_mountain": 126,
+        "swsh": 267
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -288,6 +288,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Dark Pulse",

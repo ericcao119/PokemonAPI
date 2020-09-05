@@ -1,4 +1,6 @@
 {
-  "name": "Illusion",
-  "description": "Enters battle disguised as the last Pok\u00e9mon in the party."
+  "ability_name": "Illusion",
+  "effect": "When a Pokémon with the Illusion ability switches into battle, it takes the form of the Pokémon in last place (6th) of the player's party. Illusion will not activate if the Pokémon in last place is the same species or is fainted.
+The effect is aesthetic only; Illusion does not change the Pokémon's type or moves, so for example a Fighting-type move against a Zoroark disguised as Gengar would still be super effective. Any direct attack (i.e. not entry hazards, weather conditions etc) will break the illusion.",
+  "description": "Comes out disguised as the Pokémon in the party’s last spot."
 }

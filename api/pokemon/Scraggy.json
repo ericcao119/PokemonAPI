@@ -2,6 +2,10 @@
   {
     "species_name": "Scraggy",
     "variant_name": "Scraggy",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 75,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 559,
-      "types": [
-        "Dark",
-        "Fighting"
-      ],
       "height": 0.6,
       "weight": 11.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Shedding Pok\u00e9mon",
-      "flavor_text": "It protects itself with its durable skin. It\u2019s thought that this Pok\u00e9mon will evolve once its skin has completely stretched out.",
+      "kind": "Shedding Pokémon",
+      "flavor_text": "It protects itself with its durable skin. It’s thought that this Pokémon will evolve once its skin has completely stretched out.",
       "abilities": [
         "Shed Skin",
         "Moxie"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Intimidate"
       ],
-      "regional_dex_nums": [
-        65,
-        117,
-        100,
-        335,
-        224
-      ]
+      "regional_dex_nums": {
+        "bw": 65,
+        "b2w2": 117,
+        "xy_central": 100,
+        "usum": 335,
+        "swsh": 224
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -279,6 +279,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Spray",
         "Amnesia",

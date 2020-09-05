@@ -2,6 +2,10 @@
   {
     "species_name": "Lunatone",
     "variant_name": "Lunatone",
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 55,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 337,
-      "types": [
-        "Rock",
-        "Psychic"
-      ],
       "height": 1.0,
       "weight": 168.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Meteorite Pok\u00e9mon",
+      "kind": "Meteorite Pokémon",
       "flavor_text": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        125,
-        214,
-        12,
-        130,
-        362
-      ]
+      "regional_dex_nums": {
+        "rse": 125,
+        "b2w2": 214,
+        "xy_coastal": 12,
+        "oras": 130,
+        "swsh": 362
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -52,7 +52,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -307,6 +307,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

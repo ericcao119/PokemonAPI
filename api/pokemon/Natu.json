@@ -2,6 +2,10 @@
   {
     "species_name": "Natu",
     "variant_name": "Natu",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 50,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 177,
-      "types": [
-        "Psychic",
-        "Flying"
-      ],
       "height": 0.2,
       "weight": 2.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tiny Bird Pok\u00e9mon",
-      "flavor_text": "Because its wings aren\u2019t yet fully grown, it has to hop to get around. It is always staring at something.",
+      "kind": "Tiny Bird Pokémon",
+      "flavor_text": "Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something.",
       "abilities": [
         "Synchronize",
         "Early Bird"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Magic Bounce"
       ],
-      "regional_dex_nums": [
-        159,
-        162,
-        161,
-        169,
-        252,
-        92
-      ]
+      "regional_dex_nums": {
+        "gsc": 159,
+        "rse": 162,
+        "hgss": 161,
+        "oras": 169,
+        "usum": 252,
+        "swsh": 92
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -267,6 +267,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Drill Peck",

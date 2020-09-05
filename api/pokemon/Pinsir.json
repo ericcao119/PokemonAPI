@@ -2,6 +2,9 @@
   {
     "species_name": "Pinsir",
     "variant_name": "Pinsir",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 125,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 127,
-      "types": [
-        "Bug"
-      ],
       "height": 1.5,
       "weight": 55.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Stag Beetle Pok\u00e9mon",
-      "flavor_text": "Grips its prey in its pincers and squeezes hard! It can\u2019t move if it\u2019s cold, so it lives in warm places.",
+      "kind": "Stag Beetle Pokémon",
+      "flavor_text": "Grips its prey in its pincers and squeezes hard! It can’t move if it’s cold, so it lives in warm places.",
       "abilities": [
         "Hyper Cutter",
         "Mold Breaker"
@@ -28,19 +28,19 @@
       "hidden_abilities": [
         "Moxie"
       ],
-      "regional_dex_nums": [
-        127,
-        112,
-        167,
-        127,
-        113,
-        146,
-        130,
-        174,
-        175,
-        211,
-        127
-      ]
+      "regional_dex_nums": {
+        "rby": 127,
+        "gsc": 112,
+        "rse": 167,
+        "frlg": 127,
+        "hgss": 113,
+        "b2w2": 146,
+        "xy_coastal": 130,
+        "oras": 174,
+        "sm": 175,
+        "usum": 211,
+        "lets_go": 127
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -267,6 +267,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bug Bite",
         "Close Combat",
@@ -316,6 +317,10 @@
   {
     "species_name": "Pinsir",
     "variant_name": "Mega Pinsir",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 155,
@@ -326,33 +331,29 @@
     },
     "dex_entry": {
       "national_dex_num": 127,
-      "types": [
-        "Bug",
-        "Flying"
-      ],
       "height": 1.7,
       "weight": 59.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Stag Beetle Pok\u00e9mon",
+      "kind": "Stag Beetle Pokémon",
       "flavor_text": "With its vaunted horns, it can lift an opponent 10 times heavier than itself and fly about with ease.",
       "abilities": [
         "Aerilate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        127,
-        112,
-        167,
-        127,
-        113,
-        146,
-        130,
-        174,
-        175,
-        211,
-        127
-      ]
+      "regional_dex_nums": {
+        "rby": 127,
+        "gsc": 112,
+        "rse": 167,
+        "frlg": 127,
+        "hgss": 113,
+        "b2w2": 146,
+        "xy_coastal": 130,
+        "oras": 174,
+        "sm": 175,
+        "usum": 211,
+        "lets_go": 127
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -579,6 +580,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bug Bite",
         "Close Combat",

@@ -2,6 +2,9 @@
   {
     "species_name": "Sylveon",
     "variant_name": "Sylveon",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 65,
@@ -12,27 +15,24 @@
     },
     "dex_entry": {
       "national_dex_num": 700,
-      "types": [
-        "Fairy"
-      ],
       "height": 1.0,
       "weight": 23.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Intertwining Pok\u00e9mon",
-      "flavor_text": "There\u2019s a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pok\u00e9mon.",
+      "kind": "Intertwining Pokémon",
+      "flavor_text": "There’s a Galarian fairy tale that describes a beautiful Sylveon vanquishing a dreadful dragon Pokémon.",
       "abilities": [
         "Cute Charm"
       ],
       "hidden_abilities": [
         "Pixilate"
       ],
-      "regional_dex_nums": [
-        85,
-        131,
-        161,
-        204
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 85,
+        "sm": 131,
+        "usum": 161,
+        "swsh": 204
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -239,6 +239,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Fairy Wind"
+      ],
       "egg_moves": [
         "Captivate",
         "Charm",

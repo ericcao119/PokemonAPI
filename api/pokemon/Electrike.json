@@ -2,6 +2,9 @@
   {
     "species_name": "Electrike",
     "variant_name": "Electrike",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 45,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 309,
-      "types": [
-        "Electric"
-      ],
       "height": 0.6,
       "weight": 15.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lightning Pok\u00e9mon",
+      "kind": "Lightning Pokémon",
       "flavor_text": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
       "abilities": [
         "Static",
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Minus"
       ],
-      "regional_dex_nums": [
-        78,
-        73,
-        80,
-        293,
-        66
-      ]
+      "regional_dex_nums": {
+        "rse": 78,
+        "xy_coastal": 73,
+        "oras": 80,
+        "usum": 293,
+        "swsh": 66
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -225,6 +225,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Crunch",
         "Curse",

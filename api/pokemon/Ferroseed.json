@@ -2,6 +2,10 @@
   {
     "species_name": "Ferroseed",
     "variant_name": "Ferroseed",
+    "types": [
+      "Grass",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 44,
       "attack": 50,
@@ -12,28 +16,24 @@
     },
     "dex_entry": {
       "national_dex_num": 597,
-      "types": [
-        "Grass",
-        "Steel"
-      ],
       "height": 0.6,
       "weight": 18.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Thorn Seed Pok\u00e9mon",
-      "flavor_text": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed\u2019s spikes grow big and strong.",
+      "kind": "Thorn Seed Pokémon",
+      "flavor_text": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong.",
       "abilities": [
         "Iron Barbs"
       ],
       "hidden_abilities": [
         "Anticipation"
       ],
-      "regional_dex_nums": [
-        103,
-        175,
-        69,
-        189
-      ]
+      "regional_dex_nums": {
+        "bw": 103,
+        "b2w2": 175,
+        "xy_coastal": 69,
+        "swsh": 189
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -225,6 +225,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Spray",
         "Bullet Seed",

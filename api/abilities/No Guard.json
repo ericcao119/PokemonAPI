@@ -1,4 +1,7 @@
 {
-  "name": "No Guard",
-  "description": "Ensures attacks by or against the Pok\u00e9mon land."
+  "ability_name": "No Guard",
+  "effect": "No Guard ensures that all attacks used by, and targeted at, the ability-bearer hit without fail.
+This includes moves used on a Pokémon in the hidden stages of the moves Fly, Dive, Dig and Shadow Force.
+If a Pokémon with No Guard is the leading party Pokémon, wild Pokémon are twice as likely to appear.",
+  "description": "The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land."
 }

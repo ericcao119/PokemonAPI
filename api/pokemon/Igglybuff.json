@@ -2,6 +2,10 @@
   {
     "species_name": "Igglybuff",
     "variant_name": "Igglybuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 30,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 174,
-      "types": [
-        "Normal",
-        "Fairy"
-      ],
       "height": 0.3,
       "weight": 1.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Balloon Pok\u00e9mon",
-      "flavor_text": "Left to its own devices, it will constantly practice singing. You should make it take a break so it doesn\u2019t hurt its throat.",
+      "kind": "Balloon Pokémon",
+      "flavor_text": "Left to its own devices, it will constantly practice singing. You should make it take a break so it doesn’t hurt its throat.",
       "abilities": [
         "Cute Charm",
         "Competitive"
@@ -29,16 +29,16 @@
       "hidden_abilities": [
         "Friend Guard"
       ],
-      "regional_dex_nums": [
-        43,
-        137,
-        43,
-        281,
-        119,
-        142,
-        134,
-        167
-      ]
+      "regional_dex_nums": {
+        "gsc": 43,
+        "rse": 137,
+        "hgss": 43,
+        "b2w2": 281,
+        "xy_mountain": 119,
+        "oras": 142,
+        "sm": 134,
+        "usum": 167
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -221,6 +221,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Covet",

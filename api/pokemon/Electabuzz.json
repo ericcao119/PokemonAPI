@@ -2,6 +2,9 @@
   {
     "species_name": "Electabuzz",
     "variant_name": "Electabuzz",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 83,
@@ -12,32 +15,29 @@
     },
     "dex_entry": {
       "national_dex_num": 125,
-      "types": [
-        "Electric"
-      ],
       "height": 1.1,
       "weight": 30.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Electric Pok\u00e9mon",
-      "flavor_text": "If a major power outage occurs, it is certain that this Pok\u00e9mon has eaten electricity at a power plant.",
+      "kind": "Electric Pokémon",
+      "flavor_text": "If a major power outage occurs, it is certain that this Pokémon has eaten electricity at a power plant.",
       "abilities": [
         "Static"
       ],
       "hidden_abilities": [
         "Vital Spirit"
       ],
-      "regional_dex_nums": [
-        125,
-        155,
-        125,
-        198,
-        157,
-        57,
-        227,
-        296,
-        125
-      ]
+      "regional_dex_nums": {
+        "rby": 125,
+        "gsc": 155,
+        "frlg": 125,
+        "plat": 198,
+        "hgss": 157,
+        "b2w2": 57,
+        "sm": 227,
+        "usum": 296,
+        "lets_go": 125
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -248,6 +248,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Barrier",
         "Cross Chop",

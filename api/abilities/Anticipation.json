@@ -1,4 +1,6 @@
 {
-  "name": "Anticipation",
-  "description": "Senses a foe's dangerous moves."
+  "ability_name": "Anticipation",
+  "effect": "A Pokémon with Anticipation will shudder upon entering battle, if an opponent has a move that is super-effective against it, or a One-Hit-KO move (Fissure, Horn Drill, Guillotine or Sheer Cold). It only activates when the ability-bearer switches in, not when an opponent switches in.
+Anticipation does not activate if the opponent has a move that varies in type, such as Hidden Power, Judgment or Weather Ball, even if those moves would be super-effective.",
+  "description": "The Pokémon can sense an opposing Pokémon’s dangerous moves."
 }

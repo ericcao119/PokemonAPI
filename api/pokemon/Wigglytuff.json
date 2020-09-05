@@ -2,6 +2,10 @@
   {
     "species_name": "Wigglytuff",
     "variant_name": "Wigglytuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 140,
       "attack": 70,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 40,
-      "types": [
-        "Normal",
-        "Fairy"
-      ],
       "height": 1.0,
       "weight": 12.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Balloon Pok\u00e9mon",
+      "kind": "Balloon Pokémon",
       "flavor_text": "Its body is very elastic. By inhaling deeply, it can continue to inflate itself without limit.",
       "abilities": [
         "Cute Charm",
@@ -29,19 +29,19 @@
       "hidden_abilities": [
         "Frisk"
       ],
-      "regional_dex_nums": [
-        40,
-        45,
-        139,
-        40,
-        45,
-        283,
-        121,
-        144,
-        136,
-        169,
-        40
-      ]
+      "regional_dex_nums": {
+        "rby": 40,
+        "gsc": 45,
+        "rse": 139,
+        "frlg": 40,
+        "hgss": 45,
+        "b2w2": 283,
+        "xy_mountain": 121,
+        "oras": 144,
+        "sm": 136,
+        "usum": 169,
+        "lets_go": 40
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -268,6 +268,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Covet",

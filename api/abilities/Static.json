@@ -1,4 +1,6 @@
 {
-  "name": "Static",
-  "description": "Contact with the Pok\u00e9mon may cause paralysis."
+  "ability_name": "Static",
+  "effect": "If a Pokémon with Static is hit by a move making contact, there is a 30% chance the foe will become paralyzed.
+If a Pokémon with Static is the leading party Pokémon, it is 50% more likely that a wild Pokémon encountered will be Electric type.",
+  "description": "The Pokémon is charged with static electricity, so contact with it may cause paralysis."
 }

@@ -1,4 +1,6 @@
 {
-  "name": "Forewarn",
-  "description": "Determines what moves a foe has."
+  "ability_name": "Forewarn",
+  "effect": "Determines what moves a foe has.
+",
+  "description": "When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."
 }

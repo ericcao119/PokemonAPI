@@ -2,6 +2,9 @@
   {
     "species_name": "Eiscue",
     "variant_name": "Ice Face",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 80,
@@ -12,22 +15,19 @@
     },
     "dex_entry": {
       "national_dex_num": 875,
-      "types": [
-        "Ice"
-      ],
       "height": 1.4,
       "weight": 89.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Penguin Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
+      "kind": "Penguin Pokémon",
+      "flavor_text": "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
       "abilities": [
         "Ice Face"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        370
-      ]
+      "regional_dex_nums": {
+        "swsh": 370
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
         "Field",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -232,6 +232,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Belly Drum",
@@ -247,6 +248,9 @@
   {
     "species_name": "Eiscue",
     "variant_name": "Noice Face",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 80,
@@ -257,22 +261,19 @@
     },
     "dex_entry": {
       "national_dex_num": 875,
-      "types": [
-        "Ice"
-      ],
       "height": 1.4,
       "weight": 89.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Penguin Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
+      "kind": "Penguin Pokémon",
+      "flavor_text": "The hair on its head connects to the surface of its brain. When this Pokémon has something on its mind, its hair chills the air around it.",
       "abilities": [
         "Ice Face"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        370
-      ]
+      "regional_dex_nums": {
+        "swsh": 370
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -293,7 +294,7 @@
         "Field",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -477,6 +478,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Belly Drum",

@@ -1,4 +1,7 @@
 {
-  "name": "Drizzle",
-  "description": "The Pok\u00e9mon makes it rain when it enters a battle."
+  "ability_name": "Drizzle",
+  "effect": "Drizzle creates a rain shower when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.
+If multiple Pokémon with weather-generating abilities (Drizzle, Drought, Sand Stream or Snow Warning) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon.
+Prior to Generation 6, Drizzle lasts indefinitely upon activation.",
+  "description": "The Pokémon makes it rain when it enters a battle."
 }

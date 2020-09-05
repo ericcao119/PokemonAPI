@@ -2,6 +2,10 @@
   {
     "species_name": "Skiploom",
     "variant_name": "Skiploom",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 45,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 188,
-      "types": [
-        "Grass",
-        "Flying"
-      ],
       "height": 0.6,
       "weight": 1.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cottonweed Pok\u00e9mon",
-      "flavor_text": "Skiploom\u2019s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pok\u00e9mon is sometimes used as a thermometer.",
+      "kind": "Cottonweed Pokémon",
+      "flavor_text": "Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
       "abilities": [
         "Chlorophyll",
         "Leaf Guard"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        68,
-        68,
-        136
-      ]
+      "regional_dex_nums": {
+        "gsc": 68,
+        "hgss": 68,
+        "xy_central": 136
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -257,6 +257,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Aromatherapy",

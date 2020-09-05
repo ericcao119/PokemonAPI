@@ -2,6 +2,9 @@
   {
     "species_name": "Flaaffy",
     "variant_name": "Flaaffy",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 55,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 180,
-      "types": [
-        "Electric"
-      ],
       "height": 0.8,
       "weight": 13.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wool Pok\u00e9mon",
+      "kind": "Wool Pokémon",
       "flavor_text": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
       "abilities": [
         "Static"
@@ -27,13 +27,13 @@
       "hidden_abilities": [
         "Plus"
       ],
-      "regional_dex_nums": [
-        54,
-        54,
-        26,
-        128,
-        163
-      ]
+      "regional_dex_nums": {
+        "gsc": 54,
+        "hgss": 54,
+        "b2w2": 26,
+        "xy_coastal": 128,
+        "usum": 163
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -237,6 +237,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "After You",
         "Agility",

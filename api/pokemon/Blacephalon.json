@@ -2,6 +2,10 @@
   {
     "species_name": "Blacephalon",
     "variant_name": "Blacephalon",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 53,
       "attack": 127,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 806,
-      "types": [
-        "Fire",
-        "Ghost"
-      ],
       "height": 1.8,
       "weight": 13.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fireworks Pok\u00e9mon",
-      "flavor_text": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents\u2019 surprise to rob them of their vitality.",
+      "kind": "Fireworks Pokémon",
+      "flavor_text": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents’ surprise to rob them of their vitality.",
       "abilities": [
         "Beast Boost"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        392
-      ]
+      "regional_dex_nums": {
+        "usum": 392
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -247,6 +247,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "After You",

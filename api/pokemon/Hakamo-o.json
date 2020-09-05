@@ -2,6 +2,10 @@
   {
     "species_name": "Hakamo-o",
     "variant_name": "Hakamo-o",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 75,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 783,
-      "types": [
-        "Dragon",
-        "Fighting"
-      ],
       "height": 1.2,
       "weight": 47.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scaly Pok\u00e9mon",
+      "kind": "Scaly Pokémon",
       "flavor_text": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.",
       "abilities": [
         "Bulletproof",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        272,
-        362,
-        393
-      ]
+      "regional_dex_nums": {
+        "sm": 272,
+        "usum": 362,
+        "swsh": 393
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -292,6 +292,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Sky Uppercut"
+      ],
       "egg_moves": [
         "Counter",
         "Dragon Breath",

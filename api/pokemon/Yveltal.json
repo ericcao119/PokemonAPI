@@ -2,6 +2,10 @@
   {
     "species_name": "Yveltal",
     "variant_name": "Yveltal",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 126,
       "attack": 131,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 717,
-      "types": [
-        "Dark",
-        "Flying"
-      ],
       "height": 5.8,
       "weight": 203.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Destruction Pok\u00e9mon",
+      "kind": "Destruction Pokémon",
       "flavor_text": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
       "abilities": [
         "Dark Aura"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        149
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 149
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -279,6 +279,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Block",

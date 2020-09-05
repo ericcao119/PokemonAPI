@@ -1,4 +1,9 @@
 {
-  "name": "Storm Drain",
-  "description": "Draws in all Water-type moves to up Sp. Attack."
+  "ability_name": "Storm Drain",
+  "effect": "Storm Drain forces all single-target Water-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. The ability is most useful in double/triple battles.
+When hit by the move, it deals no damage to the ability-bearer but raises its Special Attack by one stage. Stats can be raised to a maximum of +6 stages each.
+Storm Drain will activate for an Water-type Hidden Power, but not Water-type Judgment.
+The ability is overridden by other Pokémon becoming the center of attention from the moves Follow Me or Rage Powder.
+In Generation 4, Storm Drain did not increase Special Attack nor give immunity to Water-type attacks. It also did not activate for Hidden Power.",
+  "description": "Draws in all Water-type moves. Instead of being hit by Water-type moves, it boosts its Sp. Atk."
 }

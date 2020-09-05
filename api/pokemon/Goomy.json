@@ -2,6 +2,9 @@
   {
     "species_name": "Goomy",
     "variant_name": "Goomy",
+    "types": [
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 50,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 704,
-      "types": [
-        "Dragon"
-      ],
       "height": 0.3,
       "weight": 2.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Soft Tissue Pok\u00e9mon",
-      "flavor_text": "Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they\u2019ve survived.",
+      "kind": "Soft Tissue Pokémon",
+      "flavor_text": "Their horns are powerful sensors. As soon as Goomy pick up any sign of enemies, they go into hiding. This is how they’ve survived.",
       "abilities": [
         "Sap Sipper",
         "Hydration"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Gooey"
       ],
-      "regional_dex_nums": [
-        19,
-        178,
-        217,
-        389
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 19,
+        "sm": 178,
+        "usum": 217,
+        "swsh": 389
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -192,6 +192,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Armor",
         "Counter",

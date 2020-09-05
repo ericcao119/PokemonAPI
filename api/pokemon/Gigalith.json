@@ -2,6 +2,9 @@
   {
     "species_name": "Gigalith",
     "variant_name": "Gigalith",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 135,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 526,
-      "types": [
-        "Rock"
-      ],
       "height": 1.7,
       "weight": 260.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Compressed Pok\u00e9mon",
-      "flavor_text": "Although its energy blasts can blow away a dump truck, they have a limitation\u2014 they can only be fired when the sun is out.",
+      "kind": "Compressed Pokémon",
+      "flavor_text": "Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out.",
       "abilities": [
         "Sturdy",
         "Sand Stream"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        32,
-        70,
-        122,
-        100,
-        122,
-        170
-      ]
+      "regional_dex_nums": {
+        "bw": 32,
+        "b2w2": 70,
+        "xy_coastal": 122,
+        "sm": 100,
+        "usum": 122,
+        "swsh": 170
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -246,6 +246,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Autotomize",
         "Curse",

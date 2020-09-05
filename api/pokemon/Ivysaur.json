@@ -2,6 +2,10 @@
   {
     "species_name": "Ivysaur",
     "variant_name": "Ivysaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 62,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 2,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 1.0,
       "weight": 13.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Seed Pok\u00e9mon",
+      "kind": "Seed Pokémon",
       "flavor_text": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
       "abilities": [
         "Overgrow"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Chlorophyll"
       ],
-      "regional_dex_nums": [
-        2,
-        227,
-        2,
-        232,
-        81,
-        2
-      ]
+      "regional_dex_nums": {
+        "rby": 2,
+        "gsc": 227,
+        "frlg": 2,
+        "hgss": 232,
+        "xy_central": 81,
+        "lets_go": 2
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -256,7 +256,15 @@
           "Work Up"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Curse",
+        "Ingrain",
+        "Nature Power",
+        "Petal Dance",
+        "Skull Bash",
+        "Toxic"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

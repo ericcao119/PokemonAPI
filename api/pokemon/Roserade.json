@@ -2,6 +2,10 @@
   {
     "species_name": "Roserade",
     "variant_name": "Roserade",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 70,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 407,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 0.9,
       "weight": 14.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bouquet Pok\u00e9mon",
+      "kind": "Bouquet Pokémon",
       "flavor_text": "The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening.",
       "abilities": [
         "Natural Cure",
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Technician"
       ],
-      "regional_dex_nums": [
-        27,
-        27,
-        135,
-        73,
-        99,
-        61
-      ]
+      "regional_dex_nums": {
+        "dp": 27,
+        "plat": 27,
+        "b2w2": 135,
+        "xy_central": 73,
+        "oras": 99,
+        "swsh": 61
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -212,6 +212,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bullet Seed",
         "Cotton Spore",

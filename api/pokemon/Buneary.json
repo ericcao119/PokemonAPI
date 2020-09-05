@@ -2,6 +2,9 @@
   {
     "species_name": "Buneary",
     "variant_name": "Buneary",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 66,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 427,
-      "types": [
-        "Normal"
-      ],
       "height": 0.4,
       "weight": 5.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rabbit Pok\u00e9mon",
-      "flavor_text": "The reason it keeps one ear rolled up is so it can launch a swift counterattack if it\u2019s attacked by an enemy.",
+      "kind": "Rabbit Pokémon",
+      "flavor_text": "The reason it keeps one ear rolled up is so it can launch a swift counterattack if it’s attacked by an enemy.",
       "abilities": [
         "Run Away",
         "Klutz"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Limber"
       ],
-      "regional_dex_nums": [
-        67,
-        67,
-        80,
-        24
-      ]
+      "regional_dex_nums": {
+        "dp": 67,
+        "plat": 67,
+        "b2w2": 80,
+        "usum": 24
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -233,6 +233,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Circle Throw",
         "Copycat",

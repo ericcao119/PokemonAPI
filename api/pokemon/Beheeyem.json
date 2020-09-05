@@ -2,6 +2,9 @@
   {
     "species_name": "Beheeyem",
     "variant_name": "Beheeyem",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 75,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 606,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.0,
       "weight": 34.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cerebral Pok\u00e9mon",
-      "flavor_text": "Sometimes found drifting above wheat fields, this Pok\u00e9mon can control the memories of its opponents.",
+      "kind": "Cerebral Pokémon",
+      "flavor_text": "Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents.",
       "abilities": [
         "Telepathy",
         "Synchronize"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        112,
-        189,
-        276,
-        278
-      ]
+      "regional_dex_nums": {
+        "bw": 112,
+        "b2w2": 189,
+        "usum": 276,
+        "swsh": 278
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -312,6 +312,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Astonish",

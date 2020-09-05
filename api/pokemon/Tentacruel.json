@@ -2,6 +2,10 @@
   {
     "species_name": "Tentacruel",
     "variant_name": "Tentacruel",
+    "types": [
+      "Water",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 70,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 73,
-      "types": [
-        "Water",
-        "Poison"
-      ],
       "height": 1.6,
       "weight": 55.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Jellyfish Pok\u00e9mon",
+      "kind": "Jellyfish Pokémon",
       "flavor_text": "Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.",
       "abilities": [
         "Clear Body",
@@ -29,20 +29,20 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        73,
-        163,
-        67,
-        73,
-        137,
-        137,
-        165,
-        26,
-        69,
-        107,
-        130,
-        73
-      ]
+      "regional_dex_nums": {
+        "rby": 73,
+        "gsc": 163,
+        "rse": 67,
+        "frlg": 73,
+        "dp": 137,
+        "plat": 137,
+        "hgss": 165,
+        "xy_coastal": 26,
+        "oras": 69,
+        "sm": 107,
+        "usum": 130,
+        "lets_go": 73
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -293,6 +293,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acupressure",
         "Aqua Ring",

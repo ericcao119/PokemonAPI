@@ -2,6 +2,9 @@
   {
     "species_name": "Musharna",
     "variant_name": "Musharna",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 116,
       "attack": 55,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 518,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.1,
       "weight": 60.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Drowsing Pok\u00e9mon",
-      "flavor_text": "It drowses and dreams all the time. It\u2019s best to leave it be if it\u2019s just woken up, as it\u2019s a terrible grump when freshly roused from sleep.",
+      "kind": "Drowsing Pokémon",
+      "flavor_text": "It drowses and dreams all the time. It’s best to leave it be if it’s just woken up, as it’s a terrible grump when freshly roused from sleep.",
       "abilities": [
         "Forewarn",
         "Synchronize"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        24,
-        87,
-        91
-      ]
+      "regional_dex_nums": {
+        "bw": 24,
+        "b2w2": 87,
+        "swsh": 91
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -223,6 +223,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Barrier",
         "Baton Pass",

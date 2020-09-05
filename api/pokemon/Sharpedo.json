@@ -2,6 +2,10 @@
   {
     "species_name": "Sharpedo",
     "variant_name": "Sharpedo",
+    "types": [
+      "Water",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 120,
@@ -12,29 +16,25 @@
     },
     "dex_entry": {
       "national_dex_num": 319,
-      "types": [
-        "Water",
-        "Dark"
-      ],
       "height": 1.8,
       "weight": 88.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Brutal Pok\u00e9mon",
-      "flavor_text": "It drinks in seawater and jets it from its rear to propel itself. It\u2019s very sensitive to the scent of blood.",
+      "kind": "Brutal Pokémon",
+      "flavor_text": "It drinks in seawater and jets it from its rear to propel itself. It’s very sensitive to the scent of blood.",
       "abilities": [
         "Rough Skin"
       ],
       "hidden_abilities": [
         "Speed Boost"
       ],
-      "regional_dex_nums": [
-        98,
-        56,
-        103,
-        265,
-        346
-      ]
+      "regional_dex_nums": {
+        "rse": 98,
+        "xy_central": 56,
+        "oras": 103,
+        "sm": 265,
+        "usum": 346
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -285,6 +285,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Slash"
+      ],
       "egg_moves": [
         "Ancient Power",
         "Brine",
@@ -326,6 +329,10 @@
   {
     "species_name": "Sharpedo",
     "variant_name": "Mega Sharpedo",
+    "types": [
+      "Water",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 140,
@@ -336,27 +343,23 @@
     },
     "dex_entry": {
       "national_dex_num": 319,
-      "types": [
-        "Water",
-        "Dark"
-      ],
       "height": 2.5,
       "weight": 130.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Brutal Pok\u00e9mon",
-      "flavor_text": "The moment it charges into its opponent, sharp spikes pop out of Sharpedo\u2019s head, leaving its opponent with deep wounds.",
+      "kind": "Brutal Pokémon",
+      "flavor_text": "The moment it charges into its opponent, sharp spikes pop out of Sharpedo’s head, leaving its opponent with deep wounds.",
       "abilities": [
         "Strong Jaw"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        98,
-        56,
-        103,
-        265,
-        346
-      ]
+      "regional_dex_nums": {
+        "rse": 98,
+        "xy_central": 56,
+        "oras": 103,
+        "sm": 265,
+        "usum": 346
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -607,6 +610,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Slash"
+      ],
       "egg_moves": [
         "Ancient Power",
         "Brine",

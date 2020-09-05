@@ -2,6 +2,9 @@
   {
     "species_name": "Machop",
     "variant_name": "Machop",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 80,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 66,
-      "types": [
-        "Fighting"
-      ],
       "height": 0.8,
       "weight": 19.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Superpower Pok\u00e9mon",
+      "kind": "Superpower Pokémon",
       "flavor_text": "Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.",
       "abilities": [
         "Guts",
@@ -28,21 +28,21 @@
       "hidden_abilities": [
         "Steadfast"
       ],
-      "regional_dex_nums": [
-        66,
-        140,
-        73,
-        66,
-        40,
-        40,
-        142,
-        57,
-        75,
-        95,
-        117,
-        66,
-        138
-      ]
+      "regional_dex_nums": {
+        "rby": 66,
+        "gsc": 140,
+        "rse": 73,
+        "frlg": 66,
+        "dp": 40,
+        "plat": 40,
+        "hgss": 142,
+        "xy_coastal": 57,
+        "oras": 75,
+        "sm": 95,
+        "usum": 117,
+        "lets_go": 66,
+        "swsh": 138
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -318,6 +318,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Bullet Punch",
         "Counter",

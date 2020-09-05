@@ -2,6 +2,9 @@
   {
     "species_name": "Fraxure",
     "variant_name": "Fraxure",
+    "types": [
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 66,
       "attack": 117,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 611,
-      "types": [
-        "Dragon"
-      ],
       "height": 1.0,
       "weight": 36.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Axe Jaw Pok\u00e9mon",
-      "flavor_text": "Its skin is as hard as a suit of armor. Fraxure\u2019s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
+      "kind": "Axe Jaw Pokémon",
+      "flavor_text": "Its skin is as hard as a suit of armor. Fraxure’s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
       "abilities": [
         "Rivalry",
         "Mold Breaker"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        117,
-        184,
-        149,
-        325
-      ]
+      "regional_dex_nums": {
+        "bw": 117,
+        "b2w2": 184,
+        "xy_central": 149,
+        "swsh": 325
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -261,6 +261,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Counter",
         "Dragon Pulse",

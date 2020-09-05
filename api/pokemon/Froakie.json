@@ -2,6 +2,9 @@
   {
     "species_name": "Froakie",
     "variant_name": "Froakie",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 41,
       "attack": 56,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 656,
-      "types": [
-        "Water"
-      ],
       "height": 0.3,
       "weight": 7.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bubble Frog Pok\u00e9mon",
+      "kind": "Bubble Frog Pokémon",
       "flavor_text": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
       "abilities": [
         "Torrent"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Protean"
       ],
-      "regional_dex_nums": [
-        7
-      ]
+      "regional_dex_nums": {
+        "xy_central": 7
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -244,6 +244,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Camouflage",

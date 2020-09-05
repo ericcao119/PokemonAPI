@@ -2,6 +2,10 @@
   {
     "species_name": "Excadrill",
     "variant_name": "Excadrill",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 135,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 530,
-      "types": [
-        "Ground",
-        "Steel"
-      ],
       "height": 0.7,
       "weight": 40.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Subterrene Pok\u00e9mon",
-      "flavor_text": "Known as the Drill King, this Pok\u00e9mon can tunnel through the terrain at speeds of over 90 mph.",
+      "kind": "Subterrene Pokémon",
+      "flavor_text": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.",
       "abilities": [
         "Sand Rush",
         "Sand Force"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Mold Breaker"
       ],
-      "regional_dex_nums": [
-        36,
-        77,
-        167
-      ]
+      "regional_dex_nums": {
+        "bw": 36,
+        "b2w2": 77,
+        "swsh": 167
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -268,6 +268,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Horn Drill"
+      ],
       "egg_moves": [
         "Crush Claw",
         "Earth Power",

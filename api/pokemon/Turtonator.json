@@ -2,6 +2,10 @@
   {
     "species_name": "Turtonator",
     "variant_name": "Turtonator",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 78,
@@ -12,25 +16,21 @@
     },
     "dex_entry": {
       "national_dex_num": 776,
-      "types": [
-        "Fire",
-        "Dragon"
-      ],
       "height": 2.0,
       "weight": 212.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Blast Turtle Pok\u00e9mon",
+      "kind": "Blast Turtle Pokémon",
       "flavor_text": "Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.",
       "abilities": [
         "Shell Armor"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        224,
-        288,
-        347
-      ]
+      "regional_dex_nums": {
+        "sm": 224,
+        "usum": 288,
+        "swsh": 347
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -315,6 +315,7 @@
           "Body Press"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Curse",
         "Head Smash",

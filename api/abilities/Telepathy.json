@@ -1,4 +1,6 @@
 {
-  "name": "Telepathy",
-  "description": "Anticipates an ally's attack and dodges it."
+  "ability_name": "Telepathy",
+  "effect": "Pokémon with the Telepathy ability will not take damage from teammates in double and triple battles.
+This affects moves such as Surf and Earthquake, which normally hit all Pokémon on the field apart from the user.",
+  "description": "Anticipates an ally’s attack and dodges it."
 }

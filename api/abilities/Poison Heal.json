@@ -1,4 +1,6 @@
 {
-  "name": "Poison Heal",
-  "description": "Restores HP if the Pok\u00e9mon is poisoned."
+  "ability_name": "Poison Heal",
+  "effect": "Restores HP if the Pokémon is poisoned.
+",
+  "description": "Restores HP if the Pokémon is poisoned instead of losing HP."
 }

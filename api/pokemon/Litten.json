@@ -2,6 +2,9 @@
   {
     "species_name": "Litten",
     "variant_name": "Litten",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 725,
-      "types": [
-        "Fire"
-      ],
       "height": 0.4,
       "weight": 4.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fire Cat Pok\u00e9mon",
+      "kind": "Fire Cat Pokémon",
       "flavor_text": "Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful.",
       "abilities": [
         "Blaze"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Intimidate"
       ],
-      "regional_dex_nums": [
-        4,
-        4
-      ]
+      "regional_dex_nums": {
+        "sm": 4,
+        "usum": 4
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -250,6 +250,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Fake Out",
         "Parting Shot",

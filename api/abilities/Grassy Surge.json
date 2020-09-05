@@ -1,4 +1,5 @@
 {
-  "name": "Grassy Surge",
-  "description": "The Pok\u00e9mon creates a Grassy Terrain when it enters a battle."
+  "ability_name": "Grassy Surge",
+  "effect": "Grassy Surge creates a low-lying grassy field, like the move Grassy Terrain, when the Pokémon enters battle. It restores the HP of grounded Pokémon each turn and increases the power of Grass type attacks.",
+  "description": "Turns the ground into Grassy Terrain when the Pokémon enters a battle."
 }

@@ -2,6 +2,9 @@
   {
     "species_name": "Mightyena",
     "variant_name": "Mightyena",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 90,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 262,
-      "types": [
-        "Dark"
-      ],
       "height": 1.0,
       "weight": 37.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bite Pok\u00e9mon",
-      "flavor_text": "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pok\u00e9mon to obey only those Trainers that it recognizes to possess superior skill.",
+      "kind": "Bite Pokémon",
+      "flavor_text": "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pokémon to obey only those Trainers that it recognizes to possess superior skill.",
       "abilities": [
         "Intimidate",
         "Quick Feet"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Moxie"
       ],
-      "regional_dex_nums": [
-        11,
-        45,
-        11
-      ]
+      "regional_dex_nums": {
+        "rse": 11,
+        "xy_mountain": 45,
+        "oras": 11
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -271,6 +271,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Snarl"
+      ],
       "egg_moves": [
         "Astonish",
         "Covet",

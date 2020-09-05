@@ -2,6 +2,9 @@
   {
     "species_name": "Rockruff",
     "variant_name": "Rockruff",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 65,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 744,
-      "types": [
-        "Rock"
-      ],
       "height": 0.5,
       "weight": 9.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Puppy Pok\u00e9mon",
-      "flavor_text": "When it rubs the rocks on its neck against you, that\u2019s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+      "kind": "Puppy Pokémon",
+      "flavor_text": "When it rubs the rocks on its neck against you, that’s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
       "abilities": [
         "Keen Eye",
         "Vital Spirit"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Steadfast"
       ],
-      "regional_dex_nums": [
-        103,
-        126
-      ]
+      "regional_dex_nums": {
+        "sm": 103,
+        "usum": 126
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -210,6 +210,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Crush Claw",
         "Fire Fang",
@@ -237,6 +238,9 @@
   {
     "species_name": "Rockruff",
     "variant_name": "Own Tempo Rockruff",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 65,
@@ -247,23 +251,20 @@
     },
     "dex_entry": {
       "national_dex_num": 744,
-      "types": [
-        "Rock"
-      ],
       "height": 0.5,
       "weight": 9.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Puppy Pok\u00e9mon",
-      "flavor_text": "When it rubs the rocks on its neck against you, that\u2019s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+      "kind": "Puppy Pokémon",
+      "flavor_text": "When it rubs the rocks on its neck against you, that’s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
       "abilities": [
         "Own Tempo"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        103,
-        126
-      ]
+      "regional_dex_nums": {
+        "sm": 103,
+        "usum": 126
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -442,6 +443,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Crush Claw",
         "Fire Fang",

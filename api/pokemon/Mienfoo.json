@@ -2,6 +2,9 @@
   {
     "species_name": "Mienfoo",
     "variant_name": "Mienfoo",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 85,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 619,
-      "types": [
-        "Fighting"
-      ],
       "height": 0.9,
       "weight": 20.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Martial Arts Pok\u00e9mon",
+      "kind": "Martial Arts Pokémon",
       "flavor_text": "They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack.",
       "abilities": [
         "Inner Focus",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Reckless"
       ],
-      "regional_dex_nums": [
-        125,
-        219,
-        3,
-        359
-      ]
+      "regional_dex_nums": {
+        "bw": 125,
+        "b2w2": 219,
+        "xy_coastal": 3,
+        "usum": 359
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -273,6 +273,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Baton Pass",

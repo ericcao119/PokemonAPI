@@ -2,6 +2,10 @@
   {
     "species_name": "Trumbeak",
     "variant_name": "Trumbeak",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 85,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 732,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.6,
       "weight": 14.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bugle Beak Pok\u00e9mon",
+      "kind": "Bugle Beak Pokémon",
       "flavor_text": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
       "abilities": [
         "Keen Eye",
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Pickup"
       ],
-      "regional_dex_nums": [
-        11,
-        11
-      ]
+      "regional_dex_nums": {
+        "sm": 11,
+        "usum": 11
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -235,6 +235,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Boomburst",
         "Brave Bird",

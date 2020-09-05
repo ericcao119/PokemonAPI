@@ -2,6 +2,9 @@
   {
     "species_name": "Wailmer",
     "variant_name": "Wailmer",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 130,
       "attack": 70,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 320,
-      "types": [
-        "Water"
-      ],
       "height": 2.0,
       "weight": 130.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ball Whale Pok\u00e9mon",
+      "kind": "Ball Whale Pokémon",
       "flavor_text": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
       "abilities": [
         "Water Veil",
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Pressure"
       ],
-      "regional_dex_nums": [
-        99,
-        240,
-        27,
-        104,
-        266,
-        351,
-        356
-      ]
+      "regional_dex_nums": {
+        "rse": 99,
+        "b2w2": 240,
+        "xy_coastal": 27,
+        "oras": 104,
+        "sm": 266,
+        "usum": 351,
+        "swsh": 356
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -236,6 +236,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Body Slam",

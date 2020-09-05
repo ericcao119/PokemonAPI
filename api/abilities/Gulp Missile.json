@@ -1,4 +1,6 @@
 {
-  "name": "Gulp Missile",
-  "description": "Returns with a catch in its mouth after using Surf or Dive."
+  "ability_name": "Gulp Missile",
+  "effect": "Gulp Missile is the signature ability of Cramorant. If Cramorant uses the move Surf or Dive, it returns with a fish in its mouth. If Cramorant then takes damage, it retaliates by spitting out the fish, dealing extra damage.
+Cramorant may also return carrying a Pikachu. If Pikachu is launched at the opponent they will become paralyzed.",
+  "description": "When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
 }

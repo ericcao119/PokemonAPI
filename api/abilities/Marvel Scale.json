@@ -1,4 +1,6 @@
 {
-  "name": "Marvel Scale",
-  "description": "Ups Defense if there is a status problem."
+  "ability_name": "Marvel Scale",
+  "effect": "Marvel Scale raises the ability-bearer's Defense by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep).
+All effects of the status condition remain, e.g. losing HP each turn (poison, burn), speed drop (paralysis) or being unable to attack (paralysis, freeze, sleep).",
+  "description": "The Pokémon’s marvelous scales boost the Defense stat if it has a status condition."
 }

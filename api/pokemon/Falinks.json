@@ -2,6 +2,9 @@
   {
     "species_name": "Falinks",
     "variant_name": "Falinks",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 100,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 870,
-      "types": [
-        "Fighting"
-      ],
       "height": 3.0,
       "weight": 62.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Formation Pok\u00e9mon",
-      "flavor_text": "The six of them work together as one Pok\u00e9mon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
+      "kind": "Formation Pokémon",
+      "flavor_text": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
       "abilities": [
         "Battle Armor"
       ],
       "hidden_abilities": [
         "Defiant"
       ],
-      "regional_dex_nums": [
-        345
-      ]
+      "regional_dex_nums": {
+        "swsh": 345
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
         "Fairy",
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -262,6 +262,7 @@
           "Throat Chop"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

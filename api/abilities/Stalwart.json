@@ -1,4 +1,6 @@
 {
-  "name": "Stalwart",
-  "description": "Ignores moves and abilities that draw in moves."
+  "ability_name": "Stalwart",
+  "effect": "Ignores moves and abilities that draw in moves.
+",
+  "description": "Ignores the effects of opposing Pokémon’s Abilities and moves that draw in moves."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Ariados",
     "variant_name": "Ariados",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 90,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 168,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 1.1,
       "weight": 33.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Long Leg Pok\u00e9mon",
+      "kind": "Long Leg Pokémon",
       "flavor_text": "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.",
       "abilities": [
         "Swarm",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Sniper"
       ],
-      "regional_dex_nums": [
-        33,
-        33,
-        108,
-        23,
-        23
-      ]
+      "regional_dex_nums": {
+        "gsc": 33,
+        "hgss": 33,
+        "xy_mountain": 108,
+        "sm": 23,
+        "usum": 23
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -274,6 +274,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Swords Dance"
+      ],
       "egg_moves": [
         "Baton Pass",
         "Disable",

@@ -1,4 +1,6 @@
 {
-  "name": "Emergency Exit",
-  "description": "Switches out when HP falls below 50%."
+  "ability_name": "Emergency Exit",
+  "effect": "Switches out when HP falls below 50%.
+",
+  "description": "The Pokémon, sensing danger, switches out when its HP becomes half or less."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Vikavolt",
     "variant_name": "Vikavolt",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 77,
       "attack": 70,
@@ -12,25 +16,21 @@
     },
     "dex_entry": {
       "national_dex_num": 738,
-      "types": [
-        "Bug",
-        "Electric"
-      ],
       "height": 1.5,
       "weight": 45.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Stag Beetle Pok\u00e9mon",
+      "kind": "Stag Beetle Pokémon",
       "flavor_text": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        29,
-        36,
-        18
-      ]
+      "regional_dex_nums": {
+        "sm": 29,
+        "usum": 36,
+        "swsh": 18
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -261,6 +261,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Thunderbolt"
+      ],
       "egg_moves": [
         "Electroweb",
         "Endure",

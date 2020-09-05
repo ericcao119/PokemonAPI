@@ -2,6 +2,10 @@
   {
     "species_name": "Diggersby",
     "variant_name": "Diggersby",
+    "types": [
+      "Normal",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 56,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 660,
-      "types": [
-        "Normal",
-        "Ground"
-      ],
       "height": 1.0,
       "weight": 42.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Digging Pok\u00e9mon",
-      "flavor_text": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pok\u00e9mon.",
+      "kind": "Digging Pokémon",
+      "flavor_text": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon.",
       "abilities": [
         "Pickup",
         "Cheek Pouch"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Huge Power"
       ],
-      "regional_dex_nums": [
-        11,
-        49
-      ]
+      "regional_dex_nums": {
+        "xy_central": 11,
+        "swsh": 49
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -299,6 +299,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Defense Curl",
         "Rollout",

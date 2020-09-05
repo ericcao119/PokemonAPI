@@ -2,6 +2,10 @@
   {
     "species_name": "Drampa",
     "variant_name": "Drampa",
+    "types": [
+      "Normal",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 60,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 780,
-      "types": [
-        "Normal",
-        "Dragon"
-      ],
       "height": 3.0,
       "weight": 185.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Placid Pok\u00e9mon",
-      "flavor_text": "Drampa is a kind and friendly Pok\u00e9mon\u2014up until it\u2019s angered. When that happens, it stirs up a gale and flattens everything around.",
+      "kind": "Placid Pokémon",
+      "flavor_text": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around.",
       "abilities": [
         "Berserk",
         "Sap Sipper"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Cloud Nine"
       ],
-      "regional_dex_nums": [
-        244,
-        321,
-        346
-      ]
+      "regional_dex_nums": {
+        "sm": 244,
+        "usum": 321,
+        "swsh": 346
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -338,6 +338,7 @@
           "Play Rough"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Dragon Rush",
         "Mist",

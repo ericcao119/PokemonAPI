@@ -1,4 +1,6 @@
 {
-  "name": "Steadfast",
-  "description": "Raises Speed each time the Pok\u00e9mon flinches."
+  "ability_name": "Steadfast",
+  "effect": "Raises Speed each time the Pokémon flinches.
+",
+  "description": "The Pokémon’s determination boosts the Speed stat each time the Pokémon flinches."
 }

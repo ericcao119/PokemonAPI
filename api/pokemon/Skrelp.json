@@ -2,6 +2,10 @@
   {
     "species_name": "Skrelp",
     "variant_name": "Skrelp",
+    "types": [
+      "Poison",
+      "Water"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 60,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 690,
-      "types": [
-        "Poison",
-        "Water"
-      ],
       "height": 0.5,
       "weight": 7.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mock Kelp Pok\u00e9mon",
-      "flavor_text": "It\u2019s not good at swimming, so it clings to the seaweed. In the Alola region, it\u2019s often found near Dhelmise.",
+      "kind": "Mock Kelp Pokémon",
+      "flavor_text": "It’s not good at swimming, so it clings to the seaweed. In the Alola region, it’s often found near Dhelmise.",
       "abilities": [
         "Poison Point",
         "Poison Touch"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Adaptability"
       ],
-      "regional_dex_nums": [
-        30,
-        347
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 30,
+        "usum": 347
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -224,6 +224,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Armor",
         "Haze",

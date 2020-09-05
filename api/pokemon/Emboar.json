@@ -2,6 +2,10 @@
   {
     "species_name": "Emboar",
     "variant_name": "Emboar",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 123,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 500,
-      "types": [
-        "Fire",
-        "Fighting"
-      ],
       "height": 1.6,
       "weight": 150.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mega Fire Pig Pok\u00e9mon",
+      "kind": "Mega Fire Pig Pokémon",
       "flavor_text": "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
       "abilities": [
         "Blaze"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Reckless"
       ],
-      "regional_dex_nums": [
-        6,
-        6
-      ]
+      "regional_dex_nums": {
+        "bw": 6,
+        "b2w2": 6
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -314,6 +314,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Burn Up",

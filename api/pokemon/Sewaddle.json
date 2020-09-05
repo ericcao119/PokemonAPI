@@ -2,6 +2,10 @@
   {
     "species_name": "Sewaddle",
     "variant_name": "Sewaddle",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 53,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 540,
-      "types": [
-        "Bug",
-        "Grass"
-      ],
       "height": 0.3,
       "weight": 2.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sewing Pok\u00e9mon",
-      "flavor_text": "Since this Pok\u00e9mon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+      "kind": "Sewing Pokémon",
+      "flavor_text": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
       "abilities": [
         "Swarm",
         "Chlorophyll"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        46,
-        17
-      ]
+      "regional_dex_nums": {
+        "bw": 46,
+        "b2w2": 17
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -195,6 +195,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Air Slash",

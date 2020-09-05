@@ -2,6 +2,10 @@
   {
     "species_name": "Applin",
     "variant_name": "Applin",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 40,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 840,
-      "types": [
-        "Grass",
-        "Dragon"
-      ],
       "height": 0.2,
       "weight": 0.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Apple Core Pok\u00e9mon",
-      "flavor_text": "As soon as it\u2019s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
+      "kind": "Apple Core Pokémon",
+      "flavor_text": "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
       "abilities": [
         "Ripen",
         "Gluttony"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Bulletproof"
       ],
-      "regional_dex_nums": [
-        205
-      ]
+      "regional_dex_nums": {
+        "swsh": 205
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -52,7 +52,7 @@
         "Dragon",
         "Grass"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -75,6 +75,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Defense Curl",
         "Recycle",

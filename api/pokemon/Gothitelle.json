@@ -2,6 +2,9 @@
   {
     "species_name": "Gothitelle",
     "variant_name": "Gothitelle",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 55,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 576,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.5,
       "weight": 44.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Astral Body Pok\u00e9mon",
+      "kind": "Astral Body Pokémon",
       "flavor_text": "A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again.",
       "abilities": [
         "Frisk",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Shadow Tag"
       ],
-      "regional_dex_nums": [
-        82,
-        138,
-        128,
-        269
-      ]
+      "regional_dex_nums": {
+        "bw": 82,
+        "b2w2": 138,
+        "xy_mountain": 128,
+        "swsh": 269
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -312,6 +312,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Dark Pulse",

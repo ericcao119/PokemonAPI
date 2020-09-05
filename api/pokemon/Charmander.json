@@ -2,6 +2,9 @@
   {
     "species_name": "Charmander",
     "variant_name": "Charmander",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 39,
       "attack": 52,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 4,
-      "types": [
-        "Fire"
-      ],
       "height": 0.6,
       "weight": 8.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lizard Pok\u00e9mon",
+      "kind": "Lizard Pokémon",
       "flavor_text": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
       "abilities": [
         "Blaze"
@@ -27,15 +27,15 @@
       "hidden_abilities": [
         "Solar Power"
       ],
-      "regional_dex_nums": [
-        4,
-        229,
-        4,
-        234,
-        83,
-        4,
-        378
-      ]
+      "regional_dex_nums": {
+        "rby": 4,
+        "gsc": 229,
+        "frlg": 4,
+        "hgss": 234,
+        "xy_central": 83,
+        "lets_go": 4,
+        "swsh": 378
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -292,6 +292,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Belly Drum",

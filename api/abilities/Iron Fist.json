@@ -1,4 +1,7 @@
 {
-  "name": "Iron Fist",
-  "description": "Boosts the power of punching moves."
+  "ability_name": "Iron Fist",
+  "effect": "Iron Fist increases the power of all punching moves by 20%.
+The attacks classed as punching moves are shown below with their normal and boosted power:
+* No Pokémon with Iron Fist can learn these moves.",
+  "description": "Powers up punching moves."
 }

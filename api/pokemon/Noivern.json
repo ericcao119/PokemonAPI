@@ -2,6 +2,10 @@
   {
     "species_name": "Noivern",
     "variant_name": "Noivern",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 70,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 715,
-      "types": [
-        "Flying",
-        "Dragon"
-      ],
       "height": 1.5,
       "weight": 85.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sound Wave Pok\u00e9mon",
+      "kind": "Sound Wave Pokémon",
       "flavor_text": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight.",
       "abilities": [
         "Frisk",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        114,
-        84,
-        177
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 114,
+        "usum": 84,
+        "swsh": 177
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -306,7 +306,13 @@
           "Hurricane"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Dragon Pulse"
+      ],
+      "egg_moves": [
+        "Defog",
+        "Dragon Rush"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

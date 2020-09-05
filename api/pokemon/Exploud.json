@@ -2,6 +2,9 @@
   {
     "species_name": "Exploud",
     "variant_name": "Exploud",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 104,
       "attack": 91,
@@ -12,26 +15,23 @@
     },
     "dex_entry": {
       "national_dex_num": 295,
-      "types": [
-        "Normal"
-      ],
       "height": 1.5,
       "weight": 84.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Loud Noise Pok\u00e9mon",
-      "flavor_text": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pok\u00e9mon only raises its voice when it is in battle.",
+      "kind": "Loud Noise Pokémon",
+      "flavor_text": "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pokémon only raises its voice when it is in battle.",
       "abilities": [
         "Soundproof"
       ],
       "hidden_abilities": [
         "Scrappy"
       ],
-      "regional_dex_nums": [
-        47,
-        142,
-        48
-      ]
+      "regional_dex_nums": {
+        "rse": 47,
+        "xy_central": 142,
+        "oras": 48
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -315,6 +315,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Crunch"
+      ],
       "egg_moves": [
         "Circle Throw",
         "Disarming Voice",

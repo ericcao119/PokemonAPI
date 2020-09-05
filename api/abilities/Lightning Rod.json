@@ -1,4 +1,10 @@
 {
-  "name": "Lightning Rod",
-  "description": "Draws in all Electric-type moves to up Sp. Attack."
+  "ability_name": "Lightning Rod",
+  "effect": "Lightning Rod forces all single-target Electric-type moves - used by any other Pokémon on the field - to target this Pokémon, and with 100% accuracy. This includes the status move Thunder Wave. The ability is most useful in double/triple battles.
+When hit by the move, it deals no damage to the ability-bearer but raises its Special Attack by one stage. Stats can be raised to a maximum of +6 stages each.
+Lightning Rod will activate for an Electric-type Hidden Power, but not Electric-type Judgment.
+The ability is overridden by other Pokémon becoming the center of attention from the moves Follow Me or Rage Powder.
+In Generations 3-4, Lightning Rod did not increase Special Attack nor give immunity to Electric-type attacks. It also did not activate for Hidden Power.
+In Generations 3-5, this ability's name was formatted as Lightningrod.",
+  "description": "The Pokémon draws in all Electric-type moves. Instead of being hit by Electric-type moves, it boosts its Sp. Atk."
 }

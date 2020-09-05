@@ -2,6 +2,10 @@
   {
     "species_name": "Geodude",
     "variant_name": "Geodude",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 80,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 74,
-      "types": [
-        "Rock",
-        "Ground"
-      ],
       "height": 0.4,
       "weight": 20.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rock Pok\u00e9mon",
+      "kind": "Rock Pokémon",
       "flavor_text": "Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.",
       "abilities": [
         "Rock Head",
@@ -29,20 +29,20 @@
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        74,
-        34,
-        57,
-        74,
-        31,
-        31,
-        34,
-        9,
-        58,
-        229,
-        298,
-        74
-      ]
+      "regional_dex_nums": {
+        "rby": 74,
+        "gsc": 34,
+        "rse": 57,
+        "frlg": 74,
+        "dp": 31,
+        "plat": 31,
+        "hgss": 34,
+        "xy_mountain": 9,
+        "oras": 58,
+        "sm": 229,
+        "usum": 298,
+        "lets_go": 74
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -71,6 +71,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -79,6 +80,10 @@
   {
     "species_name": "Geodude",
     "variant_name": "Alolan Geodude",
+    "types": [
+      "Rock",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 80,
@@ -89,16 +94,12 @@
     },
     "dex_entry": {
       "national_dex_num": 74,
-      "types": [
-        "Rock",
-        "Electric"
-      ],
       "height": 0.4,
       "weight": 20.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rock Pok\u00e9mon",
-      "flavor_text": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you\u2019ll be in for a painful shock.",
+      "kind": "Rock Pokémon",
+      "flavor_text": "Its stone head is imbued with electricity and magnetism. If you carelessly step on one, you’ll be in for a painful shock.",
       "abilities": [
         "Magnet Pull",
         "Sturdy"
@@ -106,20 +107,20 @@
       "hidden_abilities": [
         "Galvanize"
       ],
-      "regional_dex_nums": [
-        74,
-        34,
-        57,
-        74,
-        31,
-        31,
-        34,
-        9,
-        58,
-        229,
-        298,
-        74
-      ]
+      "regional_dex_nums": {
+        "rby": 74,
+        "gsc": 34,
+        "rse": 57,
+        "frlg": 74,
+        "dp": 31,
+        "plat": 31,
+        "hgss": 34,
+        "xy_mountain": 9,
+        "oras": 58,
+        "sm": 229,
+        "usum": 298,
+        "lets_go": 74
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -148,6 +149,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

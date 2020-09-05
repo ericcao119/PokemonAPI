@@ -2,6 +2,9 @@
   {
     "species_name": "Roggenrola",
     "variant_name": "Roggenrola",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 75,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 524,
-      "types": [
-        "Rock"
-      ],
       "height": 0.4,
       "weight": 18.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mantle Pok\u00e9mon",
-      "flavor_text": "When it detects a noise, it starts to move. The energy core inside it makes this Pok\u00e9mon slightly warm to the touch.",
+      "kind": "Mantle Pokémon",
+      "flavor_text": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
       "abilities": [
         "Sturdy",
         "Weak Armor"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        30,
-        68,
-        120,
-        98,
-        120,
-        168
-      ]
+      "regional_dex_nums": {
+        "bw": 30,
+        "b2w2": 68,
+        "xy_coastal": 120,
+        "sm": 98,
+        "usum": 120,
+        "swsh": 168
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -218,6 +218,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Autotomize",
         "Curse",

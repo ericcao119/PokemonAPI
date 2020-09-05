@@ -2,6 +2,10 @@
   {
     "species_name": "Inkay",
     "variant_name": "Inkay",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 53,
       "attack": 54,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 686,
-      "types": [
-        "Dark",
-        "Psychic"
-      ],
       "height": 0.4,
       "weight": 3.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Revolving Pok\u00e9mon",
+      "kind": "Revolving Pokémon",
       "flavor_text": "By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee.",
       "abilities": [
         "Contrary",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        10,
-        26,
-        290
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 10,
+        "usum": 26,
+        "swsh": 290
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -269,6 +269,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Camouflage",
         "Destiny Bond",

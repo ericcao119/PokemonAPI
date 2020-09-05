@@ -2,6 +2,10 @@
   {
     "species_name": "Oricorio",
     "variant_name": "Baile Style",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 70,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 741,
-      "types": [
-        "Fire",
-        "Flying"
-      ],
       "height": 0.6,
       "weight": 3.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dancing Pok\u00e9mon",
-      "flavor_text": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pok\u00e9mon becomes fiercely angry.",
+      "kind": "Dancing Pokémon",
+      "flavor_text": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
       "abilities": [
         "Dancer"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        82,
-        97
-      ]
+      "regional_dex_nums": {
+        "sm": 82,
+        "usum": 97
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -236,6 +236,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Pluck",
@@ -258,6 +259,10 @@
   {
     "species_name": "Oricorio",
     "variant_name": "Pom-Pom Style",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 70,
@@ -268,24 +273,20 @@
     },
     "dex_entry": {
       "national_dex_num": 741,
-      "types": [
-        "Electric",
-        "Flying"
-      ],
       "height": 0.6,
       "weight": 3.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dancing Pok\u00e9mon",
+      "kind": "Dancing Pokémon",
       "flavor_text": "This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.",
       "abilities": [
         "Dancer"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        82,
-        97
-      ]
+      "regional_dex_nums": {
+        "sm": 82,
+        "usum": 97
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -492,6 +493,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Pluck",
@@ -514,6 +516,10 @@
   {
     "species_name": "Oricorio",
     "variant_name": "Pa'u Style",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 70,
@@ -524,24 +530,20 @@
     },
     "dex_entry": {
       "national_dex_num": 741,
-      "types": [
-        "Psychic",
-        "Flying"
-      ],
       "height": 0.6,
       "weight": 3.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dancing Pok\u00e9mon",
-      "flavor_text": "This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn\u2019t hear its Trainer\u2019s orders.",
+      "kind": "Dancing Pokémon",
+      "flavor_text": "This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn’t hear its Trainer’s orders.",
       "abilities": [
         "Dancer"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        82,
-        97
-      ]
+      "regional_dex_nums": {
+        "sm": 82,
+        "usum": 97
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -748,6 +750,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Pluck",
@@ -770,6 +773,10 @@
   {
     "species_name": "Oricorio",
     "variant_name": "Sensu Style",
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 70,
@@ -780,24 +787,20 @@
     },
     "dex_entry": {
       "national_dex_num": 741,
-      "types": [
-        "Ghost",
-        "Flying"
-      ],
       "height": 0.6,
       "weight": 3.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dancing Pok\u00e9mon",
+      "kind": "Dancing Pokémon",
       "flavor_text": "This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.",
       "abilities": [
         "Dancer"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        82,
-        97
-      ]
+      "regional_dex_nums": {
+        "sm": 82,
+        "usum": 97
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -1004,6 +1007,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Pluck",

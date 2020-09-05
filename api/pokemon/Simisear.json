@@ -2,6 +2,9 @@
   {
     "species_name": "Simisear",
     "variant_name": "Simisear",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 98,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 514,
-      "types": [
-        "Fire"
-      ],
       "height": 1.0,
       "weight": 28.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ember Pok\u00e9mon",
+      "kind": "Ember Pokémon",
       "flavor_text": "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
       "abilities": [
         "Gluttony"
@@ -27,11 +27,11 @@
       "hidden_abilities": [
         "Blaze"
       ],
-      "regional_dex_nums": [
-        20,
-        40,
-        32
-      ]
+      "regional_dex_nums": {
+        "bw": 20,
+        "b2w2": 40,
+        "xy_central": 32
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -226,6 +226,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Belch",

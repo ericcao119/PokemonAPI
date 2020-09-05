@@ -2,6 +2,9 @@
   {
     "species_name": "Linoone",
     "variant_name": "Linoone",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 70,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 264,
-      "types": [
-        "Normal"
-      ],
       "height": 0.5,
       "weight": 32.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rushing Pok\u00e9mon",
+      "kind": "Rushing Pokémon",
       "flavor_text": "It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit.",
       "abilities": [
         "Pickup",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Quick Feet"
       ],
-      "regional_dex_nums": [
-        13,
-        13,
-        13,
-        32
-      ]
+      "regional_dex_nums": {
+        "rse": 13,
+        "xy_central": 13,
+        "oras": 13,
+        "swsh": 32
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -276,6 +276,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Charm",
         "Extreme Speed",
@@ -329,6 +330,10 @@
   {
     "species_name": "Linoone",
     "variant_name": "Galarian Linoone",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 70,
@@ -339,16 +344,12 @@
     },
     "dex_entry": {
       "national_dex_num": 264,
-      "types": [
-        "Dark",
-        "Normal"
-      ],
       "height": 0.5,
       "weight": 32.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rushing Pok\u00e9mon",
-      "flavor_text": "This very aggressive Pok\u00e9mon will recklessly challenge opponents stronger than itself.",
+      "kind": "Rushing Pokémon",
+      "flavor_text": "This very aggressive Pokémon will recklessly challenge opponents stronger than itself.",
       "abilities": [
         "Pickup",
         "Gluttony"
@@ -356,12 +357,12 @@
       "hidden_abilities": [
         "Quick Feet"
       ],
-      "regional_dex_nums": [
-        13,
-        13,
-        13,
-        32
-      ]
+      "regional_dex_nums": {
+        "rse": 13,
+        "xy_central": 13,
+        "oras": 13,
+        "swsh": 32
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -381,7 +382,7 @@
       "egg_groups": [
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -604,6 +605,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Charm",
         "Extreme Speed",

@@ -1,4 +1,6 @@
 {
-  "name": "Poison Touch",
-  "description": "May poison targets when a Pok\u00e9mon makes contact."
+  "ability_name": "Poison Touch",
+  "effect": "May poison targets when a Pokémon makes contact.
+",
+  "description": "May poison a target when the Pokémon makes contact."
 }

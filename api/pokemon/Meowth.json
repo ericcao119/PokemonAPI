@@ -2,6 +2,9 @@
   {
     "species_name": "Meowth",
     "variant_name": "Meowth",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 45,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 52,
-      "types": [
-        "Normal"
-      ],
       "height": 0.4,
       "weight": 4.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scratch Cat Pok\u00e9mon",
-      "flavor_text": "It washes its face regularly to keep the coin on its forehead spotless. It doesn\u2019t get along with Galarian Meowth.",
+      "kind": "Scratch Cat Pokémon",
+      "flavor_text": "It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.",
       "abilities": [
         "Pickup",
         "Technician"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        52,
-        136,
-        52,
-        138,
-        45,
-        52,
-        52,
-        182
-      ]
+      "regional_dex_nums": {
+        "rby": 52,
+        "gsc": 136,
+        "frlg": 52,
+        "hgss": 138,
+        "sm": 45,
+        "usum": 52,
+        "lets_go": 52,
+        "swsh": 182
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -66,6 +66,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -74,6 +75,9 @@
   {
     "species_name": "Meowth",
     "variant_name": "Alolan Meowth",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 35,
@@ -84,15 +88,12 @@
     },
     "dex_entry": {
       "national_dex_num": 52,
-      "types": [
-        "Dark"
-      ],
       "height": 0.4,
       "weight": 4.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scratch Cat Pok\u00e9mon",
-      "flavor_text": "Highly intelligent and prideful, it\u2019s famously difficult to handle\u2014but that\u2019s also a reason for its popularity.",
+      "kind": "Scratch Cat Pokémon",
+      "flavor_text": "Deeply proud and keenly smart, this Pokémon moves with cunning during battle and relentlessly attacks enemies’ weak points.",
       "abilities": [
         "Pickup",
         "Technician"
@@ -100,16 +101,16 @@
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        52,
-        136,
-        52,
-        138,
-        45,
-        52,
-        52,
-        182
-      ]
+      "regional_dex_nums": {
+        "rby": 52,
+        "gsc": 136,
+        "frlg": 52,
+        "hgss": 138,
+        "sm": 45,
+        "usum": 52,
+        "lets_go": 52,
+        "swsh": 182
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -138,6 +139,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -146,6 +148,9 @@
   {
     "species_name": "Meowth",
     "variant_name": "Galarian Meowth",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 65,
@@ -156,15 +161,12 @@
     },
     "dex_entry": {
       "national_dex_num": 52,
-      "types": [
-        "Steel"
-      ],
       "height": 0.4,
       "weight": 7.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scratch Cat Pok\u00e9mon",
-      "flavor_text": "It washes its face regularly to keep the coin on its forehead spotless. It doesn\u2019t get along with Galarian Meowth.",
+      "kind": "Scratch Cat Pokémon",
+      "flavor_text": "These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.",
       "abilities": [
         "Pickup",
         "Tough Claws"
@@ -172,16 +174,16 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        52,
-        136,
-        52,
-        138,
-        45,
-        52,
-        52,
-        182
-      ]
+      "regional_dex_nums": {
+        "rby": 52,
+        "gsc": 136,
+        "frlg": 52,
+        "hgss": 138,
+        "sm": 45,
+        "usum": 52,
+        "lets_go": 52,
+        "swsh": 182
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -201,7 +203,7 @@
       "egg_groups": [
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -210,6 +212,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

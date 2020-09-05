@@ -1,4 +1,6 @@
 {
-  "name": "Defiant",
-  "description": "When its stats are lowered its Attack increases."
+  "ability_name": "Defiant",
+  "effect": "When its stats are lowered its Attack increases.
+",
+  "description": "Boosts the Pokémon’s Attack stat sharply when its stats are lowered."
 }

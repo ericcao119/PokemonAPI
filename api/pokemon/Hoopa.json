@@ -2,6 +2,10 @@
   {
     "species_name": "Hoopa",
     "variant_name": "Hoopa Confined",
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 110,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 720,
-      "types": [
-        "Psychic",
-        "Ghost"
-      ],
       "height": 0.5,
       "weight": 9.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mischief Pok\u00e9mon",
+      "kind": "Mischief Pokémon",
       "flavor_text": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
       "abilities": [
         "Magician"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152
-      ]
+      "regional_dex_nums": {
+        "xy_central": 152
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -222,6 +222,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -265,6 +266,10 @@
   {
     "species_name": "Hoopa",
     "variant_name": "Hoopa Unbound",
+    "types": [
+      "Psychic",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 160,
@@ -275,23 +280,19 @@
     },
     "dex_entry": {
       "national_dex_num": 720,
-      "types": [
-        "Psychic",
-        "Dark"
-      ],
       "height": 6.5,
       "weight": 490.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Djinn Pok\u00e9mon",
+      "kind": "Djinn Pokémon",
       "flavor_text": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
       "abilities": [
         "Magician"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152
-      ]
+      "regional_dex_nums": {
+        "xy_central": 152
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -311,7 +312,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -485,6 +486,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

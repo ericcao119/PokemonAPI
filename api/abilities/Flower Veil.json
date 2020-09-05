@@ -1,4 +1,5 @@
 {
-  "name": "Flower Veil",
-  "description": "Prevents lowering of ally Grass-type Pok\u00e9mon's stats."
+  "ability_name": "Flower Veil",
+  "effect": "Flower Veil prevents ally Grass-type Pokémon's stats from being lowered, in double and triple battles.",
+  "description": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats."
 }

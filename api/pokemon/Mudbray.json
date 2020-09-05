@@ -2,6 +2,9 @@
   {
     "species_name": "Mudbray",
     "variant_name": "Mudbray",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 100,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 749,
-      "types": [
-        "Ground"
-      ],
       "height": 1.0,
       "weight": 110.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Donkey Pok\u00e9mon",
+      "kind": "Donkey Pokémon",
       "flavor_text": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping.",
       "abilities": [
         "Own Tempo",
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Inner Focus"
       ],
-      "regional_dex_nums": [
-        132,
-        165,
-        84
-      ]
+      "regional_dex_nums": {
+        "sm": 132,
+        "usum": 165,
+        "swsh": 84
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -232,6 +232,7 @@
           "High Horsepower"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Double-Edge",
         "Fissure",

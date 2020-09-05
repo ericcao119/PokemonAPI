@@ -1,4 +1,6 @@
 {
-  "name": "Steely Spirit",
-  "description": "Powers up ally Pok\u00e9mon's Steel-type moves."
+  "ability_name": "Steely Spirit",
+  "effect": "Powers up ally Pokémon's Steel-type moves.
+",
+  "description": "Powers up ally Pokémon’s Steel-type moves."
 }

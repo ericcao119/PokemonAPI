@@ -2,6 +2,10 @@
   {
     "species_name": "Kakuna",
     "variant_name": "Kakuna",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 25,
@@ -12,28 +16,24 @@
     },
     "dex_entry": {
       "national_dex_num": 14,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 0.6,
       "weight": 10.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cocoon Pok\u00e9mon",
+      "kind": "Cocoon Pokémon",
       "flavor_text": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
       "abilities": [
         "Shed Skin"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        14,
-        28,
-        14,
-        28,
-        27,
-        14
-      ]
+      "regional_dex_nums": {
+        "rby": 14,
+        "gsc": 28,
+        "frlg": 14,
+        "hgss": 28,
+        "xy_central": 27,
+        "lets_go": 14
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -67,6 +67,9 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [
+        "Harden"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

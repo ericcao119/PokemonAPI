@@ -2,6 +2,10 @@
   {
     "species_name": "Litleo",
     "variant_name": "Litleo",
+    "types": [
+      "Fire",
+      "Normal"
+    ],
     "base_stats": {
       "hp": 62,
       "attack": 50,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 667,
-      "types": [
-        "Fire",
-        "Normal"
-      ],
       "height": 0.6,
       "weight": 13.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lion Cub Pok\u00e9mon",
-      "flavor_text": "This hot-blooded Pok\u00e9mon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.",
+      "kind": "Lion Cub Pokémon",
+      "flavor_text": "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.",
       "abilities": [
         "Rivalry",
         "Unnerve"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Moxie"
       ],
-      "regional_dex_nums": [
-        57,
-        370
-      ]
+      "regional_dex_nums": {
+        "xy_central": 57,
+        "usum": 370
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -251,6 +251,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Entrainment",
         "Fire Spin",

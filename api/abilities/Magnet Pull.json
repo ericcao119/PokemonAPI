@@ -1,4 +1,6 @@
 {
-  "name": "Magnet Pull",
-  "description": "Prevents Steel-type Pok\u00e9mon from escaping."
+  "ability_name": "Magnet Pull",
+  "effect": "Magnet Pull prevents Steel type Pokémon from switching out of battle or fleeing.
+If a Pokémon with Magnet Pull is the leading party Pokémon, it is 50% more likely that a wild Pokémon encountered will be Steel type.",
+  "description": "Prevents Steel-type Pokémon from escaping using its magnetic force."
 }

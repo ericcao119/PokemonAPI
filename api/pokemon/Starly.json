@@ -2,6 +2,10 @@
   {
     "species_name": "Starly",
     "variant_name": "Starly",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 55,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 396,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.3,
       "weight": 2.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Starling Pok\u00e9mon",
-      "flavor_text": "They flock around mountains and fields, chasing after bug Pok\u00e9mon. Their singing is noisy and annoying.",
+      "kind": "Starling Pokémon",
+      "flavor_text": "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
       "abilities": [
         "Keen Eye"
       ],
       "hidden_abilities": [
         "Reckless"
       ],
-      "regional_dex_nums": [
-        10,
-        10,
-        99
-      ]
+      "regional_dex_nums": {
+        "dp": 10,
+        "plat": 10,
+        "xy_coastal": 99
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -207,6 +207,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Detect",

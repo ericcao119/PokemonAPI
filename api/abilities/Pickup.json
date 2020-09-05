@@ -1,4 +1,9 @@
 {
-  "name": "Pickup",
-  "description": "The Pok\u00e9mon may pick up items."
+  "ability_name": "Pickup",
+  "effect": "When another Pokémon on the field uses a single-use held item, a Pokémon with Pickup will obtain the used item (if they are not already holding anything) and it can be used again.
+Pokémon with Pickup will also obtain an item thrown at them with Fling (if they are not already holding anything).
+In Generations 3-4, Pickup has no effect in battle.
+When a battle ends, any party Pokémon with Pickup has a 10% chance of picking up an item (if they are not already holding an item).
+Items picked up range from Potions, Great Balls, Ultra Balls and Rare Candies up to Leftovers and some TMs. Better items have a lower chance of being found; furthermore, higher-level Pokémon will obtain better items.",
+  "description": "The Pokémon may pick up the item an opposing Pokémon used during a battle. It may pick up items outside of battle, too."
 }

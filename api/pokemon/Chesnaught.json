@@ -2,6 +2,10 @@
   {
     "species_name": "Chesnaught",
     "variant_name": "Chesnaught",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 88,
       "attack": 107,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 652,
-      "types": [
-        "Grass",
-        "Fighting"
-      ],
       "height": 1.6,
       "weight": 90.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spiny Armor Pok\u00e9mon",
+      "kind": "Spiny Armor Pokémon",
       "flavor_text": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
       "abilities": [
         "Overgrow"
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Bulletproof"
       ],
-      "regional_dex_nums": [
-        3
-      ]
+      "regional_dex_nums": {
+        "xy_central": 3
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -329,6 +329,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Spiky Shield"
+      ],
       "egg_moves": [
         "Belly Drum",
         "Curse",

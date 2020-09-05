@@ -2,6 +2,9 @@
   {
     "species_name": "Dunsparce",
     "variant_name": "Dunsparce",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 70,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 206,
-      "types": [
-        "Normal"
-      ],
       "height": 1.5,
       "weight": 14.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Land Snake Pok\u00e9mon",
+      "kind": "Land Snake Pokémon",
       "flavor_text": "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.",
       "abilities": [
         "Serene Grace",
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        52,
-        52,
-        35,
-        40,
-        63
-      ]
+      "regional_dex_nums": {
+        "gsc": 52,
+        "hgss": 52,
+        "b2w2": 35,
+        "xy_central": 40,
+        "usum": 63
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -305,6 +305,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Ancient Power",

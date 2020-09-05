@@ -2,6 +2,9 @@
   {
     "species_name": "Aromatisse",
     "variant_name": "Aromatisse",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 101,
       "attack": 72,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 683,
-      "types": [
-        "Fairy"
-      ],
       "height": 0.8,
       "weight": 15.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fragrance Pok\u00e9mon",
-      "flavor_text": "The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent\u2019s will to fight.",
+      "kind": "Fragrance Pokémon",
+      "flavor_text": "The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent’s will to fight.",
       "abilities": [
         "Healer"
       ],
       "hidden_abilities": [
         "Aroma Veil"
       ],
-      "regional_dex_nums": [
-        130,
-        213
-      ]
+      "regional_dex_nums": {
+        "xy_central": 130,
+        "swsh": 213
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -289,6 +289,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Disable",

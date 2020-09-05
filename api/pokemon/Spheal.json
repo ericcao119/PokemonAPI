@@ -2,6 +2,10 @@
   {
     "species_name": "Spheal",
     "variant_name": "Spheal",
+    "types": [
+      "Ice",
+      "Water"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 40,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 363,
-      "types": [
-        "Ice",
-        "Water"
-      ],
       "height": 0.8,
       "weight": 39.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Clap Pok\u00e9mon",
-      "flavor_text": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pok\u00e9mon can be seen rolling about on ice and crossing the sea.",
+      "kind": "Clap Pokémon",
+      "flavor_text": "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pokémon can be seen rolling about on ice and crossing the sea.",
       "abilities": [
         "Thick Fat",
         "Ice Body"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Oblivious"
       ],
-      "regional_dex_nums": [
-        173,
-        243,
-        182
-      ]
+      "regional_dex_nums": {
+        "rse": 173,
+        "b2w2": 243,
+        "oras": 182
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -229,6 +229,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Belly Drum",

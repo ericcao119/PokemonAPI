@@ -2,6 +2,9 @@
   {
     "species_name": "Sceptile",
     "variant_name": "Sceptile",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 85,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 254,
-      "types": [
-        "Grass"
-      ],
       "height": 1.7,
       "weight": 52.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Forest Pok\u00e9mon",
-      "flavor_text": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pok\u00e9mon raises the trees in a forest with loving care.",
+      "kind": "Forest Pokémon",
+      "flavor_text": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Unburden"
       ],
-      "regional_dex_nums": [
-        3,
-        3
-      ]
+      "regional_dex_nums": {
+        "rse": 3,
+        "oras": 3
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -302,6 +302,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Dual Chop"
+      ],
       "egg_moves": [
         "Bullet Seed",
         "Crunch",
@@ -368,6 +371,10 @@
   {
     "species_name": "Sceptile",
     "variant_name": "Mega Sceptile",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 110,
@@ -378,24 +385,20 @@
     },
     "dex_entry": {
       "national_dex_num": 254,
-      "types": [
-        "Grass",
-        "Dragon"
-      ],
       "height": 1.9,
       "weight": 55.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Forest Pok\u00e9mon",
-      "flavor_text": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pok\u00e9mon raises the trees in a forest with loving care.",
+      "kind": "Forest Pokémon",
+      "flavor_text": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.",
       "abilities": [
         "Lightning Rod"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        3,
-        3
-      ]
+      "regional_dex_nums": {
+        "rse": 3,
+        "oras": 3
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -667,6 +670,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Dual Chop"
+      ],
       "egg_moves": [
         "Bullet Seed",
         "Crunch",

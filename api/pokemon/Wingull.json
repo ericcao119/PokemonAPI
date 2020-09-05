@@ -2,6 +2,10 @@
   {
     "species_name": "Wingull",
     "variant_name": "Wingull",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 30,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 278,
-      "types": [
-        "Water",
-        "Flying"
-      ],
       "height": 0.6,
       "weight": 9.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Seagull Pok\u00e9mon",
-      "flavor_text": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea\u2019s edge.",
+      "kind": "Seagull Pokémon",
+      "flavor_text": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.",
       "abilities": [
         "Keen Eye",
         "Hydration"
@@ -29,17 +29,17 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        27,
-        119,
-        119,
-        212,
-        17,
-        27,
-        40,
-        47,
-        62
-      ]
+      "regional_dex_nums": {
+        "rse": 27,
+        "dp": 119,
+        "plat": 119,
+        "b2w2": 212,
+        "xy_coastal": 17,
+        "oras": 27,
+        "sm": 40,
+        "usum": 47,
+        "swsh": 62
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -231,6 +231,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Aqua Ring",

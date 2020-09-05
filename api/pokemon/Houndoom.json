@@ -2,6 +2,10 @@
   {
     "species_name": "Houndoom",
     "variant_name": "Houndoom",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 90,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 229,
-      "types": [
-        "Dark",
-        "Fire"
-      ],
       "height": 1.4,
       "weight": 35.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dark Pok\u00e9mon",
+      "kind": "Dark Pokémon",
       "flavor_text": "Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.",
       "abilities": [
         "Early Bird",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        210,
-        177,
-        215,
-        76,
-        290
-      ]
+      "regional_dex_nums": {
+        "gsc": 210,
+        "plat": 177,
+        "hgss": 215,
+        "xy_coastal": 76,
+        "usum": 290
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -286,6 +286,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Beat Up",
         "Counter",
@@ -340,6 +341,10 @@
   {
     "species_name": "Houndoom",
     "variant_name": "Mega Houndoom",
+    "types": [
+      "Dark",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 90,
@@ -350,27 +355,23 @@
     },
     "dex_entry": {
       "national_dex_num": 229,
-      "types": [
-        "Dark",
-        "Fire"
-      ],
       "height": 1.9,
       "weight": 49.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dark Pok\u00e9mon",
-      "flavor_text": "Houndoom\u2019s entire body generates heat when it Mega Evolves. Its fearsome fiery breath turns its opponents to ash.",
+      "kind": "Dark Pokémon",
+      "flavor_text": "Houndoom’s entire body generates heat when it Mega Evolves. Its fearsome fiery breath turns its opponents to ash.",
       "abilities": [
         "Solar Power"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        210,
-        177,
-        215,
-        76,
-        290
-      ]
+      "regional_dex_nums": {
+        "gsc": 210,
+        "plat": 177,
+        "hgss": 215,
+        "xy_coastal": 76,
+        "usum": 290
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -621,6 +622,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Beat Up",
         "Counter",

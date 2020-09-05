@@ -2,6 +2,9 @@
   {
     "species_name": "Klink",
     "variant_name": "Klink",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 55,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 599,
-      "types": [
-        "Steel"
-      ],
       "height": 0.3,
       "weight": 21.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gear Pok\u00e9mon",
-      "flavor_text": "It\u2019s suspected that Klink were the inspiration behind ancient people\u2019s invention of the first gears.",
+      "kind": "Gear Pokémon",
+      "flavor_text": "It’s suspected that Klink were the inspiration behind ancient people’s invention of the first gears.",
       "abilities": [
         "Plus",
         "Minus"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Clear Body"
       ],
-      "regional_dex_nums": [
-        105,
-        130,
-        113
-      ]
+      "regional_dex_nums": {
+        "bw": 105,
+        "b2w2": 130,
+        "swsh": 113
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -52,7 +52,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -211,6 +211,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Bind",

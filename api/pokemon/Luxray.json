@@ -2,6 +2,9 @@
   {
     "species_name": "Luxray",
     "variant_name": "Luxray",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 120,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 405,
-      "types": [
-        "Electric"
-      ],
       "height": 1.4,
       "weight": 42.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gleam Eyes Pok\u00e9mon",
-      "flavor_text": "When its eyes gleam gold, it can spot hiding prey\u2014even those taking shelter behind a wall.",
+      "kind": "Gleam Eyes Pokémon",
+      "flavor_text": "When its eyes gleam gold, it can spot hiding prey—even those taking shelter behind a wall.",
       "abilities": [
         "Rivalry",
         "Intimidate"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Guts"
       ],
-      "regional_dex_nums": [
-        19,
-        19
-      ]
+      "regional_dex_nums": {
+        "dp": 19,
+        "plat": 19
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -234,6 +234,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Double Kick",
         "Eerie Impulse",

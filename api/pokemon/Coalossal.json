@@ -2,6 +2,10 @@
   {
     "species_name": "Coalossal",
     "variant_name": "Coalossal",
+    "types": [
+      "Rock",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 80,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 839,
-      "types": [
-        "Rock",
-        "Fire"
-      ],
       "height": 2.8,
       "weight": 310.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Coal Pok\u00e9mon",
-      "flavor_text": "While it\u2019s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
+      "kind": "Coal Pokémon",
+      "flavor_text": "While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
       "abilities": [
         "Steam Engine",
         "Flame Body"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Flash Fire"
       ],
-      "regional_dex_nums": [
-        163
-      ]
+      "regional_dex_nums": {
+        "swsh": 163
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -295,7 +295,14 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Tar Shot"
+      ],
+      "egg_moves": [
+        "Block",
+        "Explosion",
+        "Mud-Slap"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

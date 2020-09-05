@@ -2,6 +2,10 @@
   {
     "species_name": "Xatu",
     "variant_name": "Xatu",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 75,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 178,
-      "types": [
-        "Psychic",
-        "Flying"
-      ],
       "height": 1.5,
       "weight": 15.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mystic Pok\u00e9mon",
-      "flavor_text": "This odd Pok\u00e9mon can see both the past and the future. It eyes the sun\u2019s movement all day.",
+      "kind": "Mystic Pokémon",
+      "flavor_text": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.",
       "abilities": [
         "Synchronize",
         "Early Bird"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Magic Bounce"
       ],
-      "regional_dex_nums": [
-        160,
-        163,
-        162,
-        170,
-        253,
-        93
-      ]
+      "regional_dex_nums": {
+        "gsc": 160,
+        "rse": 163,
+        "hgss": 162,
+        "oras": 170,
+        "usum": 253,
+        "swsh": 93
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -295,6 +295,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Air Slash"
+      ],
       "egg_moves": [
         "Ally Switch",
         "Drill Peck",

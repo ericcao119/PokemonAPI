@@ -2,6 +2,10 @@
   {
     "species_name": "Golem",
     "variant_name": "Golem",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 120,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 76,
-      "types": [
-        "Rock",
-        "Ground"
-      ],
       "height": 1.4,
       "weight": 300.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Megaton Pok\u00e9mon",
-      "flavor_text": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it\u2019s exposed to air.",
+      "kind": "Megaton Pokémon",
+      "flavor_text": "Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air.",
       "abilities": [
         "Rock Head",
         "Sturdy"
@@ -29,20 +29,20 @@
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        76,
-        36,
-        59,
-        76,
-        33,
-        33,
-        36,
-        11,
-        60,
-        231,
-        300,
-        76
-      ]
+      "regional_dex_nums": {
+        "rby": 76,
+        "gsc": 36,
+        "rse": 59,
+        "frlg": 76,
+        "dp": 33,
+        "plat": 33,
+        "hgss": 36,
+        "xy_mountain": 11,
+        "oras": 60,
+        "sm": 231,
+        "usum": 300,
+        "lets_go": 76
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -71,6 +71,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -79,6 +80,10 @@
   {
     "species_name": "Golem",
     "variant_name": "Alolan Golem",
+    "types": [
+      "Rock",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 120,
@@ -89,16 +94,12 @@
     },
     "dex_entry": {
       "national_dex_num": 76,
-      "types": [
-        "Rock",
-        "Electric"
-      ],
       "height": 1.7,
       "weight": 316.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Megaton Pok\u00e9mon",
-      "flavor_text": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn\u2019t score a direct hit, the jolt of electricity will do the job.",
+      "kind": "Megaton Pokémon",
+      "flavor_text": "It uses magnetism to accelerate and fire off rocks tinged with electricity. Even if it doesn’t score a direct hit, the jolt of electricity will do the job.",
       "abilities": [
         "Magnet Pull",
         "Sturdy"
@@ -106,20 +107,20 @@
       "hidden_abilities": [
         "Galvanize"
       ],
-      "regional_dex_nums": [
-        76,
-        36,
-        59,
-        76,
-        33,
-        33,
-        36,
-        11,
-        60,
-        231,
-        300,
-        76
-      ]
+      "regional_dex_nums": {
+        "rby": 76,
+        "gsc": 36,
+        "rse": 59,
+        "frlg": 76,
+        "dp": 33,
+        "plat": 33,
+        "hgss": 36,
+        "xy_mountain": 11,
+        "oras": 60,
+        "sm": 231,
+        "usum": 300,
+        "lets_go": 76
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -148,6 +149,7 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

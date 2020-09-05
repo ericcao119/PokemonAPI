@@ -1,4 +1,9 @@
 {
-  "name": "Normalize",
-  "description": "All the Pok\u00e9mon's moves become the Normal type."
+  "ability_name": "Normalize",
+  "effect": "Normalize causes all moves used by the Pokémon to become Normal-type, and attacking moves increase in power by 20%.
+Normal-type Pokémon also gain STAB from those moves (which means an effective increase of 80%).
+The following moves are not affected by Normalize: Hidden Power, Judgment, Multi-Attack, Natural Gift, Revelation Dance, Struggle, Techno Blast, Weather Ball, and damaging Z-Moves.
+The move Flying Press deals Normal/Flying type damage instead of Fighting/Flying. Freeze-Dry remains super-effective against Water-types, but follows the Normal type chart against other types (e.g. neutral against Grass-types).
+In Generations 4-6, Normalize did not increase damage (besides any usual boosts like STAB). All moves listed above except Struggle are affected by Normalize.",
+  "description": "All the Pokémon’s moves become Normal type. The power of those moves is boosted a little."
 }

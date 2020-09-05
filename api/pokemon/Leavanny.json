@@ -2,6 +2,10 @@
   {
     "species_name": "Leavanny",
     "variant_name": "Leavanny",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 103,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 542,
-      "types": [
-        "Bug",
-        "Grass"
-      ],
       "height": 1.2,
       "weight": 20.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Nurturing Pok\u00e9mon",
+      "kind": "Nurturing Pokémon",
       "flavor_text": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
       "abilities": [
         "Swarm",
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        48,
-        19
-      ]
+      "regional_dex_nums": {
+        "bw": 48,
+        "b2w2": 19
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -263,6 +263,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Slash"
+      ],
       "egg_moves": [
         "Agility",
         "Air Slash",

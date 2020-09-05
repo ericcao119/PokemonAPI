@@ -2,6 +2,10 @@
   {
     "species_name": "Salamence",
     "variant_name": "Salamence",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 135,
@@ -12,29 +16,25 @@
     },
     "dex_entry": {
       "national_dex_num": 373,
-      "types": [
-        "Dragon",
-        "Flying"
-      ],
       "height": 1.5,
       "weight": 102.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dragon Pok\u00e9mon",
-      "flavor_text": "Thanks to its fervent wishes, the cells in its body finally mutated, and at last it has its heart\u2019s desire\u2014wings.",
+      "kind": "Dragon Pokémon",
+      "flavor_text": "Thanks to its fervent wishes, the cells in its body finally mutated, and at last it has its heart’s desire—wings.",
       "abilities": [
         "Intimidate"
       ],
       "hidden_abilities": [
         "Moxie"
       ],
-      "regional_dex_nums": [
-        189,
-        16,
-        198,
-        119,
-        149
-      ]
+      "regional_dex_nums": {
+        "rse": 189,
+        "xy_coastal": 16,
+        "oras": 198,
+        "sm": 119,
+        "usum": 149
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -289,6 +289,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Fly"
+      ],
       "egg_moves": [
         "Defense Curl",
         "Dragon Dance",
@@ -338,6 +341,10 @@
   {
     "species_name": "Salamence",
     "variant_name": "Mega Salamence",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 145,
@@ -348,27 +355,23 @@
     },
     "dex_entry": {
       "national_dex_num": 373,
-      "types": [
-        "Dragon",
-        "Flying"
-      ],
       "height": 1.8,
       "weight": 112.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dragon Pok\u00e9mon",
+      "kind": "Dragon Pokémon",
       "flavor_text": "It puts its forelegs inside its shell to streamline itself for flight. Salamence flies at high speeds over all kinds of topographical features.",
       "abilities": [
         "Aerilate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        189,
-        16,
-        198,
-        119,
-        149
-      ]
+      "regional_dex_nums": {
+        "rse": 189,
+        "xy_coastal": 16,
+        "oras": 198,
+        "sm": 119,
+        "usum": 149
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -623,6 +626,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Fly"
+      ],
       "egg_moves": [
         "Defense Curl",
         "Dragon Dance",

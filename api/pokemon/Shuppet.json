@@ -2,6 +2,9 @@
   {
     "species_name": "Shuppet",
     "variant_name": "Shuppet",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 44,
       "attack": 75,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 353,
-      "types": [
-        "Ghost"
-      ],
       "height": 0.6,
       "weight": 2.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Puppet Pok\u00e9mon",
-      "flavor_text": "There\u2019s a proverb that says, \u201cShun the house where Shuppet gather in the growing dusk.\u201d",
+      "kind": "Puppet Pokémon",
+      "flavor_text": "There’s a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”",
       "abilities": [
         "Insomnia",
         "Frisk"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Cursed Body"
       ],
-      "regional_dex_nums": [
-        146,
-        210,
-        122,
-        151,
-        316
-      ]
+      "regional_dex_nums": {
+        "rse": 146,
+        "b2w2": 210,
+        "xy_mountain": 122,
+        "oras": 151,
+        "usum": 316
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -265,6 +265,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Confuse Ray",

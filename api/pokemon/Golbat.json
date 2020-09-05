@@ -2,6 +2,10 @@
   {
     "species_name": "Golbat",
     "variant_name": "Golbat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 80,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 42,
-      "types": [
-        "Poison",
-        "Flying"
-      ],
       "height": 1.6,
       "weight": 55.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bat Pok\u00e9mon",
+      "kind": "Bat Pokémon",
       "flavor_text": "It attacks in a stealthy manner, without warning. Its sharp fangs are used to bite and to suck blood.",
       "abilities": [
         "Inner Focus"
@@ -28,21 +28,21 @@
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        42,
-        38,
-        64,
-        42,
-        29,
-        29,
-        38,
-        62,
-        146,
-        66,
-        69,
-        81,
-        42
-      ]
+      "regional_dex_nums": {
+        "rby": 42,
+        "gsc": 38,
+        "rse": 64,
+        "frlg": 42,
+        "dp": 29,
+        "plat": 29,
+        "hgss": 38,
+        "b2w2": 62,
+        "xy_central": 146,
+        "oras": 66,
+        "sm": 69,
+        "usum": 81,
+        "lets_go": 42
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -277,6 +277,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Brave Bird",
         "Curse",

@@ -2,6 +2,9 @@
   {
     "species_name": "Muk",
     "variant_name": "Muk",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 105,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 89,
-      "types": [
-        "Poison"
-      ],
       "height": 1.2,
       "weight": 30.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sludge Pok\u00e9mon",
+      "kind": "Sludge Pokémon",
       "flavor_text": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
       "abilities": [
         "Stench",
@@ -28,18 +28,18 @@
       "hidden_abilities": [
         "Poison Touch"
       ],
-      "regional_dex_nums": [
-        89,
-        117,
-        107,
-        89,
-        118,
-        65,
-        112,
-        51,
-        58,
-        89
-      ]
+      "regional_dex_nums": {
+        "rby": 89,
+        "gsc": 117,
+        "rse": 107,
+        "frlg": 89,
+        "hgss": 118,
+        "b2w2": 65,
+        "oras": 112,
+        "sm": 51,
+        "usum": 58,
+        "lets_go": 89
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -68,6 +68,9 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [
+        "Venom Drench"
+      ],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -76,6 +79,10 @@
   {
     "species_name": "Muk",
     "variant_name": "Alolan Muk",
+    "types": [
+      "Poison",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 105,
@@ -86,16 +93,12 @@
     },
     "dex_entry": {
       "national_dex_num": 89,
-      "types": [
-        "Poison",
-        "Dark"
-      ],
       "height": 1.0,
       "weight": 52.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sludge Pok\u00e9mon",
-      "flavor_text": "Muk\u2019s coloration becomes increasingly vivid the more it feasts on its favorite dish\u2014trash.",
+      "kind": "Sludge Pokémon",
+      "flavor_text": "Muk’s coloration becomes increasingly vivid the more it feasts on its favorite dish—trash.",
       "abilities": [
         "Poison Touch",
         "Gluttony"
@@ -103,18 +106,18 @@
       "hidden_abilities": [
         "Power of Alchemy"
       ],
-      "regional_dex_nums": [
-        89,
-        117,
-        107,
-        89,
-        118,
-        65,
-        112,
-        51,
-        58,
-        89
-      ]
+      "regional_dex_nums": {
+        "rby": 89,
+        "gsc": 117,
+        "rse": 107,
+        "frlg": 89,
+        "hgss": 118,
+        "b2w2": 65,
+        "oras": 112,
+        "sm": 51,
+        "usum": 58,
+        "lets_go": 89
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -143,6 +146,9 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [
+        "Venom Drench"
+      ],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

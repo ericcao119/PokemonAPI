@@ -2,6 +2,9 @@
   {
     "species_name": "Regigigas",
     "variant_name": "Regigigas",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 160,
@@ -12,20 +15,17 @@
     },
     "dex_entry": {
       "national_dex_num": 486,
-      "types": [
-        "Normal"
-      ],
       "height": 3.7,
       "weight": 420.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Colossal Pok\u00e9mon",
-      "flavor_text": "There is an enduring legend that states this Pok\u00e9mon towed continents with ropes.",
+      "kind": "Colossal Pokémon",
+      "flavor_text": "There is an enduring legend that states this Pokémon towed continents with ropes.",
       "abilities": [
         "Slow Start"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": []
+      "regional_dex_nums": {}
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -45,7 +45,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -252,6 +252,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Block",

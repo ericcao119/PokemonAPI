@@ -2,6 +2,10 @@
   {
     "species_name": "Gible",
     "variant_name": "Gible",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 58,
       "attack": 70,
@@ -12,29 +16,25 @@
     },
     "dex_entry": {
       "national_dex_num": 443,
-      "types": [
-        "Dragon",
-        "Ground"
-      ],
       "height": 0.7,
       "weight": 20.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Land Shark Pok\u00e9mon",
-      "flavor_text": "Its original home is an area much hotter than Alola. If you\u2019re planning to live with one, your heating bill will soar.",
+      "kind": "Land Shark Pokémon",
+      "flavor_text": "Its original home is an area much hotter than Alola. If you’re planning to live with one, your heating bill will soar.",
       "abilities": [
         "Sand Veil"
       ],
       "hidden_abilities": [
         "Rough Skin"
       ],
-      "regional_dex_nums": [
-        109,
-        109,
-        6,
-        238,
-        307
-      ]
+      "regional_dex_nums": {
+        "dp": 109,
+        "plat": 109,
+        "xy_mountain": 6,
+        "sm": 238,
+        "usum": 307
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -218,6 +218,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Double-Edge",

@@ -2,6 +2,10 @@
   {
     "species_name": "Forretress",
     "variant_name": "Forretress",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 90,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 205,
-      "types": [
-        "Bug",
-        "Steel"
-      ],
       "height": 1.2,
       "weight": 125.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bagworm Pok\u00e9mon",
+      "kind": "Bagworm Pokémon",
       "flavor_text": "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight.",
       "abilities": [
         "Sturdy"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        94,
-        94,
-        269
-      ]
+      "regional_dex_nums": {
+        "gsc": 94,
+        "hgss": 94,
+        "usum": 269
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -291,6 +291,10 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Autotomize",
+        "Mirror Shot"
+      ],
       "egg_moves": [
         "Counter",
         "Double-Edge",

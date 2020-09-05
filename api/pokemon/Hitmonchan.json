@@ -2,6 +2,9 @@
   {
     "species_name": "Hitmonchan",
     "variant_name": "Hitmonchan",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 105,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 107,
-      "types": [
-        "Fighting"
-      ],
       "height": 1.4,
       "weight": 50.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Punching Pok\u00e9mon",
+      "kind": "Punching Pokémon",
       "flavor_text": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
       "abilities": [
         "Keen Eye",
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Inner Focus"
       ],
-      "regional_dex_nums": [
-        107,
-        145,
-        107,
-        147,
-        107,
-        109
-      ]
+      "regional_dex_nums": {
+        "rby": 107,
+        "gsc": 145,
+        "frlg": 107,
+        "hgss": 147,
+        "lets_go": 107,
+        "swsh": 109
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -319,7 +319,19 @@
           "Throat Chop"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Drain Punch"
+      ],
+      "egg_moves": [
+        "Bullet Punch",
+        "Counter",
+        "Feint",
+        "High Jump Kick",
+        "Mach Punch",
+        "Mind Reader",
+        "Rapid Spin",
+        "Vacuum Wave"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

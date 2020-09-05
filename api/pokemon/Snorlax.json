@@ -2,6 +2,9 @@
   {
     "species_name": "Snorlax",
     "variant_name": "Snorlax",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 160,
       "attack": 110,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 143,
-      "types": [
-        "Normal"
-      ],
       "height": 2.1,
       "weight": 460.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sleeping Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon\u2019s stomach is so strong, even eating moldy or rotten food will not affect it.",
+      "kind": "Sleeping Pokémon",
+      "flavor_text": "This Pokémon’s stomach is so strong, even eating moldy or rotten food will not affect it.",
       "abilities": [
         "Immunity",
         "Thick Fat"
@@ -28,19 +28,19 @@
       "hidden_abilities": [
         "Gluttony"
       ],
-      "regional_dex_nums": [
-        143,
-        225,
-        143,
-        113,
-        113,
-        230,
-        139,
-        36,
-        43,
-        143,
-        261
-      ]
+      "regional_dex_nums": {
+        "rby": 143,
+        "gsc": 225,
+        "frlg": 143,
+        "dp": 113,
+        "plat": 113,
+        "hgss": 230,
+        "xy_central": 139,
+        "sm": 36,
+        "usum": 43,
+        "lets_go": 143,
+        "swsh": 261
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -440,6 +440,7 @@
           "Body Press"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Counter",
         "Curse",

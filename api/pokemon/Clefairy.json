@@ -2,6 +2,9 @@
   {
     "species_name": "Clefairy",
     "variant_name": "Clefairy",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 45,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 35,
-      "types": [
-        "Fairy"
-      ],
       "height": 0.6,
       "weight": 7.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fairy Pok\u00e9mon",
-      "flavor_text": "Its adorable behavior and cry make it highly popular. However, this cute Pok\u00e9mon is rarely found.",
+      "kind": "Fairy Pokémon",
+      "flavor_text": "Its adorable behavior and cry make it highly popular. However, this cute Pokémon is rarely found.",
       "abilities": [
         "Cute Charm",
         "Magic Guard"
@@ -28,19 +28,19 @@
       "hidden_abilities": [
         "Friend Guard"
       ],
-      "regional_dex_nums": [
-        35,
-        41,
-        35,
-        100,
-        100,
-        41,
-        89,
-        211,
-        273,
-        35,
-        255
-      ]
+      "regional_dex_nums": {
+        "rby": 35,
+        "gsc": 41,
+        "frlg": 35,
+        "dp": 100,
+        "plat": 100,
+        "hgss": 41,
+        "b2w2": 89,
+        "sm": 211,
+        "usum": 273,
+        "lets_go": 35,
+        "swsh": 255
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -424,7 +424,14 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Aromatherapy",
+        "Heal Pulse",
+        "Present",
+        "Tickle",
+        "Wish"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

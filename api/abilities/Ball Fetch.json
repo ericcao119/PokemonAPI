@@ -1,4 +1,5 @@
 {
-  "name": "Ball Fetch",
-  "description": "Retrieves a Pok\u00e9 Ball from a failed throw."
+  "ability_name": "Ball Fetch",
+  "effect": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle.",
+  "description": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
 }

@@ -2,6 +2,9 @@
   {
     "species_name": "Koffing",
     "variant_name": "Koffing",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 109,
-      "types": [
-        "Poison"
-      ],
       "height": 0.6,
       "weight": 1.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Gas Pok\u00e9mon",
+      "kind": "Poison Gas Pokémon",
       "flavor_text": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
       "abilities": [
         "Levitate",
@@ -28,17 +28,17 @@
       "hidden_abilities": [
         "Stench"
       ],
-      "regional_dex_nums": [
-        109,
-        114,
-        108,
-        109,
-        115,
-        46,
-        113,
-        109,
-        250
-      ]
+      "regional_dex_nums": {
+        "rby": 109,
+        "gsc": 114,
+        "rse": 108,
+        "frlg": 109,
+        "hgss": 115,
+        "b2w2": 46,
+        "oras": 113,
+        "lets_go": 109,
+        "swsh": 250
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -254,6 +254,7 @@
           "Venom Drench"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Curse",
         "Grudge",

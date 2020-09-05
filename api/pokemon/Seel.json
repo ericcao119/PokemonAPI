@@ -2,6 +2,9 @@
   {
     "species_name": "Seel",
     "variant_name": "Seel",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 45,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 86,
-      "types": [
-        "Water"
-      ],
       "height": 1.1,
       "weight": 90.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Lion Pok\u00e9mon",
+      "kind": "Sea Lion Pokémon",
       "flavor_text": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
       "abilities": [
         "Thick Fat",
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Ice Body"
       ],
-      "regional_dex_nums": [
-        86,
-        176,
-        86,
-        178,
-        265,
-        115,
-        86
-      ]
+      "regional_dex_nums": {
+        "rby": 86,
+        "gsc": 176,
+        "frlg": 86,
+        "hgss": 178,
+        "b2w2": 265,
+        "usum": 115,
+        "lets_go": 86
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -236,6 +236,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Belch",
         "Disable",

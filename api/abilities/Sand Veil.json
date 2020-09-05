@@ -1,4 +1,6 @@
 {
-  "name": "Sand Veil",
-  "description": "Boosts the Pok\u00e9mon's evasion in a sandstorm."
+  "ability_name": "Sand Veil",
+  "effect": "Sand Veil raises the ability-bearer's evasion by 20% in a sandstorm. It also gives immunity to sandstorm damage (if they are not already protected by being Ground/Rock/Steel type).
+If a Pokémon with Sand Veil is the leading party Pokémon while travelling in a sandstorm, wild Pokémon are only half as likely to appear.",
+  "description": "Boosts the Pokémon’s evasiveness in a sandstorm."
 }

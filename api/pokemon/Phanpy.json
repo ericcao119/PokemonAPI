@@ -2,6 +2,9 @@
   {
     "species_name": "Phanpy",
     "variant_name": "Phanpy",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 60,
@@ -12,27 +15,24 @@
     },
     "dex_entry": {
       "national_dex_num": 231,
-      "types": [
-        "Ground"
-      ],
       "height": 0.5,
       "weight": 33.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Long Nose Pok\u00e9mon",
-      "flavor_text": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pok\u00e9mon can be seen drying their soaking-wet bodies at the edge of water.",
+      "kind": "Long Nose Pokémon",
+      "flavor_text": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.",
       "abilities": [
         "Pickup"
       ],
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        195,
-        165,
-        200,
-        172
-      ]
+      "regional_dex_nums": {
+        "gsc": 195,
+        "rse": 165,
+        "hgss": 200,
+        "oras": 172
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -203,6 +203,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Body Slam",

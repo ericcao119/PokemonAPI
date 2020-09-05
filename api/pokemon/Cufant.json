@@ -2,6 +2,9 @@
   {
     "species_name": "Cufant",
     "variant_name": "Cufant",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 72,
       "attack": 80,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 878,
-      "types": [
-        "Steel"
-      ],
       "height": 1.2,
       "weight": 100.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Copperderm Pok\u00e9mon",
-      "flavor_text": "If a job requires serious strength, this Pok\u00e9mon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
+      "kind": "Copperderm Pokémon",
+      "flavor_text": "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
       "abilities": [
         "Sheer Force"
       ],
       "hidden_abilities": [
         "Heavy Metal"
       ],
-      "regional_dex_nums": [
-        302
-      ]
+      "regional_dex_nums": {
+        "swsh": 302
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
         "Field",
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -246,6 +246,7 @@
           "Body Press"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Belch",
         "Curse",

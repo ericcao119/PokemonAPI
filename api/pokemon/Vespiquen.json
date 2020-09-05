@@ -2,6 +2,10 @@
   {
     "species_name": "Vespiquen",
     "variant_name": "Vespiquen",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 80,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 416,
-      "types": [
-        "Bug",
-        "Flying"
-      ],
       "height": 1.2,
       "weight": 38.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Beehive Pok\u00e9mon",
+      "kind": "Beehive Pokémon",
       "flavor_text": "Vespiquen that give off more pheromones have larger swarms of Combee attendants.",
       "abilities": [
         "Pressure"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        54,
-        54,
-        143,
-        77,
-        117
-      ]
+      "regional_dex_nums": {
+        "dp": 54,
+        "plat": 54,
+        "b2w2": 143,
+        "xy_central": 77,
+        "swsh": 117
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -261,6 +261,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Slash"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

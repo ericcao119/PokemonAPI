@@ -1,4 +1,6 @@
 {
-  "name": "Guts",
-  "description": "Boosts Attack if there is a status problem."
+  "ability_name": "Guts",
+  "effect": "Guts raises the ability-bearer's Attack by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If burnt, the Pokémon does not suffer the usual drop in Attack.
+All other effects of the status condition remain, e.g. losing HP each turn (poison, burn), speed drop (paralysis) or being unable to attack (paralysis, freeze, sleep).",
+  "description": "It’s so gutsy that having a status condition boosts the Pokémon’s Attack stat."
 }

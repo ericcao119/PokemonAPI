@@ -2,6 +2,9 @@
   {
     "species_name": "Watchog",
     "variant_name": "Watchog",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 85,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 505,
-      "types": [
-        "Normal"
-      ],
       "height": 1.1,
       "weight": 27.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lookout Pok\u00e9mon",
+      "kind": "Lookout Pokémon",
       "flavor_text": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
       "abilities": [
         "Illuminate",
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        11,
-        11,
-        47
-      ]
+      "regional_dex_nums": {
+        "bw": 11,
+        "b2w2": 11,
+        "xy_mountain": 47
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -275,6 +275,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Confuse Ray"
+      ],
       "egg_moves": [
         "Assurance",
         "Bullet Seed",

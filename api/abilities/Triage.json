@@ -1,4 +1,6 @@
 {
-  "name": "Triage",
-  "description": "Gives priority to restorative moves."
+  "ability_name": "Triage",
+  "effect": "Triage increases the priority of HP-restoring moves to +3, when used by the ability-bearer.
+Note: as Comfey is currently the only Pokémon with this ability, the only moves affected in practice are Draining Kiss, Floral Healing, Rest, and Synthesis.",
+  "description": "Gives priority to a healing move."
 }

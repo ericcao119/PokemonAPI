@@ -2,6 +2,10 @@
   {
     "species_name": "Hoothoot",
     "variant_name": "Hoothoot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 30,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 163,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.7,
       "weight": 21.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Owl Pok\u00e9mon",
+      "kind": "Owl Pokémon",
       "flavor_text": "It begins to hoot at the same time every day. Some Trainers use them in place of clocks.",
       "abilities": [
         "Insomnia",
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Tinted Lens"
       ],
-      "regional_dex_nums": [
-        15,
-        106,
-        106,
-        15,
-        117,
-        212,
-        19
-      ]
+      "regional_dex_nums": {
+        "gsc": 15,
+        "dp": 106,
+        "plat": 106,
+        "hgss": 15,
+        "xy_mountain": 117,
+        "usum": 212,
+        "swsh": 19
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -252,6 +252,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Defog",

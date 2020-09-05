@@ -2,6 +2,10 @@
   {
     "species_name": "Jynx",
     "variant_name": "Jynx",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 50,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 124,
-      "types": [
-        "Ice",
-        "Psychic"
-      ],
       "height": 1.4,
       "weight": 40.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Human Shape Pok\u00e9mon",
+      "kind": "Human Shape Pokémon",
       "flavor_text": "Appears to move to a rhythm of its own, as if it were dancing. It wiggles its hips as it walks.",
       "abilities": [
         "Oblivious",
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Dry Skin"
       ],
-      "regional_dex_nums": [
-        124,
-        153,
-        124,
-        155,
-        84,
-        110,
-        124
-      ]
+      "regional_dex_nums": {
+        "rby": 124,
+        "gsc": 153,
+        "frlg": 124,
+        "hgss": 155,
+        "xy_mountain": 84,
+        "usum": 110,
+        "lets_go": 124
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -312,6 +312,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Fake Out",

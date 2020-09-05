@@ -1,4 +1,5 @@
 {
-  "name": "Light Metal",
-  "description": "Halves the Pok\u00e9mon's weight."
+  "ability_name": "Light Metal",
+  "effect": "Light Metal halves the Pokémon's weight in battle. Decreasing weight affects these moves:",
+  "description": "Halves the Pokémon’s weight."
 }

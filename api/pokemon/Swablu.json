@@ -2,6 +2,10 @@
   {
     "species_name": "Swablu",
     "variant_name": "Swablu",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 40,
@@ -12,29 +16,25 @@
     },
     "dex_entry": {
       "national_dex_num": 333,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.4,
       "weight": 1.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cotton Bird Pok\u00e9mon",
-      "flavor_text": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pok\u00e9mon finds a stream and showers itself.",
+      "kind": "Cotton Bird Pokémon",
+      "flavor_text": "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself.",
       "abilities": [
         "Natural Cure"
       ],
       "hidden_abilities": [
         "Cloud Nine"
       ],
-      "regional_dex_nums": [
-        121,
-        171,
-        246,
-        139,
-        126
-      ]
+      "regional_dex_nums": {
+        "rse": 121,
+        "plat": 171,
+        "b2w2": 246,
+        "xy_mountain": 139,
+        "oras": 126
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -246,6 +246,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Dragon Rush",

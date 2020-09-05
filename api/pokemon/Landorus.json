@@ -2,6 +2,10 @@
   {
     "species_name": "Landorus",
     "variant_name": "Incarnate Forme",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 89,
       "attack": 125,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 645,
-      "types": [
-        "Ground",
-        "Flying"
-      ],
       "height": 1.5,
       "weight": 68.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Abundance Pok\u00e9mon",
+      "kind": "Abundance Pokémon",
       "flavor_text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
       "abilities": [
         "Sand Force"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        151,
-        200
-      ]
+      "regional_dex_nums": {
+        "bw": 151,
+        "b2w2": 200
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -298,6 +298,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Block",
@@ -323,6 +324,10 @@
   {
     "species_name": "Landorus",
     "variant_name": "Therian Forme",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 89,
       "attack": 145,
@@ -333,24 +338,20 @@
     },
     "dex_entry": {
       "national_dex_num": 645,
-      "types": [
-        "Ground",
-        "Flying"
-      ],
       "height": 1.3,
       "weight": 68.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Abundance Pok\u00e9mon",
+      "kind": "Abundance Pokémon",
       "flavor_text": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
       "abilities": [
         "Intimidate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        151,
-        200
-      ]
+      "regional_dex_nums": {
+        "bw": 151,
+        "b2w2": 200
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -617,6 +618,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Block",

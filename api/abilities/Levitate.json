@@ -1,4 +1,6 @@
 {
-  "name": "Levitate",
-  "description": "Gives immunity to Ground type moves."
+  "ability_name": "Levitate",
+  "effect": "Levitate causes the Pokémon to be raised (like Flying-type Pokémon).
+Raised Pokémon are not affected by Ground-type moves, Spikes, Toxic Spikes nor Arena Trap. Full details in glossary.",
+  "description": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
 }

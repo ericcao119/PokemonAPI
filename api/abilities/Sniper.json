@@ -1,4 +1,6 @@
 {
-  "name": "Sniper",
-  "description": "Powers up moves if they become critical hits."
+  "ability_name": "Sniper",
+  "effect": "Sniper increases the power of critical hits by 1.5×. This means a critical hit will deal 2.25× normal damage instead of 1.5×.
+In Generations 1-5 critical hits deal 2× normal damage, so Sniper inflicts 3× normal damage.",
+  "description": "Powers up moves if they become critical hits when attacking."
 }

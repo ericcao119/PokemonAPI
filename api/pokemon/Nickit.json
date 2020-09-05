@@ -2,6 +2,9 @@
   {
     "species_name": "Nickit",
     "variant_name": "Nickit",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 28,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 827,
-      "types": [
-        "Dark"
-      ],
       "height": 0.6,
       "weight": 8.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fox Pok\u00e9mon",
-      "flavor_text": "Cunning and cautious, this Pok\u00e9mon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
+      "kind": "Fox Pokémon",
+      "flavor_text": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
       "abilities": [
         "Run Away",
         "Unburden"
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Stakeout"
       ],
-      "regional_dex_nums": [
-        29
-      ]
+      "regional_dex_nums": {
+        "swsh": 29
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -206,6 +206,7 @@
           "Play Rough"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Howl",
         "Knock Off",

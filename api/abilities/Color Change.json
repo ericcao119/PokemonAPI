@@ -1,4 +1,7 @@
 {
-  "name": "Color Change",
-  "description": "Changes the Pok\u00e9mon's type to the foe's move."
+  "ability_name": "Color Change",
+  "effect": "Color Change changes the ability-bearer's type, when hit by a damage dealing move, to the type of that move. For example being hit by X Scissor will change the Pokémon to Bug-type. Dual-type Pokémon change to single-types.
+If a Pokémon with Color Change has a Substitute, the ability does not activate. Color Change activates for the last strike of a multi-hit move.
+In Generations 3-4, Color Change activates on the first strike of a multi-hit move, thus subsequent hits may be not very effective.",
+  "description": "The Pokémon’s type becomes the type of the move used on it."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Lugia",
     "variant_name": "Lugia",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 106,
       "attack": 90,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 249,
-      "types": [
-        "Psychic",
-        "Flying"
-      ],
       "height": 5.2,
       "weight": 216.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Diving Pok\u00e9mon",
-      "flavor_text": "Lugia\u2019s wings pack devastating power\u2014a light fluttering of its wings can blow apart regular houses. As a result, this Pok\u00e9mon chooses to live out of sight deep under the sea.",
+      "kind": "Diving Pokémon",
+      "flavor_text": "Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [
         "Multiscale"
       ],
-      "regional_dex_nums": [
-        247,
-        252
-      ]
+      "regional_dex_nums": {
+        "gsc": 247,
+        "hgss": 252
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -310,6 +310,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",

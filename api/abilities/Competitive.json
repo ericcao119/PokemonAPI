@@ -1,4 +1,5 @@
 {
-  "name": "Competitive",
-  "description": "Raises Special Attack when the Pok\u00e9mon's stats are lowered."
+  "ability_name": "Competitive",
+  "effect": "Competitive raises the ability-bearer's Special Attack when a stat-lowering move is targeted at it.",
+  "description": "Boosts the Sp. Atk stat sharply when a stat is lowered."
 }

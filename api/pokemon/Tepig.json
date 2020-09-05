@@ -2,6 +2,9 @@
   {
     "species_name": "Tepig",
     "variant_name": "Tepig",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 63,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 498,
-      "types": [
-        "Fire"
-      ],
       "height": 0.5,
       "weight": 9.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fire Pig Pok\u00e9mon",
+      "kind": "Fire Pig Pokémon",
       "flavor_text": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
       "abilities": [
         "Blaze"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Thick Fat"
       ],
-      "regional_dex_nums": [
-        4,
-        4
-      ]
+      "regional_dex_nums": {
+        "bw": 4,
+        "b2w2": 4
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -237,6 +237,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Burn Up",

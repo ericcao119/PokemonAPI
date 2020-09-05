@@ -1,4 +1,6 @@
 {
-  "name": "Tinted Lens",
-  "description": "Powers up \u201cnot very effective\u201d moves."
+  "ability_name": "Tinted Lens",
+  "effect": "Powers up “not very effective” moves.
+",
+  "description": "The Pokémon can use “not very effective” moves to deal regular damage."
 }

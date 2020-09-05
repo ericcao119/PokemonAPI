@@ -2,6 +2,10 @@
   {
     "species_name": "Claydol",
     "variant_name": "Claydol",
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 70,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 344,
-      "types": [
-        "Ground",
-        "Psychic"
-      ],
       "height": 1.5,
       "weight": 108.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Clay Doll Pok\u00e9mon",
+      "kind": "Clay Doll Pokémon",
       "flavor_text": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        132,
-        170,
-        137,
-        311,
-        83
-      ]
+      "regional_dex_nums": {
+        "rse": 132,
+        "b2w2": 170,
+        "oras": 137,
+        "usum": 311,
+        "swsh": 83
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -52,7 +52,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -315,6 +315,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Hyper Beam"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

@@ -2,6 +2,10 @@
   {
     "species_name": "Larvesta",
     "variant_name": "Larvesta",
+    "types": [
+      "Bug",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 85,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 636,
-      "types": [
-        "Bug",
-        "Fire"
-      ],
       "height": 1.1,
       "weight": 28.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Torch Pok\u00e9mon",
+      "kind": "Torch Pokémon",
       "flavor_text": "It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun.",
       "abilities": [
         "Flame Body"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Swarm"
       ],
-      "regional_dex_nums": [
-        142,
-        171,
-        203
-      ]
+      "regional_dex_nums": {
+        "bw": 142,
+        "b2w2": 171,
+        "usum": 203
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -223,6 +223,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Endure",
         "Foresight",

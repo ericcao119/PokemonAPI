@@ -2,6 +2,10 @@
   {
     "species_name": "Dreepy",
     "variant_name": "Dreepy",
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 28,
       "attack": 60,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 885,
-      "types": [
-        "Dragon",
-        "Ghost"
-      ],
       "height": 0.5,
       "weight": 2.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lingering Pok\u00e9mon",
-      "flavor_text": "If this weak Pok\u00e9mon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger.",
+      "kind": "Lingering Pokémon",
+      "flavor_text": "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger.",
       "abilities": [
         "Clear Body",
         "Infiltrator"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Cursed Body"
       ],
-      "regional_dex_nums": [
-        395
-      ]
+      "regional_dex_nums": {
+        "swsh": 395
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -52,7 +52,7 @@
         "Amorphous",
         "Dragon"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -132,6 +132,7 @@
           "Baton Pass"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Confuse Ray",
         "Curse",

@@ -2,6 +2,10 @@
   {
     "species_name": "Altaria",
     "variant_name": "Altaria",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 70,
@@ -12,29 +16,25 @@
     },
     "dex_entry": {
       "national_dex_num": 334,
-      "types": [
-        "Dragon",
-        "Flying"
-      ],
       "height": 1.1,
       "weight": 20.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Humming Pok\u00e9mon",
-      "flavor_text": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pok\u00e9mon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
+      "kind": "Humming Pokémon",
+      "flavor_text": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
       "abilities": [
         "Natural Cure"
       ],
       "hidden_abilities": [
         "Cloud Nine"
       ],
-      "regional_dex_nums": [
-        122,
-        172,
-        247,
-        140,
-        127
-      ]
+      "regional_dex_nums": {
+        "rse": 122,
+        "plat": 172,
+        "b2w2": 247,
+        "xy_mountain": 140,
+        "oras": 127
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -302,6 +302,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Dragon Breath"
+      ],
       "egg_moves": [
         "Agility",
         "Dragon Rush",
@@ -351,6 +354,10 @@
   {
     "species_name": "Altaria",
     "variant_name": "Mega Altaria",
+    "types": [
+      "Dragon",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 110,
@@ -361,27 +368,23 @@
     },
     "dex_entry": {
       "national_dex_num": 334,
-      "types": [
-        "Dragon",
-        "Fairy"
-      ],
       "height": 1.5,
       "weight": 20.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Humming Pok\u00e9mon",
-      "flavor_text": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pok\u00e9mon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
+      "kind": "Humming Pokémon",
+      "flavor_text": "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
       "abilities": [
         "Pixilate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        122,
-        172,
-        247,
-        140,
-        127
-      ]
+      "regional_dex_nums": {
+        "rse": 122,
+        "plat": 172,
+        "b2w2": 247,
+        "xy_mountain": 140,
+        "oras": 127
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -649,6 +652,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Dragon Breath"
+      ],
       "egg_moves": [
         "Agility",
         "Dragon Rush",

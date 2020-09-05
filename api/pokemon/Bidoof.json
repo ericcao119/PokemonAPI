@@ -2,6 +2,9 @@
   {
     "species_name": "Bidoof",
     "variant_name": "Bidoof",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 59,
       "attack": 45,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 399,
-      "types": [
-        "Normal"
-      ],
       "height": 0.5,
       "weight": 20.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Plump Mouse Pok\u00e9mon",
+      "kind": "Plump Mouse Pokémon",
       "flavor_text": "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
       "abilities": [
         "Simple",
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Moody"
       ],
-      "regional_dex_nums": [
-        13,
-        13,
-        38
-      ]
+      "regional_dex_nums": {
+        "dp": 13,
+        "plat": 13,
+        "xy_central": 38
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -236,6 +236,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Tail",
         "Defense Curl",

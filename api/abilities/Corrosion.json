@@ -1,4 +1,5 @@
 {
-  "name": "Corrosion",
-  "description": "The Pok\u00e9mon can poison Steel and Poison types."
+  "ability_name": "Corrosion",
+  "effect": "Corrosion allows the bearer to poison any Pokémon, including Steel and Poison types.",
+  "description": "The Pokémon can poison the target even if it’s a Steel or Poison type."
 }

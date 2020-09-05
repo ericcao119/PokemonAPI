@@ -2,6 +2,9 @@
   {
     "species_name": "Squirtle",
     "variant_name": "Squirtle",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 44,
       "attack": 48,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 7,
-      "types": [
-        "Water"
-      ],
       "height": 0.5,
       "weight": 9.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tiny Turtle Pok\u00e9mon",
+      "kind": "Tiny Turtle Pokémon",
       "flavor_text": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
       "abilities": [
         "Torrent"
@@ -27,14 +27,14 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        7,
-        232,
-        7,
-        237,
-        86,
-        7
-      ]
+      "regional_dex_nums": {
+        "rby": 7,
+        "gsc": 232,
+        "frlg": 7,
+        "hgss": 237,
+        "xy_central": 86,
+        "lets_go": 7
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -283,6 +283,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Jet",
         "Aqua Ring",

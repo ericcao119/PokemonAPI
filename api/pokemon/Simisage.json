@@ -2,6 +2,9 @@
   {
     "species_name": "Simisage",
     "variant_name": "Simisage",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 98,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 512,
-      "types": [
-        "Grass"
-      ],
       "height": 1.1,
       "weight": 30.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Thorn Monkey Pok\u00e9mon",
+      "kind": "Thorn Monkey Pokémon",
       "flavor_text": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
       "abilities": [
         "Gluttony"
@@ -27,11 +27,11 @@
       "hidden_abilities": [
         "Overgrow"
       ],
-      "regional_dex_nums": [
-        18,
-        38,
-        30
-      ]
+      "regional_dex_nums": {
+        "bw": 18,
+        "b2w2": 38,
+        "xy_central": 30
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -214,6 +214,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Bullet Seed",

@@ -2,6 +2,10 @@
   {
     "species_name": "Arctovish",
     "variant_name": "Arctovish",
+    "types": [
+      "Water",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 90,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 883,
-      "types": [
-        "Water",
-        "Ice"
-      ],
       "height": 2.0,
       "weight": 175.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fossil Pok\u00e9mon",
-      "flavor_text": "The skin on its face is impervious to attack, but breathing difficulties made this Pok\u00e9mon go extinct anyway.",
+      "kind": "Fossil Pokémon",
+      "flavor_text": "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway.",
       "abilities": [
         "Water Absorb",
         "Ice Body"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Slush Rush"
       ],
-      "regional_dex_nums": [
-        377
-      ]
+      "regional_dex_nums": {
+        "swsh": 377
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 8739,
       "steps_to_hatch_upper": 8995,
       "egg_cycles": 35
@@ -255,6 +255,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

@@ -2,6 +2,9 @@
   {
     "species_name": "Remoraid",
     "variant_name": "Remoraid",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 65,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 223,
-      "types": [
-        "Water"
-      ],
       "height": 0.6,
       "weight": 12.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Jet Pok\u00e9mon",
-      "flavor_text": "Using its dorsal fin as a suction pad, it clings to a Mantine\u2019s underside to scavenge for leftovers.",
+      "kind": "Jet Pokémon",
+      "flavor_text": "Using its dorsal fin as a suction pad, it clings to a Mantine’s underside to scavenge for leftovers.",
       "abilities": [
         "Hustle",
         "Sniper"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Moody"
       ],
-      "regional_dex_nums": [
-        172,
-        132,
-        132,
-        174,
-        235,
-        144,
-        143,
-        148
-      ]
+      "regional_dex_nums": {
+        "gsc": 172,
+        "dp": 132,
+        "plat": 132,
+        "hgss": 174,
+        "b2w2": 235,
+        "xy_coastal": 144,
+        "usum": 143,
+        "swsh": 148
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -237,6 +237,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Spray",
         "Aurora Beam",

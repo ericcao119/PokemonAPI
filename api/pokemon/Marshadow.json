@@ -2,6 +2,10 @@
   {
     "species_name": "Marshadow",
     "variant_name": "Marshadow",
+    "types": [
+      "Fighting",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 125,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 802,
-      "types": [
-        "Fighting",
-        "Ghost"
-      ],
       "height": 0.7,
       "weight": 22.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gloomdweller Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon can conceal itself in any shadow, so it went undiscovered for a long time.",
+      "kind": "Gloomdweller Pokémon",
+      "flavor_text": "This Pokémon can conceal itself in any shadow, so it went undiscovered for a long time.",
       "abilities": [
         "Technician"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        302,
-        402
-      ]
+      "regional_dex_nums": {
+        "sm": 302,
+        "usum": 402
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -349,6 +349,7 @@
           "Throat Chop"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

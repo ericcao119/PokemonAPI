@@ -2,6 +2,9 @@
   {
     "species_name": "Floette",
     "variant_name": "Floette",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 54,
       "attack": 45,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 670,
-      "types": [
-        "Fairy"
-      ],
       "height": 0.2,
       "weight": 0.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Single Bloom Pok\u00e9mon",
+      "kind": "Single Bloom Pokémon",
       "flavor_text": "It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.",
       "abilities": [
         "Flower Veil"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Symbiosis"
       ],
-      "regional_dex_nums": [
-        69,
-        101
-      ]
+      "regional_dex_nums": {
+        "xy_central": 69,
+        "usum": 101
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -221,6 +221,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Camouflage",
         "Captivate",

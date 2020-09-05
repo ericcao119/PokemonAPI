@@ -2,6 +2,10 @@
   {
     "species_name": "Latios",
     "variant_name": "Latios",
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 90,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 381,
-      "types": [
-        "Dragon",
-        "Psychic"
-      ],
       "height": 2.0,
       "weight": 60.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Eon Pok\u00e9mon",
-      "flavor_text": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pok\u00e9mon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+      "kind": "Eon Pokémon",
+      "flavor_text": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        197,
-        206
-      ]
+      "regional_dex_nums": {
+        "rse": 197,
+        "oras": 206
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -328,6 +328,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -373,6 +374,10 @@
   {
     "species_name": "Latios",
     "variant_name": "Mega Latios",
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 130,
@@ -383,24 +388,20 @@
     },
     "dex_entry": {
       "national_dex_num": 381,
-      "types": [
-        "Dragon",
-        "Psychic"
-      ],
       "height": 2.3,
       "weight": 70.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Eon Pok\u00e9mon",
-      "flavor_text": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pok\u00e9mon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+      "kind": "Eon Pokémon",
+      "flavor_text": "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        197,
-        206
-      ]
+      "regional_dex_nums": {
+        "rse": 197,
+        "oras": 206
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -699,6 +700,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

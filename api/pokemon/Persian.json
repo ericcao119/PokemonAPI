@@ -2,6 +2,9 @@
   {
     "species_name": "Persian",
     "variant_name": "Persian",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 70,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 53,
-      "types": [
-        "Normal"
-      ],
       "height": 1.0,
       "weight": 32.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Classy Cat Pok\u00e9mon",
+      "kind": "Classy Cat Pokémon",
       "flavor_text": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
       "abilities": [
         "Limber",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        53,
-        137,
-        53,
-        139,
-        46,
-        53,
-        53,
-        184
-      ]
+      "regional_dex_nums": {
+        "rby": 53,
+        "gsc": 137,
+        "frlg": 53,
+        "hgss": 139,
+        "sm": 46,
+        "usum": 53,
+        "lets_go": 53,
+        "swsh": 184
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -151,6 +151,9 @@
           "Throat Chop"
         ]
       ],
+      "evolution_moves": [
+        "Power Gem"
+      ],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -159,6 +162,9 @@
   {
     "species_name": "Persian",
     "variant_name": "Alolan Persian",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 60,
@@ -169,15 +175,12 @@
     },
     "dex_entry": {
       "national_dex_num": 53,
-      "types": [
-        "Dark"
-      ],
       "height": 1.1,
       "weight": 33.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Classy Cat Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is one tough opponent. Not only does it have formidable physical abilities, but it\u2019s also not above fighting dirty.",
+      "kind": "Classy Cat Pokémon",
+      "flavor_text": "This Pokémon is one tough opponent. Not only does it have formidable physical abilities, but it’s also not above fighting dirty.",
       "abilities": [
         "Fur Coat",
         "Technician"
@@ -185,16 +188,16 @@
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        53,
-        137,
-        53,
-        139,
-        46,
-        53,
-        53,
-        184
-      ]
+      "regional_dex_nums": {
+        "rby": 53,
+        "gsc": 137,
+        "frlg": 53,
+        "hgss": 139,
+        "sm": 46,
+        "usum": 53,
+        "lets_go": 53,
+        "swsh": 184
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -307,6 +310,9 @@
           95,
           "Throat Chop"
         ]
+      ],
+      "evolution_moves": [
+        "Power Gem"
       ],
       "egg_moves": [],
       "tutor_moves": [],

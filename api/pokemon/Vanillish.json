@@ -2,6 +2,9 @@
   {
     "species_name": "Vanillish",
     "variant_name": "Vanillish",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 51,
       "attack": 65,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 583,
-      "types": [
-        "Ice"
-      ],
       "height": 1.1,
       "weight": 41.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Icy Snow Pok\u00e9mon",
-      "flavor_text": "It blasts enemies with cold air reaching \u2212148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward\u2014it\u2019s a kind Pok\u00e9mon.",
+      "kind": "Icy Snow Pokémon",
+      "flavor_text": "It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it’s a kind Pokémon.",
       "abilities": [
         "Ice Body",
         "Snow Cloak"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        89,
-        256,
-        86,
-        256,
-        333,
-        73
-      ]
+      "regional_dex_nums": {
+        "bw": 89,
+        "b2w2": 256,
+        "xy_mountain": 86,
+        "sm": 256,
+        "usum": 333,
+        "swsh": 73
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -230,6 +230,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Autotomize",
         "Ice Shard",

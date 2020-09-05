@@ -1,4 +1,7 @@
 {
-  "name": "Quick Feet",
-  "description": "Boosts Speed if there is a status problem."
+  "ability_name": "Quick Feet",
+  "effect": "Quick Feet raises the ability-bearer's Speed by 50% when inflicted by a major status ailment (poison, burn, paralysis, freeze or sleep). If paralyzed, the Pokémon does not suffer the usual drop in Speed.
+All other effects of the status condition remain, e.g. losing HP each turn (poison, burn), or being unable to attack (paralysis, freeze, sleep).
+If a Pokémon with Quick Feet is the leading party Pokémon, wild Pokémon are only half as likely to appear.",
+  "description": "Boosts the Speed stat if the Pokémon has a status condition."
 }

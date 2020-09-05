@@ -2,6 +2,9 @@
   {
     "species_name": "Zeraora",
     "variant_name": "Zeraora",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 88,
       "attack": 112,
@@ -12,22 +15,19 @@
     },
     "dex_entry": {
       "national_dex_num": 807,
-      "types": [
-        "Electric"
-      ],
       "height": 1.5,
       "weight": 44.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Thunderclap Pok\u00e9mon",
+      "kind": "Thunderclap Pokémon",
       "flavor_text": "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes.",
       "abilities": [
         "Volt Absorb"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        403
-      ]
+      "regional_dex_nums": {
+        "usum": 403
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -47,7 +47,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -347,6 +347,7 @@
           "Throat Chop"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

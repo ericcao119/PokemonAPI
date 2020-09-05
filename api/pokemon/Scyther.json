@@ -2,6 +2,10 @@
   {
     "species_name": "Scyther",
     "variant_name": "Scyther",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 110,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 123,
-      "types": [
-        "Bug",
-        "Flying"
-      ],
       "height": 1.5,
       "weight": 56.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mantis Pok\u00e9mon",
+      "kind": "Mantis Pokémon",
       "flavor_text": "Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.",
       "abilities": [
         "Swarm",
@@ -29,17 +29,17 @@
       "hidden_abilities": [
         "Steadfast"
       ],
-      "regional_dex_nums": [
-        123,
-        110,
-        123,
-        195,
-        111,
-        136,
-        275,
-        365,
-        123
-      ]
+      "regional_dex_nums": {
+        "rby": 123,
+        "gsc": 110,
+        "frlg": 123,
+        "plat": 195,
+        "hgss": 111,
+        "xy_mountain": 136,
+        "sm": 275,
+        "usum": 365,
+        "lets_go": 123
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -262,6 +262,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baton Pass",
         "Bug Buzz",

@@ -2,6 +2,9 @@
   {
     "species_name": "Elgyem",
     "variant_name": "Elgyem",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 55,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 605,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.5,
       "weight": 9.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cerebral Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.",
+      "kind": "Cerebral Pokémon",
+      "flavor_text": "This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.",
       "abilities": [
         "Telepathy",
         "Synchronize"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        111,
-        188,
-        275,
-        277
-      ]
+      "regional_dex_nums": {
+        "bw": 111,
+        "b2w2": 188,
+        "usum": 275,
+        "swsh": 277
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -280,6 +280,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Astonish",

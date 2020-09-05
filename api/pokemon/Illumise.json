@@ -2,6 +2,9 @@
   {
     "species_name": "Illumise",
     "variant_name": "Illumise",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 47,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 314,
-      "types": [
-        "Bug"
-      ],
       "height": 0.6,
       "weight": 17.7,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Firefly Pok\u00e9mon",
-      "flavor_text": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pok\u00e9mon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+      "kind": "Firefly Pokémon",
+      "flavor_text": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.",
       "abilities": [
         "Oblivious",
         "Tinted Lens"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Prankster"
       ],
-      "regional_dex_nums": [
-        87,
-        134,
-        90
-      ]
+      "regional_dex_nums": {
+        "rse": 87,
+        "xy_central": 134,
+        "oras": 90
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aromatherapy",
         "Baton Pass",

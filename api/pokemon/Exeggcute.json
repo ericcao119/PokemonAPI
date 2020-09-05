@@ -2,6 +2,10 @@
   {
     "species_name": "Exeggcute",
     "variant_name": "Exeggcute",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 40,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 102,
-      "types": [
-        "Grass",
-        "Psychic"
-      ],
       "height": 0.4,
       "weight": 2.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Egg Pok\u00e9mon",
+      "kind": "Egg Pokémon",
       "flavor_text": "The heads attract each other and spin around. There must be six heads for it to maintain balance.",
       "abilities": [
         "Chlorophyll"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Harvest"
       ],
-      "regional_dex_nums": [
-        102,
-        104,
-        102,
-        105,
-        136,
-        269,
-        355,
-        102
-      ]
+      "regional_dex_nums": {
+        "rby": 102,
+        "gsc": 104,
+        "frlg": 102,
+        "hgss": 105,
+        "xy_coastal": 136,
+        "sm": 269,
+        "usum": 355,
+        "lets_go": 102
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -248,6 +248,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Block",

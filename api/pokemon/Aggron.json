@@ -2,6 +2,10 @@
   {
     "species_name": "Aggron",
     "variant_name": "Aggron",
+    "types": [
+      "Steel",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 110,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 306,
-      "types": [
-        "Steel",
-        "Rock"
-      ],
       "height": 2.1,
       "weight": 360.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Armor Pok\u00e9mon",
-      "flavor_text": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pok\u00e9mon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+      "kind": "Iron Armor Pokémon",
+      "flavor_text": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
       "abilities": [
         "Sturdy",
         "Rock Head"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Heavy Metal"
       ],
-      "regional_dex_nums": [
-        72,
-        168,
-        101,
-        74
-      ]
+      "regional_dex_nums": {
+        "rse": 72,
+        "b2w2": 168,
+        "xy_mountain": 101,
+        "oras": 74
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -341,6 +341,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Curse",
@@ -411,6 +412,9 @@
   {
     "species_name": "Aggron",
     "variant_name": "Mega Aggron",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 140,
@@ -421,25 +425,22 @@
     },
     "dex_entry": {
       "national_dex_num": 306,
-      "types": [
-        "Steel"
-      ],
       "height": 2.2,
       "weight": 395.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Armor Pok\u00e9mon",
-      "flavor_text": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pok\u00e9mon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
+      "kind": "Iron Armor Pokémon",
+      "flavor_text": "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
       "abilities": [
         "Filter"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        72,
-        168,
-        101,
-        74
-      ]
+      "regional_dex_nums": {
+        "rse": 72,
+        "b2w2": 168,
+        "xy_mountain": 101,
+        "oras": 74
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -746,6 +747,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Curse",

@@ -2,6 +2,10 @@
   {
     "species_name": "Tyrunt",
     "variant_name": "Tyrunt",
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 58,
       "attack": 89,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 696,
-      "types": [
-        "Rock",
-        "Dragon"
-      ],
       "height": 0.8,
       "weight": 26.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Royal Heir Pok\u00e9mon",
-      "flavor_text": "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it\u2019s trying to frolic with are gravely injured.",
+      "kind": "Royal Heir Pokémon",
+      "flavor_text": "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it’s trying to frolic with are gravely injured.",
       "abilities": [
         "Strong Jaw"
       ],
       "hidden_abilities": [
         "Sturdy"
       ],
-      "regional_dex_nums": [
-        64,
-        243
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 64,
+        "usum": 243
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -235,6 +235,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Curse",
         "Dragon Dance",

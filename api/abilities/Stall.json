@@ -1,4 +1,6 @@
 {
-  "name": "Stall",
-  "description": "The Pok\u00e9mon moves after all other Pok\u00e9mon do."
+  "ability_name": "Stall",
+  "effect": "The Pokémon moves after all other Pokémon do.
+",
+  "description": "The Pokémon moves after all other Pokémon do."
 }

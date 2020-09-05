@@ -2,6 +2,10 @@
   {
     "species_name": "Spinarak",
     "variant_name": "Spinarak",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 60,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 167,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 0.5,
       "weight": 8.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "String Spit Pok\u00e9mon",
-      "flavor_text": "Although the poison from its fangs isn\u2019t that strong, it\u2019s potent enough to weaken prey that gets caught in its web.",
+      "kind": "String Spit Pokémon",
+      "flavor_text": "Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web.",
       "abilities": [
         "Swarm",
         "Insomnia"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Sniper"
       ],
-      "regional_dex_nums": [
-        32,
-        32,
-        107,
-        22,
-        22
-      ]
+      "regional_dex_nums": {
+        "gsc": 32,
+        "hgss": 32,
+        "xy_mountain": 107,
+        "sm": 22,
+        "usum": 22
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -234,6 +234,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baton Pass",
         "Disable",

@@ -2,6 +2,9 @@
   {
     "species_name": "Inteleon",
     "variant_name": "Inteleon",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 85,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 818,
-      "types": [
-        "Water"
-      ],
       "height": 1.9,
       "weight": 45.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Secret Agent Pok\u00e9mon",
-      "flavor_text": "Its nictitating membranes let it pick out foes\u2019 weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
+      "kind": "Secret Agent Pokémon",
+      "flavor_text": "Its nictitating membranes let it pick out foes’ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
       "abilities": [
         "Torrent"
       ],
       "hidden_abilities": [
         "Sniper"
       ],
-      "regional_dex_nums": [
-        9
-      ]
+      "regional_dex_nums": {
+        "swsh": 9
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
         "Field",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -294,7 +294,18 @@
           "Liquidation"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Snipe Shot"
+      ],
+      "egg_moves": [
+        "Aqua Jet",
+        "Aqua Ring",
+        "Double Team",
+        "Fell Stinger",
+        "Haze",
+        "Ice Shard",
+        "Mist"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

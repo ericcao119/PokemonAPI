@@ -2,6 +2,10 @@
   {
     "species_name": "Wormadam",
     "variant_name": "Plant Cloak",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 59,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 413,
-      "types": [
-        "Bug",
-        "Grass"
-      ],
       "height": 0.5,
       "weight": 6.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bagworm Pok\u00e9mon",
-      "flavor_text": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon\u2019s body. The cloak is never shed.",
+      "kind": "Bagworm Pokémon",
+      "flavor_text": "When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.",
       "abilities": [
         "Anticipation"
       ],
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        46,
-        46,
-        45
-      ]
+      "regional_dex_nums": {
+        "dp": 46,
+        "plat": 46,
+        "xy_central": 45
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -61,6 +61,9 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [
+        "Quiver Dance"
+      ],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -69,6 +72,10 @@
   {
     "species_name": "Wormadam",
     "variant_name": "Sandy Cloak",
+    "types": [
+      "Bug",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 79,
@@ -79,27 +86,23 @@
     },
     "dex_entry": {
       "national_dex_num": 413,
-      "types": [
-        "Bug",
-        "Ground"
-      ],
       "height": 0.5,
       "weight": 6.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bagworm Pok\u00e9mon",
-      "flavor_text": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon\u2019s body. The cloak is never shed.",
+      "kind": "Bagworm Pokémon",
+      "flavor_text": "When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.",
       "abilities": [
         "Anticipation"
       ],
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        46,
-        46,
-        45
-      ]
+      "regional_dex_nums": {
+        "dp": 46,
+        "plat": 46,
+        "xy_central": 45
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -128,6 +131,9 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [
+        "Quiver Dance"
+      ],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -136,6 +142,10 @@
   {
     "species_name": "Wormadam",
     "variant_name": "Trash Cloak",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 69,
@@ -146,27 +156,23 @@
     },
     "dex_entry": {
       "national_dex_num": 413,
-      "types": [
-        "Bug",
-        "Steel"
-      ],
       "height": 0.5,
       "weight": 6.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bagworm Pok\u00e9mon",
-      "flavor_text": "When Burmy evolved, its cloak became a part of this Pok\u00e9mon\u2019s body. The cloak is never shed.",
+      "kind": "Bagworm Pokémon",
+      "flavor_text": "When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.",
       "abilities": [
         "Anticipation"
       ],
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        46,
-        46,
-        45
-      ]
+      "regional_dex_nums": {
+        "dp": 46,
+        "plat": 46,
+        "xy_central": 45
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -195,6 +201,9 @@
       "learned_moves": [],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [
+        "Quiver Dance"
+      ],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

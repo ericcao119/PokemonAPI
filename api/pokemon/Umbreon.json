@@ -2,6 +2,9 @@
   {
     "species_name": "Umbreon",
     "variant_name": "Umbreon",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 197,
-      "types": [
-        "Dark"
-      ],
       "height": 1.0,
       "weight": 27.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Moonlight Pok\u00e9mon",
+      "kind": "Moonlight Pokémon",
       "flavor_text": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
       "abilities": [
         "Synchronize"
@@ -27,16 +27,16 @@
       "hidden_abilities": [
         "Inner Focus"
       ],
-      "regional_dex_nums": [
-        185,
-        168,
-        189,
-        96,
-        82,
-        128,
-        158,
-        201
-      ]
+      "regional_dex_nums": {
+        "gsc": 185,
+        "plat": 168,
+        "hgss": 189,
+        "b2w2": 96,
+        "xy_coastal": 82,
+        "sm": 128,
+        "usum": 158,
+        "swsh": 201
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -243,6 +243,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Pursuit"
+      ],
       "egg_moves": [
         "Captivate",
         "Charm",

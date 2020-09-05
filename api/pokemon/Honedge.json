@@ -2,6 +2,10 @@
   {
     "species_name": "Honedge",
     "variant_name": "Honedge",
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 80,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 679,
-      "types": [
-        "Steel",
-        "Ghost"
-      ],
       "height": 0.8,
       "weight": 2.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sword Pok\u00e9mon",
-      "flavor_text": "The blue eye on the sword\u2019s handguard is the true body of Honedge. With its old cloth, it drains people\u2019s lives away.",
+      "kind": "Sword Pokémon",
+      "flavor_text": "The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away.",
       "abilities": [
         "No Guard"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        117,
-        330
-      ]
+      "regional_dex_nums": {
+        "xy_central": 117,
+        "swsh": 330
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -216,6 +216,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Destiny Bond",
         "Metal Sound",

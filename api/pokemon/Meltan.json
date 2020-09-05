@@ -2,6 +2,9 @@
   {
     "species_name": "Meltan",
     "variant_name": "Meltan",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 46,
       "attack": 65,
@@ -12,22 +15,19 @@
     },
     "dex_entry": {
       "national_dex_num": 808,
-      "types": [
-        "Steel"
-      ],
       "height": 0.2,
       "weight": 8.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hex Nut Pok\u00e9mon",
+      "kind": "Hex Nut Pokémon",
       "flavor_text": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
       "abilities": [
         "Magnet Pull"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152
-      ]
+      "regional_dex_nums": {
+        "lets_go": 152
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -47,7 +47,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -139,6 +139,7 @@
           "Flash Cannon"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

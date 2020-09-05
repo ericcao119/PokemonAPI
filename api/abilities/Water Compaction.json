@@ -1,4 +1,6 @@
 {
-  "name": "Water Compaction",
-  "description": "Sharply raises Defense when hit by a Water-type move."
+  "ability_name": "Water Compaction",
+  "effect": "Water Compaction raises the bearer's Defense by 2 stages when it is hit by a Water-type move.
+Stats can be raised to a maximum of +6 stages each.",
+  "description": "Boosts the Pokémon’s Defense stat sharply when hit by a Water-type move."
 }

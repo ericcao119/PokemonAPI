@@ -1,4 +1,6 @@
 {
-  "name": "Wonder Skin",
-  "description": "Makes status-changing moves more likely to miss."
+  "ability_name": "Wonder Skin",
+  "effect": "Wonder Skin halves the accuracy of all status moves targeted at the ability-bearer.
+It does not affect self-inflicted status moves like Reflect or Swords Dance, nor does it affect the secondary conditions of attacking moves like Flamethrower.",
+  "description": "Makes status moves more likely to miss."
 }

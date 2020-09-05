@@ -2,6 +2,10 @@
   {
     "species_name": "Archeops",
     "variant_name": "Archeops",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 140,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 567,
-      "types": [
-        "Rock",
-        "Flying"
-      ],
       "height": 1.4,
       "weight": 32.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "First Bird Pok\u00e9mon",
-      "flavor_text": "Said to be an ancestor of bird Pok\u00e9mon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
+      "kind": "First Bird Pokémon",
+      "flavor_text": "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
       "abilities": [
         "Defeatist"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        73,
-        129,
-        193,
-        240
-      ]
+      "regional_dex_nums": {
+        "bw": 73,
+        "b2w2": 129,
+        "sm": 193,
+        "usum": 240
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -287,6 +287,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Bite",

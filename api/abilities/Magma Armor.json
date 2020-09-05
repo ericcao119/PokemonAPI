@@ -1,4 +1,6 @@
 {
-  "name": "Magma Armor",
-  "description": "Prevents the Pok\u00e9mon from becoming frozen."
+  "ability_name": "Magma Armor",
+  "effect": "Magma Armor prevents the Pokémon from becoming frozen, for example from moves like Blizzard.
+If a Pokémon with Magma Armor (or Flame Body) and a Pokémon Egg are amongst the party Pokémon, the number of steps required to hatch the egg are halved.",
+  "description": "The Pokémon is covered with hot magma, which prevents the Pokémon from becoming frozen."
 }

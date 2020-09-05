@@ -2,6 +2,9 @@
   {
     "species_name": "Ampharos",
     "variant_name": "Ampharos",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 75,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 181,
-      "types": [
-        "Electric"
-      ],
       "height": 1.4,
       "weight": 61.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Light Pok\u00e9mon",
+      "kind": "Light Pokémon",
       "flavor_text": "Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors.",
       "abilities": [
         "Static"
@@ -27,13 +27,13 @@
       "hidden_abilities": [
         "Plus"
       ],
-      "regional_dex_nums": [
-        55,
-        55,
-        27,
-        129,
-        164
-      ]
+      "regional_dex_nums": {
+        "gsc": 55,
+        "hgss": 55,
+        "b2w2": 27,
+        "xy_coastal": 129,
+        "usum": 164
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -285,6 +285,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Thunder Punch"
+      ],
       "egg_moves": [
         "After You",
         "Agility",
@@ -342,6 +345,10 @@
   {
     "species_name": "Ampharos",
     "variant_name": "Mega Ampharos",
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 95,
@@ -352,27 +359,23 @@
     },
     "dex_entry": {
       "national_dex_num": 181,
-      "types": [
-        "Electric",
-        "Dragon"
-      ],
       "height": 1.4,
       "weight": 61.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Light Pok\u00e9mon",
-      "flavor_text": "Massive amounts of energy intensely stimulated Ampharos\u2019s cells, apparently awakening its long-sleeping dragon\u2019s blood.",
+      "kind": "Light Pokémon",
+      "flavor_text": "Massive amounts of energy intensely stimulated Ampharos’s cells, apparently awakening its long-sleeping dragon’s blood.",
       "abilities": [
         "Mold Breaker"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        55,
-        55,
-        27,
-        129,
-        164
-      ]
+      "regional_dex_nums": {
+        "gsc": 55,
+        "hgss": 55,
+        "b2w2": 27,
+        "xy_coastal": 129,
+        "usum": 164
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -624,6 +627,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Thunder Punch"
+      ],
       "egg_moves": [
         "After You",
         "Agility",

@@ -2,6 +2,9 @@
   {
     "species_name": "Aipom",
     "variant_name": "Aipom",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 70,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 190,
-      "types": [
-        "Normal"
-      ],
       "height": 0.8,
       "weight": 11.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Long Tail Pok\u00e9mon",
+      "kind": "Long Tail Pokémon",
       "flavor_text": "It searches for prey from the tops of trees. When it spots its favorite food, Bounsweet, Aipom gets excited and pounces.",
       "abilities": [
         "Run Away",
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Skill Link"
       ],
-      "regional_dex_nums": [
-        122,
-        63,
-        63,
-        123,
-        368
-      ]
+      "regional_dex_nums": {
+        "gsc": 122,
+        "dp": 63,
+        "plat": 63,
+        "hgss": 123,
+        "usum": 368
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -257,6 +257,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Beat Up",

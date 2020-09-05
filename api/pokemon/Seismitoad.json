@@ -2,6 +2,10 @@
   {
     "species_name": "Seismitoad",
     "variant_name": "Seismitoad",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 95,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 537,
-      "types": [
-        "Water",
-        "Ground"
-      ],
       "height": 1.5,
       "weight": 62.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Vibration Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is popular among the elderly, who say the vibrations of its lumps are great for massages.",
+      "kind": "Vibration Pokémon",
+      "flavor_text": "This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages.",
       "abilities": [
         "Swift Swim",
         "Poison Touch"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Water Absorb"
       ],
-      "regional_dex_nums": [
-        43,
-        230,
-        134
-      ]
+      "regional_dex_nums": {
+        "bw": 43,
+        "b2w2": 230,
+        "swsh": 134
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -276,6 +276,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Acid"
+      ],
       "egg_moves": [
         "After You",
         "Earth Power",

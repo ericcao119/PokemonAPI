@@ -2,6 +2,10 @@
   {
     "species_name": "Giratina",
     "variant_name": "Altered Forme",
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 150,
       "attack": 100,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 487,
-      "types": [
-        "Ghost",
-        "Dragon"
-      ],
       "height": 4.5,
       "weight": 750.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Renegade Pok\u00e9mon",
+      "kind": "Renegade Pokémon",
       "flavor_text": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
       "abilities": [
         "Pressure"
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        210
-      ]
+      "regional_dex_nums": {
+        "plat": 210
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -285,6 +285,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": [
@@ -309,6 +310,10 @@
   {
     "species_name": "Giratina",
     "variant_name": "Origin Forme",
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 150,
       "attack": 120,
@@ -319,23 +324,19 @@
     },
     "dex_entry": {
       "national_dex_num": 487,
-      "types": [
-        "Ghost",
-        "Dragon"
-      ],
       "height": 6.9,
       "weight": 650.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Renegade Pok\u00e9mon",
+      "kind": "Renegade Pokémon",
       "flavor_text": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        210
-      ]
+      "regional_dex_nums": {
+        "plat": 210
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -355,7 +356,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -590,6 +591,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": [

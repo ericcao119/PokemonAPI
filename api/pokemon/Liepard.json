@@ -2,6 +2,9 @@
   {
     "species_name": "Liepard",
     "variant_name": "Liepard",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 64,
       "attack": 88,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 510,
-      "types": [
-        "Dark"
-      ],
       "height": 1.1,
       "weight": 37.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cruel Pok\u00e9mon",
-      "flavor_text": "This stealthy Pok\u00e9mon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
+      "kind": "Cruel Pokémon",
+      "flavor_text": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
       "abilities": [
         "Limber",
         "Unburden"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Prankster"
       ],
-      "regional_dex_nums": [
-        16,
-        13,
-        43,
-        45
-      ]
+      "regional_dex_nums": {
+        "bw": 16,
+        "b2w2": 13,
+        "xy_mountain": 43,
+        "swsh": 45
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -280,6 +280,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Charm",
         "Copycat",

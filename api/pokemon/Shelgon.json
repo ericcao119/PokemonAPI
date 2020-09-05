@@ -2,6 +2,9 @@
   {
     "species_name": "Shelgon",
     "variant_name": "Shelgon",
+    "types": [
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 95,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 372,
-      "types": [
-        "Dragon"
-      ],
       "height": 1.1,
       "weight": 110.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Endurance Pok\u00e9mon",
+      "kind": "Endurance Pokémon",
       "flavor_text": "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly.",
       "abilities": [
         "Rock Head"
@@ -27,13 +27,13 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        188,
-        15,
-        197,
-        118,
-        148
-      ]
+      "regional_dex_nums": {
+        "rse": 188,
+        "xy_coastal": 15,
+        "oras": 197,
+        "sm": 118,
+        "usum": 148
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -232,6 +232,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Protect"
+      ],
       "egg_moves": [
         "Defense Curl",
         "Dragon Dance",

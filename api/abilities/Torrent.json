@@ -1,4 +1,5 @@
 {
-  "name": "Torrent",
-  "description": "Powers up Water-type moves in a pinch."
+  "ability_name": "Torrent",
+  "effect": "Torrent increases the power of Water-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).",
+  "description": "Powers up Water-type moves when the Pokémon’s HP is low."
 }

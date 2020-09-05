@@ -1,4 +1,6 @@
 {
-  "name": "Hustle",
+  "ability_name": "Hustle",
+  "effect": "Hustle increases the ability-bearer's Attack by 50%, however, it also reduces the Accuracy of all Physical moves by 20%.
+If a Pokémon with Hustle is the leading party Pokémon, wild Pokémon are 50% more likely to be higher level.",
   "description": "Boosts the Attack stat, but lowers accuracy."
 }

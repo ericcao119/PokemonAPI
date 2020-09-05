@@ -2,6 +2,9 @@
   {
     "species_name": "Lickilicky",
     "variant_name": "Lickilicky",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 85,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 463,
-      "types": [
-        "Normal"
-      ],
       "height": 1.7,
       "weight": 140.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Licking Pok\u00e9mon",
+      "kind": "Licking Pokémon",
       "flavor_text": "It uses its tongue much more skillfully than its hands or its feet. It can deftly pick up a single small bean with its tongue.",
       "abilities": [
         "Own Tempo",
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Cloud Nine"
       ],
-      "regional_dex_nums": [
-        162,
-        181,
-        285,
-        135,
-        376
-      ]
+      "regional_dex_nums": {
+        "plat": 162,
+        "hgss": 181,
+        "b2w2": 285,
+        "xy_mountain": 135,
+        "usum": 376
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -313,6 +313,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Belch",

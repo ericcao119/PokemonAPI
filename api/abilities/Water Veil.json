@@ -1,4 +1,6 @@
 {
-  "name": "Water Veil",
-  "description": "Prevents the Pok\u00e9mon from getting a burn."
+  "ability_name": "Water Veil",
+  "effect": "Prevents the Pokémon from getting a burn.
+",
+  "description": "The Pokémon is covered with a water veil, which prevents the Pokémon from getting a burn."
 }

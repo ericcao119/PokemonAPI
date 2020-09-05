@@ -2,6 +2,10 @@
   {
     "species_name": "Emolga",
     "variant_name": "Emolga",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 75,
@@ -12,29 +16,25 @@
     },
     "dex_entry": {
       "national_dex_num": 587,
-      "types": [
-        "Electric",
-        "Flying"
-      ],
       "height": 0.4,
       "weight": 5.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sky Squirrel Pok\u00e9mon",
-      "flavor_text": "As it flies, it scatters electricity around, so bird Pok\u00e9mon keep their distance. That\u2019s why Emolga can keep all its food to itself.",
+      "kind": "Sky Squirrel Pokémon",
+      "flavor_text": "As it flies, it scatters electricity around, so bird Pokémon keep their distance. That’s why Emolga can keep all its food to itself.",
       "abilities": [
         "Static"
       ],
       "hidden_abilities": [
         "Motor Drive"
       ],
-      "regional_dex_nums": [
-        93,
-        144,
-        86,
-        274,
-        364
-      ]
+      "regional_dex_nums": {
+        "bw": 93,
+        "b2w2": 144,
+        "xy_coastal": 86,
+        "sm": 274,
+        "usum": 364
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -241,6 +241,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Air Slash",
         "Astonish",

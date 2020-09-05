@@ -2,6 +2,10 @@
   {
     "species_name": "Croagunk",
     "variant_name": "Croagunk",
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 48,
       "attack": 61,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 453,
-      "types": [
-        "Poison",
-        "Fighting"
-      ],
       "height": 0.7,
       "weight": 23.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Toxic Mouth Pok\u00e9mon",
-      "flavor_text": "Once diluted, its poison becomes medicinal. This Pok\u00e9mon came into popularity after a pharmaceutical company chose it as a mascot.",
+      "kind": "Toxic Mouth Pokémon",
+      "flavor_text": "Once diluted, its poison becomes medicinal. This Pokémon came into popularity after a pharmaceutical company chose it as a mascot.",
       "abilities": [
         "Anticipation",
         "Dry Skin"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Poison Touch"
       ],
-      "regional_dex_nums": [
-        129,
-        129,
-        290,
-        125,
-        222
-      ]
+      "regional_dex_nums": {
+        "dp": 129,
+        "plat": 129,
+        "b2w2": 290,
+        "xy_central": 125,
+        "swsh": 222
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -282,6 +282,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acupressure",
         "Bullet Punch",

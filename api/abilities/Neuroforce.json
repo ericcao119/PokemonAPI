@@ -1,4 +1,6 @@
 {
-  "name": "Neuroforce",
+  "ability_name": "Neuroforce",
+  "effect": "Powers up moves that are super effective.
+",
   "description": "Powers up moves that are super effective."
 }

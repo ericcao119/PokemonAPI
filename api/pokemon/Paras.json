@@ -2,6 +2,10 @@
   {
     "species_name": "Paras",
     "variant_name": "Paras",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 70,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 46,
-      "types": [
-        "Bug",
-        "Grass"
-      ],
       "height": 0.3,
       "weight": 5.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mushroom Pok\u00e9mon",
+      "kind": "Mushroom Pokémon",
       "flavor_text": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
       "abilities": [
         "Effect Spore",
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Damp"
       ],
-      "regional_dex_nums": [
-        46,
-        70,
-        46,
-        70,
-        147,
-        180,
-        46
-      ]
+      "regional_dex_nums": {
+        "rby": 46,
+        "gsc": 70,
+        "frlg": 46,
+        "hgss": 70,
+        "sm": 147,
+        "usum": 180,
+        "lets_go": 46
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -233,6 +233,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Bug Bite",

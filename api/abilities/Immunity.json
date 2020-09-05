@@ -1,4 +1,6 @@
 {
-  "name": "Immunity",
-  "description": "Prevents the Pok\u00e9mon from getting poisoned."
+  "ability_name": "Immunity",
+  "effect": "Prevents the Pokémon from getting poisoned.
+",
+  "description": "The immune system of the Pokémon prevents it from getting poisoned."
 }

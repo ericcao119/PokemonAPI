@@ -2,6 +2,9 @@
   {
     "species_name": "Pincurchin",
     "variant_name": "Pincurchin",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 48,
       "attack": 101,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 871,
-      "types": [
-        "Electric"
-      ],
       "height": 0.3,
       "weight": 1.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Urchin Pok\u00e9mon",
+      "kind": "Sea Urchin Pokémon",
       "flavor_text": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
       "abilities": [
         "Lightning Rod"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Electric Surge"
       ],
-      "regional_dex_nums": [
-        353
-      ]
+      "regional_dex_nums": {
+        "swsh": 353
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
         "Amorphous",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -246,6 +246,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Memento",
         "Sucker Punch"

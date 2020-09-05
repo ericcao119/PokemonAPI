@@ -2,6 +2,10 @@
   {
     "species_name": "Spearow",
     "variant_name": "Spearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 60,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 21,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 0.3,
       "weight": 2.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tiny Bird Pok\u00e9mon",
+      "kind": "Tiny Bird Pokémon",
       "flavor_text": "Inept at flying high. However, it can fly around very fast to protect its territory.",
       "abilities": [
         "Keen Eye"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Sniper"
       ],
-      "regional_dex_nums": [
-        21,
-        13,
-        21,
-        13,
-        109,
-        73,
-        87,
-        21
-      ]
+      "regional_dex_nums": {
+        "rby": 21,
+        "gsc": 13,
+        "frlg": 21,
+        "hgss": 13,
+        "xy_mountain": 109,
+        "sm": 73,
+        "usum": 87,
+        "lets_go": 21
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -216,6 +216,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Feather Dance",

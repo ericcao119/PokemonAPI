@@ -2,6 +2,9 @@
   {
     "species_name": "Zorua",
     "variant_name": "Zorua",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 65,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 570,
-      "types": [
-        "Dark"
-      ],
       "height": 0.7,
       "weight": 12.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tricky Fox Pok\u00e9mon",
+      "kind": "Tricky Fox Pokémon",
       "flavor_text": "If a normally talkative child suddenly stops talking, it may have been replaced by Zorua.",
       "abilities": [
         "Illusion"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        76,
-        151,
-        124,
-        28
-      ]
+      "regional_dex_nums": {
+        "bw": 76,
+        "b2w2": 151,
+        "xy_mountain": 124,
+        "usum": 28
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -253,6 +253,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Copycat",

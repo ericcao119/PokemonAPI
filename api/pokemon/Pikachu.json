@@ -2,6 +2,9 @@
   {
     "species_name": "Pikachu",
     "variant_name": "Pikachu",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 55,
@@ -12,36 +15,33 @@
     },
     "dex_entry": {
       "national_dex_num": 25,
-      "types": [
-        "Electric"
-      ],
       "height": 0.4,
       "weight": 6.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mouse Pok\u00e9mon",
-      "flavor_text": "When Pikachu meet, they\u2019ll touch their tails together and exchange electricity through them as a form of greeting.",
+      "kind": "Mouse Pokémon",
+      "flavor_text": "When Pikachu meet, they’ll touch their tails together and exchange electricity through them as a form of greeting.",
       "abilities": [
         "Static"
       ],
       "hidden_abilities": [
         "Lightning Rod"
       ],
-      "regional_dex_nums": [
-        25,
-        22,
-        156,
-        25,
-        104,
-        104,
-        22,
-        36,
-        163,
-        25,
-        32,
-        25,
-        194
-      ]
+      "regional_dex_nums": {
+        "rby": 25,
+        "gsc": 22,
+        "rse": 156,
+        "frlg": 25,
+        "dp": 104,
+        "plat": 104,
+        "hgss": 22,
+        "xy_central": 36,
+        "oras": 163,
+        "sm": 25,
+        "usum": 32,
+        "lets_go": 25,
+        "swsh": 194
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -322,7 +322,16 @@
           "Play Rough"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Charge",
+        "Disarming Voice",
+        "Fake Out",
+        "Flail",
+        "Present",
+        "Tickle",
+        "Wish"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -330,6 +339,9 @@
   {
     "species_name": "Pikachu",
     "variant_name": "Partner Pikachu",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 80,
@@ -340,32 +352,29 @@
     },
     "dex_entry": {
       "national_dex_num": 25,
-      "types": [
-        "Electric"
-      ],
       "height": 0.4,
       "weight": 6.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mouse Pok\u00e9mon",
-      "flavor_text": "When Pikachu meet, they\u2019ll touch their tails together and exchange electricity through them as a form of greeting.",
+      "kind": "Mouse Pokémon",
+      "flavor_text": "When Pikachu meet, they’ll touch their tails together and exchange electricity through them as a form of greeting.",
       "abilities": [],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        25,
-        22,
-        156,
-        25,
-        104,
-        104,
-        22,
-        36,
-        163,
-        25,
-        32,
-        25,
-        194
-      ]
+      "regional_dex_nums": {
+        "rby": 25,
+        "gsc": 22,
+        "rse": 156,
+        "frlg": 25,
+        "dp": 104,
+        "plat": 104,
+        "hgss": 22,
+        "xy_central": 36,
+        "oras": 163,
+        "sm": 25,
+        "usum": 32,
+        "lets_go": 25,
+        "swsh": 194
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -643,7 +652,16 @@
           "Play Rough"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Charge",
+        "Disarming Voice",
+        "Fake Out",
+        "Flail",
+        "Present",
+        "Tickle",
+        "Wish"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

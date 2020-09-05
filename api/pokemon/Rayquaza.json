@@ -2,6 +2,10 @@
   {
     "species_name": "Rayquaza",
     "variant_name": "Rayquaza",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 150,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 384,
-      "types": [
-        "Dragon",
-        "Flying"
-      ],
       "height": 7.0,
       "weight": 206.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sky High Pok\u00e9mon",
+      "kind": "Sky High Pokémon",
       "flavor_text": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
       "abilities": [
         "Air Lock"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        200,
-        209
-      ]
+      "regional_dex_nums": {
+        "rse": 200,
+        "oras": 209
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -316,6 +316,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",
@@ -360,6 +361,10 @@
   {
     "species_name": "Rayquaza",
     "variant_name": "Mega Rayquaza",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 180,
@@ -370,24 +375,20 @@
     },
     "dex_entry": {
       "national_dex_num": 384,
-      "types": [
-        "Dragon",
-        "Flying"
-      ],
       "height": 10.8,
       "weight": 392.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sky High Pok\u00e9mon",
+      "kind": "Sky High Pokémon",
       "flavor_text": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
       "abilities": [
         "Delta Stream"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        200,
-        209
-      ]
+      "regional_dex_nums": {
+        "rse": 200,
+        "oras": 209
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -407,7 +408,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -674,6 +675,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",

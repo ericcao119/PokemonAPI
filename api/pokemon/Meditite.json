@@ -2,6 +2,10 @@
   {
     "species_name": "Meditite",
     "variant_name": "Meditite",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 40,
@@ -12,29 +16,25 @@
     },
     "dex_entry": {
       "national_dex_num": 307,
-      "types": [
-        "Fighting",
-        "Psychic"
-      ],
       "height": 0.6,
       "weight": 11.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Meditate Pok\u00e9mon",
-      "flavor_text": "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pok\u00e9mon\u2019s training.",
+      "kind": "Meditate Pokémon",
+      "flavor_text": "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon’s training.",
       "abilities": [
         "Pure Power"
       ],
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        76,
-        86,
-        86,
-        143,
-        78
-      ]
+      "regional_dex_nums": {
+        "rse": 76,
+        "dp": 86,
+        "plat": 86,
+        "xy_central": 143,
+        "oras": 78
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -269,6 +269,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baton Pass",
         "Bullet Punch",

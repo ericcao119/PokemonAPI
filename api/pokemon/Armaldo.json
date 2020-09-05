@@ -2,6 +2,10 @@
   {
     "species_name": "Armaldo",
     "variant_name": "Armaldo",
+    "types": [
+      "Rock",
+      "Bug"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 125,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 348,
-      "types": [
-        "Rock",
-        "Bug"
-      ],
       "height": 1.5,
       "weight": 68.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Plate Pok\u00e9mon",
-      "flavor_text": "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pok\u00e9mon.",
+      "kind": "Plate Pokémon",
+      "flavor_text": "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pokémon.",
       "abilities": [
         "Battle Armor"
       ],
       "hidden_abilities": [
         "Swift Swim"
       ],
-      "regional_dex_nums": [
-        136,
-        141,
-        234
-      ]
+      "regional_dex_nums": {
+        "rse": 136,
+        "oras": 141,
+        "usum": 234
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -259,6 +259,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Jet",
         "Cross Poison",

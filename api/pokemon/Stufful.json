@@ -2,6 +2,10 @@
   {
     "species_name": "Stufful",
     "variant_name": "Stufful",
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 75,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 759,
-      "types": [
-        "Normal",
-        "Fighting"
-      ],
       "height": 0.5,
       "weight": 6.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flailing Pok\u00e9mon",
+      "kind": "Flailing Pokémon",
       "flavor_text": "The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks.",
       "abilities": [
         "Fluffy",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Cute Charm"
       ],
-      "regional_dex_nums": [
-        169,
-        205,
-        94
-      ]
+      "regional_dex_nums": {
+        "sm": 169,
+        "usum": 205,
+        "swsh": 94
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -249,6 +249,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Defense Curl",
         "Force Palm",

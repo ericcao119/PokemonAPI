@@ -1,4 +1,6 @@
 {
-  "name": "Forecast",
-  "description": "Castform transforms with the weather."
+  "ability_name": "Forecast",
+  "effect": "Castform transforms with the weather.
+",
+  "description": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
 }

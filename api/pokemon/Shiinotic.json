@@ -2,6 +2,10 @@
   {
     "species_name": "Shiinotic",
     "variant_name": "Shiinotic",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 45,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 756,
-      "types": [
-        "Grass",
-        "Fairy"
-      ],
       "height": 1.0,
       "weight": 11.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Illuminating Pok\u00e9mon",
-      "flavor_text": "If you see a light deep in a forest at night, don\u2019t go near. Shiinotic will make you fall fast asleep.",
+      "kind": "Illuminating Pokémon",
+      "flavor_text": "If you see a light deep in a forest at night, don’t go near. Shiinotic will make you fall fast asleep.",
       "abilities": [
         "Illuminate",
         "Effect Spore"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        146,
-        179,
-        341
-      ]
+      "regional_dex_nums": {
+        "sm": 146,
+        "usum": 179,
+        "swsh": 341
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -237,7 +237,13 @@
           "Pollen Puff"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Growth",
+        "Leech Seed",
+        "Poison Powder",
+        "Stun Spore"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

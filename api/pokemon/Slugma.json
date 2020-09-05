@@ -2,6 +2,9 @@
   {
     "species_name": "Slugma",
     "variant_name": "Slugma",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 40,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 218,
-      "types": [
-        "Fire"
-      ],
       "height": 0.7,
       "weight": 35.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lava Pok\u00e9mon",
-      "flavor_text": "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pok\u00e9mon\u2019s body, carrying essential nutrients and oxygen to its organs.",
+      "kind": "Lava Pokémon",
+      "flavor_text": "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokémon’s body, carrying essential nutrients and oxygen to its organs.",
       "abilities": [
         "Magma Armor",
         "Flame Body"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        211,
-        103,
-        216,
-        12,
-        108
-      ]
+      "regional_dex_nums": {
+        "gsc": 211,
+        "rse": 103,
+        "hgss": 216,
+        "xy_mountain": 12,
+        "oras": 108
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -233,6 +233,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Armor",
         "Curse",

@@ -1,4 +1,7 @@
 {
-  "name": "Aerilate",
-  "description": "Turns Normal-type moves into Flying-type moves."
+  "ability_name": "Aerilate",
+  "effect": "Aerilate causes all Normal-type attacking moves used by the Pokémon to become Flying-type, and increase in power by 20%.
+Flying-type Pokémon also gain STAB from those moves (which means an effective increase of 80%).
+In Generation 6, Aerilate increases affected moves' power by 30%.",
+  "description": "Normal-type moves become Flying-type moves. The power of those moves is boosted a little."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Bisharp",
     "variant_name": "Bisharp",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 125,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 625,
-      "types": [
-        "Dark",
-        "Steel"
-      ],
       "height": 1.6,
       "weight": 70.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sword Blade Pok\u00e9mon",
+      "kind": "Sword Blade Pokémon",
       "flavor_text": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
       "abilities": [
         "Defiant",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Pressure"
       ],
-      "regional_dex_nums": [
-        131,
-        224,
-        49,
-        338,
-        247
-      ]
+      "regional_dex_nums": {
+        "bw": 131,
+        "b2w2": 224,
+        "xy_mountain": 49,
+        "usum": 338,
+        "swsh": 247
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -314,6 +314,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Headbutt",
         "Mean Look",

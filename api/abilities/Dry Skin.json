@@ -1,4 +1,5 @@
 {
-  "name": "Dry Skin",
-  "description": "Reduces HP if it is hot. Water restores HP."
+  "ability_name": "Dry Skin",
+  "effect": "Dry Skin causes several effects:",
+  "description": "Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
 }

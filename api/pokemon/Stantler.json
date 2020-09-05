@@ -2,6 +2,9 @@
   {
     "species_name": "Stantler",
     "variant_name": "Stantler",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 73,
       "attack": 95,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 234,
-      "types": [
-        "Normal"
-      ],
       "height": 1.4,
       "weight": 71.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Big Horn Pok\u00e9mon",
-      "flavor_text": "Stantler\u2019s magnificent antlers were traded at high prices as works of art. As a result, this Pok\u00e9mon was hunted close to extinction by those who were after the priceless antlers.",
+      "kind": "Big Horn Pokémon",
+      "flavor_text": "Stantler’s magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
       "abilities": [
         "Intimidate",
         "Frisk"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Sap Sipper"
       ],
-      "regional_dex_nums": [
-        129,
-        131
-      ]
+      "regional_dex_nums": {
+        "gsc": 129,
+        "hgss": 131
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -278,6 +278,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bite",
         "Disable",

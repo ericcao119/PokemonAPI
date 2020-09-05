@@ -1,4 +1,5 @@
 {
-  "name": "Hunger Switch",
-  "description": "Changes forms each turn."
+  "ability_name": "Hunger Switch",
+  "effect": "Hunger Switch causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode. Morpeko's form also changes the type of its signature move, Aura Wheel.",
+  "description": "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of each turn."
 }

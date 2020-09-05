@@ -1,4 +1,7 @@
 {
-  "name": "Technician",
-  "description": "Powers up the Pok\u00e9mon's weaker moves."
+  "ability_name": "Technician",
+  "effect": "Technician increases the power of moves - that are usually base power 60 or below - by 50%.
+Moves with variable base power are boosted only when it is 60 or below. For example, if Magnitude hits at level 6 it will be boosted from 50 to 75, but level 7 will stay at 70 base power.
+Moves like SonicBoom that deal fixed HP damage are not affected by Technician.",
+  "description": "Powers up the Pokémon’s weaker moves."
 }

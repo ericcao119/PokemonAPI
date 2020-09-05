@@ -2,6 +2,10 @@
   {
     "species_name": "Drednaw",
     "variant_name": "Drednaw",
+    "types": [
+      "Water",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 115,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 834,
-      "types": [
-        "Water",
-        "Rock"
-      ],
       "height": 1.0,
       "weight": 115.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bite Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
+      "kind": "Bite Pokémon",
+      "flavor_text": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
       "abilities": [
         "Strong Jaw",
         "Shell Armor"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Swift Swim"
       ],
-      "regional_dex_nums": [
-        43
-      ]
+      "regional_dex_nums": {
+        "swsh": 43
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -52,7 +52,7 @@
         "Monster",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -336,7 +336,14 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Rock Tomb"
+      ],
+      "egg_moves": [
+        "Dragon Tail",
+        "Gastro Acid",
+        "Skull Bash"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -1,4 +1,10 @@
 {
-  "name": "Serene Grace",
-  "description": "Boosts the likelihood of added effects appearing."
+  "ability_name": "Serene Grace",
+  "effect": "Serene Grace doubles the chance of moves' secondary effects occurring - specifically stat changes, status ailments, or flinching. It also increases the chance of flinching due to the held items King's Rock and Razor Fang from 10% to 20% (however, note that those items do not affect moves that already have a flinch chance).
+Serene Grace does not affect status moves or the Pokémon's critical hit ratio.
+Shadow Ball normally has a 20% chance of lowering Special Defense; with Serene Grace it is boosted to a 40% chance.
+Air Slash has a 30% of causing the target to flinch; with Serene Grace it is boosted to a 60% chance. If the item King's Rock is held it does not increase that percentage, but rather if the move does not cause flinching (40% chance), then there is now a further 20% chance the target will flinch from King's Rock. This means Serene Grace with Air Slash and King's Rock gives a total probability of 68% (1 - 0.4*0.8) that the opponent will flinch.
+In Generations 3-4 Serene Grace does not increase the flinch chance of King's Rock or Razor Fang.
+In Generations 3-5 Serene Grace does not affect the move Secret Power.",
+  "description": "Boosts the likelihood of additional effects occurring when attacking."
 }

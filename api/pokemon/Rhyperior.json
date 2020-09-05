@@ -2,6 +2,10 @@
   {
     "species_name": "Rhyperior",
     "variant_name": "Rhyperior",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 115,
       "attack": 140,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 464,
-      "types": [
-        "Ground",
-        "Rock"
-      ],
       "height": 2.4,
       "weight": 282.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Drill Pok\u00e9mon",
+      "kind": "Drill Pokémon",
       "flavor_text": "It relies on its carapace to deflect incoming attacks and throw its enemy off balance. As soon as that happens, it drives its drill into the foe.",
       "abilities": [
         "Lightning Rod",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Reckless"
       ],
-      "regional_dex_nums": [
-        188,
-        52,
-        178,
-        266
-      ]
+      "regional_dex_nums": {
+        "plat": 188,
+        "xy_coastal": 52,
+        "oras": 178,
+        "swsh": 266
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -338,6 +338,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Counter",
         "Crunch",

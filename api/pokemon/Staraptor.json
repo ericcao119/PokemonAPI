@@ -2,6 +2,10 @@
   {
     "species_name": "Staraptor",
     "variant_name": "Staraptor",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 120,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 398,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 1.2,
       "weight": 24.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Predator Pok\u00e9mon",
+      "kind": "Predator Pokémon",
       "flavor_text": "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
       "abilities": [
         "Intimidate"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Reckless"
       ],
-      "regional_dex_nums": [
-        12,
-        12,
-        101
-      ]
+      "regional_dex_nums": {
+        "dp": 12,
+        "plat": 12,
+        "xy_coastal": 101
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -227,6 +227,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Close Combat"
+      ],
       "egg_moves": [
         "Astonish",
         "Detect",

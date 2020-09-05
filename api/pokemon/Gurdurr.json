@@ -2,6 +2,9 @@
   {
     "species_name": "Gurdurr",
     "variant_name": "Gurdurr",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 105,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 533,
-      "types": [
-        "Fighting"
-      ],
       "height": 1.2,
       "weight": 40.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Muscular Pok\u00e9mon",
-      "flavor_text": "Gurdurr excels at demolition\u2014construction is not its forte. In any case, there\u2019s skill in the way this Pok\u00e9mon wields its metal beam.",
+      "kind": "Muscular Pokémon",
+      "flavor_text": "Gurdurr excels at demolition—construction is not its forte. In any case, there’s skill in the way this Pokémon wields its metal beam.",
       "abilities": [
         "Guts",
         "Sheer Force"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Iron Fist"
       ],
-      "regional_dex_nums": [
-        39,
-        74,
-        94,
-        172
-      ]
+      "regional_dex_nums": {
+        "bw": 39,
+        "b2w2": 74,
+        "xy_mountain": 94,
+        "swsh": 172
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Comet Punch",
         "Counter",

@@ -1,4 +1,7 @@
 {
-  "name": "Reckless",
+  "ability_name": "Reckless",
+  "effect": "Reckless increases the power of recoil moves by 20%. By extension this means the amount of recoil damage taken will increase as more more damage is dealt (except for High Jump Kick and Jump Kick which have fixed recoil).
+The attacks classed as punching moves are shown below with their normal and boosted power:
+* No Pokémon with Reckless can learn these moves.",
   "description": "Powers up moves that have recoil damage."
 }

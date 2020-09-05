@@ -2,6 +2,10 @@
   {
     "species_name": "Pidgeot",
     "variant_name": "Pidgeot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 83,
       "attack": 80,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 18,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 1.5,
       "weight": 39.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bird Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+      "kind": "Bird Pokémon",
+      "flavor_text": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
       "abilities": [
         "Keen Eye",
         "Tangled Feet"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Big Pecks"
       ],
-      "regional_dex_nums": [
-        18,
-        12,
-        18,
-        12,
-        19,
-        18
-      ]
+      "regional_dex_nums": {
+        "rby": 18,
+        "gsc": 12,
+        "frlg": 18,
+        "hgss": 12,
+        "xy_central": 19,
+        "lets_go": 18
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -239,6 +239,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Air Cutter",
         "Air Slash",
@@ -283,6 +284,10 @@
   {
     "species_name": "Pidgeot",
     "variant_name": "Mega Pidgeot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 83,
       "attack": 80,
@@ -293,28 +298,24 @@
     },
     "dex_entry": {
       "national_dex_num": 18,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 2.2,
       "weight": 50.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bird Pok\u00e9mon",
+      "kind": "Bird Pokémon",
       "flavor_text": "With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.",
       "abilities": [
         "No Guard"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        18,
-        12,
-        18,
-        12,
-        19,
-        18
-      ]
+      "regional_dex_nums": {
+        "rby": 18,
+        "gsc": 12,
+        "frlg": 18,
+        "hgss": 12,
+        "xy_central": 19,
+        "lets_go": 18
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -517,6 +518,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Air Cutter",
         "Air Slash",

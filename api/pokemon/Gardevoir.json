@@ -2,6 +2,10 @@
   {
     "species_name": "Gardevoir",
     "variant_name": "Gardevoir",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 68,
       "attack": 65,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 282,
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
       "height": 1.6,
       "weight": 48.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Embrace Pok\u00e9mon",
+      "kind": "Embrace Pokémon",
       "flavor_text": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
       "abilities": [
         "Synchronize",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        31,
-        159,
-        66,
-        31,
-        122
-      ]
+      "regional_dex_nums": {
+        "rse": 31,
+        "plat": 159,
+        "xy_central": 66,
+        "oras": 31,
+        "swsh": 122
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -331,6 +331,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Confuse Ray",
@@ -387,6 +388,10 @@
   {
     "species_name": "Gardevoir",
     "variant_name": "Mega Gardevoir",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 68,
       "attack": 85,
@@ -397,27 +402,23 @@
     },
     "dex_entry": {
       "national_dex_num": 282,
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
       "height": 1.6,
       "weight": 48.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Embrace Pok\u00e9mon",
+      "kind": "Embrace Pokémon",
       "flavor_text": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
       "abilities": [
         "Pixilate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        31,
-        159,
-        66,
-        31,
-        122
-      ]
+      "regional_dex_nums": {
+        "rse": 31,
+        "plat": 159,
+        "xy_central": 66,
+        "oras": 31,
+        "swsh": 122
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -712,6 +713,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ally Switch",
         "Confuse Ray",

@@ -2,6 +2,9 @@
   {
     "species_name": "Braixen",
     "variant_name": "Braixen",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 59,
       "attack": 59,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 654,
-      "types": [
-        "Fire"
-      ],
       "height": 1.0,
       "weight": 14.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fox Pok\u00e9mon",
+      "kind": "Fox Pokémon",
       "flavor_text": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
       "abilities": [
         "Blaze"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Magician"
       ],
-      "regional_dex_nums": [
-        5
-      ]
+      "regional_dex_nums": {
+        "xy_central": 5
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Heat Wave",
         "Hypnosis",

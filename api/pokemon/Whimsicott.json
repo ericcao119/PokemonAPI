@@ -2,6 +2,10 @@
   {
     "species_name": "Whimsicott",
     "variant_name": "Whimsicott",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 67,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 547,
-      "types": [
-        "Grass",
-        "Fairy"
-      ],
       "height": 0.7,
       "weight": 6.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Windveiled Pok\u00e9mon",
-      "flavor_text": "As long as this Pok\u00e9mon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
+      "kind": "Windveiled Pokémon",
+      "flavor_text": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
       "abilities": [
         "Prankster",
         "Infiltrator"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Chlorophyll"
       ],
-      "regional_dex_nums": [
-        53,
-        83,
-        88,
-        106,
-        263
-      ]
+      "regional_dex_nums": {
+        "bw": 53,
+        "b2w2": 83,
+        "sm": 88,
+        "usum": 106,
+        "swsh": 263
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -227,6 +227,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Beat Up",
         "Captivate",

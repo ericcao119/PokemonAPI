@@ -2,6 +2,10 @@
   {
     "species_name": "Malamar",
     "variant_name": "Malamar",
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 86,
       "attack": 92,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 687,
-      "types": [
-        "Dark",
-        "Psychic"
-      ],
       "height": 1.5,
       "weight": 47.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Overturning Pok\u00e9mon",
-      "flavor_text": "It\u2019s said that Malamar\u2019s hypnotic powers played a role in certain history-changing events.",
+      "kind": "Overturning Pokémon",
+      "flavor_text": "It’s said that Malamar’s hypnotic powers played a role in certain history-changing events.",
       "abilities": [
         "Contrary",
         "Suction Cups"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        11,
-        27,
-        291
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 11,
+        "usum": 27,
+        "swsh": 291
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -293,6 +293,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Camouflage",
         "Destiny Bond",

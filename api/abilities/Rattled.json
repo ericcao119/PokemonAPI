@@ -1,4 +1,5 @@
 {
-  "name": "Rattled",
-  "description": "Bug, Ghost or Dark type moves scare it and boost its Speed."
+  "ability_name": "Rattled",
+  "effect": "When a Pokémon with Rattled is hit by a Bug, Ghost or Dark type move, its Speed is raised one stage (up to the usual maximum of +6 stages).",
+  "description": "Dark-, Ghost-, and Bug-type moves scare the Pokémon and boost its Speed stat."
 }

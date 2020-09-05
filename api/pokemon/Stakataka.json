@@ -2,6 +2,10 @@
   {
     "species_name": "Stakataka",
     "variant_name": "Stakataka",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 61,
       "attack": 131,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 805,
-      "types": [
-        "Rock",
-        "Steel"
-      ],
       "height": 5.5,
       "weight": 820.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rampart Pok\u00e9mon",
-      "flavor_text": "When stone walls started moving and attacking, the brute\u2019s true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
+      "kind": "Rampart Pokémon",
+      "flavor_text": "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
       "abilities": [
         "Beast Boost"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        391
-      ]
+      "regional_dex_nums": {
+        "usum": 391
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -219,6 +219,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

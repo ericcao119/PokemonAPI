@@ -1,4 +1,6 @@
 {
-  "name": "Adaptability",
-  "description": "Powers up moves of the same type."
+  "ability_name": "Adaptability",
+  "effect": "Adaptability increases the effectiveness of STAB moves from the usual 1.5× to 2×.
+For example, a Water-type Pokémon using Surf (base power 90) would normally get an effective power of 135. With Adaptability it would be 180 instead.",
+  "description": "Powers up moves of the same type as the Pokémon."
 }

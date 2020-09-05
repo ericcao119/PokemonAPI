@@ -2,6 +2,9 @@
   {
     "species_name": "Tauros",
     "variant_name": "Tauros",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 100,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 128,
-      "types": [
-        "Normal"
-      ],
       "height": 1.4,
       "weight": 88.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wild Bull Pok\u00e9mon",
-      "flavor_text": "A rowdy Pok\u00e9mon with a lot of stamina. Once running, it won\u2019t stop until it hits something.",
+      "kind": "Wild Bull Pokémon",
+      "flavor_text": "A rowdy Pokémon with a lot of stamina. Once running, it won’t stop until it hits something.",
       "abilities": [
         "Intimidate",
         "Anger Point"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        128,
-        148,
-        128,
-        150,
-        125,
-        137,
-        170,
-        128
-      ]
+      "regional_dex_nums": {
+        "rby": 128,
+        "gsc": 148,
+        "frlg": 128,
+        "hgss": 150,
+        "xy_coastal": 125,
+        "sm": 137,
+        "usum": 170,
+        "lets_go": 128
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -272,6 +272,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Endeavor",

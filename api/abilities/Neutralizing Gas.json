@@ -1,4 +1,6 @@
 {
-  "name": "Neutralizing Gas",
-  "description": "Neutralizes abilities of all Pok\u00e9mon in battle."
+  "ability_name": "Neutralizing Gas",
+  "effect": "Neutralizes abilities of all Pokémon in battle.
+",
+  "description": "If the Pokémon with Neutralizing Gas is in the battle, the effects of all Pokémon’s Abilities will be nullified or will not be triggered."
 }

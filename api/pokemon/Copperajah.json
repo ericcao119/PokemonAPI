@@ -2,6 +2,9 @@
   {
     "species_name": "Copperajah",
     "variant_name": "Copperajah",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 122,
       "attack": 130,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 879,
-      "types": [
-        "Steel"
-      ],
       "height": 3.0,
       "weight": 650.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Copperderm Pok\u00e9mon",
-      "flavor_text": "These Pok\u00e9mon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
+      "kind": "Copperderm Pokémon",
+      "flavor_text": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
       "abilities": [
         "Sheer Force"
       ],
       "hidden_abilities": [
         "Heavy Metal"
       ],
-      "regional_dex_nums": [
-        303
-      ]
+      "regional_dex_nums": {
+        "swsh": 303
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
         "Field",
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -302,7 +302,19 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Heavy Slam"
+      ],
+      "egg_moves": [
+        "Belch",
+        "Curse",
+        "Defense Curl",
+        "Double-Edge",
+        "Fissure",
+        "Slam",
+        "Swagger",
+        "Whirlwind"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

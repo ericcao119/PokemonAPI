@@ -1,4 +1,6 @@
 {
-  "name": "Ripen",
-  "description": "Doubles the effect of berries."
+  "ability_name": "Ripen",
+  "effect": "Doubles the effect of berries.
+",
+  "description": "Ripens Berries and doubles their effect."
 }

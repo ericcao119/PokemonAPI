@@ -2,6 +2,10 @@
   {
     "species_name": "Marill",
     "variant_name": "Marill",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 20,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 183,
-      "types": [
-        "Water",
-        "Fairy"
-      ],
       "height": 0.4,
       "weight": 8.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Aqua Mouse Pok\u00e9mon",
-      "flavor_text": "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pok\u00e9mon\u2019s tail is flexible and configured to stretch.",
+      "kind": "Aqua Mouse Pokémon",
+      "flavor_text": "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon’s tail is flexible and configured to stretch.",
       "abilities": [
         "Thick Fat",
         "Huge Power"
@@ -29,16 +29,16 @@
       "hidden_abilities": [
         "Sap Sipper"
       ],
-      "regional_dex_nums": [
-        130,
-        55,
-        125,
-        125,
-        132,
-        31,
-        42,
-        56
-      ]
+      "regional_dex_nums": {
+        "gsc": 130,
+        "rse": 55,
+        "dp": 125,
+        "plat": 125,
+        "hgss": 132,
+        "b2w2": 31,
+        "xy_central": 42,
+        "oras": 56
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -238,6 +238,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Aqua Jet",

@@ -1,4 +1,8 @@
 {
-  "name": "Stench",
-  "description": "The stench may cause the target to flinch."
+  "ability_name": "Stench",
+  "effect": "A Pokémon with Stench has a 10% chance of causing the opponent to flinch when hit by a damaging move (provided the ability-bearer strikes first as usual).
+Stench does not stack with the items King's Rock or Razor Fang, so an ability-bearer holding either item will keep the flinch chance at 10%.
+In Generations 3-4, Stench has no effect in battle.
+If a Pokémon with Stench is the leading party Pokémon, wild Pokémon are only half as likely to appear.",
+  "description": "By releasing stench when attacking, this Pokémon may cause the target to flinch."
 }

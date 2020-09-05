@@ -1,4 +1,5 @@
 {
-  "name": "Ice Body",
-  "description": "The Pok\u00e9mon gradually regains HP in a hailstorm."
+  "ability_name": "Ice Body",
+  "effect": "A Pokémon with Ice Body will recover 1⁄16 of its maximum HP during hail, after each turn. It also grants immunity to the hailstorm damage, if not already immune.",
+  "description": "The Pokémon gradually regains HP in a hailstorm."
 }

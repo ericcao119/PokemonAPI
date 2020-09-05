@@ -2,6 +2,9 @@
   {
     "species_name": "Unown",
     "variant_name": "Unown",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 48,
       "attack": 72,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 201,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.5,
       "weight": 5.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Symbol Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
+      "kind": "Symbol Pokémon",
+      "flavor_text": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        61,
-        114,
-        114,
-        61
-      ]
+      "regional_dex_nums": {
+        "gsc": 61,
+        "dp": 114,
+        "plat": 114,
+        "hgss": 61
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -69,6 +69,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

@@ -2,6 +2,10 @@
   {
     "species_name": "Amoonguss",
     "variant_name": "Amoonguss",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 114,
       "attack": 85,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 591,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 0.6,
       "weight": 10.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mushroom Pok\u00e9mon",
-      "flavor_text": "It lures prey close by dancing and waving its arm caps, which resemble Pok\u00e9 Balls, in a swaying motion.",
+      "kind": "Mushroom Pokémon",
+      "flavor_text": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
       "abilities": [
         "Effect Spore"
       ],
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        97,
-        162,
-        54
-      ]
+      "regional_dex_nums": {
+        "bw": 97,
+        "b2w2": 162,
+        "xy_mountain": 54
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -235,6 +235,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Defense Curl",

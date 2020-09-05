@@ -2,6 +2,9 @@
   {
     "species_name": "Nosepass",
     "variant_name": "Nosepass",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 45,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 299,
-      "types": [
-        "Rock"
-      ],
       "height": 1.0,
       "weight": 97.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Compass Pok\u00e9mon",
+      "kind": "Compass Pokémon",
       "flavor_text": "It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close.",
       "abilities": [
         "Sturdy",
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        60,
-        155,
-        164,
-        93,
-        61,
-        198,
-        254
-      ]
+      "regional_dex_nums": {
+        "rse": 60,
+        "plat": 155,
+        "b2w2": 164,
+        "xy_coastal": 93,
+        "oras": 61,
+        "sm": 198,
+        "usum": 254
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -255,6 +255,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Block",
         "Double-Edge",

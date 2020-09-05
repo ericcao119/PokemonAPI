@@ -1,4 +1,7 @@
 {
-  "name": "Arena Trap",
-  "description": "Prevents the foe from fleeing."
+  "ability_name": "Arena Trap",
+  "effect": "Arena Trap prevents opponents from fleeing or switching out. Raised Pokémon are not affected.
+Raised Pokémon are any Flying types or those under the effects of Levitate, Magnet Rise or Telekinesis. Full details in glossary.
+If a Pokémon with Arena Trap is the leading party Pokémon, wild Pokémon are twice as likely to appear.",
+  "description": "Prevents opposing Pokémon from fleeing."
 }

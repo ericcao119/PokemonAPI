@@ -1,4 +1,6 @@
 {
-  "name": "Aroma Veil",
-  "description": "Protects allies from attacks that limit their move choices."
+  "ability_name": "Aroma Veil",
+  "effect": "Protects allies from attacks that limit their move choices.
+",
+  "description": "Protects itself and its allies from attacks that limit their move choices."
 }

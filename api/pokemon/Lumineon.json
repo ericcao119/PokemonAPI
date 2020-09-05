@@ -2,6 +2,9 @@
   {
     "species_name": "Lumineon",
     "variant_name": "Lumineon",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 69,
       "attack": 69,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 457,
-      "types": [
-        "Water"
-      ],
       "height": 1.2,
       "weight": 24.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Neon Pok\u00e9mon",
+      "kind": "Neon Pokémon",
       "flavor_text": "They traverse the deep waters as if crawling over the seafloor. The fantastic lights of its fins shine like stars in the night sky.",
       "abilities": [
         "Swift Swim",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Water Veil"
       ],
-      "regional_dex_nums": [
-        135,
-        135,
-        109,
-        132
-      ]
+      "regional_dex_nums": {
+        "dp": 135,
+        "plat": 135,
+        "sm": 109,
+        "usum": 132
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -244,6 +244,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Aqua Tail",

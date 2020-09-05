@@ -2,6 +2,10 @@
   {
     "species_name": "Rowlet",
     "variant_name": "Rowlet",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 68,
       "attack": 55,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 722,
-      "types": [
-        "Grass",
-        "Flying"
-      ],
       "height": 0.3,
       "weight": 1.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Grass Quill Pok\u00e9mon",
+      "kind": "Grass Quill Pokémon",
       "flavor_text": "During the day, it builds up energy via photosynthesis. At night, it flies silently through the sky, on the prowl for prey.",
       "abilities": [
         "Overgrow"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Long Reach"
       ],
-      "regional_dex_nums": [
-        1,
-        1
-      ]
+      "regional_dex_nums": {
+        "sm": 1,
+        "usum": 1
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -227,6 +227,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Confuse Ray",
         "Defog",

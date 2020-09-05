@@ -2,6 +2,10 @@
   {
     "species_name": "Nidoking",
     "variant_name": "Nidoking",
+    "types": [
+      "Poison",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 81,
       "attack": 102,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 34,
-      "types": [
-        "Poison",
-        "Ground"
-      ],
       "height": 1.4,
       "weight": 62.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Drill Pok\u00e9mon",
+      "kind": "Drill Pokémon",
       "flavor_text": "Its steel-like hide adds to its powerful tackle. Its horns are so hard, they can pierce a diamond.",
       "abilities": [
         "Poison Point",
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        34,
-        100,
-        34,
-        100,
-        109,
-        34
-      ]
+      "regional_dex_nums": {
+        "rby": 34,
+        "gsc": 100,
+        "frlg": 34,
+        "hgss": 100,
+        "xy_coastal": 109,
+        "lets_go": 34
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -300,6 +300,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Beat Up",

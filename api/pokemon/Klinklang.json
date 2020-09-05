@@ -2,6 +2,9 @@
   {
     "species_name": "Klinklang",
     "variant_name": "Klinklang",
+    "types": [
+      "Steel"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 100,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 601,
-      "types": [
-        "Steel"
-      ],
       "height": 0.6,
       "weight": 81.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Gear Pok\u00e9mon",
-      "flavor_text": "The three gears that compose this Pok\u00e9mon spin at high speed. Its new spiked gear isn\u2019t a living creature.",
+      "kind": "Gear Pokémon",
+      "flavor_text": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn’t a living creature.",
       "abilities": [
         "Plus",
         "Minus"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Clear Body"
       ],
-      "regional_dex_nums": [
-        107,
-        132,
-        115
-      ]
+      "regional_dex_nums": {
+        "bw": 107,
+        "b2w2": 132,
+        "swsh": 115
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -52,7 +52,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -243,6 +243,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Magnetic Flux"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

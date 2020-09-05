@@ -1,4 +1,5 @@
 {
-  "name": "Regenerator",
+  "ability_name": "Regenerator",
+  "effect": "A Pokémon with Regenerator restores 1⁄3 of its maximum HP when switching out.",
   "description": "Restores a little HP when withdrawn from battle."
 }

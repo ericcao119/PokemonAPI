@@ -2,6 +2,10 @@
   {
     "species_name": "Mimikyu",
     "variant_name": "Mimikyu",
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 90,
@@ -12,25 +16,21 @@
     },
     "dex_entry": {
       "national_dex_num": 778,
-      "types": [
-        "Ghost",
-        "Fairy"
-      ],
       "height": 0.2,
       "weight": 0.7,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Disguise Pok\u00e9mon",
-      "flavor_text": "Its disguise made from an old rag allowed it to avoid an attack, but the impact broke the neck of the disguise. Now everyone knows it\u2019s a Mimikyu.",
+      "kind": "Disguise Pokémon",
+      "flavor_text": "Its disguise made from an old rag allowed it to avoid an attack, but the impact broke the neck of the disguise. Now everyone knows it’s a Mimikyu.",
       "abilities": [
         "Disguise"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        242,
-        315,
-        301
-      ]
+      "regional_dex_nums": {
+        "sm": 242,
+        "usum": 315,
+        "swsh": 301
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -294,6 +294,7 @@
           "Dazzling Gleam"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Curse",
         "Destiny Bond",

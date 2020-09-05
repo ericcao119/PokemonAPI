@@ -2,6 +2,9 @@
   {
     "species_name": "Skwovet",
     "variant_name": "Skwovet",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 55,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 819,
-      "types": [
-        "Normal"
-      ],
       "height": 0.3,
       "weight": 2.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cheeky Pok\u00e9mon",
-      "flavor_text": "It eats berries nonstop\u2014a habit that has made it more resilient than it looks. It\u2019ll show up on farms, searching for yet more berries.",
+      "kind": "Cheeky Pokémon",
+      "flavor_text": "It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries.",
       "abilities": [
         "Cheek Pouch"
       ],
       "hidden_abilities": [
         "Gluttony"
       ],
-      "regional_dex_nums": [
-        24
-      ]
+      "regional_dex_nums": {
+        "swsh": 24
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -217,6 +217,7 @@
           "Seed Bomb"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Belly Drum",
         "Defense Curl",

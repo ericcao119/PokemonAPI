@@ -1,4 +1,6 @@
 {
-  "name": "Long Reach",
-  "description": "The Pok\u00e9mon uses its moves without making contact with the target."
+  "ability_name": "Long Reach",
+  "effect": "The Pokémon uses its moves without making contact with the target.
+",
+  "description": "The Pokémon uses its moves without making contact with the target."
 }

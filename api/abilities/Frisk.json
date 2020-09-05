@@ -1,4 +1,6 @@
 {
-  "name": "Frisk",
-  "description": "The Pok\u00e9mon can check a foe's held item."
+  "ability_name": "Frisk",
+  "effect": "The Pokémon can check a foe's held item.
+",
+  "description": "When it enters a battle, the Pokémon can check an opposing Pokémon’s held item."
 }

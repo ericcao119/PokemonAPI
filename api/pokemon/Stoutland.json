@@ -2,6 +2,9 @@
   {
     "species_name": "Stoutland",
     "variant_name": "Stoutland",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 110,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 508,
-      "types": [
-        "Normal"
-      ],
       "height": 1.2,
       "weight": 61.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Big-Hearted Pok\u00e9mon",
+      "kind": "Big-Hearted Pokémon",
       "flavor_text": "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland.",
       "abilities": [
         "Intimidate",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Scrappy"
       ],
-      "regional_dex_nums": [
-        14,
-        24,
-        122,
-        152
-      ]
+      "regional_dex_nums": {
+        "bw": 14,
+        "b2w2": 24,
+        "sm": 122,
+        "usum": 152
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "After You",
         "Charm",

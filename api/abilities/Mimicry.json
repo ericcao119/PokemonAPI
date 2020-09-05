@@ -1,4 +1,6 @@
 {
-  "name": "Mimicry",
-  "description": "Changes type depending on the terrain."
+  "ability_name": "Mimicry",
+  "effect": "Changes type depending on the terrain.
+",
+  "description": "Changes the Pokémon’s type depending on the terrain."
 }

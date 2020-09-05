@@ -2,6 +2,10 @@
   {
     "species_name": "Nuzleaf",
     "variant_name": "Nuzleaf",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 70,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 274,
-      "types": [
-        "Grass",
-        "Dark"
-      ],
       "height": 1.0,
       "weight": 28.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wily Pok\u00e9mon",
-      "flavor_text": "They live in holes bored in large trees. The sound of Nuzleaf\u2019s grass flute fills listeners with dread.",
+      "kind": "Wily Pokémon",
+      "flavor_text": "They live in holes bored in large trees. The sound of Nuzleaf’s grass flute fills listeners with dread.",
       "abilities": [
         "Chlorophyll",
         "Early Bird"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Pickpocket"
       ],
-      "regional_dex_nums": [
-        23,
-        23,
-        40
-      ]
+      "regional_dex_nums": {
+        "rse": 23,
+        "oras": 23,
+        "swsh": 40
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -257,6 +257,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Razor Leaf"
+      ],
       "egg_moves": [
         "Amnesia",
         "Beat Up",

@@ -2,6 +2,9 @@
   {
     "species_name": "Caterpie",
     "variant_name": "Caterpie",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 30,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 10,
-      "types": [
-        "Bug"
-      ],
       "height": 0.3,
       "weight": 2.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Worm Pok\u00e9mon",
+      "kind": "Worm Pokémon",
       "flavor_text": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
       "abilities": [
         "Shield Dust"
@@ -27,17 +27,17 @@
       "hidden_abilities": [
         "Run Away"
       ],
-      "regional_dex_nums": [
-        10,
-        24,
-        10,
-        24,
-        23,
-        17,
-        17,
-        10,
-        13
-      ]
+      "regional_dex_nums": {
+        "rby": 10,
+        "gsc": 24,
+        "frlg": 10,
+        "hgss": 24,
+        "xy_central": 23,
+        "sm": 17,
+        "usum": 17,
+        "lets_go": 10,
+        "swsh": 13
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -84,6 +84,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

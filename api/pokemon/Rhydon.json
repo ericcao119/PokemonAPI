@@ -2,6 +2,10 @@
   {
     "species_name": "Rhydon",
     "variant_name": "Rhydon",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 130,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 112,
-      "types": [
-        "Ground",
-        "Rock"
-      ],
       "height": 1.9,
       "weight": 120.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Drill Pok\u00e9mon",
+      "kind": "Drill Pokémon",
       "flavor_text": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees Fahrenheit.",
       "abilities": [
         "Lightning Rod",
@@ -29,18 +29,18 @@
       "hidden_abilities": [
         "Reckless"
       ],
-      "regional_dex_nums": [
-        112,
-        207,
-        170,
-        112,
-        187,
-        212,
-        51,
-        177,
-        112,
-        265
-      ]
+      "regional_dex_nums": {
+        "rby": 112,
+        "gsc": 207,
+        "rse": 170,
+        "frlg": 112,
+        "plat": 187,
+        "hgss": 212,
+        "xy_coastal": 51,
+        "oras": 177,
+        "lets_go": 112,
+        "swsh": 265
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -425,7 +425,18 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Hammer Arm"
+      ],
+      "egg_moves": [
+        "Counter",
+        "Curse",
+        "Dragon Rush",
+        "Guard Split",
+        "Metal Burst",
+        "Rock Polish",
+        "Skull Bash"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

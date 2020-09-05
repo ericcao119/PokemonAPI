@@ -2,6 +2,9 @@
   {
     "species_name": "Entei",
     "variant_name": "Entei",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 115,
       "attack": 115,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 244,
-      "types": [
-        "Fire"
-      ],
       "height": 2.1,
       "weight": 198.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Volcano Pok\u00e9mon",
-      "flavor_text": "Entei embodies the passion of magma. This Pok\u00e9mon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+      "kind": "Volcano Pokémon",
+      "flavor_text": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [
         "Inner Focus"
       ],
-      "regional_dex_nums": [
-        239,
-        244
-      ]
+      "regional_dex_nums": {
+        "gsc": 239,
+        "hgss": 244
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -265,6 +265,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Heat Wave",

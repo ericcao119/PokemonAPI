@@ -2,6 +2,9 @@
   {
     "species_name": "Cosmoem",
     "variant_name": "Cosmoem",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 43,
       "attack": 29,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 790,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.1,
       "weight": 999.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Protostar Pok\u00e9mon",
+      "kind": "Protostar Pokémon",
       "flavor_text": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution.",
       "abilities": [
         "Sturdy"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        290,
-        388
-      ]
+      "regional_dex_nums": {
+        "sm": 290,
+        "usum": 388
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -70,6 +70,9 @@
           44,
           "Cosmic Power"
         ]
+      ],
+      "evolution_moves": [
+        "Cosmic Power"
       ],
       "egg_moves": [],
       "tutor_moves": [],

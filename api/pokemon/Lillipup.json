@@ -2,6 +2,9 @@
   {
     "species_name": "Lillipup",
     "variant_name": "Lillipup",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 60,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 506,
-      "types": [
-        "Normal"
-      ],
       "height": 0.4,
       "weight": 4.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Puppy Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is popular with beginners because it\u2019s intelligent, obedient to its Trainer\u2019s commands, and easy to raise.",
+      "kind": "Puppy Pokémon",
+      "flavor_text": "This Pokémon is popular with beginners because it’s intelligent, obedient to its Trainer’s commands, and easy to raise.",
       "abilities": [
         "Vital Spirit",
         "Pickup"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Run Away"
       ],
-      "regional_dex_nums": [
-        12,
-        22,
-        120,
-        150
-      ]
+      "regional_dex_nums": {
+        "bw": 12,
+        "b2w2": 22,
+        "sm": 120,
+        "usum": 150
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -228,6 +228,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "After You",
         "Charm",

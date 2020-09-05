@@ -2,6 +2,10 @@
   {
     "species_name": "Camerupt",
     "variant_name": "Camerupt",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 100,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 323,
-      "types": [
-        "Fire",
-        "Ground"
-      ],
       "height": 1.9,
       "weight": 220.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Eruption Pok\u00e9mon",
-      "flavor_text": "The humps on Camerupt\u2019s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pok\u00e9mon apparently erupts often when it is enraged.",
+      "kind": "Eruption Pokémon",
+      "flavor_text": "The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.",
       "abilities": [
         "Magma Armor",
         "Solid Rock"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Anger Point"
       ],
-      "regional_dex_nums": [
-        102,
-        205,
-        107
-      ]
+      "regional_dex_nums": {
+        "rse": 102,
+        "b2w2": 205,
+        "oras": 107
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -284,6 +284,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Rock Slide"
+      ],
       "egg_moves": [
         "Ancient Power",
         "Body Slam",
@@ -329,6 +332,10 @@
   {
     "species_name": "Camerupt",
     "variant_name": "Mega Camerupt",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 120,
@@ -339,25 +346,21 @@
     },
     "dex_entry": {
       "national_dex_num": 323,
-      "types": [
-        "Fire",
-        "Ground"
-      ],
       "height": 2.5,
       "weight": 320.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Eruption Pok\u00e9mon",
-      "flavor_text": "The humps on Camerupt\u2019s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pok\u00e9mon apparently erupts often when it is enraged.",
+      "kind": "Eruption Pokémon",
+      "flavor_text": "The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.",
       "abilities": [
         "Sheer Force"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        102,
-        205,
-        107
-      ]
+      "regional_dex_nums": {
+        "rse": 102,
+        "b2w2": 205,
+        "oras": 107
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -608,6 +611,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Rock Slide"
+      ],
       "egg_moves": [
         "Ancient Power",
         "Body Slam",

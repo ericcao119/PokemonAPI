@@ -1,4 +1,7 @@
 {
-  "name": "White Smoke",
-  "description": "Prevents other Pok\u00e9mon from lowering its stats."
+  "ability_name": "White Smoke",
+  "effect": "Prevents other Pokémon from lowering its stats.
+
+If a Pokémon with White Smoke is the leading party Pokémon, wild Pokémon are only half as likely to appear.",
+  "description": "The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
 }

@@ -2,6 +2,9 @@
   {
     "species_name": "Charmeleon",
     "variant_name": "Charmeleon",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 58,
       "attack": 64,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 5,
-      "types": [
-        "Fire"
-      ],
       "height": 1.1,
       "weight": 19.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flame Pok\u00e9mon",
+      "kind": "Flame Pokémon",
       "flavor_text": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
       "abilities": [
         "Blaze"
@@ -27,15 +27,15 @@
       "hidden_abilities": [
         "Solar Power"
       ],
-      "regional_dex_nums": [
-        5,
-        230,
-        5,
-        235,
-        84,
-        5,
-        379
-      ]
+      "regional_dex_nums": {
+        "rby": 5,
+        "gsc": 230,
+        "frlg": 5,
+        "hgss": 235,
+        "xy_central": 84,
+        "lets_go": 5,
+        "swsh": 379
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -292,7 +292,17 @@
           "Work Up"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Belly Drum",
+        "Bite",
+        "Counter",
+        "Dragon Rush",
+        "Dragon Tail",
+        "Metal Claw",
+        "Wing Attack"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

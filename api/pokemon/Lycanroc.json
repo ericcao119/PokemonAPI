@@ -2,6 +2,9 @@
   {
     "species_name": "Lycanroc",
     "variant_name": "Midday Form",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 115,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 745,
-      "types": [
-        "Rock"
-      ],
       "height": 0.8,
       "weight": 25.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wolf Pok\u00e9mon",
+      "kind": "Wolf Pokémon",
       "flavor_text": "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
       "abilities": [
         "Keen Eye",
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Steadfast"
       ],
-      "regional_dex_nums": [
-        104,
-        127
-      ]
+      "regional_dex_nums": {
+        "sm": 104,
+        "usum": 127
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -161,6 +161,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Crush Claw",
         "Fire Fang",
@@ -175,6 +176,9 @@
   {
     "species_name": "Lycanroc",
     "variant_name": "Midnight Form",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 115,
@@ -185,14 +189,11 @@
     },
     "dex_entry": {
       "national_dex_num": 745,
-      "types": [
-        "Rock"
-      ],
       "height": 1.1,
       "weight": 25.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wolf Pok\u00e9mon",
+      "kind": "Wolf Pokémon",
       "flavor_text": "They live alone without forming packs. They will only listen to orders from Trainers who can draw out their true power.",
       "abilities": [
         "Keen Eye",
@@ -201,10 +202,10 @@
       "hidden_abilities": [
         "No Guard"
       ],
-      "regional_dex_nums": [
-        104,
-        127
-      ]
+      "regional_dex_nums": {
+        "sm": 104,
+        "usum": 127
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -334,6 +335,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Crush Claw",
         "Fire Fang",
@@ -348,6 +350,9 @@
   {
     "species_name": "Lycanroc",
     "variant_name": "Dusk Form",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 117,
@@ -358,23 +363,20 @@
     },
     "dex_entry": {
       "national_dex_num": 745,
-      "types": [
-        "Rock"
-      ],
       "height": 0.8,
       "weight": 25.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wolf Pok\u00e9mon",
-      "flavor_text": "This strange form is the result of its evolving at dusk. It\u2019s very rare in Alola.",
+      "kind": "Wolf Pokémon",
+      "flavor_text": "This strange form is the result of its evolving at dusk. It’s very rare in Alola.",
       "abilities": [
         "Tough Claws"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        104,
-        127
-      ]
+      "regional_dex_nums": {
+        "sm": 104,
+        "usum": 127
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -504,6 +506,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Crush Claw",
         "Fire Fang",

@@ -1,4 +1,6 @@
 {
-  "name": "Moody",
-  "description": "Raises one stat and lowers another."
+  "ability_name": "Moody",
+  "effect": "Raises one stat and lowers another.
+",
+  "description": "Raises one stat sharply and lowers another every turn."
 }

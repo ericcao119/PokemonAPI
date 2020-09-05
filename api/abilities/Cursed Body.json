@@ -1,4 +1,6 @@
 {
-  "name": "Cursed Body",
-  "description": "May disable a move used on the Pok\u00e9mon."
+  "ability_name": "Cursed Body",
+  "effect": "May disable a move used on the Pokémon.
+",
+  "description": "May disable a move used on the Pokémon."
 }

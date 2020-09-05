@@ -2,6 +2,9 @@
   {
     "species_name": "Munna",
     "variant_name": "Munna",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 76,
       "attack": 25,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 517,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.6,
       "weight": 23.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dream Eater Pok\u00e9mon",
-      "flavor_text": "It eats dreams and releases mist. The mist is pink when it\u2019s eating a good dream, and black when it\u2019s eating a nightmare.",
+      "kind": "Dream Eater Pokémon",
+      "flavor_text": "It eats dreams and releases mist. The mist is pink when it’s eating a good dream, and black when it’s eating a nightmare.",
       "abilities": [
         "Forewarn",
         "Synchronize"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        23,
-        86,
-        90
-      ]
+      "regional_dex_nums": {
+        "bw": 23,
+        "b2w2": 86,
+        "swsh": 90
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -263,6 +263,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Barrier",
         "Baton Pass",

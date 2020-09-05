@@ -1,4 +1,5 @@
 {
-  "name": "Sweet Veil",
-  "description": "Prevents the Pok\u00e9mon and allies from falling asleep."
+  "ability_name": "Sweet Veil",
+  "effect": "Sweet Veil prevents this Pokémon and its allies from falling asleep, for example from moves like Hypnosis.",
+  "description": "Prevents itself and ally Pokémon from falling asleep."
 }

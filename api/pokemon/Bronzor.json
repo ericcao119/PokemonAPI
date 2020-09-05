@@ -2,6 +2,10 @@
   {
     "species_name": "Bronzor",
     "variant_name": "Bronzor",
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 57,
       "attack": 24,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 436,
-      "types": [
-        "Steel",
-        "Psychic"
-      ],
       "height": 0.5,
       "weight": 60.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bronze Pok\u00e9mon",
+      "kind": "Bronze Pokémon",
       "flavor_text": "Polishing Bronzor to a shine makes its surface reflect the truth, according to common lore. Be that as it may, Bronzor hates being polished.",
       "abilities": [
         "Levitate",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Heavy Metal"
       ],
-      "regional_dex_nums": [
-        88,
-        88,
-        250,
-        118
-      ]
+      "regional_dex_nums": {
+        "dp": 88,
+        "plat": 88,
+        "b2w2": 250,
+        "swsh": 118
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -54,7 +54,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -277,6 +277,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

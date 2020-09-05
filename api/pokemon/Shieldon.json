@@ -2,6 +2,10 @@
   {
     "species_name": "Shieldon",
     "variant_name": "Shieldon",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 42,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 410,
-      "types": [
-        "Rock",
-        "Steel"
-      ],
       "height": 0.5,
       "weight": 57.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Shield Pok\u00e9mon",
+      "kind": "Shield Pokémon",
       "flavor_text": "Although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered.",
       "abilities": [
         "Sturdy"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Soundproof"
       ],
-      "regional_dex_nums": [
-        38,
-        38,
-        190,
-        237
-      ]
+      "regional_dex_nums": {
+        "dp": 38,
+        "plat": 38,
+        "sm": 190,
+        "usum": 237
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -248,6 +248,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Counter",

@@ -2,6 +2,9 @@
   {
     "species_name": "Smeargle",
     "variant_name": "Smeargle",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 20,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 235,
-      "types": [
-        "Normal"
-      ],
       "height": 1.2,
       "weight": 58.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Painter Pok\u00e9mon",
+      "kind": "Painter Pokémon",
       "flavor_text": "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them.",
       "abilities": [
         "Own Tempo",
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Moody"
       ],
-      "regional_dex_nums": [
-        157,
-        159,
-        124,
-        58,
-        70
-      ]
+      "regional_dex_nums": {
+        "gsc": 157,
+        "hgss": 159,
+        "xy_central": 124,
+        "sm": 58,
+        "usum": 70
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -104,6 +104,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

@@ -2,6 +2,10 @@
   {
     "species_name": "Solrock",
     "variant_name": "Solrock",
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 95,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 338,
-      "types": [
-        "Rock",
-        "Psychic"
-      ],
       "height": 1.2,
       "weight": 154.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Meteorite Pok\u00e9mon",
+      "kind": "Meteorite Pokémon",
       "flavor_text": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        126,
-        215,
-        13,
-        131,
-        363
-      ]
+      "regional_dex_nums": {
+        "rse": 126,
+        "b2w2": 215,
+        "xy_coastal": 13,
+        "oras": 131,
+        "swsh": 363
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -52,7 +52,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -311,6 +311,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

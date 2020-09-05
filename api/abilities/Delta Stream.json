@@ -1,4 +1,7 @@
 {
-  "name": "Delta Stream",
-  "description": "Creates strong winds when the ability activates."
+  "ability_name": "Delta Stream",
+  "effect": "Delta Stream creates strong winds when the ability is activated (by Rayquaza Mega-Evolving).
+Strong winds have the following effects:
+The abilities Cloud Nine or Air Lock are still able to bypass the effects of Delta Stream, but Mold Breaker is not.",
+  "description": "The Pokémon changes the weather to eliminate all of the Flying type’s weaknesses."
 }

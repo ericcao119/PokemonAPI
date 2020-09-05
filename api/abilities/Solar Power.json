@@ -1,4 +1,5 @@
 {
-  "name": "Solar Power",
-  "description": "In sunshine, Sp. Atk is boosted but HP decreases."
+  "ability_name": "Solar Power",
+  "effect": "During harsh sunlight, Solar Power raises the ability-bearer's Special Attack by 50%, but it also loses 1⁄8 of its maximum HP after each turn.",
+  "description": "Boosts the Sp. Atk stat in harsh sunlight, but HP decreases every turn."
 }

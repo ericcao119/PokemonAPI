@@ -1,4 +1,7 @@
 {
-  "name": "Aura Break",
-  "description": "Reduces power of Dark- and Fairy-type moves."
+  "ability_name": "Aura Break",
+  "effect": "Aura Break cancels the effects of the abilities Fairy Aura and Dark Aura and instead reduces the power of Dark-type and Fairy-type moves by 25%, for all Pokémon on the field.
+Aura Break is not affected by the abilities Mold Breaker, Teravolt, or Turboblaze.
+Aura Break is the signature ability of Zygarde. Similarly, the abilities it reverses are also signature abilities of legendary Pokémon from Pokémon X&Y: Xerneas and Yveltal.",
+  "description": "The effects of “Aura” Abilities are reversed to lower the power of affected moves."
 }

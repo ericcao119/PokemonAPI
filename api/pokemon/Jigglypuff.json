@@ -2,6 +2,10 @@
   {
     "species_name": "Jigglypuff",
     "variant_name": "Jigglypuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 115,
       "attack": 45,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 39,
-      "types": [
-        "Normal",
-        "Fairy"
-      ],
       "height": 0.5,
       "weight": 5.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Balloon Pok\u00e9mon",
+      "kind": "Balloon Pokémon",
       "flavor_text": "Uses its cute round eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.",
       "abilities": [
         "Cute Charm",
@@ -29,19 +29,19 @@
       "hidden_abilities": [
         "Friend Guard"
       ],
-      "regional_dex_nums": [
-        39,
-        44,
-        138,
-        39,
-        44,
-        282,
-        120,
-        143,
-        135,
-        168,
-        39
-      ]
+      "regional_dex_nums": {
+        "rby": 39,
+        "gsc": 44,
+        "rse": 138,
+        "frlg": 39,
+        "hgss": 44,
+        "b2w2": 282,
+        "xy_mountain": 120,
+        "oras": 143,
+        "sm": 135,
+        "usum": 168,
+        "lets_go": 39
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -308,6 +308,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Covet",

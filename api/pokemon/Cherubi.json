@@ -2,6 +2,9 @@
   {
     "species_name": "Cherubi",
     "variant_name": "Cherubi",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 35,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 420,
-      "types": [
-        "Grass"
-      ],
       "height": 0.4,
       "weight": 3.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cherry Pok\u00e9mon",
-      "flavor_text": "The deeper a Cherubi\u2019s red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
+      "kind": "Cherry Pokémon",
+      "flavor_text": "The deeper a Cherubi’s red, the more nutrients it has stockpiled in its body. And the sweeter and tastier its small ball!",
       "abilities": [
         "Chlorophyll"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        58,
-        58,
-        128
-      ]
+      "regional_dex_nums": {
+        "dp": 58,
+        "plat": 58,
+        "swsh": 128
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -197,6 +197,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aromatherapy",
         "Defense Curl",

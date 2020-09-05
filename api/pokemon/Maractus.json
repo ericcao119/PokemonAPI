@@ -2,6 +2,9 @@
   {
     "species_name": "Maractus",
     "variant_name": "Maractus",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 86,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 556,
-      "types": [
-        "Grass"
-      ],
       "height": 1.0,
       "weight": 28.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cactus Pok\u00e9mon",
-      "flavor_text": "Once each year, this Pok\u00e9mon scatters its seeds. They\u2019re jam-packed with nutrients, making them a precious food source out in the desert.",
+      "kind": "Cactus Pokémon",
+      "flavor_text": "Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert.",
       "abilities": [
         "Water Absorb",
         "Chlorophyll"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Storm Drain"
       ],
-      "regional_dex_nums": [
-        62,
-        119,
-        296
-      ]
+      "regional_dex_nums": {
+        "bw": 62,
+        "b2w2": 119,
+        "swsh": 296
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -239,6 +239,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bounce",
         "Bullet Seed",

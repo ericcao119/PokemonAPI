@@ -1,4 +1,5 @@
 {
-  "name": "Wimp Out",
-  "description": "Switches out when HP drops below half."
+  "ability_name": "Wimp Out",
+  "effect": "Wimp Out causes the bearer to switch out (or flee in a wild battle) when its HP falls below 50%.",
+  "description": "The Pokémon cowardly switches out when its HP becomes half or less."
 }

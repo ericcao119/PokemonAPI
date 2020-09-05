@@ -1,4 +1,6 @@
 {
-  "name": "Wonder Guard",
-  "description": "Only supereffective moves will hit."
+  "ability_name": "Wonder Guard",
+  "effect": "Wonder Guard prevents damage from direct attacks unless they are super-effective. Shedinja is the only Pokémon to have this ability so this means that only Fire, Flying, Rock, Ghost and Dark moves will have an effect.
+However, Pokémon protected by Wonder Guard are not immune to indirect attacks. Status-category moves still work and all end-of-turn damage will still incur, for example from poisoning, burns, sandstorms or hail. Entry hazards such as Spikes or Stealth Rock will also damage Pokémon with Wonder Guard switching in. Attacks that do not take their type in account will also hit, such as Struggle, Beat Up or Future Sight. Since Shedinja only has 1 HP, any of the above damage will result in an instant knockout.",
+  "description": "Its mysterious power only lets supereffective moves hit the Pokémon."
 }

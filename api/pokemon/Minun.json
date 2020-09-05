@@ -2,6 +2,9 @@
   {
     "species_name": "Minun",
     "variant_name": "Minun",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 40,
@@ -12,26 +15,23 @@
     },
     "dex_entry": {
       "national_dex_num": 312,
-      "types": [
-        "Electric"
-      ],
       "height": 0.4,
       "weight": 4.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cheering Pok\u00e9mon",
-      "flavor_text": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pok\u00e9mon gives off increasing amounts of sparks.",
+      "kind": "Cheering Pokémon",
+      "flavor_text": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks.",
       "abilities": [
         "Minus"
       ],
       "hidden_abilities": [
         "Volt Absorb"
       ],
-      "regional_dex_nums": [
-        81,
-        97,
-        83
-      ]
+      "regional_dex_nums": {
+        "rse": 81,
+        "xy_central": 97,
+        "oras": 83
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -246,6 +246,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Charm",
         "Discharge",

@@ -2,6 +2,10 @@
   {
     "species_name": "Bewear",
     "variant_name": "Bewear",
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 120,
       "attack": 125,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 760,
-      "types": [
-        "Normal",
-        "Fighting"
-      ],
       "height": 2.1,
       "weight": 135.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Strong Arm Pok\u00e9mon",
+      "kind": "Strong Arm Pokémon",
       "flavor_text": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.",
       "abilities": [
         "Fluffy",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        170,
-        206,
-        95
-      ]
+      "regional_dex_nums": {
+        "sm": 170,
+        "usum": 206,
+        "swsh": 95
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -305,7 +305,15 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Bind"
+      ],
+      "egg_moves": [
+        "Defense Curl",
+        "Force Palm",
+        "Rollout",
+        "Stomp"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -2,6 +2,10 @@
   {
     "species_name": "Helioptile",
     "variant_name": "Helioptile",
+    "types": [
+      "Electric",
+      "Normal"
+    ],
     "base_stats": {
       "hp": 44,
       "attack": 38,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 694,
-      "types": [
-        "Electric",
-        "Normal"
-      ],
       "height": 0.5,
       "weight": 6.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Generator Pok\u00e9mon",
-      "flavor_text": "The sun powers this Pok\u00e9mon\u2019s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
+      "kind": "Generator Pokémon",
+      "flavor_text": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness.",
       "abilities": [
         "Dry Skin",
         "Sand Veil"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Solar Power"
       ],
-      "regional_dex_nums": [
-        46,
-        318
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 46,
+        "swsh": 318
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -248,6 +248,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Camouflage",

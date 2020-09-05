@@ -1,4 +1,6 @@
 {
-  "name": "Stance Change",
-  "description": "Changes form depending on moves used."
+  "ability_name": "Stance Change",
+  "effect": "Stance Change is exclusive to Aegislash. When using a damage-dealing move, Aegislash switches to its Blade Forme. When using the move King's Shield, Aegislash switches to its Shield Forme.
+The form change occurs when the appropriate move is selected, regardless of whether the attack goes ahead (e.g. prevented by paralysis).",
+  "description": "The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield."
 }

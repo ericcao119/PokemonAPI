@@ -2,6 +2,9 @@
   {
     "species_name": "Hippopotas",
     "variant_name": "Hippopotas",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 68,
       "attack": 72,
@@ -12,27 +15,24 @@
     },
     "dex_entry": {
       "national_dex_num": 449,
-      "types": [
-        "Ground"
-      ],
       "height": 0.8,
       "weight": 49.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hippo Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is active during the day and passes the cold desert nights burrowed snugly into the sand.",
+      "kind": "Hippo Pokémon",
+      "flavor_text": "This Pokémon is active during the day and passes the cold desert nights burrowed snugly into the sand.",
       "abilities": [
         "Sand Stream"
       ],
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        122,
-        122,
-        48,
-        314
-      ]
+      "regional_dex_nums": {
+        "dp": 122,
+        "plat": 122,
+        "xy_coastal": 48,
+        "swsh": 314
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -191,6 +191,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Curse",

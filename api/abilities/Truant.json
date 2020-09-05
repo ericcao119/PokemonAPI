@@ -1,4 +1,8 @@
 {
-  "name": "Truant",
-  "description": "Pok\u00e9mon can't attack on consecutive turns."
+  "ability_name": "Truant",
+  "effect": "Truant causes the ability-bearer to only attack every alternate turn. On the even turns, it will say the Pokémon is loafing around.
+If a Pokémon with Truant uses a move that requires recharging on the second turn (such as Hyper Beam), it will recharge on the same turn the Pokémon loafs around. Moves where the user prepares on the first turn and attacks on the second (such as Solarbeam or Fly) cannot be used.
+The moves Worry Seed, Entrainment and Simple Beam do not work on Pokémon with Truant.
+Truant can technically be Skill Swapped away, however neither Slakoth, Slaking or Durant learn it.",
+  "description": "The Pokémon can’t use a move if it had used a move on the previous turn."
 }

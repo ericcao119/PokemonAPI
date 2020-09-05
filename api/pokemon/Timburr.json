@@ -2,6 +2,9 @@
   {
     "species_name": "Timburr",
     "variant_name": "Timburr",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 80,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 532,
-      "types": [
-        "Fighting"
-      ],
       "height": 0.6,
       "weight": 12.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Muscular Pok\u00e9mon",
+      "kind": "Muscular Pokémon",
       "flavor_text": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
       "abilities": [
         "Guts",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Iron Fist"
       ],
-      "regional_dex_nums": [
-        38,
-        73,
-        93,
-        171
-      ]
+      "regional_dex_nums": {
+        "bw": 38,
+        "b2w2": 73,
+        "xy_mountain": 93,
+        "swsh": 171
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -252,6 +252,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Comet Punch",
         "Counter",

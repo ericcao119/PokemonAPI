@@ -2,6 +2,9 @@
   {
     "species_name": "Clefable",
     "variant_name": "Clefable",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 70,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 36,
-      "types": [
-        "Fairy"
-      ],
       "height": 1.3,
       "weight": 40.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fairy Pok\u00e9mon",
-      "flavor_text": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they\u2019re usually found in quiet places.",
+      "kind": "Fairy Pokémon",
+      "flavor_text": "Their ears are sensitive enough to hear a pin drop from over a mile away, so they’re usually found in quiet places.",
       "abilities": [
         "Cute Charm",
         "Magic Guard"
@@ -28,19 +28,19 @@
       "hidden_abilities": [
         "Unaware"
       ],
-      "regional_dex_nums": [
-        36,
-        42,
-        36,
-        101,
-        101,
-        42,
-        90,
-        212,
-        274,
-        36,
-        256
-      ]
+      "regional_dex_nums": {
+        "rby": 36,
+        "gsc": 42,
+        "frlg": 36,
+        "dp": 101,
+        "plat": 101,
+        "hgss": 42,
+        "b2w2": 90,
+        "sm": 212,
+        "usum": 274,
+        "lets_go": 36,
+        "swsh": 256
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -436,7 +436,14 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Aromatherapy",
+        "Heal Pulse",
+        "Present",
+        "Tickle",
+        "Wish"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

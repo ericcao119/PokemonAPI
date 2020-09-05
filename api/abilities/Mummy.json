@@ -1,4 +1,6 @@
 {
-  "name": "Mummy",
-  "description": "Contact with this Pok\u00e9mon spreads this Ability."
+  "ability_name": "Mummy",
+  "effect": "Contact with this Pokémon spreads this Ability.
+",
+  "description": "Contact with the Pokémon changes the attacker’s Ability to Mummy."
 }

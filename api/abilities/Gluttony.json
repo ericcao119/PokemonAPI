@@ -1,4 +1,6 @@
 {
-  "name": "Gluttony",
-  "description": "Encourages the early use of a held Berry."
+  "ability_name": "Gluttony",
+  "effect": "A Pokémon with Gluttony will use a pinch berry when its HP drops to 50%, rather than the usual 25%.
+Pinch berries are: Figy, Wiki, Mago, Aguav, Iapapa, Liechi, Ganlon, Salac, Petaya, Apicot, Lansat, Starf, Micle and Custap. (Their descriptions state that they work in a pinch.)",
+  "description": "Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual."
 }

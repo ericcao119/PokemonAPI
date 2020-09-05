@@ -2,6 +2,9 @@
   {
     "species_name": "Porygon-Z",
     "variant_name": "Porygon-Z",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 80,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 474,
-      "types": [
-        "Normal"
-      ],
       "height": 0.9,
       "weight": 34.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Virtual Pok\u00e9mon",
+      "kind": "Virtual Pokémon",
       "flavor_text": "A faulty update was added to its programming. Its behavior is noticeably strange, so the experiment may have been a failure.",
       "abilities": [
         "Adaptability",
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        194,
-        219,
-        283
-      ]
+      "regional_dex_nums": {
+        "plat": 194,
+        "sm": 219,
+        "usum": 283
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -52,7 +52,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -275,6 +275,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

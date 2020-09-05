@@ -1,4 +1,7 @@
 {
-  "name": "Refrigerate",
-  "description": "Turns Normal-type moves into Ice-type moves."
+  "ability_name": "Refrigerate",
+  "effect": "Refrigerate causes all Normal-type attacking moves used by the Pokémon to become Ice-type, and increase in power by 20%.
+Ice-type Pokémon also gain STAB from those moves (which means an effective increase of 80%).
+In Generation 6, Refrigerate increases affected moves' power by 30%.",
+  "description": "Normal-type moves become Ice-type moves. The power of those moves is boosted a little."
 }

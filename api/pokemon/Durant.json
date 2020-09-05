@@ -2,6 +2,10 @@
   {
     "species_name": "Durant",
     "variant_name": "Durant",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 58,
       "attack": 109,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 632,
-      "types": [
-        "Bug",
-        "Steel"
-      ],
       "height": 0.3,
       "weight": 33.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Ant Pok\u00e9mon",
-      "flavor_text": "With their large mandibles, these Pok\u00e9mon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
+      "kind": "Iron Ant Pokémon",
+      "flavor_text": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
       "abilities": [
         "Swarm",
         "Hustle"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Truant"
       ],
-      "regional_dex_nums": [
-        138,
-        194,
-        106,
-        316
-      ]
+      "regional_dex_nums": {
+        "bw": 138,
+        "b2w2": 194,
+        "xy_mountain": 106,
+        "swsh": 316
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -237,6 +237,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baton Pass",
         "Endure",

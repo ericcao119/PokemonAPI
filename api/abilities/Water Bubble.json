@@ -1,4 +1,5 @@
 {
-  "name": "Water Bubble",
-  "description": "Halves damage from Fire-type moves, doubles power of Water-type moves used, and prevents burns."
+  "ability_name": "Water Bubble",
+  "effect": "Water Bubble reduces damage taken from Fire-type moves by 50%, and doubles the power of Water-type moves used by the ability-bearer. It also prevents the Pokémon from being burned.",
+  "description": "Lowers the power of Fire-type moves done to the Pokémon and prevents the Pokémon from getting a burn."
 }

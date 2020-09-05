@@ -2,6 +2,10 @@
   {
     "species_name": "Gliscor",
     "variant_name": "Gliscor",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 95,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 472,
-      "types": [
-        "Ground",
-        "Flying"
-      ],
       "height": 2.0,
       "weight": 42.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fang Scorp Pok\u00e9mon",
+      "kind": "Fang Scorp Pokémon",
       "flavor_text": "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
       "abilities": [
         "Hyper Cutter",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Poison Heal"
       ],
-      "regional_dex_nums": [
-        154,
-        222,
-        116
-      ]
+      "regional_dex_nums": {
+        "plat": 154,
+        "b2w2": 222,
+        "xy_mountain": 116
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -328,6 +328,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Baton Pass",

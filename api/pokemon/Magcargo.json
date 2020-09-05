@@ -2,6 +2,10 @@
   {
     "species_name": "Magcargo",
     "variant_name": "Magcargo",
+    "types": [
+      "Fire",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 50,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 219,
-      "types": [
-        "Fire",
-        "Rock"
-      ],
       "height": 0.8,
       "weight": 55.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lava Pok\u00e9mon",
-      "flavor_text": "Magcargo\u2019s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pok\u00e9mon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
+      "kind": "Lava Pokémon",
+      "flavor_text": "Magcargo’s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
       "abilities": [
         "Magma Armor",
         "Flame Body"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        212,
-        104,
-        217,
-        13,
-        109
-      ]
+      "regional_dex_nums": {
+        "gsc": 212,
+        "rse": 104,
+        "hgss": 217,
+        "xy_mountain": 13,
+        "oras": 109
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -294,6 +294,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Shell Smash"
+      ],
       "egg_moves": [
         "Acid Armor",
         "Curse",

@@ -2,6 +2,9 @@
   {
     "species_name": "Arcanine",
     "variant_name": "Arcanine",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 110,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 59,
-      "types": [
-        "Fire"
-      ],
       "height": 1.9,
       "weight": 155.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Legendary Pok\u00e9mon",
-      "flavor_text": "A Pok\u00e9mon that has long been admired for its beauty. It runs agilely as if on wings.",
+      "kind": "Legendary Pokémon",
+      "flavor_text": "A Pokémon that has long been admired for its beauty. It runs agilely as if on wings.",
       "abilities": [
         "Intimidate",
         "Flash Fire"
@@ -28,17 +28,17 @@
       "hidden_abilities": [
         "Justified"
       ],
-      "regional_dex_nums": [
-        59,
-        128,
-        59,
-        130,
-        52,
-        53,
-        65,
-        59,
-        71
-      ]
+      "regional_dex_nums": {
+        "rby": 59,
+        "gsc": 128,
+        "frlg": 59,
+        "hgss": 130,
+        "b2w2": 52,
+        "sm": 53,
+        "usum": 65,
+        "lets_go": 59,
+        "swsh": 71
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -318,7 +318,16 @@
           "Psychic Fangs"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Extreme Speed"
+      ],
+      "egg_moves": [
+        "Covet",
+        "Double Kick",
+        "Double-Edge",
+        "Morning Sun",
+        "Thrash"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

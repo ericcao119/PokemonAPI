@@ -2,6 +2,10 @@
   {
     "species_name": "Togetic",
     "variant_name": "Togetic",
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 40,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 176,
-      "types": [
-        "Fairy",
-        "Flying"
-      ],
       "height": 0.6,
       "weight": 3.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Happiness Pok\u00e9mon",
+      "kind": "Happiness Pokémon",
       "flavor_text": "It grows dispirited if it is not with kind people. It can float in midair without moving its wings.",
       "abilities": [
         "Hustle",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Super Luck"
       ],
-      "regional_dex_nums": [
-        47,
-        174,
-        47,
-        258
-      ]
+      "regional_dex_nums": {
+        "gsc": 47,
+        "plat": 174,
+        "hgss": 47,
+        "swsh": 258
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -306,6 +306,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Extrasensory",
         "Foresight",

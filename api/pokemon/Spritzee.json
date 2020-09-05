@@ -2,6 +2,9 @@
   {
     "species_name": "Spritzee",
     "variant_name": "Spritzee",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 52,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 682,
-      "types": [
-        "Fairy"
-      ],
       "height": 0.2,
       "weight": 0.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Perfume Pok\u00e9mon",
+      "kind": "Perfume Pokémon",
       "flavor_text": "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee.",
       "abilities": [
         "Healer"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Aroma Veil"
       ],
-      "regional_dex_nums": [
-        129,
-        212
-      ]
+      "regional_dex_nums": {
+        "xy_central": 129,
+        "swsh": 212
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -249,6 +249,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Disable",

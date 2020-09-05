@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Dict, Any
 
 
-from src.scraper.scrape import generate_all_pokemon, generate_abilities
+from src.scraper.scrape import generate_all_pokemon, scrape_abilities
 
 from jinja2 import Template, FileSystemLoader, Environment
 
@@ -40,7 +40,7 @@ pokedex: Dict = generate_all_pokemon()
 json_dex = {k: json.dumps(v, cls=JsonEncoderCodec, indent=2) for k, v in pokedex.items()}
 
 
-abilities: Dict = generate_abilities()
+abilities: Dict = {item.ability_name : item for item in scrape_abilities()}
 json_abilities = {k: json.dumps(v, cls=JsonEncoderCodec, indent=2) for k, v in abilities.items()}
 
 def write_pokedex():
@@ -49,7 +49,7 @@ def write_pokedex():
     for k, v in json_dex.items():
         file = pokemon_folder/f'{k}.json'
         file.touch()
-        file.write_text(v)
+        file.write_text(v.encode().decode('unicode_escape'))
 
 def write_abilities():
     abilities_folder: Path = current_dir/'api/abilities'
@@ -57,14 +57,14 @@ def write_abilities():
     for k, v in json_abilities.items():
         file = abilities_folder/f'{k}.json'
         file.touch()
-        file.write_text(v)
+        file.write_text(v.encode().decode('unicode_escape'))
 
 
 def create_index():
     out = template_env.get_template('index.html').render(pokedex=json_dex, abilities=json_abilities)
 
     with open(str(current_dir/'index.html'), 'w') as f:
-        print(out, file=f)
+        print(out.encode().decode('unicode_escape'), file=f)
 
 
 write_abilities()

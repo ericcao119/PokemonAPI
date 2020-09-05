@@ -2,6 +2,10 @@
   {
     "species_name": "Venipede",
     "variant_name": "Venipede",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 45,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 543,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 0.4,
       "weight": 5.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Centipede Pok\u00e9mon",
-      "flavor_text": "Its bite injects a potent poison, enough to paralyze large bird Pok\u00e9mon that try to prey on it.",
+      "kind": "Centipede Pokémon",
+      "flavor_text": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
       "abilities": [
         "Poison Point",
         "Swarm"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Speed Boost"
       ],
-      "regional_dex_nums": [
-        49,
-        43,
-        120
-      ]
+      "regional_dex_nums": {
+        "bw": 49,
+        "b2w2": 43,
+        "xy_central": 120
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -212,6 +212,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Pin Missile",
         "Rock Climb",

@@ -2,6 +2,9 @@
   {
     "species_name": "Dewott",
     "variant_name": "Dewott",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 75,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 502,
-      "types": [
-        "Water"
-      ],
       "height": 0.8,
       "weight": 24.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Discipline Pok\u00e9mon",
+      "kind": "Discipline Pokémon",
       "flavor_text": "As a result of strict training, each Dewott learns different forms for using the scalchops.",
       "abilities": [
         "Torrent"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Shell Armor"
       ],
-      "regional_dex_nums": [
-        8,
-        8
-      ]
+      "regional_dex_nums": {
+        "bw": 8,
+        "b2w2": 8
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -249,6 +249,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Air Slash",
         "Assurance",

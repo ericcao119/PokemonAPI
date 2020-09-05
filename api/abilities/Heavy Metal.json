@@ -1,4 +1,5 @@
 {
-  "name": "Heavy Metal",
-  "description": "Doubles the Pok\u00e9mon's weight."
+  "ability_name": "Heavy Metal",
+  "effect": "Heavy Metal doubles the Pokémon's weight in battle. Increasing weight affects these moves:",
+  "description": "Doubles the Pokémon’s weight."
 }

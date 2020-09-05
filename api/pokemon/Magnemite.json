@@ -2,6 +2,10 @@
   {
     "species_name": "Magnemite",
     "variant_name": "Magnemite",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 25,
       "attack": 35,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 81,
-      "types": [
-        "Electric",
-        "Steel"
-      ],
       "height": 0.3,
       "weight": 6.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Magnet Pok\u00e9mon",
+      "kind": "Magnet Pokémon",
       "flavor_text": "It is hatched with the ability to defy gravity. It floats while emitting powerful electromagnetic waves.",
       "abilities": [
         "Magnet Pull",
@@ -29,20 +29,20 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        81,
-        118,
-        82,
-        81,
-        178,
-        119,
-        48,
-        69,
-        84,
-        47,
-        54,
-        81
-      ]
+      "regional_dex_nums": {
+        "rby": 81,
+        "gsc": 118,
+        "rse": 82,
+        "frlg": 81,
+        "plat": 178,
+        "hgss": 119,
+        "b2w2": 48,
+        "xy_mountain": 69,
+        "oras": 84,
+        "sm": 47,
+        "usum": 54,
+        "lets_go": 81
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -62,7 +62,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -253,6 +253,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Electroweb",

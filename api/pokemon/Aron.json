@@ -2,6 +2,10 @@
   {
     "species_name": "Aron",
     "variant_name": "Aron",
+    "types": [
+      "Steel",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 70,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 304,
-      "types": [
-        "Steel",
-        "Rock"
-      ],
       "height": 0.4,
       "weight": 60.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Iron Armor Pok\u00e9mon",
-      "flavor_text": "Aron has a body of steel. With one all-out charge, this Pok\u00e9mon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pok\u00e9mon.",
+      "kind": "Iron Armor Pokémon",
+      "flavor_text": "Aron has a body of steel. With one all-out charge, this Pokémon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pokémon.",
       "abilities": [
         "Sturdy",
         "Rock Head"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Heavy Metal"
       ],
-      "regional_dex_nums": [
-        70,
-        166,
-        99,
-        72
-      ]
+      "regional_dex_nums": {
+        "rse": 70,
+        "b2w2": 166,
+        "xy_mountain": 99,
+        "oras": 72
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -237,6 +237,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Curse",

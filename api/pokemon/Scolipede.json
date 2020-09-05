@@ -2,6 +2,10 @@
   {
     "species_name": "Scolipede",
     "variant_name": "Scolipede",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 100,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 545,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 2.5,
       "weight": 200.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Megapede Pok\u00e9mon",
+      "kind": "Megapede Pokémon",
       "flavor_text": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
       "abilities": [
         "Poison Point",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Speed Boost"
       ],
-      "regional_dex_nums": [
-        51,
-        45,
-        122
-      ]
+      "regional_dex_nums": {
+        "bw": 51,
+        "b2w2": 45,
+        "xy_central": 122
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -272,6 +272,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Baton Pass"
+      ],
       "egg_moves": [
         "Pin Missile",
         "Rock Climb",

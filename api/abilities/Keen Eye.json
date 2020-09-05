@@ -1,4 +1,6 @@
 {
-  "name": "Keen Eye",
-  "description": "Prevents other Pok\u00e9mon from lowering accuracy."
+  "ability_name": "Keen Eye",
+  "effect": "Keen Eye prevents the Pokémon from losing accuracy, for example from moves like Sand-Attack.
+If a Pokémon with Keen Eye is the leading party Pokémon, wild Pokémon are 50% less likely to be lower level.",
+  "description": "Keen eyes prevent other Pokémon from lowering this Pokémon’s accuracy."
 }

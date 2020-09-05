@@ -2,6 +2,10 @@
   {
     "species_name": "Lucario",
     "variant_name": "Lucario",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 110,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 448,
-      "types": [
-        "Fighting",
-        "Steel"
-      ],
       "height": 1.2,
       "weight": 54.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Aura Pok\u00e9mon",
-      "flavor_text": "It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pok\u00e9mon\u2019s trust.",
+      "kind": "Aura Pokémon",
+      "flavor_text": "It can tell what people are thinking. Only Trainers who have justice in their hearts can earn this Pokémon’s trust.",
       "abilities": [
         "Steadfast",
         "Inner Focus"
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Justified"
       ],
-      "regional_dex_nums": [
-        116,
-        116,
-        34,
-        63,
-        280,
-        378,
-        299
-      ]
+      "regional_dex_nums": {
+        "dp": 116,
+        "plat": 116,
+        "b2w2": 34,
+        "xy_central": 63,
+        "sm": 280,
+        "usum": 378,
+        "swsh": 299
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -305,6 +305,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Aura Sphere"
+      ],
       "egg_moves": [
         "Agility",
         "Bite",
@@ -360,6 +363,10 @@
   {
     "species_name": "Lucario",
     "variant_name": "Mega Lucario",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 145,
@@ -370,29 +377,25 @@
     },
     "dex_entry": {
       "national_dex_num": 448,
-      "types": [
-        "Fighting",
-        "Steel"
-      ],
       "height": 1.3,
       "weight": 57.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Aura Pok\u00e9mon",
+      "kind": "Aura Pokémon",
       "flavor_text": "Bathed in explosive energy, its combative instincts have awakened. For its enemies, it has no mercy whatsoever.",
       "abilities": [
         "Adaptability"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        116,
-        116,
-        34,
-        63,
-        280,
-        378,
-        299
-      ]
+      "regional_dex_nums": {
+        "dp": 116,
+        "plat": 116,
+        "b2w2": 34,
+        "xy_central": 63,
+        "sm": 280,
+        "usum": 378,
+        "swsh": 299
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -660,6 +663,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Aura Sphere"
+      ],
       "egg_moves": [
         "Agility",
         "Bite",

@@ -2,6 +2,10 @@
   {
     "species_name": "Sableye",
     "variant_name": "Sableye",
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 75,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 302,
-      "types": [
-        "Dark",
-        "Ghost"
-      ],
       "height": 0.5,
       "weight": 11.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Darkness Pok\u00e9mon",
+      "kind": "Darkness Pokémon",
       "flavor_text": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.",
       "abilities": [
         "Keen Eye",
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Prankster"
       ],
-      "regional_dex_nums": [
-        68,
-        123,
-        70,
-        102,
-        124,
-        294
-      ]
+      "regional_dex_nums": {
+        "rse": 68,
+        "xy_coastal": 123,
+        "oras": 70,
+        "sm": 102,
+        "usum": 124,
+        "swsh": 294
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -299,6 +299,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Feint",
@@ -368,6 +369,10 @@
   {
     "species_name": "Sableye",
     "variant_name": "Mega Sableye",
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 85,
@@ -378,28 +383,24 @@
     },
     "dex_entry": {
       "national_dex_num": 302,
-      "types": [
-        "Dark",
-        "Ghost"
-      ],
       "height": 0.5,
       "weight": 161.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Darkness Pok\u00e9mon",
-      "flavor_text": "It blocks any and all attacks with its giant-sized gemstone. However, the stone\u2019s a heavy burden, and it limits Mega Sableye\u2019s movements.",
+      "kind": "Darkness Pokémon",
+      "flavor_text": "It blocks any and all attacks with its giant-sized gemstone. However, the stone’s a heavy burden, and it limits Mega Sableye’s movements.",
       "abilities": [
         "Magic Bounce"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        68,
-        123,
-        70,
-        102,
-        124,
-        294
-      ]
+      "regional_dex_nums": {
+        "rse": 68,
+        "xy_coastal": 123,
+        "oras": 70,
+        "sm": 102,
+        "usum": 124,
+        "swsh": 294
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -662,6 +663,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Feint",

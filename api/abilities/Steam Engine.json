@@ -1,4 +1,6 @@
 {
-  "name": "Steam Engine",
-  "description": "Drastically raises Speed when hit by a Fire- or Water-type move."
+  "ability_name": "Steam Engine",
+  "effect": "Steam Engine raises the user's Speed by three stages when it is hit by a Fire- or Water-type attack.
+Stats can be raised to a maximum of +6 stages each.",
+  "description": "Boosts the Pokémon’s Speed stat drastically if hit by a Fire- or Water-type move."
 }

@@ -2,6 +2,9 @@
   {
     "species_name": "Cascoon",
     "variant_name": "Cascoon",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 35,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 268,
-      "types": [
-        "Bug"
-      ],
       "height": 0.7,
       "weight": 11.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cocoon Pok\u00e9mon",
-      "flavor_text": "If it is attacked, Cascoon remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This Pok\u00e9mon will also not forget the pain it endured.",
+      "kind": "Cocoon Pokémon",
+      "flavor_text": "If it is attacked, Cascoon remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This Pokémon will also not forget the pain it endured.",
       "abilities": [
         "Shed Skin"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        17,
-        51,
-        51,
-        17
-      ]
+      "regional_dex_nums": {
+        "rse": 17,
+        "dp": 51,
+        "plat": 51,
+        "oras": 17
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -64,6 +64,9 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [
+        "Harden"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

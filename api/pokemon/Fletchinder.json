@@ -2,6 +2,10 @@
   {
     "species_name": "Fletchinder",
     "variant_name": "Fletchinder",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 62,
       "attack": 73,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 662,
-      "types": [
-        "Fire",
-        "Flying"
-      ],
       "height": 0.7,
       "weight": 16.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ember Pok\u00e9mon",
-      "flavor_text": "Its speed right after takeoff already puts it in the top speed class of all bird Pok\u00e9mon.",
+      "kind": "Ember Pokémon",
+      "flavor_text": "Its speed right after takeoff already puts it in the top speed class of all bird Pokémon.",
       "abilities": [
         "Flame Body"
       ],
       "hidden_abilities": [
         "Gale Wings"
       ],
-      "regional_dex_nums": [
-        15,
-        159,
-        193
-      ]
+      "regional_dex_nums": {
+        "xy_central": 15,
+        "sm": 159,
+        "usum": 193
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -247,6 +247,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Ember"
+      ],
       "egg_moves": [
         "Quick Guard",
         "Snatch",

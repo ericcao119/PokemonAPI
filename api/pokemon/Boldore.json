@@ -2,6 +2,9 @@
   {
     "species_name": "Boldore",
     "variant_name": "Boldore",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 105,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 525,
-      "types": [
-        "Rock"
-      ],
       "height": 0.9,
       "weight": 102.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ore Pok\u00e9mon",
-      "flavor_text": "It relies on sound in order to monitor what\u2019s in its vicinity. When angered, it will attack without ever changing the direction it\u2019s facing.",
+      "kind": "Ore Pokémon",
+      "flavor_text": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.",
       "abilities": [
         "Sturdy",
         "Weak Armor"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        31,
-        69,
-        121,
-        99,
-        121,
-        169
-      ]
+      "regional_dex_nums": {
+        "bw": 31,
+        "b2w2": 69,
+        "xy_coastal": 121,
+        "sm": 99,
+        "usum": 121,
+        "swsh": 169
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -234,6 +234,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Power Gem"
+      ],
       "egg_moves": [
         "Autotomize",
         "Curse",

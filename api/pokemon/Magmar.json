@@ -2,6 +2,9 @@
   {
     "species_name": "Magmar",
     "variant_name": "Magmar",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 95,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 126,
-      "types": [
-        "Fire"
-      ],
       "height": 1.3,
       "weight": 44.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spitfire Pok\u00e9mon",
+      "kind": "Spitfire Pokémon",
       "flavor_text": "Born in an active volcano. Its body is always cloaked in flames, so it looks like a big ball of fire.",
       "abilities": [
         "Flame Body"
@@ -27,17 +27,17 @@
       "hidden_abilities": [
         "Vital Spirit"
       ],
-      "regional_dex_nums": [
-        126,
-        151,
-        126,
-        201,
-        153,
-        54,
-        167,
-        201,
-        126
-      ]
+      "regional_dex_nums": {
+        "rby": 126,
+        "gsc": 151,
+        "frlg": 126,
+        "plat": 201,
+        "hgss": 153,
+        "b2w2": 54,
+        "sm": 167,
+        "usum": 201,
+        "lets_go": 126
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -240,6 +240,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Barrier",
         "Belch",

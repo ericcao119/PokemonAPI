@@ -2,6 +2,9 @@
   {
     "species_name": "Grookey",
     "variant_name": "Grookey",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 810,
-      "types": [
-        "Grass"
-      ],
       "height": 0.3,
       "weight": 5.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Chimp Pok\u00e9mon",
+      "kind": "Chimp Pokémon",
       "flavor_text": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
       "abilities": [
         "Overgrow"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Grassy Surge"
       ],
-      "regional_dex_nums": [
-        1
-      ]
+      "regional_dex_nums": {
+        "swsh": 1
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
         "Field",
         "Grass"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -234,6 +234,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Fake Out",
         "Growth",

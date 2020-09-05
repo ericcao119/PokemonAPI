@@ -2,6 +2,9 @@
   {
     "species_name": "Pichu",
     "variant_name": "Pichu",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 20,
       "attack": 40,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 172,
-      "types": [
-        "Electric"
-      ],
       "height": 0.3,
       "weight": 2.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tiny Mouse Pok\u00e9mon",
+      "kind": "Tiny Mouse Pokémon",
       "flavor_text": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
       "abilities": [
         "Static"
@@ -27,18 +27,18 @@
       "hidden_abilities": [
         "Lightning Rod"
       ],
-      "regional_dex_nums": [
-        21,
-        155,
-        103,
-        103,
-        21,
-        35,
-        162,
-        24,
-        31,
-        193
-      ]
+      "regional_dex_nums": {
+        "gsc": 21,
+        "rse": 155,
+        "dp": 103,
+        "plat": 103,
+        "hgss": 21,
+        "xy_central": 35,
+        "oras": 162,
+        "sm": 24,
+        "usum": 31,
+        "swsh": 193
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -193,6 +193,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Bide",

@@ -1,4 +1,6 @@
 {
-  "name": "Scrappy",
-  "description": "Enables moves to hit Ghost-type Pok\u00e9mon."
+  "ability_name": "Scrappy",
+  "effect": "Enables moves to hit Ghost-type Pokémon.
+",
+  "description": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves."
 }

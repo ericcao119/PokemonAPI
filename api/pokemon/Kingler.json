@@ -2,6 +2,9 @@
   {
     "species_name": "Kingler",
     "variant_name": "Kingler",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 130,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 99,
-      "types": [
-        "Water"
-      ],
       "height": 1.3,
       "weight": 60.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pincer Pok\u00e9mon",
-      "flavor_text": "Its oversized claw is very powerful, but when it\u2019s not in battle, the claw just gets in the way.",
+      "kind": "Pincer Pokémon",
+      "flavor_text": "Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.",
       "abilities": [
         "Hyper Cutter",
         "Shell Armor"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        99,
-        165,
-        99,
-        167,
-        99,
-        99
-      ]
+      "regional_dex_nums": {
+        "rby": 99,
+        "gsc": 165,
+        "frlg": 99,
+        "hgss": 167,
+        "lets_go": 99,
+        "swsh": 99
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -303,7 +303,14 @@
           "Liquidation"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Ancient Power",
+        "Hammer Arm",
+        "Knock Off",
+        "Night Slash",
+        "Slash"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

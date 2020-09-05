@@ -2,6 +2,9 @@
   {
     "species_name": "Hippowdon",
     "variant_name": "Hippowdon",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 108,
       "attack": 112,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 450,
-      "types": [
-        "Ground"
-      ],
       "height": 2.0,
       "weight": 300.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Heavyweight Pok\u00e9mon",
+      "kind": "Heavyweight Pokémon",
       "flavor_text": "When roused to violence by its rage, it spews out the quantities of sand it has swallowed and whips up a sandstorm.",
       "abilities": [
         "Sand Stream"
@@ -27,12 +27,12 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        123,
-        123,
-        49,
-        315
-      ]
+      "regional_dex_nums": {
+        "dp": 123,
+        "plat": 123,
+        "xy_coastal": 49,
+        "swsh": 315
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -223,6 +223,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Curse",

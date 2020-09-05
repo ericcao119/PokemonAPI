@@ -2,6 +2,9 @@
   {
     "species_name": "Snorunt",
     "variant_name": "Snorunt",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 50,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 361,
-      "types": [
-        "Ice"
-      ],
       "height": 0.7,
       "weight": 16.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Snow Hat Pok\u00e9mon",
-      "flavor_text": "It can only survive in cold areas. It bounces happily around, even in environments as cold as \u2212150 degrees Fahrenheit.",
+      "kind": "Snow Hat Pokémon",
+      "flavor_text": "It can only survive in cold areas. It bounces happily around, even in environments as cold as −150 degrees Fahrenheit.",
       "abilities": [
         "Inner Focus",
         "Ice Body"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Moody"
       ],
-      "regional_dex_nums": [
-        171,
-        206,
-        179,
-        246,
-        323,
-        79
-      ]
+      "regional_dex_nums": {
+        "rse": 171,
+        "plat": 206,
+        "oras": 179,
+        "sm": 246,
+        "usum": 323,
+        "swsh": 79
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -207,6 +207,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Avalanche",
         "Bide",

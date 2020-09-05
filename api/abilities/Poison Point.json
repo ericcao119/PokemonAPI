@@ -1,4 +1,6 @@
 {
-  "name": "Poison Point",
-  "description": "Contact with the Pok\u00e9mon may poison the attacker."
+  "ability_name": "Poison Point",
+  "effect": "Contact with the Pokémon may poison the attacker.
+",
+  "description": "Contact with the Pokémon may poison the attacker."
 }

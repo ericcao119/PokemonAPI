@@ -2,6 +2,9 @@
   {
     "species_name": "Scorbunny",
     "variant_name": "Scorbunny",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 71,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 813,
-      "types": [
-        "Fire"
-      ],
       "height": 0.3,
       "weight": 4.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rabbit Pok\u00e9mon",
-      "flavor_text": "It has special pads on the backs of its feet, and one on its nose. Once it\u2019s raring to fight, these pads radiate tremendous heat.",
+      "kind": "Rabbit Pokémon",
+      "flavor_text": "It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat.",
       "abilities": [
         "Blaze"
       ],
       "hidden_abilities": [
         "Libero"
       ],
-      "regional_dex_nums": [
-        4
-      ]
+      "regional_dex_nums": {
+        "swsh": 4
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
         "Field",
         "Humanlike"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -242,6 +242,7 @@
           "Work Up"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "High Jump Kick",
         "Sand Attack",

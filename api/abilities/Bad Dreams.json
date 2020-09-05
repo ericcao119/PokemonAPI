@@ -1,4 +1,5 @@
 {
-  "name": "Bad Dreams",
-  "description": "Reduces a sleeping foe's HP."
+  "ability_name": "Bad Dreams",
+  "effect": "Bad Dreams causes all sleeping opponents to lose 1⁄8 of their maximum HP at the end of each turn.",
+  "description": "Reduces the HP of sleeping opposing Pokémon."
 }

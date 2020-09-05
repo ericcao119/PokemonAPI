@@ -2,6 +2,10 @@
   {
     "species_name": "Zamazenta",
     "variant_name": "Crowned Shield",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 92,
       "attack": 130,
@@ -12,23 +16,19 @@
     },
     "dex_entry": {
       "national_dex_num": 889,
-      "types": [
-        "Fighting",
-        "Steel"
-      ],
       "height": 2.9,
       "weight": 785.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Warrior Pok\u00e9mon",
-      "flavor_text": "Now that it\u2019s equipped with its shield, it can shrug off impressive blows, including the attacks of Dynamax Pok\u00e9mon.",
+      "kind": "Warrior Pokémon",
+      "flavor_text": "Now that it’s equipped with its shield, it can shrug off impressive blows, including the attacks of Dynamax Pokémon.",
       "abilities": [
         "Dauntless Shield"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        399
-      ]
+      "regional_dex_nums": {
+        "swsh": 399
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -296,6 +296,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -304,6 +305,9 @@
   {
     "species_name": "Zamazenta",
     "variant_name": "Hero of Many Battles",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 92,
       "attack": 130,
@@ -314,22 +318,19 @@
     },
     "dex_entry": {
       "national_dex_num": 889,
-      "types": [
-        "Fighting"
-      ],
       "height": 2.9,
       "weight": 210.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Warrior Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
+      "kind": "Warrior Pokémon",
+      "flavor_text": "This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
       "abilities": [
         "Dauntless Shield"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        399
-      ]
+      "regional_dex_nums": {
+        "swsh": 399
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -349,7 +350,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -597,6 +598,7 @@
           "Psychic Fangs"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

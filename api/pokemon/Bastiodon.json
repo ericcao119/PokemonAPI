@@ -2,6 +2,10 @@
   {
     "species_name": "Bastiodon",
     "variant_name": "Bastiodon",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 52,
@@ -12,28 +16,24 @@
     },
     "dex_entry": {
       "national_dex_num": 411,
-      "types": [
-        "Rock",
-        "Steel"
-      ],
       "height": 1.3,
       "weight": 149.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Shield Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is from roughly 100 million years ago. Its terrifyingly tough face is harder than steel.",
+      "kind": "Shield Pokémon",
+      "flavor_text": "This Pokémon is from roughly 100 million years ago. Its terrifyingly tough face is harder than steel.",
       "abilities": [
         "Sturdy"
       ],
       "hidden_abilities": [
         "Soundproof"
       ],
-      "regional_dex_nums": [
-        39,
-        39,
-        191,
-        238
-      ]
+      "regional_dex_nums": {
+        "dp": 39,
+        "plat": 39,
+        "sm": 191,
+        "usum": 238
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -268,6 +268,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Block"
+      ],
       "egg_moves": [
         "Body Slam",
         "Counter",

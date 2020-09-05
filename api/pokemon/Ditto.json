@@ -2,6 +2,9 @@
   {
     "species_name": "Ditto",
     "variant_name": "Ditto",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 48,
       "attack": 48,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 132,
-      "types": [
-        "Normal"
-      ],
       "height": 0.3,
       "weight": 4.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Transform Pok\u00e9mon",
+      "kind": "Transform Pokémon",
       "flavor_text": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
       "abilities": [
         "Limber"
@@ -27,18 +27,18 @@
       "hidden_abilities": [
         "Imposter"
       ],
-      "regional_dex_nums": [
-        132,
-        92,
-        132,
-        92,
-        261,
-        138,
-        209,
-        271,
-        132,
-        373
-      ]
+      "regional_dex_nums": {
+        "rby": 132,
+        "gsc": 92,
+        "frlg": 132,
+        "hgss": 92,
+        "b2w2": 261,
+        "xy_mountain": 138,
+        "sm": 209,
+        "usum": 271,
+        "lets_go": 132,
+        "swsh": 373
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -58,7 +58,7 @@
       "egg_groups": [
         "Ditto"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -72,6 +72,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

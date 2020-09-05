@@ -2,6 +2,10 @@
   {
     "species_name": "Ferrothorn",
     "variant_name": "Ferrothorn",
+    "types": [
+      "Grass",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 74,
       "attack": 94,
@@ -12,28 +16,24 @@
     },
     "dex_entry": {
       "national_dex_num": 598,
-      "types": [
-        "Grass",
-        "Steel"
-      ],
       "height": 1.0,
       "weight": 110.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Thorn Pod Pok\u00e9mon",
-      "flavor_text": "Its spikes are harder than steel. This Pok\u00e9mon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
+      "kind": "Thorn Pod Pokémon",
+      "flavor_text": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
       "abilities": [
         "Iron Barbs"
       ],
       "hidden_abilities": [
         "Anticipation"
       ],
-      "regional_dex_nums": [
-        104,
-        176,
-        70,
-        190
-      ]
+      "regional_dex_nums": {
+        "bw": 104,
+        "b2w2": 176,
+        "xy_coastal": 70,
+        "swsh": 190
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -277,6 +277,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Power Whip"
+      ],
       "egg_moves": [
         "Acid Spray",
         "Bullet Seed",

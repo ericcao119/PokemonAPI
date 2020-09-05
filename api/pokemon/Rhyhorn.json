@@ -2,6 +2,10 @@
   {
     "species_name": "Rhyhorn",
     "variant_name": "Rhyhorn",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 85,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 111,
-      "types": [
-        "Ground",
-        "Rock"
-      ],
       "height": 1.0,
       "weight": 115.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spikes Pok\u00e9mon",
+      "kind": "Spikes Pokémon",
       "flavor_text": "It can remember only one thing at a time. Once it starts rushing, it forgets why it started.",
       "abilities": [
         "Lightning Rod",
@@ -29,18 +29,18 @@
       "hidden_abilities": [
         "Reckless"
       ],
-      "regional_dex_nums": [
-        111,
-        206,
-        169,
-        111,
-        186,
-        211,
-        50,
-        176,
-        111,
-        264
-      ]
+      "regional_dex_nums": {
+        "rby": 111,
+        "gsc": 206,
+        "rse": 169,
+        "frlg": 111,
+        "plat": 186,
+        "hgss": 211,
+        "xy_coastal": 50,
+        "oras": 176,
+        "lets_go": 111,
+        "swsh": 264
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -325,6 +325,7 @@
           "High Horsepower"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Counter",
         "Curse",

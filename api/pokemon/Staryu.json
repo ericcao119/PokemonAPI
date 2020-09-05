@@ -2,6 +2,9 @@
   {
     "species_name": "Staryu",
     "variant_name": "Staryu",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 45,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 120,
-      "types": [
-        "Water"
-      ],
       "height": 0.8,
       "weight": 34.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Star Shape Pok\u00e9mon",
-      "flavor_text": "As long as the center section is unharmed, this Pok\u00e9mon can grow back fully even if it is chopped to bits.",
+      "kind": "Star Shape Pokémon",
+      "flavor_text": "As long as the center section is unharmed, this Pokémon can grow back fully even if it is chopped to bits.",
       "abilities": [
         "Illuminate",
         "Natural Cure"
@@ -28,19 +28,19 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        120,
-        167,
-        143,
-        120,
-        169,
-        238,
-        34,
-        148,
-        184,
-        223,
-        120
-      ]
+      "regional_dex_nums": {
+        "rby": 120,
+        "gsc": 167,
+        "rse": 143,
+        "frlg": 120,
+        "hgss": 169,
+        "b2w2": 238,
+        "xy_coastal": 34,
+        "oras": 148,
+        "sm": 184,
+        "usum": 223,
+        "lets_go": 120
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -60,7 +60,7 @@
       "egg_groups": [
         "Water3"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -267,6 +267,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Gravity",

@@ -2,6 +2,10 @@
   {
     "species_name": "Grimmsnarl",
     "variant_name": "Grimmsnarl",
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 120,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 861,
-      "types": [
-        "Dark",
-        "Fairy"
-      ],
       "height": 1.5,
       "weight": 61.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bulk Up Pok\u00e9mon",
+      "kind": "Bulk Up Pokémon",
       "flavor_text": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
       "abilities": [
         "Prankster",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Pickpocket"
       ],
-      "regional_dex_nums": [
-        240
-      ]
+      "regional_dex_nums": {
+        "swsh": 240
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -52,7 +52,7 @@
         "Fairy",
         "Humanlike"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -351,6 +351,9 @@
           99,
           "Body Press"
         ]
+      ],
+      "evolution_moves": [
+        "Spirit Break"
       ],
       "egg_moves": [],
       "tutor_moves": [],

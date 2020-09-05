@@ -2,6 +2,10 @@
   {
     "species_name": "Charizard",
     "variant_name": "Charizard",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 84,
@@ -12,31 +16,27 @@
     },
     "dex_entry": {
       "national_dex_num": 6,
-      "types": [
-        "Fire",
-        "Flying"
-      ],
       "height": 1.7,
       "weight": 90.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flame Pok\u00e9mon",
-      "flavor_text": "Its wings can carry this Pok\u00e9mon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+      "kind": "Flame Pokémon",
+      "flavor_text": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
       "abilities": [
         "Blaze"
       ],
       "hidden_abilities": [
         "Solar Power"
       ],
-      "regional_dex_nums": [
-        6,
-        231,
-        6,
-        236,
-        85,
-        6,
-        380
-      ]
+      "regional_dex_nums": {
+        "rby": 6,
+        "gsc": 231,
+        "frlg": 6,
+        "hgss": 236,
+        "xy_central": 85,
+        "lets_go": 6,
+        "swsh": 380
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -365,7 +365,19 @@
           "Hurricane"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Air Slash"
+      ],
+      "egg_moves": [
+        "Ancient Power",
+        "Belly Drum",
+        "Bite",
+        "Counter",
+        "Dragon Rush",
+        "Dragon Tail",
+        "Metal Claw",
+        "Wing Attack"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -373,6 +385,10 @@
   {
     "species_name": "Charizard",
     "variant_name": "Mega Charizard X",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 130,
@@ -383,29 +399,25 @@
     },
     "dex_entry": {
       "national_dex_num": 6,
-      "types": [
-        "Fire",
-        "Dragon"
-      ],
       "height": 1.7,
       "weight": 110.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flame Pok\u00e9mon",
+      "kind": "Flame Pokémon",
       "flavor_text": "The overwhelming power that fills its entire body causes it to turn black and create intense blue flames.",
       "abilities": [
         "Tough Claws"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        6,
-        231,
-        6,
-        236,
-        85,
-        6,
-        380
-      ]
+      "regional_dex_nums": {
+        "rby": 6,
+        "gsc": 231,
+        "frlg": 6,
+        "hgss": 236,
+        "xy_central": 85,
+        "lets_go": 6,
+        "swsh": 380
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -734,7 +746,19 @@
           "Hurricane"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Air Slash"
+      ],
+      "egg_moves": [
+        "Ancient Power",
+        "Belly Drum",
+        "Bite",
+        "Counter",
+        "Dragon Rush",
+        "Dragon Tail",
+        "Metal Claw",
+        "Wing Attack"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -742,6 +766,10 @@
   {
     "species_name": "Charizard",
     "variant_name": "Mega Charizard Y",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 104,
@@ -752,29 +780,25 @@
     },
     "dex_entry": {
       "national_dex_num": 6,
-      "types": [
-        "Fire",
-        "Flying"
-      ],
       "height": 1.7,
       "weight": 100.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flame Pok\u00e9mon",
+      "kind": "Flame Pokémon",
       "flavor_text": "Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.",
       "abilities": [
         "Drought"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        6,
-        231,
-        6,
-        236,
-        85,
-        6,
-        380
-      ]
+      "regional_dex_nums": {
+        "rby": 6,
+        "gsc": 231,
+        "frlg": 6,
+        "hgss": 236,
+        "xy_central": 85,
+        "lets_go": 6,
+        "swsh": 380
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -1103,7 +1127,19 @@
           "Hurricane"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Air Slash"
+      ],
+      "egg_moves": [
+        "Ancient Power",
+        "Belly Drum",
+        "Bite",
+        "Counter",
+        "Dragon Rush",
+        "Dragon Tail",
+        "Metal Claw",
+        "Wing Attack"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -2,6 +2,10 @@
   {
     "species_name": "Centiskorch",
     "variant_name": "Centiskorch",
+    "types": [
+      "Fire",
+      "Bug"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 115,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 851,
-      "types": [
-        "Fire",
-        "Bug"
-      ],
       "height": 3.0,
       "weight": 120.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Radiator Pok\u00e9mon",
-      "flavor_text": "While its burning body is already dangerous on its own, this excessively hostile Pok\u00e9mon also has large and very sharp fangs.",
+      "kind": "Radiator Pokémon",
+      "flavor_text": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.",
       "abilities": [
         "Flash Fire",
         "White Smoke"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Flame Body"
       ],
-      "regional_dex_nums": [
-        160
-      ]
+      "regional_dex_nums": {
+        "swsh": 160
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Bug"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -247,7 +247,13 @@
           "Heat Crash"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Defense Curl",
+        "Knock Off",
+        "Rollout",
+        "Struggle Bug"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

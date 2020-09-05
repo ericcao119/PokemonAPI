@@ -2,6 +2,10 @@
   {
     "species_name": "Beedrill",
     "variant_name": "Beedrill",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 90,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 15,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 1.0,
       "weight": 29.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Bee Pok\u00e9mon",
+      "kind": "Poison Bee Pokémon",
       "flavor_text": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
       "abilities": [
         "Swarm"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Sniper"
       ],
-      "regional_dex_nums": [
-        15,
-        29,
-        15,
-        29,
-        28,
-        15
-      ]
+      "regional_dex_nums": {
+        "rby": 15,
+        "gsc": 29,
+        "frlg": 15,
+        "hgss": 29,
+        "xy_central": 28,
+        "lets_go": 15
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -254,6 +254,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Twineedle"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",
@@ -297,6 +300,10 @@
   {
     "species_name": "Beedrill",
     "variant_name": "Mega Beedrill",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 150,
@@ -307,28 +314,24 @@
     },
     "dex_entry": {
       "national_dex_num": 15,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 1.4,
       "weight": 40.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Bee Pok\u00e9mon",
+      "kind": "Poison Bee Pokémon",
       "flavor_text": "Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear.",
       "abilities": [
         "Adaptability"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        15,
-        29,
-        15,
-        29,
-        28,
-        15
-      ]
+      "regional_dex_nums": {
+        "rby": 15,
+        "gsc": 29,
+        "frlg": 15,
+        "hgss": 29,
+        "xy_central": 28,
+        "lets_go": 15
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -547,6 +550,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Twineedle"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

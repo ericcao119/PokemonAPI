@@ -2,6 +2,9 @@
   {
     "species_name": "Zoroark",
     "variant_name": "Zoroark",
+    "types": [
+      "Dark"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 105,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 571,
-      "types": [
-        "Dark"
-      ],
       "height": 1.6,
       "weight": 81.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Illusion Fox Pok\u00e9mon",
+      "kind": "Illusion Fox Pokémon",
       "flavor_text": "If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods.",
       "abilities": [
         "Illusion"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        77,
-        152,
-        125,
-        29
-      ]
+      "regional_dex_nums": {
+        "bw": 77,
+        "b2w2": 152,
+        "xy_mountain": 125,
+        "usum": 29
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -301,6 +301,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Night Slash"
+      ],
       "egg_moves": [
         "Captivate",
         "Copycat",

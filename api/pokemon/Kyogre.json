@@ -2,6 +2,9 @@
   {
     "species_name": "Kyogre",
     "variant_name": "Kyogre",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 100,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 382,
-      "types": [
-        "Water"
-      ],
       "height": 4.5,
       "weight": 352.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Basin Pok\u00e9mon",
+      "kind": "Sea Basin Pokémon",
       "flavor_text": "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.",
       "abilities": [
         "Drizzle"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        198,
-        207
-      ]
+      "regional_dex_nums": {
+        "rse": 198,
+        "oras": 207
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -251,6 +251,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",
@@ -285,6 +286,9 @@
   {
     "species_name": "Kyogre",
     "variant_name": "Primal Kyogre",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 150,
@@ -295,23 +299,20 @@
     },
     "dex_entry": {
       "national_dex_num": 382,
-      "types": [
-        "Water"
-      ],
       "height": 9.8,
       "weight": 430.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Basin Pok\u00e9mon",
+      "kind": "Sea Basin Pokémon",
       "flavor_text": "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.",
       "abilities": [
         "Primordial Sea"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        198,
-        207
-      ]
+      "regional_dex_nums": {
+        "rse": 198,
+        "oras": 207
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -331,7 +332,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -534,6 +535,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",

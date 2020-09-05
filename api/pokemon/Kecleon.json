@@ -2,6 +2,9 @@
   {
     "species_name": "Kecleon",
     "variant_name": "Kecleon",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 90,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 352,
-      "types": [
-        "Normal"
-      ],
       "height": 1.0,
       "weight": 22.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Color Swap Pok\u00e9mon",
+      "kind": "Color Swap Pokémon",
       "flavor_text": "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
       "abilities": [
         "Color Change"
@@ -27,12 +27,12 @@
       "hidden_abilities": [
         "Protean"
       ],
-      "regional_dex_nums": [
-        145,
-        116,
-        150,
-        214
-      ]
+      "regional_dex_nums": {
+        "rse": 145,
+        "xy_central": 116,
+        "oras": 150,
+        "usum": 214
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -287,6 +287,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Camouflage",
         "Disable",

@@ -2,6 +2,10 @@
   {
     "species_name": "Talonflame",
     "variant_name": "Talonflame",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 78,
       "attack": 81,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 663,
-      "types": [
-        "Fire",
-        "Flying"
-      ],
       "height": 1.2,
       "weight": 24.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scorching Pok\u00e9mon",
-      "flavor_text": "Bird Pok\u00e9mon make up most of its diet. It approaches at high speeds and smacks them down to the ground with its powerful kick.",
+      "kind": "Scorching Pokémon",
+      "flavor_text": "Bird Pokémon make up most of its diet. It approaches at high speeds and smacks them down to the ground with its powerful kick.",
       "abilities": [
         "Flame Body"
       ],
       "hidden_abilities": [
         "Gale Wings"
       ],
-      "regional_dex_nums": [
-        16,
-        160,
-        194
-      ]
+      "regional_dex_nums": {
+        "xy_central": 16,
+        "sm": 160,
+        "usum": 194
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -279,6 +279,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Quick Guard",
         "Snatch",

@@ -1,4 +1,6 @@
 {
-  "name": "Liquid Ooze",
-  "description": "Damages attackers using any draining move."
+  "ability_name": "Liquid Ooze",
+  "effect": "Damages attackers using any draining move.
+",
+  "description": "The oozed liquid has a strong stench, which damages attackers using any draining move."
 }

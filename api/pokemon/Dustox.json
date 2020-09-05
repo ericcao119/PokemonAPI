@@ -2,6 +2,10 @@
   {
     "species_name": "Dustox",
     "variant_name": "Dustox",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 50,
@@ -12,28 +16,24 @@
     },
     "dex_entry": {
       "national_dex_num": 269,
-      "types": [
-        "Bug",
-        "Poison"
-      ],
       "height": 1.2,
       "weight": 31.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Moth Pok\u00e9mon",
-      "flavor_text": "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pok\u00e9mon searches for food using its antennae like radar.",
+      "kind": "Poison Moth Pokémon",
+      "flavor_text": "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.",
       "abilities": [
         "Shield Dust"
       ],
       "hidden_abilities": [
         "Compound Eyes"
       ],
-      "regional_dex_nums": [
-        18,
-        52,
-        52,
-        18
-      ]
+      "regional_dex_nums": {
+        "rse": 18,
+        "dp": 52,
+        "plat": 52,
+        "oras": 18
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -236,6 +236,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Gust"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

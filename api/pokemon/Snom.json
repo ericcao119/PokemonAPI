@@ -2,6 +2,10 @@
   {
     "species_name": "Snom",
     "variant_name": "Snom",
+    "types": [
+      "Ice",
+      "Bug"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 25,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 872,
-      "types": [
-        "Ice",
-        "Bug"
-      ],
       "height": 0.3,
       "weight": 3.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Worm Pok\u00e9mon",
+      "kind": "Worm Pokémon",
       "flavor_text": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
       "abilities": [
         "Shield Dust"
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Ice Scales"
       ],
-      "regional_dex_nums": [
-        349
-      ]
+      "regional_dex_nums": {
+        "swsh": 349
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Bug"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -118,6 +118,7 @@
           "Bug Buzz"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Bug Bite",
         "Fairy Wind",

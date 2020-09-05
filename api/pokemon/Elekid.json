@@ -2,6 +2,9 @@
   {
     "species_name": "Elekid",
     "variant_name": "Elekid",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 63,
@@ -12,29 +15,26 @@
     },
     "dex_entry": {
       "national_dex_num": 239,
-      "types": [
-        "Electric"
-      ],
       "height": 0.6,
       "weight": 23.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Electric Pok\u00e9mon",
-      "flavor_text": "When its horns shine a bluish white, that\u2019s the sign it\u2019s fully charged. You\u2019ll get a shocking jolt if you touch it!",
+      "kind": "Electric Pokémon",
+      "flavor_text": "When its horns shine a bluish white, that’s the sign it’s fully charged. You’ll get a shocking jolt if you touch it!",
       "abilities": [
         "Static"
       ],
       "hidden_abilities": [
         "Vital Spirit"
       ],
-      "regional_dex_nums": [
-        154,
-        197,
-        156,
-        56,
-        226,
-        295
-      ]
+      "regional_dex_nums": {
+        "gsc": 154,
+        "plat": 197,
+        "hgss": 156,
+        "b2w2": 56,
+        "sm": 226,
+        "usum": 295
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -225,6 +225,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Barrier",
         "Cross Chop",

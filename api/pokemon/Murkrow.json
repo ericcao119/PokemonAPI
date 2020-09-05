@@ -2,6 +2,10 @@
   {
     "species_name": "Murkrow",
     "variant_name": "Murkrow",
+    "types": [
+      "Dark",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 85,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 198,
-      "types": [
-        "Dark",
-        "Flying"
-      ],
       "height": 0.5,
       "weight": 2.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Darkness Pok\u00e9mon",
-      "flavor_text": "It searches for shiny things for its boss. Murkrow\u2019s presence is said to be unlucky, so many people detest it.",
+      "kind": "Darkness Pokémon",
+      "flavor_text": "It searches for shiny things for its boss. Murkrow’s presence is said to be unlucky, so many people detest it.",
       "abilities": [
         "Insomnia",
         "Super Luck"
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Prankster"
       ],
-      "regional_dex_nums": [
-        208,
-        74,
-        74,
-        213,
-        51,
-        277,
-        78
-      ]
+      "regional_dex_nums": {
+        "gsc": 208,
+        "dp": 74,
+        "plat": 74,
+        "hgss": 213,
+        "xy_mountain": 51,
+        "sm": 277,
+        "usum": 78
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -264,6 +264,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assurance",
         "Brave Bird",

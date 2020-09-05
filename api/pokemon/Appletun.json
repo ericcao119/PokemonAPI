@@ -2,6 +2,10 @@
   {
     "species_name": "Appletun",
     "variant_name": "Appletun",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 85,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 842,
-      "types": [
-        "Grass",
-        "Dragon"
-      ],
       "height": 0.4,
       "weight": 13.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Apple Nectar Pok\u00e9mon",
+      "kind": "Apple Nectar Pokémon",
       "flavor_text": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
       "abilities": [
         "Ripen",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Thick Fat"
       ],
-      "regional_dex_nums": [
-        207
-      ]
+      "regional_dex_nums": {
+        "swsh": 207
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -52,7 +52,7 @@
         "Dragon",
         "Grass"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -268,7 +268,15 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Headbutt"
+      ],
+      "egg_moves": [
+        "Defense Curl",
+        "Recycle",
+        "Rollout",
+        "Sucker Punch"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

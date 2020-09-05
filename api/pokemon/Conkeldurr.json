@@ -2,6 +2,9 @@
   {
     "species_name": "Conkeldurr",
     "variant_name": "Conkeldurr",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 140,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 534,
-      "types": [
-        "Fighting"
-      ],
       "height": 1.4,
       "weight": 87.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Muscular Pok\u00e9mon",
-      "flavor_text": "When going all out, this Pok\u00e9mon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.",
+      "kind": "Muscular Pokémon",
+      "flavor_text": "When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists.",
       "abilities": [
         "Guts",
         "Sheer Force"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Iron Fist"
       ],
-      "regional_dex_nums": [
-        40,
-        75,
-        95,
-        173
-      ]
+      "regional_dex_nums": {
+        "bw": 40,
+        "b2w2": 75,
+        "xy_mountain": 95,
+        "swsh": 173
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -276,6 +276,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Comet Punch",
         "Counter",

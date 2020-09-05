@@ -2,6 +2,9 @@
   {
     "species_name": "Karrablast",
     "variant_name": "Karrablast",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 75,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 588,
-      "types": [
-        "Bug"
-      ],
       "height": 0.5,
       "weight": 5.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Clamping Pok\u00e9mon",
-      "flavor_text": "It spits a liquid from its mouth to melt through Shelmet\u2019s shell. Karrablast doesn\u2019t eat the shell\u2014 it eats only the contents.",
+      "kind": "Clamping Pokémon",
+      "flavor_text": "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.",
       "abilities": [
         "Swarm",
         "Shed Skin"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "No Guard"
       ],
-      "regional_dex_nums": [
-        94,
-        155,
-        22,
-        273
-      ]
+      "regional_dex_nums": {
+        "bw": 94,
+        "b2w2": 155,
+        "xy_mountain": 22,
+        "swsh": 273
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -212,6 +212,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bug Bite",
         "Counter",

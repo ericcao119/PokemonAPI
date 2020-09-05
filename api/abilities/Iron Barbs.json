@@ -1,4 +1,6 @@
 {
-  "name": "Iron Barbs",
-  "description": "Inflicts damage to the Pok\u00e9mon on contact."
+  "ability_name": "Iron Barbs",
+  "effect": "When a Pokémon with Iron Barbs is hit by a move that makes contact, the attacker receives damage equal to 1⁄8 of their maximum HP.
+Multi-hit moves (e.g. DoubleSlap) activate Iron Barbs for each strike.",
+  "description": "Inflicts damage on the attacker upon contact with iron barbs."
 }

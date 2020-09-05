@@ -1,4 +1,5 @@
 {
-  "name": "Inner Focus",
-  "description": "The Pok\u00e9mon is protected from flinching."
+  "ability_name": "Inner Focus",
+  "effect": "Inner Focus prevents the Pokémon from flinching, for example when attacked by a move like Headbutt.",
+  "description": "The Pokémon’s intensely focused, and that protects the Pokémon from flinching."
 }

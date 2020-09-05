@@ -2,6 +2,9 @@
   {
     "species_name": "Happiny",
     "variant_name": "Happiny",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 5,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 440,
-      "types": [
-        "Normal"
-      ],
       "height": 0.6,
       "weight": 24.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Playhouse Pok\u00e9mon",
-      "flavor_text": "When it sees something round and white, Happiny puts it into the pouch on its stomach. It sometimes becomes overloaded and can\u2019t move.",
+      "kind": "Playhouse Pokémon",
+      "flavor_text": "When it sees something round and white, Happiny puts it into the pouch on its stomach. It sometimes becomes overloaded and can’t move.",
       "abilities": [
         "Natural Cure",
         "Serene Grace"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Friend Guard"
       ],
-      "regional_dex_nums": [
-        96,
-        96,
-        32,
-        39
-      ]
+      "regional_dex_nums": {
+        "dp": 96,
+        "plat": 96,
+        "sm": 32,
+        "usum": 39
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -208,6 +208,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aromatherapy",
         "Counter",

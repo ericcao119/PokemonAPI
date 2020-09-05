@@ -2,6 +2,10 @@
   {
     "species_name": "Foongus",
     "variant_name": "Foongus",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 69,
       "attack": 55,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 590,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 0.2,
       "weight": 1.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mushroom Pok\u00e9mon",
-      "flavor_text": "It lures Pok\u00e9mon with its pattern that looks just like a Pok\u00e9 Ball, then releases poison spores.",
+      "kind": "Mushroom Pokémon",
+      "flavor_text": "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
       "abilities": [
         "Effect Spore"
       ],
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        96,
-        161,
-        53
-      ]
+      "regional_dex_nums": {
+        "bw": 96,
+        "b2w2": 161,
+        "xy_mountain": 53
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -215,6 +215,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Body Slam",
         "Defense Curl",

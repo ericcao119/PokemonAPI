@@ -1,4 +1,5 @@
 {
-  "name": "Steelworker",
+  "ability_name": "Steelworker",
+  "effect": "Steelworker increases the power of Steel-type moves by 50%.",
   "description": "Powers up Steel-type moves."
 }

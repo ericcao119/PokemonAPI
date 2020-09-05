@@ -1,4 +1,6 @@
 {
-  "name": "Intimidate",
-  "description": "Lowers the foe's Attack stat."
+  "ability_name": "Intimidate",
+  "effect": "Intimidate lower's the Attack of all opponents by one stage when the ability-bearer switches in (including the start of a battle).
+If a Pokémon with Intimidate is the leading party Pokémon, wild Pokémon are 50% less likely to be lower level.",
+  "description": "The Pokémon intimidates opposing Pokémon upon entering battle, lowering their Attack stat."
 }

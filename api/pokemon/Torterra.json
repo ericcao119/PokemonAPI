@@ -2,6 +2,10 @@
   {
     "species_name": "Torterra",
     "variant_name": "Torterra",
+    "types": [
+      "Grass",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 109,
@@ -12,26 +16,22 @@
     },
     "dex_entry": {
       "national_dex_num": 389,
-      "types": [
-        "Grass",
-        "Ground"
-      ],
       "height": 2.2,
       "weight": 310.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Continent Pok\u00e9mon",
-      "flavor_text": "Small Pok\u00e9mon occasionally gather on its unmoving back to begin building their nests.",
+      "kind": "Continent Pokémon",
+      "flavor_text": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Shell Armor"
       ],
-      "regional_dex_nums": [
-        3,
-        3
-      ]
+      "regional_dex_nums": {
+        "dp": 3,
+        "plat": 3
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -267,6 +267,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Earthquake"
+      ],
       "egg_moves": [
         "Amnesia",
         "Body Slam",

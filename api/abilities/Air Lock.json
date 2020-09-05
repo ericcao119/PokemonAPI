@@ -1,4 +1,5 @@
 {
-  "name": "Air Lock",
+  "ability_name": "Air Lock",
+  "effect": "Air Lock suppresses all effects brought on by weather, including move power increases, end-of-turn damage, accuracy changes, relevant abilities and so on.",
   "description": "Eliminates the effects of weather."
 }

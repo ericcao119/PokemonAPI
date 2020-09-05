@@ -2,6 +2,9 @@
   {
     "species_name": "Voltorb",
     "variant_name": "Voltorb",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 30,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 100,
-      "types": [
-        "Electric"
-      ],
       "height": 0.5,
       "weight": 10.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ball Pok\u00e9mon",
-      "flavor_text": "It is said to camouflage itself as a Pok\u00e9 Ball. It will self-destruct with very little stimulus.",
+      "kind": "Ball Pokémon",
+      "flavor_text": "It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.",
       "abilities": [
         "Soundproof",
         "Static"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Aftermath"
       ],
-      "regional_dex_nums": [
-        100,
-        120,
-        84,
-        100,
-        121,
-        72,
-        87,
-        100
-      ]
+      "regional_dex_nums": {
+        "rby": 100,
+        "gsc": 120,
+        "rse": 84,
+        "frlg": 100,
+        "hgss": 121,
+        "xy_mountain": 72,
+        "oras": 87,
+        "lets_go": 100
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -57,7 +57,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -240,6 +240,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Foul Play",

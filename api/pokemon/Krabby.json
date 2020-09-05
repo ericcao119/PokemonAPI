@@ -2,6 +2,9 @@
   {
     "species_name": "Krabby",
     "variant_name": "Krabby",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 105,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 98,
-      "types": [
-        "Water"
-      ],
       "height": 0.4,
       "weight": 6.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "River Crab Pok\u00e9mon",
+      "kind": "River Crab Pokémon",
       "flavor_text": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
       "abilities": [
         "Hyper Cutter",
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        98,
-        164,
-        98,
-        166,
-        98,
-        98
-      ]
+      "regional_dex_nums": {
+        "rby": 98,
+        "gsc": 164,
+        "frlg": 98,
+        "hgss": 166,
+        "lets_go": 98,
+        "swsh": 98
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -271,6 +271,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Hammer Arm",

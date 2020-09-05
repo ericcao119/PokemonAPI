@@ -2,6 +2,9 @@
   {
     "species_name": "Poipole",
     "variant_name": "Poipole",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 67,
       "attack": 73,
@@ -12,22 +15,19 @@
     },
     "dex_entry": {
       "national_dex_num": 803,
-      "types": [
-        "Poison"
-      ],
       "height": 0.6,
       "weight": 1.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Pin Pok\u00e9mon",
+      "kind": "Poison Pin Pokémon",
       "flavor_text": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.",
       "abilities": [
         "Beast Boost"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        261
-      ]
+      "regional_dex_nums": {
+        "usum": 261
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -47,7 +47,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -174,6 +174,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Covet",

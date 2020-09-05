@@ -2,6 +2,9 @@
   {
     "species_name": "Flareon",
     "variant_name": "Flareon",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 130,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 136,
-      "types": [
-        "Fire"
-      ],
       "height": 0.9,
       "weight": 25.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flame Pok\u00e9mon",
+      "kind": "Flame Pokémon",
       "flavor_text": "It stores some of the air it inhales in its internal flame pouch, which heats it to over 3,000 degrees Fahrenheit.",
       "abilities": [
         "Flash Fire"
@@ -27,19 +27,19 @@
       "hidden_abilities": [
         "Guts"
       ],
-      "regional_dex_nums": [
-        136,
-        183,
-        136,
-        166,
-        187,
-        94,
-        80,
-        126,
-        156,
-        136,
-        199
-      ]
+      "regional_dex_nums": {
+        "rby": 136,
+        "gsc": 183,
+        "frlg": 136,
+        "plat": 166,
+        "hgss": 187,
+        "b2w2": 94,
+        "xy_coastal": 80,
+        "sm": 126,
+        "usum": 156,
+        "lets_go": 136,
+        "swsh": 199
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -323,7 +323,19 @@
           "Work Up"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Ember"
+      ],
+      "egg_moves": [
+        "Curse",
+        "Detect",
+        "Double Kick",
+        "Flail",
+        "Mud-Slap",
+        "Tickle",
+        "Wish",
+        "Yawn"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

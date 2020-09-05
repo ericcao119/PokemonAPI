@@ -1,4 +1,7 @@
 {
-  "name": "Download",
-  "description": "Adjusts power according to a foe's defenses."
+  "ability_name": "Download",
+  "effect": "Download raises either the bearer's Attack or Special Attack by one stage when switching into battle, base on the opponent's defenses.
+It raises Attack if the opponent's Defense is lower than its Special Defense, or raises Special Attack if opponent's Special Defense is lower than or equal to its Defense.
+In double and triple battles, Download compares the sum of all opponents' Defense stats and the sum of all opponents' Special Defense stats and uses the lowest total.",
+  "description": "Compares an opposing Pokémon’s Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective."
 }

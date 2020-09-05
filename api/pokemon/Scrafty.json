@@ -2,6 +2,10 @@
   {
     "species_name": "Scrafty",
     "variant_name": "Scrafty",
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 90,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 560,
-      "types": [
-        "Dark",
-        "Fighting"
-      ],
       "height": 1.1,
       "weight": 30.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hoodlum Pok\u00e9mon",
-      "flavor_text": "While mostly known for having the temperament of an aggressive ruffian, this Pok\u00e9mon takes very good care of its family, friends, and territory.",
+      "kind": "Hoodlum Pokémon",
+      "flavor_text": "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory.",
       "abilities": [
         "Shed Skin",
         "Moxie"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Intimidate"
       ],
-      "regional_dex_nums": [
-        66,
-        118,
-        101,
-        336,
-        225
-      ]
+      "regional_dex_nums": {
+        "bw": 66,
+        "b2w2": 118,
+        "xy_central": 101,
+        "usum": 336,
+        "swsh": 225
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -299,6 +299,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Spray",
         "Amnesia",

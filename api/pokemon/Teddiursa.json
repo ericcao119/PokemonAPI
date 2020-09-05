@@ -2,6 +2,9 @@
   {
     "species_name": "Teddiursa",
     "variant_name": "Teddiursa",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 80,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 216,
-      "types": [
-        "Normal"
-      ],
       "height": 0.6,
       "weight": 8.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Little Bear Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
+      "kind": "Little Bear Pokémon",
+      "flavor_text": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
       "abilities": [
         "Pickup",
         "Quick Feet"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Honey Gather"
       ],
-      "regional_dex_nums": [
-        193,
-        198,
-        132
-      ]
+      "regional_dex_nums": {
+        "gsc": 193,
+        "hgss": 198,
+        "xy_mountain": 132
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -255,6 +255,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Belly Drum",
         "Chip Away",

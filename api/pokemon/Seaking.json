@@ -2,6 +2,9 @@
   {
     "species_name": "Seaking",
     "variant_name": "Seaking",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 92,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 119,
-      "types": [
-        "Water"
-      ],
       "height": 1.3,
       "weight": 39.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Goldfish Pok\u00e9mon",
+      "kind": "Goldfish Pokémon",
       "flavor_text": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
       "abilities": [
         "Swift Swim",
@@ -28,21 +28,21 @@
       "hidden_abilities": [
         "Lightning Rod"
       ],
-      "regional_dex_nums": [
-        119,
-        79,
-        51,
-        119,
-        79,
-        79,
-        79,
-        54,
-        52,
-        154,
-        187,
-        119,
-        147
-      ]
+      "regional_dex_nums": {
+        "rby": 119,
+        "gsc": 79,
+        "rse": 51,
+        "frlg": 119,
+        "dp": 79,
+        "plat": 79,
+        "hgss": 79,
+        "xy_central": 54,
+        "oras": 52,
+        "sm": 154,
+        "usum": 187,
+        "lets_go": 119,
+        "swsh": 147
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -258,7 +258,14 @@
           "Throat Chop"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Acupressure",
+        "Aqua Tail",
+        "Haze",
+        "Mud-Slap",
+        "Psybeam"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

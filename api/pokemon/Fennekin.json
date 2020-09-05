@@ -2,6 +2,9 @@
   {
     "species_name": "Fennekin",
     "variant_name": "Fennekin",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 45,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 653,
-      "types": [
-        "Fire"
-      ],
       "height": 0.4,
       "weight": 9.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fox Pok\u00e9mon",
+      "kind": "Fox Pokémon",
       "flavor_text": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
       "abilities": [
         "Blaze"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Magician"
       ],
-      "regional_dex_nums": [
-        4
-      ]
+      "regional_dex_nums": {
+        "xy_central": 4
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -256,6 +256,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Heat Wave",
         "Hypnosis",

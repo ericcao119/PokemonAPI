@@ -2,6 +2,9 @@
   {
     "species_name": "Sentret",
     "variant_name": "Sentret",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 46,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 161,
-      "types": [
-        "Normal"
-      ],
       "height": 0.8,
       "weight": 6.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scout Pok\u00e9mon",
-      "flavor_text": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pok\u00e9mon becomes separated from its pack, it becomes incapable of sleep due to fear.",
+      "kind": "Scout Pokémon",
+      "flavor_text": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.",
       "abilities": [
         "Run Away",
         "Keen Eye"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Frisk"
       ],
-      "regional_dex_nums": [
-        19,
-        19,
-        109
-      ]
+      "regional_dex_nums": {
+        "gsc": 19,
+        "hgss": 19,
+        "xy_central": 109
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -247,6 +247,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assist",
         "Baby-Doll Eyes",

@@ -2,6 +2,10 @@
   {
     "species_name": "Tropius",
     "variant_name": "Tropius",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 99,
       "attack": 68,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 357,
-      "types": [
-        "Grass",
-        "Flying"
-      ],
       "height": 2.0,
       "weight": 100.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fruit Pok\u00e9mon",
+      "kind": "Fruit Pokémon",
       "flavor_text": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
       "abilities": [
         "Chlorophyll",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Harvest"
       ],
-      "regional_dex_nums": [
-        150,
-        185,
-        288,
-        156,
-        354
-      ]
+      "regional_dex_nums": {
+        "rse": 150,
+        "plat": 185,
+        "b2w2": 288,
+        "oras": 156,
+        "usum": 354
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -259,6 +259,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bullet Seed",
         "Curse",

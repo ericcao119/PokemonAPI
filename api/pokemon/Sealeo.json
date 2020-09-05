@@ -2,6 +2,10 @@
   {
     "species_name": "Sealeo",
     "variant_name": "Sealeo",
+    "types": [
+      "Ice",
+      "Water"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 60,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 364,
-      "types": [
-        "Ice",
-        "Water"
-      ],
       "height": 1.1,
       "weight": 87.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ball Roll Pok\u00e9mon",
-      "flavor_text": "Sealeo often balances and rolls things on the tip of its nose. While the Pok\u00e9mon is rolling something, it checks the object\u2019s aroma and texture to determine whether it likes the object or not.",
+      "kind": "Ball Roll Pokémon",
+      "flavor_text": "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
       "abilities": [
         "Thick Fat",
         "Ice Body"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Oblivious"
       ],
-      "regional_dex_nums": [
-        174,
-        244,
-        183
-      ]
+      "regional_dex_nums": {
+        "rse": 174,
+        "b2w2": 244,
+        "oras": 183
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -237,6 +237,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Swagger"
+      ],
       "egg_moves": [
         "Aqua Ring",
         "Belly Drum",

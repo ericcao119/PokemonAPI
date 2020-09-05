@@ -2,6 +2,10 @@
   {
     "species_name": "Galvantula",
     "variant_name": "Galvantula",
+    "types": [
+      "Bug",
+      "Electric"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 77,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 596,
-      "types": [
-        "Bug",
-        "Electric"
-      ],
       "height": 0.8,
       "weight": 14.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "EleSpider Pok\u00e9mon",
-      "flavor_text": "It lays traps of electrified threads near the nests of bird Pok\u00e9mon, aiming to snare chicks that are not yet good at flying.",
+      "kind": "EleSpider Pokémon",
+      "flavor_text": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
       "abilities": [
         "Compound Eyes",
         "Unnerve"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Swarm"
       ],
-      "regional_dex_nums": [
-        102,
-        174,
-        65
-      ]
+      "regional_dex_nums": {
+        "bw": 102,
+        "b2w2": 174,
+        "swsh": 65
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -256,6 +256,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Sticky Web"
+      ],
       "egg_moves": [
         "Camouflage",
         "Cross Poison",

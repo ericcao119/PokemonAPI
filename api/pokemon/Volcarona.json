@@ -2,6 +2,10 @@
   {
     "species_name": "Volcarona",
     "variant_name": "Volcarona",
+    "types": [
+      "Bug",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 60,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 637,
-      "types": [
-        "Bug",
-        "Fire"
-      ],
       "height": 1.6,
       "weight": 46.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sun Pok\u00e9mon",
-      "flavor_text": "According to legends, it was hatched from a flaming cocoon to save people and Pok\u00e9mon that were suffering from the cold.",
+      "kind": "Sun Pokémon",
+      "flavor_text": "According to legends, it was hatched from a flaming cocoon to save people and Pokémon that were suffering from the cold.",
       "abilities": [
         "Flame Body"
       ],
       "hidden_abilities": [
         "Swarm"
       ],
-      "regional_dex_nums": [
-        143,
-        172,
-        204
-      ]
+      "regional_dex_nums": {
+        "bw": 143,
+        "b2w2": 172,
+        "usum": 204
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -295,6 +295,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Quiver Dance"
+      ],
       "egg_moves": [
         "Endure",
         "Foresight",

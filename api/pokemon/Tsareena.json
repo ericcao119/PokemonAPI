@@ -2,6 +2,9 @@
   {
     "species_name": "Tsareena",
     "variant_name": "Tsareena",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 72,
       "attack": 120,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 763,
-      "types": [
-        "Grass"
-      ],
       "height": 1.2,
       "weight": 21.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fruit Pok\u00e9mon",
-      "flavor_text": "A kick from the hardened tips of this Pok\u00e9mon\u2019s legs leaves a wound in the opponent\u2019s body and soul that will never heal.",
+      "kind": "Fruit Pokémon",
+      "flavor_text": "A kick from the hardened tips of this Pokémon’s legs leaves a wound in the opponent’s body and soul that will never heal.",
       "abilities": [
         "Leaf Guard",
         "Queenly Majesty"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Sweet Veil"
       ],
-      "regional_dex_nums": [
-        173,
-        209,
-        54
-      ]
+      "regional_dex_nums": {
+        "sm": 173,
+        "usum": 209,
+        "swsh": 54
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -259,6 +259,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Trop Kick"
+      ],
       "egg_moves": [
         "Acupressure",
         "Charm",

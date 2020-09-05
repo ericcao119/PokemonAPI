@@ -1,4 +1,6 @@
 {
-  "name": "Turboblaze",
-  "description": "Moves can be used regardless of Abilities."
+  "ability_name": "Turboblaze",
+  "effect": "Turboblaze prevents a target's ability from affecting moves that the Turboblaze Pokémon uses. It only affects abilities that change the power, accuracy or other effects of moves.
+For example, Reshiram would be able to hit Gengar (having Levitate) using a Ground-type move like Earthquake. However, using Dragon Claw against a Pokémon with Aftermath would still receive HP loss as Aftermath did not affect the Dragon Claw attack itself.",
+  "description": "Moves can be used on the target regardless of its Abilities."
 }

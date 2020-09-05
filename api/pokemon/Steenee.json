@@ -2,6 +2,9 @@
   {
     "species_name": "Steenee",
     "variant_name": "Steenee",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 52,
       "attack": 40,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 762,
-      "types": [
-        "Grass"
-      ],
       "height": 0.7,
       "weight": 8.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fruit Pok\u00e9mon",
-      "flavor_text": "Any Corvisquire that pecks at this Pok\u00e9mon will be greeted with a smack from its sepals followed by a sharp kick.",
+      "kind": "Fruit Pokémon",
+      "flavor_text": "Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick.",
       "abilities": [
         "Leaf Guard",
         "Oblivious"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Sweet Veil"
       ],
-      "regional_dex_nums": [
-        172,
-        208,
-        53
-      ]
+      "regional_dex_nums": {
+        "sm": 172,
+        "usum": 208,
+        "swsh": 53
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -231,6 +231,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Double Slap"
+      ],
       "egg_moves": [
         "Acupressure",
         "Charm",

@@ -2,6 +2,9 @@
   {
     "species_name": "Furret",
     "variant_name": "Furret",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 76,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 162,
-      "types": [
-        "Normal"
-      ],
       "height": 1.8,
       "weight": 32.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Long Body Pok\u00e9mon",
-      "flavor_text": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pok\u00e9mon is very nimble and fleet.",
+      "kind": "Long Body Pokémon",
+      "flavor_text": "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
       "abilities": [
         "Run Away",
         "Keen Eye"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Frisk"
       ],
-      "regional_dex_nums": [
-        20,
-        20,
-        110
-      ]
+      "regional_dex_nums": {
+        "gsc": 20,
+        "hgss": 20,
+        "xy_central": 110
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -283,6 +283,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Agility"
+      ],
       "egg_moves": [
         "Assist",
         "Baby-Doll Eyes",

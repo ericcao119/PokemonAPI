@@ -1,4 +1,6 @@
 {
-  "name": "Battle Bond",
-  "description": "Transform into Ash-Greninja after causing opponent to faint."
+  "ability_name": "Battle Bond",
+  "effect": "Battle Bond causes Greninja to transform into Ash-Greninja when it KOs an opponent.
+Battle Bond also increases the power of Greninja's signature move Water Shuriken.",
+  "description": "Defeating an opposing Pokémon strengthens the Pokémon’s bond with its Trainer, and it becomes Ash-Greninja. Water Shuriken gets more powerful."
 }

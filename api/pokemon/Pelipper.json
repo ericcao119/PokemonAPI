@@ -2,6 +2,10 @@
   {
     "species_name": "Pelipper",
     "variant_name": "Pelipper",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 50,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 279,
-      "types": [
-        "Water",
-        "Flying"
-      ],
       "height": 1.2,
       "weight": 28.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Water Bird Pok\u00e9mon",
-      "flavor_text": "Skimming the water\u2019s surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
+      "kind": "Water Bird Pokémon",
+      "flavor_text": "Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it.",
       "abilities": [
         "Keen Eye",
         "Drizzle"
@@ -29,17 +29,17 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        28,
-        120,
-        120,
-        213,
-        18,
-        28,
-        41,
-        48,
-        63
-      ]
+      "regional_dex_nums": {
+        "rse": 28,
+        "dp": 120,
+        "plat": 120,
+        "b2w2": 213,
+        "xy_coastal": 18,
+        "oras": 28,
+        "sm": 41,
+        "usum": 48,
+        "swsh": 63
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -291,6 +291,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Protect"
+      ],
       "egg_moves": [
         "Agility",
         "Aqua Ring",

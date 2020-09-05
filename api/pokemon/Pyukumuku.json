@@ -2,6 +2,9 @@
   {
     "species_name": "Pyukumuku",
     "variant_name": "Pyukumuku",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 60,
@@ -12,26 +15,23 @@
     },
     "dex_entry": {
       "national_dex_num": 771,
-      "types": [
-        "Water"
-      ],
       "height": 0.3,
       "weight": 1.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Cucumber Pok\u00e9mon",
-      "flavor_text": "It\u2019s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
+      "kind": "Sea Cucumber Pokémon",
+      "flavor_text": "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up.",
       "abilities": [
         "Innards Out"
       ],
       "hidden_abilities": [
         "Unaware"
       ],
-      "regional_dex_nums": [
-        200,
-        256,
-        156
-      ]
+      "regional_dex_nums": {
+        "sm": 200,
+        "usum": 256,
+        "swsh": 156
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -183,6 +183,7 @@
           "Venom Drench"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Mirror Coat",
         "Spite",

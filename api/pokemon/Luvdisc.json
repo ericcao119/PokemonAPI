@@ -2,6 +2,9 @@
   {
     "species_name": "Luvdisc",
     "variant_name": "Luvdisc",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 43,
       "attack": 30,
@@ -12,28 +15,25 @@
     },
     "dex_entry": {
       "national_dex_num": 370,
-      "types": [
-        "Water"
-      ],
       "height": 0.6,
       "weight": 8.7,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rendezvous Pok\u00e9mon",
-      "flavor_text": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola\u2019s branches.",
+      "kind": "Rendezvous Pokémon",
+      "flavor_text": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola’s branches.",
       "abilities": [
         "Swift Swim"
       ],
       "hidden_abilities": [
         "Hydration"
       ],
-      "regional_dex_nums": [
-        183,
-        29,
-        192,
-        111,
-        134
-      ]
+      "regional_dex_nums": {
+        "rse": 183,
+        "xy_coastal": 29,
+        "oras": 192,
+        "sm": 111,
+        "usum": 134
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -224,6 +224,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Jet",
         "Aqua Ring",

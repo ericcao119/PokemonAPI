@@ -2,6 +2,10 @@
   {
     "species_name": "Crabominable",
     "variant_name": "Crabominable",
+    "types": [
+      "Fighting",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 97,
       "attack": 132,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 740,
-      "types": [
-        "Fighting",
-        "Ice"
-      ],
       "height": 1.7,
       "weight": 180.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Woolly Crab Pok\u00e9mon",
+      "kind": "Woolly Crab Pokémon",
       "flavor_text": "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.",
       "abilities": [
         "Hyper Cutter",
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Anger Point"
       ],
-      "regional_dex_nums": [
-        60,
-        72
-      ]
+      "regional_dex_nums": {
+        "sm": 60,
+        "usum": 72
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -271,6 +271,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Ice Punch"
+      ],
       "egg_moves": [
         "Amnesia",
         "Endeavor",

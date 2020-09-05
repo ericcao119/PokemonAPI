@@ -2,6 +2,9 @@
   {
     "species_name": "Lilligant",
     "variant_name": "Lilligant",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 60,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 549,
-      "types": [
-        "Grass"
-      ],
       "height": 1.1,
       "weight": 16.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flowering Pok\u00e9mon",
-      "flavor_text": "It\u2019s well liked by other Pok\u00e9mon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
+      "kind": "Flowering Pokémon",
+      "flavor_text": "It’s well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
       "abilities": [
         "Chlorophyll",
         "Own Tempo"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Leaf Guard"
       ],
-      "regional_dex_nums": [
-        55,
-        85,
-        86,
-        104
-      ]
+      "regional_dex_nums": {
+        "bw": 55,
+        "b2w2": 85,
+        "sm": 86,
+        "usum": 104
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -196,6 +196,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bide",
         "Charm",

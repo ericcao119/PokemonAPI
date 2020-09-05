@@ -2,6 +2,9 @@
   {
     "species_name": "Raikou",
     "variant_name": "Raikou",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 85,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 243,
-      "types": [
-        "Electric"
-      ],
       "height": 1.9,
       "weight": 178.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Thunder Pok\u00e9mon",
-      "flavor_text": "Raikou embodies the speed of lightning. The roars of this Pok\u00e9mon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+      "kind": "Thunder Pokémon",
+      "flavor_text": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [
         "Inner Focus"
       ],
-      "regional_dex_nums": [
-        238,
-        243
-      ]
+      "regional_dex_nums": {
+        "gsc": 238,
+        "hgss": 243
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -257,6 +257,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Iron Head",

@@ -2,6 +2,9 @@
   {
     "species_name": "Snubbull",
     "variant_name": "Snubbull",
+    "types": [
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 80,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 209,
-      "types": [
-        "Fairy"
-      ],
       "height": 0.6,
       "weight": 7.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fairy Pok\u00e9mon",
-      "flavor_text": "In contrast to its appearance, it\u2019s quite timid. When playing with other puppy Pok\u00e9mon, it sometimes gets bullied.",
+      "kind": "Fairy Pokémon",
+      "flavor_text": "In contrast to its appearance, it’s quite timid. When playing with other puppy Pokémon, it sometimes gets bullied.",
       "abilities": [
         "Intimidate",
         "Run Away"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        123,
-        125,
-        71,
-        258,
-        339
-      ]
+      "regional_dex_nums": {
+        "gsc": 123,
+        "hgss": 125,
+        "xy_coastal": 71,
+        "sm": 258,
+        "usum": 339
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -286,6 +286,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Close Combat",
         "Crunch",

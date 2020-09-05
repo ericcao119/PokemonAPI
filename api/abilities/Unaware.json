@@ -1,4 +1,6 @@
 {
-  "name": "Unaware",
-  "description": "Ignores any stat changes in the Pok\u00e9mon."
+  "ability_name": "Unaware",
+  "effect": "Ignores any stat changes in the Pokémon.
+",
+  "description": "When attacking, the Pokémon ignores the target Pokémon’s stat changes."
 }

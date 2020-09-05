@@ -2,6 +2,9 @@
   {
     "species_name": "Huntail",
     "variant_name": "Huntail",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 104,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 367,
-      "types": [
-        "Water"
-      ],
       "height": 1.7,
       "weight": 27.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Deep Sea Pok\u00e9mon",
+      "kind": "Deep Sea Pokémon",
       "flavor_text": "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.",
       "abilities": [
         "Swift Swim"
@@ -27,12 +27,12 @@
       "hidden_abilities": [
         "Water Veil"
       ],
-      "regional_dex_nums": [
-        177,
-        142,
-        186,
-        141
-      ]
+      "regional_dex_nums": {
+        "rse": 177,
+        "xy_coastal": 142,
+        "oras": 186,
+        "usum": 141
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -223,6 +223,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Barrier",

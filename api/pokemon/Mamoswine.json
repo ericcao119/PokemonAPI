@@ -2,6 +2,10 @@
   {
     "species_name": "Mamoswine",
     "variant_name": "Mamoswine",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 130,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 473,
-      "types": [
-        "Ice",
-        "Ground"
-      ],
       "height": 2.5,
       "weight": 291.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Twin Tusk Pok\u00e9mon",
-      "flavor_text": "It looks strong, and that\u2019s exactly what it is. As the weather grows colder, its ice tusks grow longer, thicker, and more impressive.",
+      "kind": "Twin Tusk Pokémon",
+      "flavor_text": "It looks strong, and that’s exactly what it is. As the weather grows colder, its ice tusks grow longer, thicker, and more impressive.",
       "abilities": [
         "Oblivious",
         "Snow Cloak"
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Thick Fat"
       ],
-      "regional_dex_nums": [
-        205,
-        197,
-        260,
-        78,
-        77
-      ]
+      "regional_dex_nums": {
+        "plat": 205,
+        "hgss": 197,
+        "b2w2": 260,
+        "xy_mountain": 78,
+        "swsh": 77
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -266,6 +266,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Avalanche",

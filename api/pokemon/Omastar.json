@@ -2,6 +2,10 @@
   {
     "species_name": "Omastar",
     "variant_name": "Omastar",
+    "types": [
+      "Rock",
+      "Water"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 60,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 139,
-      "types": [
-        "Rock",
-        "Water"
-      ],
       "height": 1.0,
       "weight": 35.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Spiral Pok\u00e9mon",
+      "kind": "Spiral Pokémon",
       "flavor_text": "Its sharp beak rings its mouth. Its shell was too big for it to move freely, so it became extinct.",
       "abilities": [
         "Swift Swim",
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Weak Armor"
       ],
-      "regional_dex_nums": [
-        139,
-        221,
-        139,
-        226,
-        228,
-        139
-      ]
+      "regional_dex_nums": {
+        "rby": 139,
+        "gsc": 221,
+        "frlg": 139,
+        "hgss": 226,
+        "usum": 228,
+        "lets_go": 139
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -260,6 +260,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Spike Cannon"
+      ],
       "egg_moves": [
         "Aurora Beam",
         "Bide",

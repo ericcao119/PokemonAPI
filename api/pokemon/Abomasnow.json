@@ -2,6 +2,10 @@
   {
     "species_name": "Abomasnow",
     "variant_name": "Abomasnow",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 92,
@@ -12,28 +16,24 @@
     },
     "dex_entry": {
       "national_dex_num": 460,
-      "types": [
-        "Grass",
-        "Ice"
-      ],
       "height": 2.2,
       "weight": 135.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Frost Tree Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
+      "kind": "Frost Tree Pokémon",
+      "flavor_text": "This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
       "abilities": [
         "Snow Warning"
       ],
       "hidden_abilities": [
         "Soundproof"
       ],
-      "regional_dex_nums": [
-        143,
-        143,
-        89,
-        97
-      ]
+      "regional_dex_nums": {
+        "dp": 143,
+        "plat": 143,
+        "xy_mountain": 89,
+        "swsh": 97
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -302,7 +302,16 @@
           "Grass Knot"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Ice Punch"
+      ],
+      "egg_moves": [
+        "Double-Edge",
+        "Growth",
+        "Leech Seed",
+        "Skull Bash",
+        "Stomp"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -310,6 +319,10 @@
   {
     "species_name": "Abomasnow",
     "variant_name": "Mega Abomasnow",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 132,
@@ -320,26 +333,22 @@
     },
     "dex_entry": {
       "national_dex_num": 460,
-      "types": [
-        "Grass",
-        "Ice"
-      ],
       "height": 2.7,
       "weight": 185.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Frost Tree Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
+      "kind": "Frost Tree Pokémon",
+      "flavor_text": "This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.",
       "abilities": [
         "Snow Warning"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        143,
-        143,
-        89,
-        97
-      ]
+      "regional_dex_nums": {
+        "dp": 143,
+        "plat": 143,
+        "xy_mountain": 89,
+        "swsh": 97
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -608,7 +617,16 @@
           "Grass Knot"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Ice Punch"
+      ],
+      "egg_moves": [
+        "Double-Edge",
+        "Growth",
+        "Leech Seed",
+        "Skull Bash",
+        "Stomp"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -2,6 +2,10 @@
   {
     "species_name": "Parasect",
     "variant_name": "Parasect",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 95,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 47,
-      "types": [
-        "Bug",
-        "Grass"
-      ],
       "height": 1.0,
       "weight": 29.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mushroom Pok\u00e9mon",
+      "kind": "Mushroom Pokémon",
       "flavor_text": "The bug host is drained of energy by the mushrooms on its back. The mushroom appears to do all the thinking.",
       "abilities": [
         "Effect Spore",
@@ -29,15 +29,15 @@
       "hidden_abilities": [
         "Damp"
       ],
-      "regional_dex_nums": [
-        47,
-        71,
-        47,
-        71,
-        148,
-        181,
-        47
-      ]
+      "regional_dex_nums": {
+        "rby": 47,
+        "gsc": 71,
+        "frlg": 47,
+        "hgss": 71,
+        "sm": 148,
+        "usum": 181,
+        "lets_go": 47
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -257,6 +257,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Bug Bite",

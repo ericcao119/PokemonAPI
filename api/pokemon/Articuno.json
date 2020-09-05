@@ -2,6 +2,10 @@
   {
     "species_name": "Articuno",
     "variant_name": "Articuno",
+    "types": [
+      "Ice",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 85,
@@ -12,30 +16,26 @@
     },
     "dex_entry": {
       "national_dex_num": 144,
-      "types": [
-        "Ice",
-        "Flying"
-      ],
       "height": 1.7,
       "weight": 55.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Freeze Pok\u00e9mon",
-      "flavor_text": "A legendary bird Pok\u00e9mon. It freezes water that is contained in winter air and makes it snow.",
+      "kind": "Freeze Pokémon",
+      "flavor_text": "A legendary bird Pokémon. It freezes water that is contained in winter air and makes it snow.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [
         "Snow Cloak"
       ],
-      "regional_dex_nums": [
-        144,
-        235,
-        144,
-        240,
-        151,
-        144
-      ]
+      "regional_dex_nums": {
+        "rby": 144,
+        "gsc": 235,
+        "frlg": 144,
+        "hgss": 240,
+        "xy_coastal": 151,
+        "lets_go": 144
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -55,7 +55,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -254,6 +254,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Defog",

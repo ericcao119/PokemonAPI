@@ -2,6 +2,9 @@
   {
     "species_name": "Sinistea",
     "variant_name": "Sinistea",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 45,
@@ -12,24 +15,21 @@
     },
     "dex_entry": {
       "national_dex_num": 854,
-      "types": [
-        "Ghost"
-      ],
       "height": 0.1,
       "weight": 0.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Black Tea Pok\u00e9mon",
-      "flavor_text": "It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting\u2014 it tastes so bad that it gets spat out immediately.",
+      "kind": "Black Tea Pokémon",
+      "flavor_text": "It absorbs the life-force of those who drink it. It waits patiently, but opportunities are fleeting— it tastes so bad that it gets spat out immediately.",
       "abilities": [
         "Weak Armor"
       ],
       "hidden_abilities": [
         "Cursed Body"
       ],
-      "regional_dex_nums": [
-        335
-      ]
+      "regional_dex_nums": {
+        "swsh": 335
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
         "Amorphous",
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -214,6 +214,7 @@
           "Ally Switch"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

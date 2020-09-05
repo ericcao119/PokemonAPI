@@ -2,6 +2,9 @@
   {
     "species_name": "Blipbug",
     "variant_name": "Blipbug",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 25,
       "attack": 20,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 824,
-      "types": [
-        "Bug"
-      ],
       "height": 0.4,
       "weight": 8.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Larva Pok\u00e9mon",
-      "flavor_text": "Often found in gardens, this Pok\u00e9mon has hairs on its body that it uses to assess its surroundings.",
+      "kind": "Larva Pokémon",
+      "flavor_text": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings.",
       "abilities": [
         "Swarm",
         "Compound Eyes"
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        10
-      ]
+      "regional_dex_nums": {
+        "swsh": 10
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -50,7 +50,7 @@
       "egg_groups": [
         "Bug"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -64,6 +64,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Infestation",
         "Recover",

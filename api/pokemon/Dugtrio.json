@@ -2,6 +2,9 @@
   {
     "species_name": "Dugtrio",
     "variant_name": "Dugtrio",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 100,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 51,
-      "types": [
-        "Ground"
-      ],
       "height": 0.7,
       "weight": 33.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mole Pok\u00e9mon",
-      "flavor_text": "These Diglett triplets dig over 60 miles below sea level. No one knows what it\u2019s like underground.",
+      "kind": "Mole Pokémon",
+      "flavor_text": "These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.",
       "abilities": [
         "Sand Veil",
         "Arena Trap"
@@ -28,17 +28,17 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        51,
-        133,
-        51,
-        135,
-        2,
-        72,
-        86,
-        51,
-        165
-      ]
+      "regional_dex_nums": {
+        "rby": 51,
+        "gsc": 133,
+        "frlg": 51,
+        "hgss": 135,
+        "xy_mountain": 2,
+        "sm": 72,
+        "usum": 86,
+        "lets_go": 51,
+        "swsh": 165
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -152,6 +152,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Sand Tomb"
+      ],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -160,6 +163,10 @@
   {
     "species_name": "Dugtrio",
     "variant_name": "Alolan Dugtrio",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 100,
@@ -170,15 +177,11 @@
     },
     "dex_entry": {
       "national_dex_num": 51,
-      "types": [
-        "Ground",
-        "Steel"
-      ],
       "height": 0.7,
       "weight": 66.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mole Pok\u00e9mon",
+      "kind": "Mole Pokémon",
       "flavor_text": "The three of them get along very well. Through their formidable teamwork, they defeat powerful opponents.",
       "abilities": [
         "Sand Veil",
@@ -187,17 +190,17 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        51,
-        133,
-        51,
-        135,
-        2,
-        72,
-        86,
-        51,
-        165
-      ]
+      "regional_dex_nums": {
+        "rby": 51,
+        "gsc": 133,
+        "frlg": 51,
+        "hgss": 135,
+        "xy_mountain": 2,
+        "sm": 72,
+        "usum": 86,
+        "lets_go": 51,
+        "swsh": 165
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -311,6 +314,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Sand Tomb"
+      ],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

@@ -2,6 +2,10 @@
   {
     "species_name": "Combee",
     "variant_name": "Combee",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 30,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 415,
-      "types": [
-        "Bug",
-        "Flying"
-      ],
       "height": 0.3,
       "weight": 5.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tiny Bee Pok\u00e9mon",
+      "kind": "Tiny Bee Pokémon",
       "flavor_text": "It ceaselessly gathers nectar from sunrise to sundown, all for the sake of Vespiquen and the swarm.",
       "abilities": [
         "Honey Gather"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Hustle"
       ],
-      "regional_dex_nums": [
-        53,
-        53,
-        142,
-        76,
-        116
-      ]
+      "regional_dex_nums": {
+        "dp": 53,
+        "plat": 53,
+        "b2w2": 142,
+        "xy_central": 76,
+        "swsh": 116
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -80,6 +80,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

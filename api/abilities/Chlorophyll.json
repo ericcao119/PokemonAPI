@@ -1,4 +1,5 @@
 {
-  "name": "Chlorophyll",
-  "description": "Boosts the Pok\u00e9mon's Speed in sunshine."
+  "ability_name": "Chlorophyll",
+  "effect": "Chlorophyll doubles the ability-bearer's Speed during bright sunshine.",
+  "description": "Boosts the Pokémon’s Speed stat in harsh sunlight."
 }

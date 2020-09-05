@@ -2,6 +2,10 @@
   {
     "species_name": "Gabite",
     "variant_name": "Gabite",
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 68,
       "attack": 90,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 444,
-      "types": [
-        "Dragon",
-        "Ground"
-      ],
       "height": 1.4,
       "weight": 56.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cave Pok\u00e9mon",
+      "kind": "Cave Pokémon",
       "flavor_text": "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.",
       "abilities": [
         "Sand Veil"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Rough Skin"
       ],
-      "regional_dex_nums": [
-        110,
-        110,
-        7,
-        239,
-        308
-      ]
+      "regional_dex_nums": {
+        "dp": 110,
+        "plat": 110,
+        "xy_mountain": 7,
+        "sm": 239,
+        "usum": 308
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -230,6 +230,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Dual Chop"
+      ],
       "egg_moves": [
         "Body Slam",
         "Double-Edge",

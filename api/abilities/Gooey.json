@@ -1,4 +1,6 @@
 {
-  "name": "Gooey",
-  "description": "Contact with the Pok\u00e9mon lowers the attacker's Speed stat."
+  "ability_name": "Gooey",
+  "effect": "Contact with the Pokémon lowers the attacker's Speed stat.
+",
+  "description": "Contact with the Pokémon lowers the attacker’s Speed stat."
 }

@@ -2,6 +2,9 @@
   {
     "species_name": "Drizzile",
     "variant_name": "Drizzile",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 60,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 817,
-      "types": [
-        "Water"
-      ],
       "height": 0.7,
       "weight": 11.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Water lizard Pok\u00e9mon",
+      "kind": "Water lizard Pokémon",
       "flavor_text": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
       "abilities": [
         "Torrent"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Sniper"
       ],
-      "regional_dex_nums": [
-        8
-      ]
+      "regional_dex_nums": {
+        "swsh": 8
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
         "Field",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -210,7 +210,16 @@
           "Liquidation"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Aqua Jet",
+        "Aqua Ring",
+        "Double Team",
+        "Fell Stinger",
+        "Haze",
+        "Ice Shard",
+        "Mist"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

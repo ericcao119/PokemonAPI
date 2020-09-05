@@ -1,4 +1,5 @@
 {
-  "name": "Overgrow",
-  "description": "Powers up Grass-type moves in a pinch."
+  "ability_name": "Overgrow",
+  "effect": "Overgrow increases the power of Grass-type moves by 50% (1.5×) when the ability-bearer's HP falls below a third of its maximum (known in-game as in a pinch).",
+  "description": "Powers up Grass-type moves when the Pokémon’s HP is low."
 }

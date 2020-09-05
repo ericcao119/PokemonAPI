@@ -1,4 +1,6 @@
 {
-  "name": "Screen Cleaner",
-  "description": "Nullifies effects of Light Screen, Reflect, and Aurora Veil."
+  "ability_name": "Screen Cleaner",
+  "effect": "Nullifies effects of Light Screen, Reflect, and Aurora Veil.
+",
+  "description": "When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon."
 }

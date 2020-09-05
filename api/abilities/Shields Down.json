@@ -1,4 +1,6 @@
 {
-  "name": "Shields Down",
-  "description": "Changes stats when HP drops below half."
+  "ability_name": "Shields Down",
+  "effect": "Shields Down causes the Pokémon to changes its appearance and stats depending on its remaining HP.
+When the Pokémon's HP is over 50%, it has higher defenses and is immune to status conditions. When its HP falls below 50%, the outer shell breaks and the Pokémon has higher attack.",
+  "description": "When its HP becomes half or less, the Pokémon’s shell breaks and it becomes aggressive."
 }

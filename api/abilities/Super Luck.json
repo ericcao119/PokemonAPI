@@ -1,4 +1,5 @@
 {
-  "name": "Super Luck",
-  "description": "Heightens the critical-hit ratios of moves."
+  "ability_name": "Super Luck",
+  "effect": "Super Luck raises the ability-bearer's critical-hit ratio by one stage (for most moves this increases from a 1⁄16 chance to 1⁄8).",
+  "description": "The Pokémon is so lucky that the critical-hit ratios of its moves are boosted."
 }

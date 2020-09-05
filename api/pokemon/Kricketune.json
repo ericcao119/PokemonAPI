@@ -2,6 +2,9 @@
   {
     "species_name": "Kricketune",
     "variant_name": "Kricketune",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 77,
       "attack": 85,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 402,
-      "types": [
-        "Bug"
-      ],
       "height": 1.0,
       "weight": 25.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cricket Pok\u00e9mon",
+      "kind": "Cricket Pokémon",
       "flavor_text": "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
       "abilities": [
         "Swarm"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Technician"
       ],
-      "regional_dex_nums": [
-        16,
-        16
-      ]
+      "regional_dex_nums": {
+        "dp": 16,
+        "plat": 16
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -229,6 +229,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Fury Cutter"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

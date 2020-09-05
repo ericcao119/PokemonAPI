@@ -1,4 +1,6 @@
 {
-  "name": "Shield Dust",
-  "description": "Blocks the added effects of attacks taken."
+  "ability_name": "Shield Dust",
+  "effect": "Blocks the added effects of attacks taken.
+",
+  "description": "This Pokémon’s dust blocks the additional effects of attacks taken."
 }

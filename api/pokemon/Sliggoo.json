@@ -2,6 +2,9 @@
   {
     "species_name": "Sliggoo",
     "variant_name": "Sliggoo",
+    "types": [
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 68,
       "attack": 75,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 705,
-      "types": [
-        "Dragon"
-      ],
       "height": 0.8,
       "weight": 17.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Soft Tissue Pok\u00e9mon",
+      "kind": "Soft Tissue Pokémon",
       "flavor_text": "The lump on its back contains its tiny brain. It thinks only of food and escaping its enemies.",
       "abilities": [
         "Sap Sipper",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Gooey"
       ],
-      "regional_dex_nums": [
-        20,
-        179,
-        218,
-        390
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 20,
+        "sm": 179,
+        "usum": 218,
+        "swsh": 390
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -209,7 +209,13 @@
           "Sludge Wave"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Acid Spray"
+      ],
+      "egg_moves": [
+        "Counter",
+        "Life Dew"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

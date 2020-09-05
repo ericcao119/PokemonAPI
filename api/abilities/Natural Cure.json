@@ -1,4 +1,6 @@
 {
-  "name": "Natural Cure",
-  "description": "All status problems heal when it switches out."
+  "ability_name": "Natural Cure",
+  "effect": "All status problems heal when it switches out.
+",
+  "description": "All status conditions heal when the Pokémon switches out."
 }

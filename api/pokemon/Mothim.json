@@ -2,6 +2,10 @@
   {
     "species_name": "Mothim",
     "variant_name": "Mothim",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 94,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 414,
-      "types": [
-        "Bug",
-        "Flying"
-      ],
       "height": 0.9,
       "weight": 23.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Moth Pok\u00e9mon",
+      "kind": "Moth Pokémon",
       "flavor_text": "It flutters around at night and steals honey from the Combee hive.",
       "abilities": [
         "Swarm"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Tinted Lens"
       ],
-      "regional_dex_nums": [
-        47,
-        47,
-        46
-      ]
+      "regional_dex_nums": {
+        "dp": 47,
+        "plat": 47,
+        "xy_central": 46
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -259,6 +259,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Quiver Dance"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Bug Bite",

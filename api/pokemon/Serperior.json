@@ -2,6 +2,9 @@
   {
     "species_name": "Serperior",
     "variant_name": "Serperior",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 75,
@@ -12,25 +15,22 @@
     },
     "dex_entry": {
       "national_dex_num": 497,
-      "types": [
-        "Grass"
-      ],
       "height": 3.3,
       "weight": 63.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Regal Pok\u00e9mon",
-      "flavor_text": "It can stop its opponents\u2019 movements with just a glare. It takes in solar energy and boosts it internally.",
+      "kind": "Regal Pokémon",
+      "flavor_text": "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally.",
       "abilities": [
         "Overgrow"
       ],
       "hidden_abilities": [
         "Contrary"
       ],
-      "regional_dex_nums": [
-        3,
-        3
-      ]
+      "regional_dex_nums": {
+        "bw": 3,
+        "b2w2": 3
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -262,6 +262,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Glare",

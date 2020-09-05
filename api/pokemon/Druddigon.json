@@ -2,6 +2,9 @@
   {
     "species_name": "Druddigon",
     "variant_name": "Druddigon",
+    "types": [
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 77,
       "attack": 120,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 621,
-      "types": [
-        "Dragon"
-      ],
       "height": 1.6,
       "weight": 139.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cave Pok\u00e9mon",
-      "flavor_text": "It infiltrates tunnels that Pok\u00e9mon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
+      "kind": "Cave Pokémon",
+      "flavor_text": "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
       "abilities": [
         "Rough Skin",
         "Sheer Force"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Mold Breaker"
       ],
-      "regional_dex_nums": [
-        127,
-        270,
-        141,
-        374
-      ]
+      "regional_dex_nums": {
+        "bw": 127,
+        "b2w2": 270,
+        "xy_mountain": 141,
+        "usum": 374
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -289,6 +289,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Crush Claw",
         "Feint Attack",

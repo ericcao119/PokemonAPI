@@ -2,6 +2,10 @@
   {
     "species_name": "Woobat",
     "variant_name": "Woobat",
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 45,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 527,
-      "types": [
-        "Psychic",
-        "Flying"
-      ],
       "height": 0.4,
       "weight": 2.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bat Pok\u00e9mon",
-      "flavor_text": "It emits ultrasonic waves as it flutters about, searching for its prey\u2014bug Pok\u00e9mon.",
+      "kind": "Bat Pokémon",
+      "flavor_text": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
       "abilities": [
         "Unaware",
         "Klutz"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Simple"
       ],
-      "regional_dex_nums": [
-        33,
-        66,
-        55,
-        174
-      ]
+      "regional_dex_nums": {
+        "bw": 33,
+        "b2w2": 66,
+        "xy_coastal": 55,
+        "swsh": 174
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -278,6 +278,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Captivate",
         "Charm",

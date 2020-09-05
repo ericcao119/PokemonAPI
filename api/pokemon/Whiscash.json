@@ -2,6 +2,10 @@
   {
     "species_name": "Whiscash",
     "variant_name": "Whiscash",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 110,
       "attack": 78,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 340,
-      "types": [
-        "Water",
-        "Ground"
-      ],
       "height": 0.9,
       "weight": 23.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Whiskers Pok\u00e9mon",
+      "kind": "Whiskers Pokémon",
       "flavor_text": "It claims a large swamp to itself. If a foe comes near it, it sets off tremors by thrashing around.",
       "abilities": [
         "Oblivious",
@@ -29,16 +29,16 @@
       "hidden_abilities": [
         "Hydration"
       ],
-      "regional_dex_nums": [
-        128,
-        81,
-        81,
-        41,
-        133,
-        94,
-        114,
-        229
-      ]
+      "regional_dex_nums": {
+        "rse": 128,
+        "dp": 81,
+        "plat": 81,
+        "xy_mountain": 41,
+        "oras": 133,
+        "sm": 94,
+        "usum": 114,
+        "swsh": 229
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -273,6 +273,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Thrash"
+      ],
       "egg_moves": [
         "Dragon Dance",
         "Earth Power",

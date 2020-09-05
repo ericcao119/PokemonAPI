@@ -1,4 +1,6 @@
 {
-  "name": "Strong Jaw",
-  "description": "Boosts the power of biting moves."
+  "ability_name": "Strong Jaw",
+  "effect": "Strong Jaw increases the power of all biting moves by 50%.
+The attacks classed as biting moves are shown below with their normal and boosted power:",
+  "description": "The Pokémon’s strong jaw boosts the power of its biting moves."
 }

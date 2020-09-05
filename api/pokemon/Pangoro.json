@@ -2,6 +2,10 @@
   {
     "species_name": "Pangoro",
     "variant_name": "Pangoro",
+    "types": [
+      "Fighting",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 124,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 675,
-      "types": [
-        "Fighting",
-        "Dark"
-      ],
       "height": 2.1,
       "weight": 136.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Daunting Pok\u00e9mon",
+      "kind": "Daunting Pokémon",
       "flavor_text": "Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit.",
       "abilities": [
         "Iron Fist",
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Scrappy"
       ],
-      "regional_dex_nums": [
-        92,
-        221,
-        285,
-        112
-      ]
+      "regional_dex_nums": {
+        "xy_central": 92,
+        "sm": 221,
+        "usum": 285,
+        "swsh": 112
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -358,6 +358,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Bullet Punch"
+      ],
       "egg_moves": [
         "Foul Play",
         "Me First",

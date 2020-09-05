@@ -2,6 +2,10 @@
   {
     "species_name": "Krookodile",
     "variant_name": "Krookodile",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 117,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 553,
-      "types": [
-        "Ground",
-        "Dark"
-      ],
       "height": 1.5,
       "weight": 96.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Intimidation Pok\u00e9mon",
+      "kind": "Intimidation Pokémon",
       "flavor_text": "It conceals itself in sandstorms that Flygon whip up and waits patiently for prey to appear.",
       "abilities": [
         "Intimidate",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Anger Point"
       ],
-      "regional_dex_nums": [
-        59,
-        101,
-        45,
-        234,
-        303
-      ]
+      "regional_dex_nums": {
+        "bw": 59,
+        "b2w2": 101,
+        "xy_coastal": 45,
+        "sm": 234,
+        "usum": 303
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -318,6 +318,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Beat Up",
         "Counter",

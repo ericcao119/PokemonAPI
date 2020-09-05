@@ -2,6 +2,9 @@
   {
     "species_name": "Prinplup",
     "variant_name": "Prinplup",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 64,
       "attack": 66,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 394,
-      "types": [
-        "Water"
-      ],
       "height": 0.8,
       "weight": 23.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Penguin Pok\u00e9mon",
+      "kind": "Penguin Pokémon",
       "flavor_text": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
       "abilities": [
         "Torrent"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Defiant"
       ],
-      "regional_dex_nums": [
-        8,
-        8
-      ]
+      "regional_dex_nums": {
+        "dp": 8,
+        "plat": 8
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -246,6 +246,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Metal Claw"
+      ],
       "egg_moves": [
         "Agility",
         "Aqua Ring",

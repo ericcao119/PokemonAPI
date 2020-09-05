@@ -2,6 +2,9 @@
   {
     "species_name": "Raboot",
     "variant_name": "Raboot",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 86,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 814,
-      "types": [
-        "Fire"
-      ],
       "height": 0.6,
       "weight": 9.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rabbit Pok\u00e9mon",
+      "kind": "Rabbit Pokémon",
       "flavor_text": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
       "abilities": [
         "Blaze"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Libero"
       ],
-      "regional_dex_nums": [
-        5
-      ]
+      "regional_dex_nums": {
+        "swsh": 5
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
         "Field",
         "Humanlike"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -250,7 +250,13 @@
           "Work Up"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "High Jump Kick",
+        "Sand Attack",
+        "Sucker Punch",
+        "Super Fang"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

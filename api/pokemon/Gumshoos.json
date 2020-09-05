@@ -2,6 +2,9 @@
   {
     "species_name": "Gumshoos",
     "variant_name": "Gumshoos",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 88,
       "attack": 110,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 735,
-      "types": [
-        "Normal"
-      ],
       "height": 0.7,
       "weight": 14.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Stakeout Pok\u00e9mon",
-      "flavor_text": "Patient by nature, this Pok\u00e9mon loses control of itself and pounces when it spots its favorite meal\u2014Rattata!",
+      "kind": "Stakeout Pokémon",
+      "flavor_text": "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!",
       "abilities": [
         "Strong Jaw",
         "Stakeout"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Adaptability"
       ],
-      "regional_dex_nums": [
-        14,
-        14
-      ]
+      "regional_dex_nums": {
+        "sm": 14,
+        "usum": 14
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -246,6 +246,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Fire Fang",
         "Ice Fang",

@@ -2,6 +2,10 @@
   {
     "species_name": "Orbeetle",
     "variant_name": "Orbeetle",
+    "types": [
+      "Bug",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 45,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 826,
-      "types": [
-        "Bug",
-        "Psychic"
-      ],
       "height": 0.4,
       "weight": 40.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Seven Spot Pok\u00e9mon",
-      "flavor_text": "It emits psychic energy to observe and study what\u2019s around it\u2014and what\u2019s around it can include things over six miles away.",
+      "kind": "Seven Spot Pokémon",
+      "flavor_text": "It emits psychic energy to observe and study what’s around it—and what’s around it can include things over six miles away.",
       "abilities": [
         "Swarm",
         "Frisk"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        12
-      ]
+      "regional_dex_nums": {
+        "swsh": 12
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Bug"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -303,7 +303,13 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Infestation",
+        "Recover",
+        "Sticky Web",
+        "Supersonic"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

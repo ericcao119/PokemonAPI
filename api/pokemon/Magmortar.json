@@ -2,6 +2,9 @@
   {
     "species_name": "Magmortar",
     "variant_name": "Magmortar",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 95,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 467,
-      "types": [
-        "Fire"
-      ],
       "height": 1.6,
       "weight": 68.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Blast Pok\u00e9mon",
+      "kind": "Blast Pokémon",
       "flavor_text": "Magmortar takes down its enemies by shooting fireballs, which burn them to a blackened crisp. It avoids this method when hunting prey.",
       "abilities": [
         "Flame Body"
@@ -27,12 +27,12 @@
       "hidden_abilities": [
         "Vital Spirit"
       ],
-      "regional_dex_nums": [
-        202,
-        55,
-        168,
-        202
-      ]
+      "regional_dex_nums": {
+        "plat": 202,
+        "b2w2": 55,
+        "sm": 168,
+        "usum": 202
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -279,6 +279,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Barrier",
         "Belch",

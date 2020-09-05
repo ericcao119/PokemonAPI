@@ -2,6 +2,9 @@
   {
     "species_name": "Banette",
     "variant_name": "Banette",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 64,
       "attack": 115,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 354,
-      "types": [
-        "Ghost"
-      ],
       "height": 1.1,
       "weight": 12.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Marionette Pok\u00e9mon",
+      "kind": "Marionette Pokémon",
       "flavor_text": "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
       "abilities": [
         "Insomnia",
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Cursed Body"
       ],
-      "regional_dex_nums": [
-        147,
-        211,
-        123,
-        152,
-        317
-      ]
+      "regional_dex_nums": {
+        "rse": 147,
+        "b2w2": 211,
+        "xy_mountain": 123,
+        "oras": 152,
+        "usum": 317
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -301,6 +301,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Confuse Ray",
@@ -351,6 +352,9 @@
   {
     "species_name": "Banette",
     "variant_name": "Mega Banette",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 64,
       "attack": 165,
@@ -361,26 +365,23 @@
     },
     "dex_entry": {
       "national_dex_num": 354,
-      "types": [
-        "Ghost"
-      ],
       "height": 1.2,
       "weight": 13.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Marionette Pok\u00e9mon",
+      "kind": "Marionette Pokémon",
       "flavor_text": "Mega Evolution increases its vindictiveness, and the cursing power that was held back by its zipper comes spilling out.",
       "abilities": [
         "Prankster"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        147,
-        211,
-        123,
-        152,
-        317
-      ]
+      "regional_dex_nums": {
+        "rse": 147,
+        "b2w2": 211,
+        "xy_mountain": 123,
+        "oras": 152,
+        "usum": 317
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -647,6 +648,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Confuse Ray",

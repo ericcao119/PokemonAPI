@@ -2,6 +2,9 @@
   {
     "species_name": "Minccino",
     "variant_name": "Minccino",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 50,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 572,
-      "types": [
-        "Normal"
-      ],
       "height": 0.4,
       "weight": 5.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Chinchilla Pok\u00e9mon",
+      "kind": "Chinchilla Pokémon",
       "flavor_text": "They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful.",
       "abilities": [
         "Cute Charm",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Skill Link"
       ],
-      "regional_dex_nums": [
-        78,
-        107,
-        266,
-        50
-      ]
+      "regional_dex_nums": {
+        "bw": 78,
+        "b2w2": 107,
+        "usum": 266,
+        "swsh": 50
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -240,6 +240,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Tail",
         "Endure",

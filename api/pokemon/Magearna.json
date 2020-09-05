@@ -2,6 +2,10 @@
   {
     "species_name": "Magearna",
     "variant_name": "Magearna",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 95,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 801,
-      "types": [
-        "Steel",
-        "Fairy"
-      ],
       "height": 1.0,
       "weight": 80.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Artificial Pok\u00e9mon",
+      "kind": "Artificial Pokémon",
       "flavor_text": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.",
       "abilities": [
         "Soul-Heart"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        301,
-        401
-      ]
+      "regional_dex_nums": {
+        "sm": 301,
+        "usum": 401
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -272,6 +272,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "After You",

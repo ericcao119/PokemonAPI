@@ -2,6 +2,9 @@
   {
     "species_name": "Drilbur",
     "variant_name": "Drilbur",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 85,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 529,
-      "types": [
-        "Ground"
-      ],
       "height": 0.3,
       "weight": 8.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mole Pok\u00e9mon",
-      "flavor_text": "It\u2019s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.",
+      "kind": "Mole Pokémon",
+      "flavor_text": "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.",
       "abilities": [
         "Sand Rush",
         "Sand Force"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Mold Breaker"
       ],
-      "regional_dex_nums": [
-        35,
-        76,
-        166
-      ]
+      "regional_dex_nums": {
+        "bw": 35,
+        "b2w2": 76,
+        "swsh": 166
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -231,6 +231,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Crush Claw",
         "Earth Power",

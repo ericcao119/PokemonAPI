@@ -2,6 +2,9 @@
   {
     "species_name": "Cosmog",
     "variant_name": "Cosmog",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 43,
       "attack": 29,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 789,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.2,
       "weight": 0.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Nebula Pok\u00e9mon",
+      "kind": "Nebula Pokémon",
       "flavor_text": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away.",
       "abilities": [
         "Unaware"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        289,
-        387
-      ]
+      "regional_dex_nums": {
+        "sm": 289,
+        "usum": 387
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -48,7 +48,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -66,6 +66,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

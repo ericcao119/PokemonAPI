@@ -2,6 +2,10 @@
   {
     "species_name": "Mr. Rime",
     "variant_name": "Mr. Rime",
+    "types": [
+      "Psychic",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 85,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 866,
-      "types": [
-        "Psychic",
-        "Ice"
-      ],
       "height": 1.5,
       "weight": 58.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Comedian Pok\u00e9mon",
+      "kind": "Comedian Pokémon",
       "flavor_text": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
       "abilities": [
         "Tangled Feet",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Ice Body"
       ],
-      "regional_dex_nums": [
-        366
-      ]
+      "regional_dex_nums": {
+        "swsh": 366
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Humanlike"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -459,7 +459,13 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Confuse Ray",
+        "Fake Out",
+        "Power Split",
+        "Tickle"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

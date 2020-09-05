@@ -1,4 +1,7 @@
 {
-  "name": "Pixilate",
-  "description": "Turns Normal-type moves into Fairy-type moves."
+  "ability_name": "Pixilate",
+  "effect": "Pixilate causes all Normal-type attacking moves used by the Pokémon to become Fairy-type, and increase in power by 20%.
+Fairy-type Pokémon also gain STAB from those moves (which means an effective increase of 80%).
+In Generation 6, Pixilate increases affected moves' power by 30%.",
+  "description": "Normal-type moves become Fairy-type moves. The power of those moves is boosted a little."
 }

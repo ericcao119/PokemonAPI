@@ -1,4 +1,7 @@
 {
-  "name": "Cute Charm",
-  "description": "Contact with the Pok\u00e9mon may cause infatuation."
+  "ability_name": "Cute Charm",
+  "effect": "If a Pokémon with Cute Charm is hit by a move that makes contact, there is a 30% chance the attacker will become infatuated. It will not infatuate Pokémon of the same gender, genderless Pokémon, nor those with the ability Oblivious.
+Infatuated Pokémon have a 50% chance of being immobilized by love each turn and unable to attack.
+If a Pokémon with Cute Charm is the leading party Pokémon, the chance of encountering a Pokémon of the opposite gender is 2⁄3.",
+  "description": "Contact with the Pokémon may cause infatuation."
 }

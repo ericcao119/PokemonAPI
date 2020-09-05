@@ -1,4 +1,7 @@
 {
-  "name": "Sand Stream",
-  "description": "The Pok\u00e9mon summons a sandstorm in battle."
+  "ability_name": "Sand Stream",
+  "effect": "Sand Stream creates a sandstorm when the ability-bearer enters battle. The effect lasts 5 turns, unless it is cleared via Air Lock or Cloud Nine or replaced by another weather condition.
+If multiple Pokémon with weather-generating abilities (Sand Stream, Drizzle, Drought or Snow Warning) enter the field on the same turn, each weather condition will activate consecutively, fastest Pokémon first. In other words, the resultant weather condition will be that of the slowest Pokémon.
+Prior to Generation 6, Sand Stream lasts indefinitely upon activation.",
+  "description": "The Pokémon summons a sandstorm when it enters a battle."
 }

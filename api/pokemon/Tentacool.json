@@ -2,6 +2,10 @@
   {
     "species_name": "Tentacool",
     "variant_name": "Tentacool",
+    "types": [
+      "Water",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 40,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 72,
-      "types": [
-        "Water",
-        "Poison"
-      ],
       "height": 0.9,
       "weight": 45.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Jellyfish Pok\u00e9mon",
+      "kind": "Jellyfish Pokémon",
       "flavor_text": "It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.",
       "abilities": [
         "Clear Body",
@@ -29,20 +29,20 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        72,
-        162,
-        66,
-        72,
-        136,
-        136,
-        164,
-        25,
-        68,
-        106,
-        129,
-        72
-      ]
+      "regional_dex_nums": {
+        "rby": 72,
+        "gsc": 162,
+        "rse": 66,
+        "frlg": 72,
+        "dp": 136,
+        "plat": 136,
+        "hgss": 164,
+        "xy_coastal": 25,
+        "oras": 68,
+        "sm": 106,
+        "usum": 129,
+        "lets_go": 72
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -265,6 +265,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acupressure",
         "Aqua Ring",

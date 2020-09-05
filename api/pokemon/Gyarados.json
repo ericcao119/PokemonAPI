@@ -2,6 +2,10 @@
   {
     "species_name": "Gyarados",
     "variant_name": "Gyarados",
+    "types": [
+      "Water",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 125,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 130,
-      "types": [
-        "Water",
-        "Flying"
-      ],
       "height": 6.5,
       "weight": 235.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Atrocious Pok\u00e9mon",
+      "kind": "Atrocious Pokémon",
       "flavor_text": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
       "abilities": [
         "Intimidate"
@@ -28,21 +28,21 @@
       "hidden_abilities": [
         "Moxie"
       ],
-      "regional_dex_nums": [
-        130,
-        77,
-        53,
-        130,
-        24,
-        24,
-        77,
-        50,
-        54,
-        92,
-        112,
-        130,
-        145
-      ]
+      "regional_dex_nums": {
+        "rby": 130,
+        "gsc": 77,
+        "rse": 53,
+        "frlg": 130,
+        "dp": 24,
+        "plat": 24,
+        "hgss": 77,
+        "xy_central": 50,
+        "oras": 54,
+        "sm": 92,
+        "usum": 112,
+        "lets_go": 130,
+        "swsh": 145
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -355,6 +355,9 @@
           "Hurricane"
         ]
       ],
+      "evolution_moves": [
+        "Bite"
+      ],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -363,6 +366,10 @@
   {
     "species_name": "Gyarados",
     "variant_name": "Mega Gyarados",
+    "types": [
+      "Water",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 155,
@@ -373,35 +380,31 @@
     },
     "dex_entry": {
       "national_dex_num": 130,
-      "types": [
-        "Water",
-        "Dark"
-      ],
       "height": 6.5,
       "weight": 305.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Atrocious Pok\u00e9mon",
+      "kind": "Atrocious Pokémon",
       "flavor_text": "Although it obeys its instinctive drive to destroy everything within its reach, it will respond to orders from a Trainer it truly trusts.",
       "abilities": [
         "Mold Breaker"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        130,
-        77,
-        53,
-        130,
-        24,
-        24,
-        77,
-        50,
-        54,
-        92,
-        112,
-        130,
-        145
-      ]
+      "regional_dex_nums": {
+        "rby": 130,
+        "gsc": 77,
+        "rse": 53,
+        "frlg": 130,
+        "dp": 24,
+        "plat": 24,
+        "hgss": 77,
+        "xy_central": 50,
+        "oras": 54,
+        "sm": 92,
+        "usum": 112,
+        "lets_go": 130,
+        "swsh": 145
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -713,6 +716,9 @@
           89,
           "Hurricane"
         ]
+      ],
+      "evolution_moves": [
+        "Bite"
       ],
       "egg_moves": [],
       "tutor_moves": [],

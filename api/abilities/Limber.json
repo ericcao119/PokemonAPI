@@ -1,4 +1,6 @@
 {
-  "name": "Limber",
-  "description": "The Pok\u00e9mon is protected from paralysis."
+  "ability_name": "Limber",
+  "effect": "The Pokémon is protected from paralysis.
+",
+  "description": "Its limber body protects the Pokémon from paralysis."
 }

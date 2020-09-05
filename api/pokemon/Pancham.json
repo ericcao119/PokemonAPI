@@ -2,6 +2,9 @@
   {
     "species_name": "Pancham",
     "variant_name": "Pancham",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 67,
       "attack": 82,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 674,
-      "types": [
-        "Fighting"
-      ],
       "height": 0.6,
       "weight": 8.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Playful Pok\u00e9mon",
-      "flavor_text": "Wanting to make sure it\u2019s taken seriously, Pancham\u2019s always giving others a glare. But if it\u2019s not focusing, it ends up smiling.",
+      "kind": "Playful Pokémon",
+      "flavor_text": "Wanting to make sure it’s taken seriously, Pancham’s always giving others a glare. But if it’s not focusing, it ends up smiling.",
       "abilities": [
         "Iron Fist",
         "Mold Breaker"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Scrappy"
       ],
-      "regional_dex_nums": [
-        91,
-        220,
-        284,
-        111
-      ]
+      "regional_dex_nums": {
+        "xy_central": 91,
+        "sm": 220,
+        "usum": 284,
+        "swsh": 111
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -269,6 +269,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Foul Play",
         "Me First",

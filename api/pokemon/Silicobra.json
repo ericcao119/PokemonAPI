@@ -2,6 +2,9 @@
   {
     "species_name": "Silicobra",
     "variant_name": "Silicobra",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 52,
       "attack": 57,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 843,
-      "types": [
-        "Ground"
-      ],
       "height": 2.2,
       "weight": 7.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sand Snake Pok\u00e9mon",
+      "kind": "Sand Snake Pokémon",
       "flavor_text": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
       "abilities": [
         "Sand Spit",
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        312
-      ]
+      "regional_dex_nums": {
+        "swsh": 312
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -51,7 +51,7 @@
         "Dragon",
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -187,6 +187,7 @@
           "Drill Run"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Belch",
         "Dragon Rush",

@@ -2,6 +2,9 @@
   {
     "species_name": "Jolteon",
     "variant_name": "Jolteon",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 135,
-      "types": [
-        "Electric"
-      ],
       "height": 0.8,
       "weight": 24.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lightning Pok\u00e9mon",
+      "kind": "Lightning Pokémon",
       "flavor_text": "It accumulates negative ions in the atmosphere to blast out 10,000-volt lightning bolts.",
       "abilities": [
         "Volt Absorb"
@@ -27,19 +27,19 @@
       "hidden_abilities": [
         "Quick Feet"
       ],
-      "regional_dex_nums": [
-        135,
-        182,
-        135,
-        165,
-        186,
-        93,
-        79,
-        125,
-        155,
-        135,
-        198
-      ]
+      "regional_dex_nums": {
+        "rby": 135,
+        "gsc": 182,
+        "frlg": 135,
+        "plat": 165,
+        "hgss": 186,
+        "b2w2": 93,
+        "xy_coastal": 79,
+        "sm": 125,
+        "usum": 155,
+        "lets_go": 135,
+        "swsh": 198
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -323,7 +323,19 @@
           "Wild Charge"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Thunder Shock"
+      ],
+      "egg_moves": [
+        "Curse",
+        "Detect",
+        "Double Kick",
+        "Flail",
+        "Mud-Slap",
+        "Tickle",
+        "Wish",
+        "Yawn"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

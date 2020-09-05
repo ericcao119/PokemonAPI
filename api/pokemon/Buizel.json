@@ -2,6 +2,9 @@
   {
     "species_name": "Buizel",
     "variant_name": "Buizel",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 418,
-      "types": [
-        "Water"
-      ],
       "height": 0.7,
       "weight": 29.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Weasel Pok\u00e9mon",
+      "kind": "Sea Weasel Pokémon",
       "flavor_text": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
       "abilities": [
         "Swift Swim"
@@ -27,12 +27,12 @@
       "hidden_abilities": [
         "Water Veil"
       ],
-      "regional_dex_nums": [
-        56,
-        56,
-        149,
-        58
-      ]
+      "regional_dex_nums": {
+        "dp": 56,
+        "plat": 56,
+        "b2w2": 149,
+        "xy_mountain": 58
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -220,6 +220,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Aqua Tail",

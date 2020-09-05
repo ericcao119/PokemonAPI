@@ -2,6 +2,9 @@
   {
     "species_name": "Volbeat",
     "variant_name": "Volbeat",
+    "types": [
+      "Bug"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 73,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 313,
-      "types": [
-        "Bug"
-      ],
       "height": 0.7,
       "weight": 17.7,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Firefly Pok\u00e9mon",
-      "flavor_text": "Volbeat\u2019s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pok\u00e9mon loves the sweet aroma given off by Illumise.",
+      "kind": "Firefly Pokémon",
+      "flavor_text": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
       "abilities": [
         "Illuminate",
         "Swarm"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Prankster"
       ],
-      "regional_dex_nums": [
-        86,
-        133,
-        89
-      ]
+      "regional_dex_nums": {
+        "rse": 86,
+        "xy_central": 133,
+        "oras": 89
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Baton Pass",
         "Bug Buzz",

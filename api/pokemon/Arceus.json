@@ -2,6 +2,9 @@
   {
     "species_name": "Arceus",
     "variant_name": "Arceus",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 120,
       "attack": 120,
@@ -12,20 +15,17 @@
     },
     "dex_entry": {
       "national_dex_num": 493,
-      "types": [
-        "Normal"
-      ],
       "height": 3.2,
       "weight": 320.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Alpha Pok\u00e9mon",
-      "flavor_text": "It is told in mythology that this Pok\u00e9mon was born before the universe even existed.",
+      "kind": "Alpha Pokémon",
+      "flavor_text": "It is told in mythology that this Pokémon was born before the universe even existed.",
       "abilities": [
         "Multitype"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": []
+      "regional_dex_nums": {}
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -45,7 +45,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -380,6 +380,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",

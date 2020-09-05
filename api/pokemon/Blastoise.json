@@ -2,6 +2,9 @@
   {
     "species_name": "Blastoise",
     "variant_name": "Blastoise",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 79,
       "attack": 83,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 9,
-      "types": [
-        "Water"
-      ],
       "height": 1.6,
       "weight": 85.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Shellfish Pok\u00e9mon",
+      "kind": "Shellfish Pokémon",
       "flavor_text": "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.",
       "abilities": [
         "Torrent"
@@ -27,14 +27,14 @@
       "hidden_abilities": [
         "Rain Dish"
       ],
-      "regional_dex_nums": [
-        9,
-        234,
-        9,
-        239,
-        88,
-        9
-      ]
+      "regional_dex_nums": {
+        "rby": 9,
+        "gsc": 234,
+        "frlg": 9,
+        "hgss": 239,
+        "xy_central": 88,
+        "lets_go": 9
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -339,7 +339,21 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Flash Cannon"
+      ],
+      "egg_moves": [
+        "Aqua Jet",
+        "Aqua Ring",
+        "Fake Out",
+        "Flail",
+        "Haze",
+        "Life Dew",
+        "Mirror Coat",
+        "Mist",
+        "Water Spout",
+        "Yawn"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }
@@ -347,6 +361,9 @@
   {
     "species_name": "Blastoise",
     "variant_name": "Mega Blastoise",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 79,
       "attack": 103,
@@ -357,27 +374,24 @@
     },
     "dex_entry": {
       "national_dex_num": 9,
-      "types": [
-        "Water"
-      ],
       "height": 1.6,
       "weight": 101.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Shellfish Pok\u00e9mon",
+      "kind": "Shellfish Pokémon",
       "flavor_text": "The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.",
       "abilities": [
         "Mega Launcher"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        9,
-        234,
-        9,
-        239,
-        88,
-        9
-      ]
+      "regional_dex_nums": {
+        "rby": 9,
+        "gsc": 234,
+        "frlg": 9,
+        "hgss": 239,
+        "xy_central": 88,
+        "lets_go": 9
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -682,7 +696,21 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Flash Cannon"
+      ],
+      "egg_moves": [
+        "Aqua Jet",
+        "Aqua Ring",
+        "Fake Out",
+        "Flail",
+        "Haze",
+        "Life Dew",
+        "Mirror Coat",
+        "Mist",
+        "Water Spout",
+        "Yawn"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

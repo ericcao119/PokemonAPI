@@ -2,6 +2,10 @@
   {
     "species_name": "Toxel",
     "variant_name": "Toxel",
+    "types": [
+      "Electric",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 38,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 848,
-      "types": [
-        "Electric",
-        "Poison"
-      ],
       "height": 0.4,
       "weight": 11.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Baby Pok\u00e9mon",
+      "kind": "Baby Pokémon",
       "flavor_text": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
       "abilities": [
         "Rattled",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Klutz"
       ],
-      "regional_dex_nums": [
-        310
-      ]
+      "regional_dex_nums": {
+        "swsh": 310
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 6169,
       "steps_to_hatch_upper": 6425,
       "egg_cycles": 25
@@ -127,6 +127,7 @@
           "Encore"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Endeavor",
         "Metal Sound",

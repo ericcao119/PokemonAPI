@@ -2,6 +2,9 @@
   {
     "species_name": "Porygon2",
     "variant_name": "Porygon2",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 80,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 233,
-      "types": [
-        "Normal"
-      ],
       "height": 0.6,
       "weight": 32.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Virtual Pok\u00e9mon",
-      "flavor_text": "Even though it doesn\u2019t die in the vacuum of space, it can\u2019t move around very well in zero gravity.",
+      "kind": "Virtual Pokémon",
+      "flavor_text": "Even though it doesn’t die in the vacuum of space, it can’t move around very well in zero gravity.",
       "abilities": [
         "Trace",
         "Download"
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Analytic"
       ],
-      "regional_dex_nums": [
-        216,
-        193,
-        221,
-        218,
-        282
-      ]
+      "regional_dex_nums": {
+        "gsc": 216,
+        "plat": 193,
+        "hgss": 221,
+        "sm": 218,
+        "usum": 282
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -54,7 +54,7 @@
       "egg_groups": [
         "Mineral"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -265,6 +265,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

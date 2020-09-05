@@ -2,6 +2,9 @@
   {
     "species_name": "Wynaut",
     "variant_name": "Wynaut",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 23,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 360,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.6,
       "weight": 14.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bright Pok\u00e9mon",
+      "kind": "Bright Pokémon",
       "flavor_text": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
       "abilities": [
         "Shadow Tag"
@@ -27,12 +27,12 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        160,
-        118,
-        167,
-        216
-      ]
+      "regional_dex_nums": {
+        "rse": 160,
+        "xy_coastal": 118,
+        "oras": 167,
+        "swsh": 216
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -112,6 +112,7 @@
           "Encore"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

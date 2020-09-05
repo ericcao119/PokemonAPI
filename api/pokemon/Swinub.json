@@ -2,6 +2,10 @@
   {
     "species_name": "Swinub",
     "variant_name": "Swinub",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 50,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 220,
-      "types": [
-        "Ice",
-        "Ground"
-      ],
       "height": 0.4,
       "weight": 6.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pig Pok\u00e9mon",
+      "kind": "Pig Pokémon",
       "flavor_text": "If it smells something enticing, it dashes off headlong to find the source of the aroma.",
       "abilities": [
         "Oblivious",
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Thick Fat"
       ],
-      "regional_dex_nums": [
-        191,
-        203,
-        195,
-        258,
-        76,
-        75
-      ]
+      "regional_dex_nums": {
+        "gsc": 191,
+        "plat": 203,
+        "hgss": 195,
+        "b2w2": 258,
+        "xy_mountain": 76,
+        "swsh": 75
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -231,6 +231,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Avalanche",

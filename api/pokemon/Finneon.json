@@ -2,6 +2,9 @@
   {
     "species_name": "Finneon",
     "variant_name": "Finneon",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 49,
       "attack": 49,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 456,
-      "types": [
-        "Water"
-      ],
       "height": 0.4,
       "weight": 7.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wing Fish Pok\u00e9mon",
+      "kind": "Wing Fish Pokémon",
       "flavor_text": "It lures in prey with its shining tail fins. It stays near the surface during the day and moves to the depths when night falls.",
       "abilities": [
         "Swift Swim",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Water Veil"
       ],
-      "regional_dex_nums": [
-        134,
-        134,
-        108,
-        131
-      ]
+      "regional_dex_nums": {
+        "dp": 134,
+        "plat": 134,
+        "sm": 108,
+        "usum": 131
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -224,6 +224,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Aqua Tail",

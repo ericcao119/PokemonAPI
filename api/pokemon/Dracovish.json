@@ -2,6 +2,10 @@
   {
     "species_name": "Dracovish",
     "variant_name": "Dracovish",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 90,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 882,
-      "types": [
-        "Water",
-        "Dragon"
-      ],
       "height": 2.3,
       "weight": 215.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fossil Pok\u00e9mon",
-      "flavor_text": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pok\u00e9mon can\u2019t breathe unless it\u2019s underwater.",
+      "kind": "Fossil Pokémon",
+      "flavor_text": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater.",
       "abilities": [
         "Water Absorb",
         "Strong Jaw"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Sand Rush"
       ],
-      "regional_dex_nums": [
-        376
-      ]
+      "regional_dex_nums": {
+        "swsh": 376
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 8739,
       "steps_to_hatch_upper": 8995,
       "egg_cycles": 35
@@ -271,6 +271,7 @@
           "Liquidation"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

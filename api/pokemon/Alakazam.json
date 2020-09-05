@@ -2,6 +2,9 @@
   {
     "species_name": "Alakazam",
     "variant_name": "Alakazam",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 50,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 65,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.5,
       "weight": 48.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Psi Pok\u00e9mon",
-      "flavor_text": "A Pok\u00e9mon that can memorize anything. It never forgets what it learns\u2014that\u2019s why this Pok\u00e9mon is smart.",
+      "kind": "Psi Pokémon",
+      "flavor_text": "A Pokémon that can memorize anything. It never forgets what it learns—that’s why this Pokémon is smart.",
       "abilities": [
         "Synchronize",
         "Inner Focus"
@@ -28,20 +28,20 @@
       "hidden_abilities": [
         "Magic Guard"
       ],
-      "regional_dex_nums": [
-        65,
-        91,
-        41,
-        65,
-        22,
-        22,
-        91,
-        104,
-        42,
-        44,
-        51,
-        65
-      ]
+      "regional_dex_nums": {
+        "rby": 65,
+        "gsc": 91,
+        "rse": 41,
+        "frlg": 65,
+        "dp": 22,
+        "plat": 22,
+        "hgss": 91,
+        "xy_central": 104,
+        "oras": 42,
+        "sm": 44,
+        "usum": 51,
+        "lets_go": 65
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -292,6 +292,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Kinesis"
+      ],
       "egg_moves": [
         "Ally Switch",
         "Barrier",
@@ -366,6 +369,9 @@
   {
     "species_name": "Alakazam",
     "variant_name": "Mega Alakazam",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 50,
@@ -376,33 +382,30 @@
     },
     "dex_entry": {
       "national_dex_num": 65,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.2,
       "weight": 48.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Psi Pok\u00e9mon",
-      "flavor_text": "It\u2019s adept at precognition. When attacks completely miss Alakazam, that\u2019s because it\u2019s seeing the future.",
+      "kind": "Psi Pokémon",
+      "flavor_text": "It’s adept at precognition. When attacks completely miss Alakazam, that’s because it’s seeing the future.",
       "abilities": [
         "Trace"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        65,
-        91,
-        41,
-        65,
-        22,
-        22,
-        91,
-        104,
-        42,
-        44,
-        51,
-        65
-      ]
+      "regional_dex_nums": {
+        "rby": 65,
+        "gsc": 91,
+        "rse": 41,
+        "frlg": 65,
+        "dp": 22,
+        "plat": 22,
+        "hgss": 91,
+        "xy_central": 104,
+        "oras": 42,
+        "sm": 44,
+        "usum": 51,
+        "lets_go": 65
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -653,6 +656,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Kinesis"
+      ],
       "egg_moves": [
         "Ally Switch",
         "Barrier",

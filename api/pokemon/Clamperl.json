@@ -2,6 +2,9 @@
   {
     "species_name": "Clamperl",
     "variant_name": "Clamperl",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 64,
@@ -12,27 +15,24 @@
     },
     "dex_entry": {
       "national_dex_num": 366,
-      "types": [
-        "Water"
-      ],
       "height": 0.4,
       "weight": 52.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bivalve Pok\u00e9mon",
-      "flavor_text": "Clamperl\u2019s pearls are exceedingly precious. They can be more than 10 times as costly as Shellder\u2019s pearls.",
+      "kind": "Bivalve Pokémon",
+      "flavor_text": "Clamperl’s pearls are exceedingly precious. They can be more than 10 times as costly as Shellder’s pearls.",
       "abilities": [
         "Shell Armor"
       ],
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        176,
-        141,
-        185,
-        140
-      ]
+      "regional_dex_nums": {
+        "rse": 176,
+        "xy_coastal": 141,
+        "oras": 185,
+        "usum": 140
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -167,6 +167,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aqua Ring",
         "Barrier",

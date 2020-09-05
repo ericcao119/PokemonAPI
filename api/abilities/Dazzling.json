@@ -1,4 +1,5 @@
 {
-  "name": "Dazzling",
-  "description": "Protects the Pok\u00e9mon from high-priority moves."
+  "ability_name": "Dazzling",
+  "effect": "Dazzling makes the Pokémon immune to high-priority moves (i.e. those with a priority above 0).",
+  "description": "Surprises the opposing Pokémon, making it unable to attack using priority moves."
 }

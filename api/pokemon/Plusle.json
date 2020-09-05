@@ -2,6 +2,9 @@
   {
     "species_name": "Plusle",
     "variant_name": "Plusle",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 50,
@@ -12,26 +15,23 @@
     },
     "dex_entry": {
       "national_dex_num": 311,
-      "types": [
-        "Electric"
-      ],
       "height": 0.4,
       "weight": 4.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cheering Pok\u00e9mon",
-      "flavor_text": "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pok\u00e9mon cries loudly.",
+      "kind": "Cheering Pokémon",
+      "flavor_text": "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pokémon cries loudly.",
       "abilities": [
         "Plus"
       ],
       "hidden_abilities": [
         "Lightning Rod"
       ],
-      "regional_dex_nums": [
-        80,
-        96,
-        82
-      ]
+      "regional_dex_nums": {
+        "rse": 80,
+        "xy_central": 96,
+        "oras": 82
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -246,6 +246,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Charm",
         "Discharge",

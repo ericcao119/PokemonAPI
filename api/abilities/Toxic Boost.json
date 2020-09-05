@@ -1,4 +1,6 @@
 {
-  "name": "Toxic Boost",
-  "description": "Powers up physical attacks when poisoned."
+  "ability_name": "Toxic Boost",
+  "effect": "Powers up physical attacks when poisoned.
+",
+  "description": "Powers up physical attacks when the Pokémon is poisoned."
 }

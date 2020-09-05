@@ -1,4 +1,5 @@
 {
-  "name": "Stamina",
-  "description": "Raises Defense when attacked."
+  "ability_name": "Stamina",
+  "effect": "Stamina raises the bearer's Defense by one stage when it is attacked by any move.",
+  "description": "Boosts the Defense stat when hit by an attack."
 }

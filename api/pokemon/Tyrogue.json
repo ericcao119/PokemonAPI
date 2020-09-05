@@ -2,6 +2,9 @@
   {
     "species_name": "Tyrogue",
     "variant_name": "Tyrogue",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 35,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 236,
-      "types": [
-        "Fighting"
-      ],
       "height": 0.7,
       "weight": 21.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scuffle Pok\u00e9mon",
-      "flavor_text": "Even though it is small, it can\u2019t be ignored because it will slug any handy target without warning.",
+      "kind": "Scuffle Pokémon",
+      "flavor_text": "Even though it is small, it can’t be ignored because it will slug any handy target without warning.",
       "abilities": [
         "Guts",
         "Steadfast"
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Vital Spirit"
       ],
-      "regional_dex_nums": [
-        143,
-        145,
-        107
-      ]
+      "regional_dex_nums": {
+        "gsc": 143,
+        "hgss": 145,
+        "swsh": 107
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -175,6 +175,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bullet Punch",
         "Counter",

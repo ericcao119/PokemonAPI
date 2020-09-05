@@ -2,6 +2,10 @@
   {
     "species_name": "Keldeo",
     "variant_name": "Ordinary Forme",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 91,
       "attack": 72,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 647,
-      "types": [
-        "Water",
-        "Fighting"
-      ],
       "height": 1.4,
       "weight": 48.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Colt Pok\u00e9mon",
-      "flavor_text": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pok\u00e9mon\u2019s true power will awaken.",
+      "kind": "Colt Pokémon",
+      "flavor_text": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon’s true power will awaken.",
       "abilities": [
         "Justified"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        153,
-        298
-      ]
+      "regional_dex_nums": {
+        "bw": 153,
+        "b2w2": 298
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -256,6 +256,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",
@@ -283,6 +284,10 @@
   {
     "species_name": "Keldeo",
     "variant_name": "Resolute Forme",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 91,
       "attack": 72,
@@ -293,24 +298,20 @@
     },
     "dex_entry": {
       "national_dex_num": 647,
-      "types": [
-        "Water",
-        "Fighting"
-      ],
       "height": 1.4,
       "weight": 48.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Colt Pok\u00e9mon",
+      "kind": "Colt Pokémon",
       "flavor_text": "The power that lay hidden in its body now covers its horn, turning it into a sword that can slice through anything.",
       "abilities": [
         "Justified"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        153,
-        298
-      ]
+      "regional_dex_nums": {
+        "bw": 153,
+        "b2w2": 298
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -330,7 +331,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -537,6 +538,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",

@@ -2,6 +2,9 @@
   {
     "species_name": "Eelektrik",
     "variant_name": "Eelektrik",
+    "types": [
+      "Electric"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 85,
@@ -12,23 +15,20 @@
     },
     "dex_entry": {
       "national_dex_num": 603,
-      "types": [
-        "Electric"
-      ],
       "height": 1.2,
       "weight": 22.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "EleFish Pok\u00e9mon",
-      "flavor_text": "These Pok\u00e9mon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+      "kind": "EleFish Pokémon",
+      "flavor_text": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        109,
-        178
-      ]
+      "regional_dex_nums": {
+        "bw": 109,
+        "b2w2": 178
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -219,6 +219,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Crunch"
+      ],
       "egg_moves": [],
       "tutor_moves": [
         "Aqua Tail",

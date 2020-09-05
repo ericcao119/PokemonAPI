@@ -2,6 +2,10 @@
   {
     "species_name": "Girafarig",
     "variant_name": "Girafarig",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 80,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 203,
-      "types": [
-        "Normal",
-        "Psychic"
-      ],
       "height": 1.5,
       "weight": 41.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Long Neck Pok\u00e9mon",
-      "flavor_text": "Girafarig\u2019s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn\u2019t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+      "kind": "Long Neck Pokémon",
+      "flavor_text": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
       "abilities": [
         "Inner Focus",
         "Early Bird"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Sap Sipper"
       ],
-      "regional_dex_nums": [
-        147,
-        164,
-        121,
-        121,
-        149,
-        171
-      ]
+      "regional_dex_nums": {
+        "gsc": 147,
+        "rse": 164,
+        "dp": 121,
+        "plat": 121,
+        "hgss": 149,
+        "oras": 171
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -283,6 +283,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Beat Up",

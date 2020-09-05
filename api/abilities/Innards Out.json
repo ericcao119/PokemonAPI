@@ -1,4 +1,5 @@
 {
-  "name": "Innards Out",
-  "description": "Deals damage upon fainting."
+  "ability_name": "Innards Out",
+  "effect": "When a Pokémon with Innards Out faints, it deals damage to the opponent equal to amount of damage it took on the final blow.",
+  "description": "Damages the attacker landing the finishing hit by the amount equal to its last HP."
 }

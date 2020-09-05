@@ -1,4 +1,5 @@
 {
-  "name": "Moxie",
-  "description": "Boosts Attack after knocking out any Pok\u00e9mon."
+  "ability_name": "Moxie",
+  "effect": "Moxie increases the user's Attack one stage upon fainting an opponent.",
+  "description": "The Pokémon shows moxie, and that boosts the Attack stat after knocking out any Pokémon."
 }

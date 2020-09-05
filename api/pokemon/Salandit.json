@@ -2,6 +2,10 @@
   {
     "species_name": "Salandit",
     "variant_name": "Salandit",
+    "types": [
+      "Poison",
+      "Fire"
+    ],
     "base_stats": {
       "hp": 48,
       "attack": 44,
@@ -12,27 +16,23 @@
     },
     "dex_entry": {
       "national_dex_num": 757,
-      "types": [
-        "Poison",
-        "Fire"
-      ],
       "height": 0.6,
       "weight": 4.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Toxic Lizard Pok\u00e9mon",
-      "flavor_text": "This sneaky Pok\u00e9mon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
+      "kind": "Toxic Lizard Pokémon",
+      "flavor_text": "This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there.",
       "abilities": [
         "Corrosion"
       ],
       "hidden_abilities": [
         "Oblivious"
       ],
-      "regional_dex_nums": [
-        161,
-        195,
-        244
-      ]
+      "regional_dex_nums": {
+        "sm": 161,
+        "usum": 195,
+        "swsh": 244
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -261,6 +261,7 @@
           "Venom Drench"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [
         "Belch",
         "Fake Out",

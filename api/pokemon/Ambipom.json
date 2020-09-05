@@ -2,6 +2,9 @@
   {
     "species_name": "Ambipom",
     "variant_name": "Ambipom",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 100,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 424,
-      "types": [
-        "Normal"
-      ],
       "height": 1.2,
       "weight": 20.3,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Long Tail Pok\u00e9mon",
-      "flavor_text": "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that\u2019s proof it really likes you.",
+      "kind": "Long Tail Pokémon",
+      "flavor_text": "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that’s proof it really likes you.",
       "abilities": [
         "Technician",
         "Pickup"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Skill Link"
       ],
-      "regional_dex_nums": [
-        64,
-        64,
-        124,
-        369
-      ]
+      "regional_dex_nums": {
+        "dp": 64,
+        "plat": 64,
+        "hgss": 124,
+        "usum": 369
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -276,6 +276,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Beat Up",

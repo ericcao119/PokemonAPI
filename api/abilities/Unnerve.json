@@ -1,4 +1,6 @@
 {
-  "name": "Unnerve",
-  "description": "Makes the foe nervous and unable to eat Berries."
+  "ability_name": "Unnerve",
+  "effect": "Makes the foe nervous and unable to eat Berries.
+",
+  "description": "Unnerves opposing Pokémon and makes them unable to eat Berries."
 }

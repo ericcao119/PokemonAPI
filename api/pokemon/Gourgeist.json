@@ -2,6 +2,10 @@
   {
     "species_name": "Gourgeist",
     "variant_name": "Average Size",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 90,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 711,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 0.9,
       "weight": 12.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pumpkin Pok\u00e9mon",
+      "kind": "Pumpkin Pokémon",
       "flavor_text": "In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.",
       "abilities": [
         "Pickup",
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Insomnia"
       ],
-      "regional_dex_nums": [
-        64,
-        192
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 64,
+        "swsh": 192
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -303,6 +303,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Curse",
@@ -335,6 +336,10 @@
   {
     "species_name": "Gourgeist",
     "variant_name": "Small Size",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 85,
@@ -345,15 +350,11 @@
     },
     "dex_entry": {
       "national_dex_num": 711,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 0.7,
       "weight": 9.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pumpkin Pok\u00e9mon",
+      "kind": "Pumpkin Pokémon",
       "flavor_text": "A small-sized Pumpkaboo evolves into a small-sized Gourgeist. Its bodily proportions also get passed on to its descendants.",
       "abilities": [
         "Pickup",
@@ -362,10 +363,10 @@
       "hidden_abilities": [
         "Insomnia"
       ],
-      "regional_dex_nums": [
-        64,
-        192
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 64,
+        "swsh": 192
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -636,6 +637,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Curse",
@@ -668,6 +670,10 @@
   {
     "species_name": "Gourgeist",
     "variant_name": "Large Size",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 95,
@@ -678,15 +684,11 @@
     },
     "dex_entry": {
       "national_dex_num": 711,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 1.1,
       "weight": 14.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pumpkin Pok\u00e9mon",
+      "kind": "Pumpkin Pokémon",
       "flavor_text": "A large-sized Pumpkaboo evolves into a large-sized Gourgeist. Its bodily proportions also get passed on to its descendants.",
       "abilities": [
         "Pickup",
@@ -695,10 +697,10 @@
       "hidden_abilities": [
         "Insomnia"
       ],
-      "regional_dex_nums": [
-        64,
-        192
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 64,
+        "swsh": 192
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -969,6 +971,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Curse",
@@ -1001,6 +1004,10 @@
   {
     "species_name": "Gourgeist",
     "variant_name": "Super Size",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 100,
@@ -1011,15 +1018,11 @@
     },
     "dex_entry": {
       "national_dex_num": 711,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 1.7,
       "weight": 39.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Pumpkin Pok\u00e9mon",
+      "kind": "Pumpkin Pokémon",
       "flavor_text": "A supersized Pumpkaboo evolves into a supersized Gourgeist. Its bodily proportions also get passed on to its descendants.",
       "abilities": [
         "Pickup",
@@ -1028,10 +1031,10 @@
       "hidden_abilities": [
         "Insomnia"
       ],
-      "regional_dex_nums": [
-        64,
-        192
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 64,
+        "swsh": 192
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -1302,6 +1305,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Curse",

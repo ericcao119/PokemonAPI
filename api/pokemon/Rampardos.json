@@ -2,6 +2,9 @@
   {
     "species_name": "Rampardos",
     "variant_name": "Rampardos",
+    "types": [
+      "Rock"
+    ],
     "base_stats": {
       "hp": 97,
       "attack": 165,
@@ -12,27 +15,24 @@
     },
     "dex_entry": {
       "national_dex_num": 409,
-      "types": [
-        "Rock"
-      ],
       "height": 1.6,
       "weight": 102.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Head Butt Pok\u00e9mon",
-      "flavor_text": "This ancient Pok\u00e9mon used headbutts skillfully. Its brain was really small, so some theories suggest that its stupidity led to its extinction.",
+      "kind": "Head Butt Pokémon",
+      "flavor_text": "This ancient Pokémon used headbutts skillfully. Its brain was really small, so some theories suggest that its stupidity led to its extinction.",
       "abilities": [
         "Mold Breaker"
       ],
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        37,
-        37,
-        189,
-        236
-      ]
+      "regional_dex_nums": {
+        "dp": 37,
+        "plat": 37,
+        "sm": 189,
+        "usum": 236
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -287,6 +287,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Endeavor"
+      ],
       "egg_moves": [
         "Crunch",
         "Curse",

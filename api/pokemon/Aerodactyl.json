@@ -2,6 +2,10 @@
   {
     "species_name": "Aerodactyl",
     "variant_name": "Aerodactyl",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 105,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 142,
-      "types": [
-        "Rock",
-        "Flying"
-      ],
       "height": 1.8,
       "weight": 59.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fossil Pok\u00e9mon",
-      "flavor_text": "A savage Pok\u00e9mon that died out in ancient times. It was resurrected using DNA taken from amber.",
+      "kind": "Fossil Pokémon",
+      "flavor_text": "A savage Pokémon that died out in ancient times. It was resurrected using DNA taken from amber.",
       "abilities": [
         "Rock Head",
         "Pressure"
@@ -29,16 +29,16 @@
       "hidden_abilities": [
         "Unnerve"
       ],
-      "regional_dex_nums": [
-        142,
-        224,
-        142,
-        229,
-        68,
-        284,
-        382,
-        142
-      ]
+      "regional_dex_nums": {
+        "rby": 142,
+        "gsc": 224,
+        "frlg": 142,
+        "hgss": 229,
+        "xy_coastal": 68,
+        "sm": 284,
+        "usum": 382,
+        "lets_go": 142
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -301,6 +301,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assurance",
         "Curse",
@@ -355,6 +356,10 @@
   {
     "species_name": "Aerodactyl",
     "variant_name": "Mega Aerodactyl",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 135,
@@ -365,30 +370,26 @@
     },
     "dex_entry": {
       "national_dex_num": 142,
-      "types": [
-        "Rock",
-        "Flying"
-      ],
       "height": 2.1,
       "weight": 79.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fossil Pok\u00e9mon",
+      "kind": "Fossil Pokémon",
       "flavor_text": "The power of Mega Evolution has completely restored its genes. The rocks on its body are harder than diamond.",
       "abilities": [
         "Tough Claws"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        142,
-        224,
-        142,
-        229,
-        68,
-        284,
-        382,
-        142
-      ]
+      "regional_dex_nums": {
+        "rby": 142,
+        "gsc": 224,
+        "frlg": 142,
+        "hgss": 229,
+        "xy_coastal": 68,
+        "sm": 284,
+        "usum": 382,
+        "lets_go": 142
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -651,6 +652,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assurance",
         "Curse",

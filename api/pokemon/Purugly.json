@@ -2,6 +2,9 @@
   {
     "species_name": "Purugly",
     "variant_name": "Purugly",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 71,
       "attack": 82,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 432,
-      "types": [
-        "Normal"
-      ],
       "height": 1.0,
       "weight": 43.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tiger Cat Pok\u00e9mon",
+      "kind": "Tiger Cat Pokémon",
       "flavor_text": "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
       "abilities": [
         "Thick Fat",
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Defiant"
       ],
-      "regional_dex_nums": [
-        77,
-        77
-      ]
+      "regional_dex_nums": {
+        "dp": 77,
+        "plat": 77
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -262,6 +262,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Swagger"
+      ],
       "egg_moves": [
         "Assurance",
         "Bite",

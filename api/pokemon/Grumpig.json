@@ -2,6 +2,9 @@
   {
     "species_name": "Grumpig",
     "variant_name": "Grumpig",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 45,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 326,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.9,
       "weight": 71.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Manipulate Pok\u00e9mon",
-      "flavor_text": "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pok\u00e9mon\u2019s black pearls are valuable as works of art.",
+      "kind": "Manipulate Pokémon",
+      "flavor_text": "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pokémon’s black pearls are valuable as works of art.",
       "abilities": [
         "Thick Fat",
         "Own Tempo"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Gluttony"
       ],
-      "regional_dex_nums": [
-        111,
-        207,
-        8,
-        116
-      ]
+      "regional_dex_nums": {
+        "rse": 111,
+        "b2w2": 207,
+        "xy_coastal": 8,
+        "oras": 116
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -300,6 +300,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Teeter Dance"
+      ],
       "egg_moves": [
         "Amnesia",
         "Endure",

@@ -2,6 +2,9 @@
   {
     "species_name": "Kangaskhan",
     "variant_name": "Kangaskhan",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 95,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 115,
-      "types": [
-        "Normal"
-      ],
       "height": 2.2,
       "weight": 80.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Parent Pok\u00e9mon",
-      "flavor_text": "Raises its young in its belly pouch. Won\u2019t run from any fight to keep its young protected.",
+      "kind": "Parent Pokémon",
+      "flavor_text": "Raises its young in its belly pouch. Won’t run from any fight to keep its young protected.",
       "abilities": [
         "Early Bird",
         "Scrappy"
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Inner Focus"
       ],
-      "regional_dex_nums": [
-        115,
-        205,
-        115,
-        210,
-        62,
-        165,
-        199,
-        115
-      ]
+      "regional_dex_nums": {
+        "rby": 115,
+        "gsc": 205,
+        "frlg": 115,
+        "hgss": 210,
+        "xy_coastal": 62,
+        "sm": 165,
+        "usum": 199,
+        "lets_go": 115
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -296,6 +296,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Circle Throw",
         "Counter",
@@ -367,6 +368,9 @@
   {
     "species_name": "Kangaskhan",
     "variant_name": "Mega Kangaskhan",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 105,
       "attack": 125,
@@ -377,29 +381,26 @@
     },
     "dex_entry": {
       "national_dex_num": 115,
-      "types": [
-        "Normal"
-      ],
       "height": 2.2,
       "weight": 100.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Parent Pok\u00e9mon",
+      "kind": "Parent Pokémon",
       "flavor_text": "Its child has grown rapidly, thanks to the energy of Mega Evolution. Mother and child show their harmonious teamwork in battle.",
       "abilities": [
         "Parental Bond"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        115,
-        205,
-        115,
-        210,
-        62,
-        165,
-        199,
-        115
-      ]
+      "regional_dex_nums": {
+        "rby": 115,
+        "gsc": 205,
+        "frlg": 115,
+        "hgss": 210,
+        "xy_coastal": 62,
+        "sm": 165,
+        "usum": 199,
+        "lets_go": 115
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -658,6 +659,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Circle Throw",
         "Counter",

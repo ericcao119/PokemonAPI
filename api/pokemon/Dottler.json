@@ -2,6 +2,10 @@
   {
     "species_name": "Dottler",
     "variant_name": "Dottler",
+    "types": [
+      "Bug",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 35,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 825,
-      "types": [
-        "Bug",
-        "Psychic"
-      ],
       "height": 0.4,
       "weight": 19.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Radome Pok\u00e9mon",
+      "kind": "Radome Pokémon",
       "flavor_text": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.",
       "abilities": [
         "Swarm",
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Telepathy"
       ],
-      "regional_dex_nums": [
-        11
-      ]
+      "regional_dex_nums": {
+        "swsh": 11
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Bug"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 3599,
       "steps_to_hatch_upper": 3855,
       "egg_cycles": 15
@@ -227,7 +227,17 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Confusion",
+        "Light Screen",
+        "Reflect"
+      ],
+      "egg_moves": [
+        "Infestation",
+        "Recover",
+        "Sticky Web",
+        "Supersonic"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

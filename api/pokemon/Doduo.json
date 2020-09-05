@@ -2,6 +2,10 @@
   {
     "species_name": "Doduo",
     "variant_name": "Doduo",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 35,
       "attack": 85,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 84,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 1.4,
       "weight": 39.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Twin Bird Pok\u00e9mon",
-      "flavor_text": "Its short wings make flying difficult. Instead, this Pok\u00e9mon runs at high speed on developed legs.",
+      "kind": "Twin Bird Pokémon",
+      "flavor_text": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
       "abilities": [
         "Run Away",
         "Early Bird"
@@ -29,16 +29,16 @@
       "hidden_abilities": [
         "Tangled Feet"
       ],
-      "regional_dex_nums": [
-        84,
-        199,
-        92,
-        84,
-        204,
-        94,
-        95,
-        84
-      ]
+      "regional_dex_nums": {
+        "rby": 84,
+        "gsc": 199,
+        "rse": 92,
+        "frlg": 84,
+        "hgss": 204,
+        "xy_central": 94,
+        "oras": 95,
+        "lets_go": 84
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -225,6 +225,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Assurance",
         "Brave Bird",

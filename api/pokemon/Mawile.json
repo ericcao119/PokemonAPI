@@ -2,6 +2,10 @@
   {
     "species_name": "Mawile",
     "variant_name": "Mawile",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 85,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 303,
-      "types": [
-        "Steel",
-        "Fairy"
-      ],
       "height": 0.6,
       "weight": 11.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Deceiver Pok\u00e9mon",
+      "kind": "Deceiver Pokémon",
       "flavor_text": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
       "abilities": [
         "Hyper Cutter",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        69,
-        63,
-        71,
-        125,
-        295
-      ]
+      "regional_dex_nums": {
+        "rse": 69,
+        "xy_coastal": 63,
+        "oras": 71,
+        "usum": 125,
+        "swsh": 295
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -315,6 +315,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Captivate",
@@ -372,6 +373,10 @@
   {
     "species_name": "Mawile",
     "variant_name": "Mega Mawile",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 105,
@@ -382,27 +387,23 @@
     },
     "dex_entry": {
       "national_dex_num": 303,
-      "types": [
-        "Steel",
-        "Fairy"
-      ],
       "height": 1.0,
       "weight": 23.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Deceiver Pok\u00e9mon",
+      "kind": "Deceiver Pokémon",
       "flavor_text": "Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.",
       "abilities": [
         "Huge Power"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        69,
-        63,
-        71,
-        125,
-        295
-      ]
+      "regional_dex_nums": {
+        "rse": 69,
+        "xy_coastal": 63,
+        "oras": 71,
+        "usum": 125,
+        "swsh": 295
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -682,6 +683,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Ancient Power",
         "Captivate",

@@ -2,6 +2,10 @@
   {
     "species_name": "Toxapex",
     "variant_name": "Toxapex",
+    "types": [
+      "Poison",
+      "Water"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 63,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 748,
-      "types": [
-        "Poison",
-        "Water"
-      ],
       "height": 0.7,
       "weight": 14.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Brutal Star Pok\u00e9mon",
-      "flavor_text": "Within the poison sac in its body is a poison so toxic that Pok\u00e9mon as large as Wailord will still be suffering three days after it first takes effect.",
+      "kind": "Brutal Star Pokémon",
+      "flavor_text": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect.",
       "abilities": [
         "Merciless",
         "Limber"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Regenerator"
       ],
-      "regional_dex_nums": [
-        114,
-        137,
-        308
-      ]
+      "regional_dex_nums": {
+        "sm": 114,
+        "usum": 137,
+        "swsh": 308
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -257,7 +257,16 @@
           "Liquidation"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Baneful Bunker"
+      ],
+      "egg_moves": [
+        "Haze",
+        "Infestation",
+        "Spit Up",
+        "Stockpile",
+        "Swallow"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -2,6 +2,10 @@
   {
     "species_name": "Empoleon",
     "variant_name": "Empoleon",
+    "types": [
+      "Water",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 84,
       "attack": 86,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 395,
-      "types": [
-        "Water",
-        "Steel"
-      ],
       "height": 1.7,
       "weight": 84.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Emperor Pok\u00e9mon",
+      "kind": "Emperor Pokémon",
       "flavor_text": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
       "abilities": [
         "Torrent"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Defiant"
       ],
-      "regional_dex_nums": [
-        9,
-        9
-      ]
+      "regional_dex_nums": {
+        "dp": 9,
+        "plat": 9
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -287,6 +287,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Aqua Jet"
+      ],
       "egg_moves": [
         "Agility",
         "Aqua Ring",

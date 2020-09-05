@@ -1,4 +1,6 @@
 {
-  "name": "Fairy Aura",
-  "description": "Raises power of Fairy type moves for all Pok\u00e9mon in battle."
+  "ability_name": "Fairy Aura",
+  "effect": "Fairy Aura raises the power of Fairy-type moves by 33%, for all Pokémon on the field (not just the ability-bearer).
+It is the signature ability of Xerneas.",
+  "description": "Powers up each Pokémon’s Fairy-type moves."
 }

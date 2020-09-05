@@ -1,4 +1,6 @@
 {
-  "name": "Galvanize",
-  "description": "Normal-type moves become Electric-type moves and their power boosted."
+  "ability_name": "Galvanize",
+  "effect": "Normal-type moves become Electric-type moves and their power boosted.
+",
+  "description": "Normal-type moves become Electric-type moves. The power of those moves is boosted a little."
 }

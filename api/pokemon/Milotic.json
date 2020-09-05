@@ -2,6 +2,9 @@
   {
     "species_name": "Milotic",
     "variant_name": "Milotic",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 60,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 350,
-      "types": [
-        "Water"
-      ],
       "height": 6.2,
       "weight": 162.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Tender Pok\u00e9mon",
-      "flavor_text": "It\u2019s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you\u2019re feeling.",
+      "kind": "Tender Pokémon",
+      "flavor_text": "It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling.",
       "abilities": [
         "Marvel Scale",
         "Competitive"
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Cute Charm"
       ],
-      "regional_dex_nums": [
-        141,
-        139,
-        139,
-        146,
-        156,
-        190,
-        153
-      ]
+      "regional_dex_nums": {
+        "rse": 141,
+        "dp": 139,
+        "plat": 139,
+        "oras": 146,
+        "sm": 156,
+        "usum": 190,
+        "swsh": 153
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -260,6 +260,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Water Pulse"
+      ],
       "egg_moves": [
         "Brine",
         "Captivate",

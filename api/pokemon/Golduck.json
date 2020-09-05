@@ -2,6 +2,9 @@
   {
     "species_name": "Golduck",
     "variant_name": "Golduck",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 82,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 55,
-      "types": [
-        "Water"
-      ],
       "height": 1.7,
       "weight": 76.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Duck Pok\u00e9mon",
+      "kind": "Duck Pokémon",
       "flavor_text": "Its long, slim limbs end in broad flippers. They are used for swimming gracefully in lakes.",
       "abilities": [
         "Damp",
@@ -28,21 +28,21 @@
       "hidden_abilities": [
         "Swift Swim"
       ],
-      "regional_dex_nums": [
-        55,
-        139,
-        159,
-        55,
-        44,
-        44,
-        141,
-        29,
-        60,
-        166,
-        90,
-        108,
-        55
-      ]
+      "regional_dex_nums": {
+        "rby": 55,
+        "gsc": 139,
+        "rse": 159,
+        "frlg": 55,
+        "dp": 44,
+        "plat": 44,
+        "hgss": 141,
+        "b2w2": 29,
+        "xy_central": 60,
+        "oras": 166,
+        "sm": 90,
+        "usum": 108,
+        "lets_go": 55
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -290,6 +290,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Clear Smog",
         "Confuse Ray",

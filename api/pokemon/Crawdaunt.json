@@ -2,6 +2,10 @@
   {
     "species_name": "Crawdaunt",
     "variant_name": "Crawdaunt",
+    "types": [
+      "Water",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 63,
       "attack": 120,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 342,
-      "types": [
-        "Water",
-        "Dark"
-      ],
       "height": 1.1,
       "weight": 32.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Rogue Pok\u00e9mon",
-      "flavor_text": "A brutish Pok\u00e9mon that loves to battle. It will crash itself into any foe that approaches its nest.",
+      "kind": "Rogue Pokémon",
+      "flavor_text": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
       "abilities": [
         "Hyper Cutter",
         "Shell Armor"
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Adaptability"
       ],
-      "regional_dex_nums": [
-        130,
-        280,
-        52,
-        135,
-        358,
-        103
-      ]
+      "regional_dex_nums": {
+        "rse": 130,
+        "b2w2": 280,
+        "xy_central": 52,
+        "oras": 135,
+        "usum": 358,
+        "swsh": 103
+      }
     },
     "training_info": {
       "leveling_rate": "Fluctuating",
@@ -296,6 +296,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Swift"
+      ],
       "egg_moves": [
         "Ancient Power",
         "Aqua Jet",

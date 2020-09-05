@@ -2,6 +2,10 @@
   {
     "species_name": "Kyurem",
     "variant_name": "Kyurem",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 125,
       "attack": 130,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 646,
-      "types": [
-        "Dragon",
-        "Ice"
-      ],
       "height": 3.0,
       "weight": 325.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Boundary Pok\u00e9mon",
-      "flavor_text": "It appears that this Pok\u00e9mon uses its powers over ice to freeze its own body in order to stabilize its cellular structure.",
+      "kind": "Boundary Pokémon",
+      "flavor_text": "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152,
-        297
-      ]
+      "regional_dex_nums": {
+        "bw": 152,
+        "b2w2": 297
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -219,6 +219,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Draco Meteor",
@@ -246,6 +247,10 @@
   {
     "species_name": "Kyurem",
     "variant_name": "Black Kyurem",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 125,
       "attack": 170,
@@ -256,24 +261,20 @@
     },
     "dex_entry": {
       "national_dex_num": 646,
-      "types": [
-        "Dragon",
-        "Ice"
-      ],
       "height": 3.3,
       "weight": 325.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Boundary Pok\u00e9mon",
-      "flavor_text": "The sameness of Zekrom\u2019s and Kyurem\u2019s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.",
+      "kind": "Boundary Pokémon",
+      "flavor_text": "The sameness of Zekrom’s and Kyurem’s genes allowed Kyurem to absorb Zekrom. Kyurem can now use the power of both electricity and ice.",
       "abilities": [
         "Teravolt"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152,
-        297
-      ]
+      "regional_dex_nums": {
+        "bw": 152,
+        "b2w2": 297
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -293,7 +294,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -463,6 +464,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Draco Meteor",
@@ -490,6 +492,10 @@
   {
     "species_name": "Kyurem",
     "variant_name": "White Kyurem",
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
     "base_stats": {
       "hp": 125,
       "attack": 120,
@@ -500,24 +506,20 @@
     },
     "dex_entry": {
       "national_dex_num": 646,
-      "types": [
-        "Dragon",
-        "Ice"
-      ],
       "height": 3.6,
       "weight": 325.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Boundary Pok\u00e9mon",
-      "flavor_text": "It has foreseen that a world of truth will arrive for people and Pok\u00e9mon. It strives to protect that future.",
+      "kind": "Boundary Pokémon",
+      "flavor_text": "It has foreseen that a world of truth will arrive for people and Pokémon. It strives to protect that future.",
       "abilities": [
         "Turboblaze"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        152,
-        297
-      ]
+      "regional_dex_nums": {
+        "bw": 152,
+        "b2w2": 297
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -537,7 +539,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 30584,
       "steps_to_hatch_upper": 30840,
       "egg_cycles": 120
@@ -707,6 +709,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Draco Meteor",

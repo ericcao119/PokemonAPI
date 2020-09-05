@@ -2,6 +2,9 @@
   {
     "species_name": "Piplup",
     "variant_name": "Piplup",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 53,
       "attack": 51,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 393,
-      "types": [
-        "Water"
-      ],
       "height": 0.4,
       "weight": 5.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Penguin Pok\u00e9mon",
+      "kind": "Penguin Pokémon",
       "flavor_text": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
       "abilities": [
         "Torrent"
@@ -27,10 +27,10 @@
       "hidden_abilities": [
         "Defiant"
       ],
-      "regional_dex_nums": [
-        7,
-        7
-      ]
+      "regional_dex_nums": {
+        "dp": 7,
+        "plat": 7
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -230,6 +230,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Aqua Ring",

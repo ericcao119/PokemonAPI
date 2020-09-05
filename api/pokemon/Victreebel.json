@@ -2,6 +2,10 @@
   {
     "species_name": "Victreebel",
     "variant_name": "Victreebel",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 105,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 71,
-      "types": [
-        "Grass",
-        "Poison"
-      ],
       "height": 1.7,
       "weight": 15.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Flycatcher Pok\u00e9mon",
+      "kind": "Flycatcher Pokémon",
       "flavor_text": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
       "abilities": [
         "Chlorophyll"
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Gluttony"
       ],
-      "regional_dex_nums": [
-        71,
-        66,
-        71,
-        66,
-        28,
-        71
-      ]
+      "regional_dex_nums": {
+        "rby": 71,
+        "gsc": 66,
+        "frlg": 71,
+        "hgss": 66,
+        "xy_mountain": 28,
+        "lets_go": 71
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -218,6 +218,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Leaf Tornado"
+      ],
       "egg_moves": [
         "Acid Spray",
         "Belch",

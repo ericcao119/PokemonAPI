@@ -2,6 +2,9 @@
   {
     "species_name": "Trapinch",
     "variant_name": "Trapinch",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 100,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 328,
-      "types": [
-        "Ground"
-      ],
       "height": 0.7,
       "weight": 15.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Ant Pit Pok\u00e9mon",
+      "kind": "Ant Pit Pokémon",
       "flavor_text": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
       "abilities": [
         "Hyper Cutter",
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Sheer Force"
       ],
-      "regional_dex_nums": [
-        116,
-        121,
-        3,
-        121,
-        235,
-        304,
-        321
-      ]
+      "regional_dex_nums": {
+        "rse": 116,
+        "b2w2": 121,
+        "xy_mountain": 3,
+        "oras": 121,
+        "sm": 235,
+        "usum": 304,
+        "swsh": 321
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -224,6 +224,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bug Bite",
         "Earth Power",

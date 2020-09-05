@@ -2,6 +2,9 @@
   {
     "species_name": "Beartic",
     "variant_name": "Beartic",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 130,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 614,
-      "types": [
-        "Ice"
-      ],
       "height": 2.6,
       "weight": 260.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Freezing Pok\u00e9mon",
+      "kind": "Freezing Pokémon",
       "flavor_text": "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice.",
       "abilities": [
         "Snow Cloak",
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Swift Swim"
       ],
-      "regional_dex_nums": [
-        120,
-        196,
-        82,
-        280
-      ]
+      "regional_dex_nums": {
+        "bw": 120,
+        "b2w2": 196,
+        "xy_mountain": 82,
+        "swsh": 280
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -308,6 +308,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Icicle Crash"
+      ],
       "egg_moves": [
         "Assurance",
         "Avalanche",

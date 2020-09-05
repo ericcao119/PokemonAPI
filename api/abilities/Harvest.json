@@ -1,4 +1,6 @@
 {
-  "name": "Harvest",
+  "ability_name": "Harvest",
+  "effect": "May create another Berry after one is used.
+",
   "description": "May create another Berry after one is used."
 }

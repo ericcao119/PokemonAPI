@@ -2,6 +2,9 @@
   {
     "species_name": "Feebas",
     "variant_name": "Feebas",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 20,
       "attack": 15,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 349,
-      "types": [
-        "Water"
-      ],
       "height": 0.6,
       "weight": 7.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fish Pok\u00e9mon",
-      "flavor_text": "It is a shabby and ugly Pok\u00e9mon. However, it is very hardy and can survive on little water.",
+      "kind": "Fish Pokémon",
+      "flavor_text": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
       "abilities": [
         "Swift Swim",
         "Oblivious"
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Adaptability"
       ],
-      "regional_dex_nums": [
-        140,
-        138,
-        138,
-        145,
-        155,
-        189,
-        152
-      ]
+      "regional_dex_nums": {
+        "rse": 140,
+        "dp": 138,
+        "plat": 138,
+        "oras": 145,
+        "sm": 155,
+        "usum": 189,
+        "swsh": 152
+      }
     },
     "training_info": {
       "leveling_rate": "Erratic",
@@ -168,6 +168,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Brine",
         "Captivate",

@@ -2,6 +2,9 @@
   {
     "species_name": "Rillaboom",
     "variant_name": "Rillaboom",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 100,
       "attack": 125,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 812,
-      "types": [
-        "Grass"
-      ],
       "height": 2.1,
       "weight": 90.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Drummer Pok\u00e9mon",
+      "kind": "Drummer Pokémon",
       "flavor_text": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.",
       "abilities": [
         "Overgrow"
@@ -27,9 +27,9 @@
       "hidden_abilities": [
         "Grassy Surge"
       ],
-      "regional_dex_nums": [
-        3
-      ]
+      "regional_dex_nums": {
+        "swsh": 3
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -50,7 +50,7 @@
         "Field",
         "Grass"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -342,7 +342,18 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Drum Beating"
+      ],
+      "egg_moves": [
+        "Fake Out",
+        "Growth",
+        "Hammer Arm",
+        "Leech Seed",
+        "Nature Power",
+        "Strength",
+        "Worry Seed"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

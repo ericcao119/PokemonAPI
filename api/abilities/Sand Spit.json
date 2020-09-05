@@ -1,4 +1,6 @@
 {
-  "name": "Sand Spit",
-  "description": "Creates a sandstorm when hit by an attack."
+  "ability_name": "Sand Spit",
+  "effect": "Creates a sandstorm when hit by an attack.
+",
+  "description": "The Pokémon creates a sandstorm when it’s hit by an attack."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Togekiss",
     "variant_name": "Togekiss",
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 50,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 468,
-      "types": [
-        "Fairy",
-        "Flying"
-      ],
       "height": 1.5,
       "weight": 38.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Jubilee Pok\u00e9mon",
-      "flavor_text": "Known as a bringer of blessings, it\u2019s been depicted on good-luck charms since ancient times.",
+      "kind": "Jubilee Pokémon",
+      "flavor_text": "Known as a bringer of blessings, it’s been depicted on good-luck charms since ancient times.",
       "abilities": [
         "Hustle",
         "Serene Grace"
@@ -29,10 +29,10 @@
       "hidden_abilities": [
         "Super Luck"
       ],
-      "regional_dex_nums": [
-        175,
-        259
-      ]
+      "regional_dex_nums": {
+        "plat": 175,
+        "swsh": 259
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -244,6 +244,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Extrasensory",
         "Foresight",

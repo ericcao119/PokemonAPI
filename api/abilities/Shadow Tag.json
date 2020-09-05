@@ -1,4 +1,6 @@
 {
-  "name": "Shadow Tag",
-  "description": "Prevents the foe from escaping."
+  "ability_name": "Shadow Tag",
+  "effect": "Prevents the foe from escaping.
+",
+  "description": "This Pokémon steps on the opposing Pokémon’s shadow to prevent it from escaping."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Krokorok",
     "variant_name": "Krokorok",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 82,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 552,
-      "types": [
-        "Ground",
-        "Dark"
-      ],
       "height": 1.0,
       "weight": 33.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Desert Croc Pok\u00e9mon",
+      "kind": "Desert Croc Pokémon",
       "flavor_text": "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.",
       "abilities": [
         "Intimidate",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Anger Point"
       ],
-      "regional_dex_nums": [
-        58,
-        100,
-        44,
-        233,
-        302
-      ]
+      "regional_dex_nums": {
+        "bw": 58,
+        "b2w2": 100,
+        "xy_coastal": 44,
+        "sm": 233,
+        "usum": 302
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -282,6 +282,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Beat Up",
         "Counter",

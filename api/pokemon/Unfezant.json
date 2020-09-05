@@ -2,6 +2,10 @@
   {
     "species_name": "Unfezant",
     "variant_name": "Unfezant",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 115,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 521,
-      "types": [
-        "Normal",
-        "Flying"
-      ],
       "height": 1.2,
       "weight": 29.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Proud Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+      "kind": "Proud Pokémon",
+      "flavor_text": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
       "abilities": [
         "Big Pecks",
         "Super Luck"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Rivalry"
       ],
-      "regional_dex_nums": [
-        27,
-        16,
-        28
-      ]
+      "regional_dex_nums": {
+        "bw": 27,
+        "b2w2": 16,
+        "swsh": 28
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -244,6 +244,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Hypnosis",

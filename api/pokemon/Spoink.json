@@ -2,6 +2,9 @@
   {
     "species_name": "Spoink",
     "variant_name": "Spoink",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 25,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 325,
-      "types": [
-        "Psychic"
-      ],
       "height": 0.7,
       "weight": 30.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Bounce Pok\u00e9mon",
-      "flavor_text": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pok\u00e9mon\u2019s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
+      "kind": "Bounce Pokémon",
+      "flavor_text": "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon’s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
       "abilities": [
         "Thick Fat",
         "Own Tempo"
@@ -28,12 +28,12 @@
       "hidden_abilities": [
         "Gluttony"
       ],
-      "regional_dex_nums": [
-        110,
-        206,
-        7,
-        115
-      ]
+      "regional_dex_nums": {
+        "rse": 110,
+        "b2w2": 206,
+        "xy_coastal": 7,
+        "oras": 115
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -252,6 +252,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Endure",

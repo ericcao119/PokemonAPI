@@ -2,6 +2,10 @@
   {
     "species_name": "Heracross",
     "variant_name": "Heracross",
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 125,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 214,
-      "types": [
-        "Bug",
-        "Fighting"
-      ],
       "height": 1.5,
       "weight": 54.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Single Horn Pok\u00e9mon",
-      "flavor_text": "It roams through forests searching for sweet nectar. Although it boasts fantastic physical strength, it\u2019s not that good at flying.",
+      "kind": "Single Horn Pokémon",
+      "flavor_text": "It roams through forests searching for sweet nectar. Although it boasts fantastic physical strength, it’s not that good at flying.",
       "abilities": [
         "Swarm",
         "Guts"
@@ -29,17 +29,17 @@
       "hidden_abilities": [
         "Moxie"
       ],
-      "regional_dex_nums": [
-        113,
-        168,
-        62,
-        62,
-        114,
-        145,
-        131,
-        175,
-        367
-      ]
+      "regional_dex_nums": {
+        "gsc": 113,
+        "rse": 168,
+        "dp": 62,
+        "plat": 62,
+        "hgss": 114,
+        "b2w2": 145,
+        "xy_coastal": 131,
+        "oras": 175,
+        "usum": 367
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -286,6 +286,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bide",
         "Double-Edge",
@@ -331,6 +332,10 @@
   {
     "species_name": "Heracross",
     "variant_name": "Mega Heracross",
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 185,
@@ -341,31 +346,27 @@
     },
     "dex_entry": {
       "national_dex_num": 214,
-      "types": [
-        "Bug",
-        "Fighting"
-      ],
       "height": 1.7,
       "weight": 62.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Single Horn Pok\u00e9mon",
+      "kind": "Single Horn Pokémon",
       "flavor_text": "A tremendous influx of energy builds it up, but when Mega Evolution ends, Heracross is bothered by terrible soreness in its muscles.",
       "abilities": [
         "Skill Link"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        113,
-        168,
-        62,
-        62,
-        114,
-        145,
-        131,
-        175,
-        367
-      ]
+      "regional_dex_nums": {
+        "gsc": 113,
+        "rse": 168,
+        "dp": 62,
+        "plat": 62,
+        "hgss": 114,
+        "b2w2": 145,
+        "xy_coastal": 131,
+        "oras": 175,
+        "usum": 367
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -612,6 +613,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bide",
         "Double-Edge",

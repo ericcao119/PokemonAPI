@@ -2,6 +2,9 @@
   {
     "species_name": "Horsea",
     "variant_name": "Horsea",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 40,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 116,
-      "types": [
-        "Water"
-      ],
       "height": 0.4,
       "weight": 8.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dragon Pok\u00e9mon",
+      "kind": "Dragon Pokémon",
       "flavor_text": "If it senses any danger, it will vigorously spray water or a special type of ink from its mouth.",
       "abilities": [
         "Swift Swim",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Damp"
       ],
-      "regional_dex_nums": [
-        116,
-        186,
-        184,
-        116,
-        190,
-        39,
-        193,
-        116
-      ]
+      "regional_dex_nums": {
+        "rby": 116,
+        "gsc": 186,
+        "rse": 184,
+        "frlg": 116,
+        "hgss": 190,
+        "xy_coastal": 39,
+        "oras": 193,
+        "lets_go": 116
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -205,6 +205,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aurora Beam",
         "Clear Smog",

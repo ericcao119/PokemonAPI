@@ -2,6 +2,10 @@
   {
     "species_name": "Tyrantrum",
     "variant_name": "Tyrantrum",
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
     "base_stats": {
       "hp": 82,
       "attack": 121,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 697,
-      "types": [
-        "Rock",
-        "Dragon"
-      ],
       "height": 2.5,
       "weight": 270.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Despot Pok\u00e9mon",
+      "kind": "Despot Pokémon",
       "flavor_text": "The king of the ancient world, it can easily crunch a car with the devastating strength of its enormous jaws.",
       "abilities": [
         "Strong Jaw"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Rock Head"
       ],
-      "regional_dex_nums": [
-        65,
-        244
-      ]
+      "regional_dex_nums": {
+        "xy_coastal": 65,
+        "usum": 244
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -271,6 +271,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Rock Slide"
+      ],
       "egg_moves": [
         "Curse",
         "Dragon Dance",

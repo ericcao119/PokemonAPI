@@ -2,6 +2,9 @@
   {
     "species_name": "Miltank",
     "variant_name": "Miltank",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 95,
       "attack": 80,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 241,
-      "types": [
-        "Normal"
-      ],
       "height": 1.2,
       "weight": 75.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Milk Cow Pok\u00e9mon",
+      "kind": "Milk Cow Pokémon",
       "flavor_text": "Its milk is delicious and chock-full of nutrients. However, if you drink too much, it could make your stomach hurt, so be careful.",
       "abilities": [
         "Thick Fat",
@@ -28,13 +28,13 @@
       "hidden_abilities": [
         "Sap Sipper"
       ],
-      "regional_dex_nums": [
-        149,
-        151,
-        126,
-        138,
-        171
-      ]
+      "regional_dex_nums": {
+        "gsc": 149,
+        "hgss": 151,
+        "xy_coastal": 126,
+        "sm": 138,
+        "usum": 171
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -269,6 +269,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Belch",
         "Curse",

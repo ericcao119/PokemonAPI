@@ -2,6 +2,9 @@
   {
     "species_name": "Nidorino",
     "variant_name": "Nidorino",
+    "types": [
+      "Poison"
+    ],
     "base_stats": {
       "hp": 61,
       "attack": 72,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 33,
-      "types": [
-        "Poison"
-      ],
       "height": 0.9,
       "weight": 19.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Poison Pin Pok\u00e9mon",
+      "kind": "Poison Pin Pokémon",
       "flavor_text": "Its horn contains venom. If it stabs an enemy with the horn, the impact makes the poison leak out.",
       "abilities": [
         "Poison Point",
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Hustle"
       ],
-      "regional_dex_nums": [
-        33,
-        99,
-        33,
-        99,
-        108,
-        33
-      ]
+      "regional_dex_nums": {
+        "rby": 33,
+        "gsc": 99,
+        "frlg": 33,
+        "hgss": 99,
+        "xy_coastal": 108,
+        "lets_go": 33
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -227,6 +227,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Beat Up",

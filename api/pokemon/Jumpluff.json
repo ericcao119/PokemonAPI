@@ -2,6 +2,10 @@
   {
     "species_name": "Jumpluff",
     "variant_name": "Jumpluff",
+    "types": [
+      "Grass",
+      "Flying"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 55,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 189,
-      "types": [
-        "Grass",
-        "Flying"
-      ],
       "height": 0.8,
       "weight": 3.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cottonweed Pok\u00e9mon",
-      "flavor_text": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pok\u00e9mon descends to the ground when it encounters cold air while it is floating.",
+      "kind": "Cottonweed Pokémon",
+      "flavor_text": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
       "abilities": [
         "Chlorophyll",
         "Leaf Guard"
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Infiltrator"
       ],
-      "regional_dex_nums": [
-        69,
-        69,
-        137
-      ]
+      "regional_dex_nums": {
+        "gsc": 69,
+        "hgss": 69,
+        "xy_central": 137
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -265,6 +265,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Amnesia",
         "Aromatherapy",

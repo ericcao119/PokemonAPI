@@ -2,6 +2,9 @@
   {
     "species_name": "Sunkern",
     "variant_name": "Sunkern",
+    "types": [
+      "Grass"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 30,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 191,
-      "types": [
-        "Grass"
-      ],
       "height": 0.3,
       "weight": 1.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Seed Pok\u00e9mon",
+      "kind": "Seed Pokémon",
       "flavor_text": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
       "abilities": [
         "Chlorophyll",
@@ -28,11 +28,11 @@
       "hidden_abilities": [
         "Early Bird"
       ],
-      "regional_dex_nums": [
-        102,
-        103,
-        20
-      ]
+      "regional_dex_nums": {
+        "gsc": 102,
+        "hgss": 103,
+        "b2w2": 20
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -219,6 +219,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bide",
         "Curse",

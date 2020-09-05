@@ -1,4 +1,6 @@
 {
-  "name": "Suction Cups",
-  "description": "Negates all moves that force switching out."
+  "ability_name": "Suction Cups",
+  "effect": "Suction Cups prevents opponents forcing the ability-bearer to switch out or flee via the moves Roar, Whirlwind, Circle Throw, or Dragon Tail, or the item Red Card.
+If a Pokémon with Suction Cups is the leading party Pokémon, the chance of hooking a Pokémon during fishing increases.",
+  "description": "This Pokémon uses suction cups to stay in one spot to negate all moves and items that force switching out."
 }

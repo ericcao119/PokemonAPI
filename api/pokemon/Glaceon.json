@@ -2,6 +2,9 @@
   {
     "species_name": "Glaceon",
     "variant_name": "Glaceon",
+    "types": [
+      "Ice"
+    ],
     "base_stats": {
       "hp": 65,
       "attack": 60,
@@ -12,29 +15,26 @@
     },
     "dex_entry": {
       "national_dex_num": 471,
-      "types": [
-        "Ice"
-      ],
       "height": 0.8,
       "weight": 25.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fresh Snow Pok\u00e9mon",
-      "flavor_text": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pok\u00e9mon at ski resorts.",
+      "kind": "Fresh Snow Pokémon",
+      "flavor_text": "The coldness emanating from Glaceon causes powdery snow to form, making it quite a popular Pokémon at ski resorts.",
       "abilities": [
         "Snow Cloak"
       ],
       "hidden_abilities": [
         "Ice Body"
       ],
-      "regional_dex_nums": [
-        170,
-        98,
-        84,
-        130,
-        160,
-        203
-      ]
+      "regional_dex_nums": {
+        "plat": 170,
+        "b2w2": 98,
+        "xy_coastal": 84,
+        "sm": 130,
+        "usum": 160,
+        "swsh": 203
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -233,6 +233,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Icy Wind"
+      ],
       "egg_moves": [
         "Captivate",
         "Charm",

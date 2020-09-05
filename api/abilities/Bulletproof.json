@@ -1,4 +1,6 @@
 {
-  "name": "Bulletproof",
-  "description": "Protects the Pok\u00e9mon from ball and bomb moves."
+  "ability_name": "Bulletproof",
+  "effect": "Bulletproof makes the Pokémon immune to ball and bomb moves.
+In Generation 6, Rock Blast is not affected by Bulletproof.",
+  "description": "Protects the Pokémon from some ball and bomb moves."
 }

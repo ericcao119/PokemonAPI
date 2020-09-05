@@ -2,6 +2,9 @@
   {
     "species_name": "Cresselia",
     "variant_name": "Cresselia",
+    "types": [
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 120,
       "attack": 70,
@@ -12,20 +15,17 @@
     },
     "dex_entry": {
       "national_dex_num": 488,
-      "types": [
-        "Psychic"
-      ],
       "height": 1.5,
       "weight": 85.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Lunar Pok\u00e9mon",
-      "flavor_text": "Those who sleep holding Cresselia\u2019s feather are assured of joyful dreams. It is said to represent the crescent moon.",
+      "kind": "Lunar Pokémon",
+      "flavor_text": "Those who sleep holding Cresselia’s feather are assured of joyful dreams. It is said to represent the crescent moon.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": []
+      "regional_dex_nums": {}
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -260,6 +260,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

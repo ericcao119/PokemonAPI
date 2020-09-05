@@ -2,6 +2,10 @@
   {
     "species_name": "Hatterene",
     "variant_name": "Hatterene",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 57,
       "attack": 90,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 858,
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
       "height": 2.1,
       "weight": 5.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Silent Pok\u00e9mon",
-      "flavor_text": "If you\u2019re too loud around it, you risk being torn apart by the claws on its tentacle. This Pok\u00e9mon is also known as the Forest Witch.",
+      "kind": "Silent Pokémon",
+      "flavor_text": "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.",
       "abilities": [
         "Healer",
         "Anticipation"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Magic Bounce"
       ],
-      "regional_dex_nums": [
-        243
-      ]
+      "regional_dex_nums": {
+        "swsh": 243
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -51,7 +51,7 @@
       "egg_groups": [
         "Fairy"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -287,7 +287,15 @@
           "Dazzling Gleam"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Psycho Cut"
+      ],
+      "egg_moves": [
+        "After You",
+        "Aromatic Mist",
+        "Nuzzle",
+        "Quash"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

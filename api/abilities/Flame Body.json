@@ -1,4 +1,6 @@
 {
-  "name": "Flame Body",
-  "description": "Contact with the Pok\u00e9mon may burn the attacker."
+  "ability_name": "Flame Body",
+  "effect": "If a Pokémon with Flame Body is hit by a move that makes contact, there is a 30% chance the attacker will become burned.
+If a Pokémon with Flame Body (or Magma Armor) and a Pokémon Egg are both in the party Pokémon, the number of steps required to hatch the egg are halved.",
+  "description": "Contact with the Pokémon may burn the attacker."
 }

@@ -2,6 +2,10 @@
   {
     "species_name": "Gastrodon",
     "variant_name": "Gastrodon",
+    "types": [
+      "Water",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 111,
       "attack": 83,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 423,
-      "types": [
-        "Water",
-        "Ground"
-      ],
       "height": 0.9,
       "weight": 29.9,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Slug Pok\u00e9mon",
+      "kind": "Sea Slug Pokémon",
       "flavor_text": "It apparently had a huge shell for protection in ancient times. It lives in shallow tidal pools.",
       "abilities": [
         "Sticky Hold",
@@ -29,13 +29,13 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        61,
-        61,
-        261,
-        342,
-        231
-      ]
+      "regional_dex_nums": {
+        "dp": 61,
+        "plat": 61,
+        "sm": 261,
+        "usum": 342,
+        "swsh": 231
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -247,6 +247,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Acid Armor",
         "Amnesia",

@@ -2,6 +2,10 @@
   {
     "species_name": "Escavalier",
     "variant_name": "Escavalier",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 135,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 589,
-      "types": [
-        "Bug",
-        "Steel"
-      ],
       "height": 1.0,
       "weight": 33.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cavalry Pok\u00e9mon",
-      "flavor_text": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch\u2019d.",
+      "kind": "Cavalry Pokémon",
+      "flavor_text": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d.",
       "abilities": [
         "Swarm",
         "Shell Armor"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        95,
-        156,
-        23,
-        274
-      ]
+      "regional_dex_nums": {
+        "bw": 95,
+        "b2w2": 156,
+        "xy_mountain": 23,
+        "swsh": 274
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -257,6 +257,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bug Bite",
         "Counter",

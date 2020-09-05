@@ -2,6 +2,9 @@
   {
     "species_name": "Pansear",
     "variant_name": "Pansear",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 50,
       "attack": 53,
@@ -12,26 +15,23 @@
     },
     "dex_entry": {
       "national_dex_num": 513,
-      "types": [
-        "Fire"
-      ],
       "height": 0.6,
       "weight": 11.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "High Temp Pok\u00e9mon",
-      "flavor_text": "This Pok\u00e9mon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
+      "kind": "High Temp Pokémon",
+      "flavor_text": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
       "abilities": [
         "Gluttony"
       ],
       "hidden_abilities": [
         "Blaze"
       ],
-      "regional_dex_nums": [
-        19,
-        39,
-        31
-      ]
+      "regional_dex_nums": {
+        "bw": 19,
+        "b2w2": 39,
+        "xy_central": 31
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -254,6 +254,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Astonish",
         "Belch",

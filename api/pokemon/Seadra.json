@@ -2,6 +2,9 @@
   {
     "species_name": "Seadra",
     "variant_name": "Seadra",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 55,
       "attack": 65,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 117,
-      "types": [
-        "Water"
-      ],
       "height": 1.2,
       "weight": 25.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Dragon Pok\u00e9mon",
+      "kind": "Dragon Pokémon",
       "flavor_text": "Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.",
       "abilities": [
         "Poison Point",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Damp"
       ],
-      "regional_dex_nums": [
-        117,
-        187,
-        185,
-        117,
-        191,
-        40,
-        194,
-        117
-      ]
+      "regional_dex_nums": {
+        "rby": 117,
+        "gsc": 187,
+        "rse": 185,
+        "frlg": 117,
+        "hgss": 191,
+        "xy_coastal": 40,
+        "oras": 194,
+        "lets_go": 117
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -229,6 +229,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Aurora Beam",
         "Clear Smog",

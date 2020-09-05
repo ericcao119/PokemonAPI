@@ -2,6 +2,10 @@
   {
     "species_name": "Probopass",
     "variant_name": "Probopass",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
     "base_stats": {
       "hp": 60,
       "attack": 55,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 476,
-      "types": [
-        "Rock",
-        "Steel"
-      ],
       "height": 1.4,
       "weight": 340.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Compass Pok\u00e9mon",
+      "kind": "Compass Pokémon",
       "flavor_text": "It uses three small units to catch prey and battle enemies. The main body mostly just gives orders.",
       "abilities": [
         "Sturdy",
@@ -29,14 +29,14 @@
       "hidden_abilities": [
         "Sand Force"
       ],
-      "regional_dex_nums": [
-        156,
-        165,
-        94,
-        62,
-        199,
-        255
-      ]
+      "regional_dex_nums": {
+        "plat": 156,
+        "b2w2": 165,
+        "xy_coastal": 94,
+        "oras": 62,
+        "sm": 199,
+        "usum": 255
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -299,6 +299,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Tri Attack"
+      ],
       "egg_moves": [
         "Block",
         "Double-Edge",

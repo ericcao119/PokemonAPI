@@ -2,6 +2,10 @@
   {
     "species_name": "Kommo-o",
     "variant_name": "Kommo-o",
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 75,
       "attack": 110,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 784,
-      "types": [
-        "Dragon",
-        "Fighting"
-      ],
       "height": 1.6,
       "weight": 78.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Scaly Pok\u00e9mon",
+      "kind": "Scaly Pokémon",
       "flavor_text": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales.",
       "abilities": [
         "Bulletproof",
@@ -29,11 +29,11 @@
       "hidden_abilities": [
         "Overcoat"
       ],
-      "regional_dex_nums": [
-        273,
-        363,
-        394
-      ]
+      "regional_dex_nums": {
+        "sm": 273,
+        "usum": 363,
+        "swsh": 394
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -324,6 +324,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Clanging Scales"
+      ],
       "egg_moves": [
         "Counter",
         "Dragon Breath",

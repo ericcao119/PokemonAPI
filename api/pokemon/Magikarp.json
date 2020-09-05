@@ -2,6 +2,9 @@
   {
     "species_name": "Magikarp",
     "variant_name": "Magikarp",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 20,
       "attack": 10,
@@ -12,36 +15,33 @@
     },
     "dex_entry": {
       "national_dex_num": 129,
-      "types": [
-        "Water"
-      ],
       "height": 0.9,
       "weight": 10.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fish Pok\u00e9mon",
-      "flavor_text": "This weak and pathetic Pok\u00e9mon gets easily pushed along rivers when there are strong currents.",
+      "kind": "Fish Pokémon",
+      "flavor_text": "This weak and pathetic Pokémon gets easily pushed along rivers when there are strong currents.",
       "abilities": [
         "Swift Swim"
       ],
       "hidden_abilities": [
         "Rattled"
       ],
-      "regional_dex_nums": [
-        129,
-        76,
-        52,
-        129,
-        23,
-        23,
-        76,
-        49,
-        53,
-        91,
-        111,
-        129,
-        144
-      ]
+      "regional_dex_nums": {
+        "rby": 129,
+        "gsc": 76,
+        "rse": 52,
+        "frlg": 129,
+        "dp": 23,
+        "plat": 23,
+        "hgss": 76,
+        "xy_central": 49,
+        "oras": 53,
+        "sm": 91,
+        "usum": 111,
+        "lets_go": 129,
+        "swsh": 144
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -94,6 +94,7 @@
           "Hydro Pump"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

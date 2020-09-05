@@ -2,6 +2,10 @@
   {
     "species_name": "Trevenant",
     "variant_name": "Trevenant",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 85,
       "attack": 110,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 709,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 1.5,
       "weight": 71.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Elder Tree Pok\u00e9mon",
-      "flavor_text": "Small roots that extend from the tips of this Pok\u00e9mon\u2019s feet can tie into the trees of the forest and give Trevenant control over them.",
+      "kind": "Elder Tree Pokémon",
+      "flavor_text": "Small roots that extend from the tips of this Pokémon’s feet can tie into the trees of the forest and give Trevenant control over them.",
       "abilities": [
         "Natural Cure",
         "Frisk"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Harvest"
       ],
-      "regional_dex_nums": [
-        62,
-        197,
-        251,
-        339
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 62,
+        "sm": 197,
+        "usum": 251,
+        "swsh": 339
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -294,6 +294,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Shadow Claw"
+      ],
       "egg_moves": [
         "Bestow",
         "Grudge",

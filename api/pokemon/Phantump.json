@@ -2,6 +2,10 @@
   {
     "species_name": "Phantump",
     "variant_name": "Phantump",
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
     "base_stats": {
       "hp": 43,
       "attack": 70,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 708,
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
       "height": 0.4,
       "weight": 7.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Stump Pok\u00e9mon",
-      "flavor_text": "With a voice like a human child\u2019s, it cries out to lure adults deep into the forest, getting them lost among the trees.",
+      "kind": "Stump Pokémon",
+      "flavor_text": "With a voice like a human child’s, it cries out to lure adults deep into the forest, getting them lost among the trees.",
       "abilities": [
         "Natural Cure",
         "Frisk"
@@ -29,12 +29,12 @@
       "hidden_abilities": [
         "Harvest"
       ],
-      "regional_dex_nums": [
-        61,
-        196,
-        250,
-        338
-      ]
+      "regional_dex_nums": {
+        "xy_mountain": 61,
+        "sm": 196,
+        "usum": 250,
+        "swsh": 338
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -250,6 +250,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Bestow",
         "Grudge",

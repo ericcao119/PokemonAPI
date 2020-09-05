@@ -1,4 +1,5 @@
 {
-  "name": "Water Absorb",
-  "description": "Restores HP if hit by a Water-type move."
+  "ability_name": "Water Absorb",
+  "effect": "A Pokémon with Water Absorb heals 1⁄4 of its maximum HP when hit by a Water-type attack.",
+  "description": "Restores HP if hit by a Water-type move instead of taking damage."
 }

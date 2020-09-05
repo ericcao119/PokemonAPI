@@ -2,6 +2,9 @@
   {
     "species_name": "Riolu",
     "variant_name": "Riolu",
+    "types": [
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 70,
@@ -12,15 +15,12 @@
     },
     "dex_entry": {
       "national_dex_num": 447,
-      "types": [
-        "Fighting"
-      ],
       "height": 0.7,
       "weight": 20.2,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Emanation Pok\u00e9mon",
-      "flavor_text": "It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pok\u00e9mon about the state of the environment.",
+      "kind": "Emanation Pokémon",
+      "flavor_text": "It can use waves called auras to gauge how others are feeling. These same waves can also tell this Pokémon about the state of the environment.",
       "abilities": [
         "Steadfast",
         "Inner Focus"
@@ -28,15 +28,15 @@
       "hidden_abilities": [
         "Prankster"
       ],
-      "regional_dex_nums": [
-        115,
-        115,
-        33,
-        62,
-        279,
-        377,
-        298
-      ]
+      "regional_dex_nums": {
+        "dp": 115,
+        "plat": 115,
+        "b2w2": 33,
+        "xy_central": 62,
+        "sm": 279,
+        "usum": 377,
+        "swsh": 298
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -235,6 +235,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Agility",
         "Bite",

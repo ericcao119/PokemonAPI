@@ -2,6 +2,10 @@
   {
     "species_name": "Pignite",
     "variant_name": "Pignite",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 90,
       "attack": 93,
@@ -12,15 +16,11 @@
     },
     "dex_entry": {
       "national_dex_num": 499,
-      "types": [
-        "Fire",
-        "Fighting"
-      ],
       "height": 1.0,
       "weight": 55.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Fire Pig Pok\u00e9mon",
+      "kind": "Fire Pig Pokémon",
       "flavor_text": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
       "abilities": [
         "Blaze"
@@ -28,10 +28,10 @@
       "hidden_abilities": [
         "Thick Fat"
       ],
-      "regional_dex_nums": [
-        5,
-        5
-      ]
+      "regional_dex_nums": {
+        "bw": 5,
+        "b2w2": 5
+      }
     },
     "training_info": {
       "leveling_rate": "MediumSlow",
@@ -286,6 +286,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Arm Thrust"
+      ],
       "egg_moves": [
         "Body Slam",
         "Burn Up",

@@ -2,6 +2,10 @@
   {
     "species_name": "Latias",
     "variant_name": "Latias",
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 80,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 380,
-      "types": [
-        "Dragon",
-        "Psychic"
-      ],
       "height": 1.4,
       "weight": 40.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Eon Pok\u00e9mon",
-      "flavor_text": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pok\u00e9mon enfolds its body with its down and refracts light to alter its appearance.",
+      "kind": "Eon Pokémon",
+      "flavor_text": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        196,
-        205
-      ]
+      "regional_dex_nums": {
+        "rse": 196,
+        "oras": 205
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -328,6 +328,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",
@@ -376,6 +377,10 @@
   {
     "species_name": "Latias",
     "variant_name": "Mega Latias",
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 100,
@@ -386,24 +391,20 @@
     },
     "dex_entry": {
       "national_dex_num": 380,
-      "types": [
-        "Dragon",
-        "Psychic"
-      ],
       "height": 1.8,
       "weight": 52.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Eon Pok\u00e9mon",
-      "flavor_text": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pok\u00e9mon enfolds its body with its down and refracts light to alter its appearance.",
+      "kind": "Eon Pokémon",
+      "flavor_text": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.",
       "abilities": [
         "Levitate"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        196,
-        205
-      ]
+      "regional_dex_nums": {
+        "rse": 196,
+        "oras": 205
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -702,6 +703,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Ally Switch",

@@ -2,6 +2,9 @@
   {
     "species_name": "Rattata",
     "variant_name": "Rattata",
+    "types": [
+      "Normal"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 56,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 19,
-      "types": [
-        "Normal"
-      ],
       "height": 0.3,
       "weight": 3.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mouse Pok\u00e9mon",
+      "kind": "Mouse Pokémon",
       "flavor_text": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
       "abilities": [
         "Run Away",
@@ -28,16 +28,16 @@
       "hidden_abilities": [
         "Hustle"
       ],
-      "regional_dex_nums": [
-        19,
-        17,
-        19,
-        17,
-        59,
-        15,
-        15,
-        19
-      ]
+      "regional_dex_nums": {
+        "rby": 19,
+        "gsc": 17,
+        "frlg": 19,
+        "hgss": 17,
+        "b2w2": 59,
+        "sm": 15,
+        "usum": 15,
+        "lets_go": 19
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -119,6 +119,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []
@@ -127,6 +128,10 @@
   {
     "species_name": "Rattata",
     "variant_name": "Alolan Rattata",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
     "base_stats": {
       "hp": 30,
       "attack": 56,
@@ -137,15 +142,11 @@
     },
     "dex_entry": {
       "national_dex_num": 19,
-      "types": [
-        "Dark",
-        "Normal"
-      ],
       "height": 0.3,
       "weight": 3.8,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Mouse Pok\u00e9mon",
+      "kind": "Mouse Pokémon",
       "flavor_text": "Its whiskers provide it with a keen sense of smell, enabling it to pick up the scent of hidden food and locate it instantly.",
       "abilities": [
         "Gluttony",
@@ -154,16 +155,16 @@
       "hidden_abilities": [
         "Thick Fat"
       ],
-      "regional_dex_nums": [
-        19,
-        17,
-        19,
-        17,
-        59,
-        15,
-        15,
-        19
-      ]
+      "regional_dex_nums": {
+        "rby": 19,
+        "gsc": 17,
+        "frlg": 19,
+        "hgss": 17,
+        "b2w2": 59,
+        "sm": 15,
+        "usum": 15,
+        "lets_go": 19
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -245,6 +246,7 @@
       ],
       "tm_moves": [],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

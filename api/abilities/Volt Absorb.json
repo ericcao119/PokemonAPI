@@ -1,4 +1,6 @@
 {
-  "name": "Volt Absorb",
-  "description": "Restores HP if hit by an Electric-type move."
+  "ability_name": "Volt Absorb",
+  "effect": "A Pokémon with Volt Absorb heals 1⁄4 of its maximum HP when hit by an Electric-type attack, including Thunder Wave.
+In Generation 3, Volt Absorb does not activate for Thunder Wave.",
+  "description": "Restores HP if hit by an Electric-type move instead of taking damage."
 }

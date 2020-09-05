@@ -1,4 +1,6 @@
 {
-  "name": "Queenly Majesty",
-  "description": "Prevents use of priority moves."
+  "ability_name": "Queenly Majesty",
+  "effect": "Prevents use of priority moves.
+",
+  "description": "Its majesty pressures the opposing Pokémon, making it unable to attack using priority moves."
 }

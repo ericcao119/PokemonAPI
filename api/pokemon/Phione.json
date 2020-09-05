@@ -2,6 +2,9 @@
   {
     "species_name": "Phione",
     "variant_name": "Phione",
+    "types": [
+      "Water"
+    ],
     "base_stats": {
       "hp": 80,
       "attack": 80,
@@ -12,20 +15,17 @@
     },
     "dex_entry": {
       "national_dex_num": 489,
-      "types": [
-        "Water"
-      ],
       "height": 0.4,
       "weight": 3.1,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sea Drifter Pok\u00e9mon",
+      "kind": "Sea Drifter Pokémon",
       "flavor_text": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
       "abilities": [
         "Hydration"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": []
+      "regional_dex_nums": {}
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -46,7 +46,7 @@
         "Fairy",
         "Water1"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 10024,
       "steps_to_hatch_upper": 10280,
       "egg_cycles": 40
@@ -205,6 +205,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Bounce",

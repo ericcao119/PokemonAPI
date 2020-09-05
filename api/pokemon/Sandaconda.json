@@ -2,6 +2,9 @@
   {
     "species_name": "Sandaconda",
     "variant_name": "Sandaconda",
+    "types": [
+      "Ground"
+    ],
     "base_stats": {
       "hp": 72,
       "attack": 107,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 844,
-      "types": [
-        "Ground"
-      ],
       "height": 3.8,
       "weight": 65.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Sand Snake Pok\u00e9mon",
+      "kind": "Sand Snake Pokémon",
       "flavor_text": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
       "abilities": [
         "Sand Spit",
@@ -28,9 +28,9 @@
       "hidden_abilities": [
         "Sand Veil"
       ],
-      "regional_dex_nums": [
-        313
-      ]
+      "regional_dex_nums": {
+        "swsh": 313
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -51,7 +51,7 @@
         "Dragon",
         "Field"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -251,7 +251,14 @@
           "Body Press"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [],
+      "egg_moves": [
+        "Belch",
+        "Dragon Rush",
+        "Last Resort",
+        "Mud-Slap",
+        "Poison Tail"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

@@ -2,6 +2,9 @@
   {
     "species_name": "Dusclops",
     "variant_name": "Dusclops",
+    "types": [
+      "Ghost"
+    ],
     "base_stats": {
       "hp": 40,
       "attack": 70,
@@ -12,27 +15,24 @@
     },
     "dex_entry": {
       "national_dex_num": 356,
-      "types": [
-        "Ghost"
-      ],
       "height": 1.6,
       "weight": 30.6,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Beckon Pok\u00e9mon",
-      "flavor_text": "It seeks drifting will-o\u2019-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
+      "kind": "Beckon Pokémon",
+      "flavor_text": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
       "abilities": [
         "Pressure"
       ],
       "hidden_abilities": [
         "Frisk"
       ],
-      "regional_dex_nums": [
-        149,
-        190,
-        154,
-        136
-      ]
+      "regional_dex_nums": {
+        "rse": 149,
+        "plat": 190,
+        "oras": 154,
+        "swsh": 136
+      }
     },
     "training_info": {
       "leveling_rate": "Fast",
@@ -323,6 +323,9 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [
+        "Shadow Punch"
+      ],
       "egg_moves": [
         "Dark Pulse",
         "Destiny Bond",

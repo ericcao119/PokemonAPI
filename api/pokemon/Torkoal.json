@@ -2,6 +2,9 @@
   {
     "species_name": "Torkoal",
     "variant_name": "Torkoal",
+    "types": [
+      "Fire"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 85,
@@ -12,14 +15,11 @@
     },
     "dex_entry": {
       "national_dex_num": 324,
-      "types": [
-        "Fire"
-      ],
       "height": 0.5,
       "weight": 80.4,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Coal Pok\u00e9mon",
+      "kind": "Coal Pokémon",
       "flavor_text": "You find abandoned coal mines full of them. They dig tirelessly in search of coal.",
       "abilities": [
         "White Smoke",
@@ -28,14 +28,14 @@
       "hidden_abilities": [
         "Shell Armor"
       ],
-      "regional_dex_nums": [
-        105,
-        96,
-        110,
-        223,
-        287,
-        300
-      ]
+      "regional_dex_nums": {
+        "rse": 105,
+        "xy_mountain": 96,
+        "oras": 110,
+        "sm": 223,
+        "usum": 287,
+        "swsh": 300
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -266,6 +266,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [
         "Clear Smog",
         "Endure",

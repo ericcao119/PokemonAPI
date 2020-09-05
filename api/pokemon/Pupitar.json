@@ -2,6 +2,10 @@
   {
     "species_name": "Pupitar",
     "variant_name": "Pupitar",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
     "base_stats": {
       "hp": 70,
       "attack": 84,
@@ -12,28 +16,24 @@
     },
     "dex_entry": {
       "national_dex_num": 247,
-      "types": [
-        "Rock",
-        "Ground"
-      ],
       "height": 1.2,
       "weight": 152.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Hard Shell Pok\u00e9mon",
-      "flavor_text": "It will not stay still, even while it\u2019s a pupa. It already has arms and legs under its solid shell.",
+      "kind": "Hard Shell Pokémon",
+      "flavor_text": "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell.",
       "abilities": [
         "Shed Skin"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        245,
-        250,
-        293,
-        103,
-        248,
-        384
-      ]
+      "regional_dex_nums": {
+        "gsc": 245,
+        "hgss": 250,
+        "b2w2": 293,
+        "xy_mountain": 103,
+        "usum": 248,
+        "swsh": 384
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -305,7 +305,14 @@
           "Stealth Rock"
         ]
       ],
-      "egg_moves": [],
+      "evolution_moves": [
+        "Iron Defense"
+      ],
+      "egg_moves": [
+        "Ancient Power",
+        "Curse",
+        "Stomp"
+      ],
       "tutor_moves": [],
       "transfer_moves": []
     }

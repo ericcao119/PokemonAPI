@@ -2,6 +2,10 @@
   {
     "species_name": "Impidimp",
     "variant_name": "Impidimp",
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
     "base_stats": {
       "hp": 45,
       "attack": 45,
@@ -12,16 +16,12 @@
     },
     "dex_entry": {
       "national_dex_num": 859,
-      "types": [
-        "Dark",
-        "Fairy"
-      ],
       "height": 0.4,
       "weight": 5.5,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Wily Pok\u00e9mon",
-      "flavor_text": "It sneaks into people\u2019s homes, stealing things and feasting on the negative energy of the frustrated occupants.",
+      "kind": "Wily Pokémon",
+      "flavor_text": "It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants.",
       "abilities": [
         "Prankster",
         "Frisk"
@@ -29,9 +29,9 @@
       "hidden_abilities": [
         "Pickpocket"
       ],
-      "regional_dex_nums": [
-        238
-      ]
+      "regional_dex_nums": {
+        "swsh": 238
+      }
     },
     "training_info": {
       "leveling_rate": "Medium",
@@ -52,7 +52,7 @@
         "Fairy",
         "Humanlike"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 4884,
       "steps_to_hatch_upper": 5140,
       "egg_cycles": 20
@@ -236,6 +236,7 @@
           "Dazzling Gleam"
         ]
       ],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [],
       "transfer_moves": []

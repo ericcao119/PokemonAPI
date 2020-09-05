@@ -2,6 +2,10 @@
   {
     "species_name": "Terrakion",
     "variant_name": "Terrakion",
+    "types": [
+      "Rock",
+      "Fighting"
+    ],
     "base_stats": {
       "hp": 91,
       "attack": 129,
@@ -12,24 +16,20 @@
     },
     "dex_entry": {
       "national_dex_num": 639,
-      "types": [
-        "Rock",
-        "Fighting"
-      ],
       "height": 1.9,
       "weight": 260.0,
       "color": "INVALID",
       "shape": "INVALID",
-      "kind": "Cavern Pok\u00e9mon",
-      "flavor_text": "In Unovan legend, Terrakion battled against humans in an effort to protect other Pok\u00e9mon.",
+      "kind": "Cavern Pokémon",
+      "flavor_text": "In Unovan legend, Terrakion battled against humans in an effort to protect other Pokémon.",
       "abilities": [
         "Justified"
       ],
       "hidden_abilities": [],
-      "regional_dex_nums": [
-        145,
-        226
-      ]
+      "regional_dex_nums": {
+        "bw": 145,
+        "b2w2": 226
+      }
     },
     "training_info": {
       "leveling_rate": "Slow",
@@ -49,7 +49,7 @@
       "egg_groups": [
         "Undiscovered"
       ],
-      "male_rate": null,
+      "male_rate": NaN,
       "steps_to_hatch_lower": 20304,
       "steps_to_hatch_upper": 20560,
       "egg_cycles": 80
@@ -264,6 +264,7 @@
         ]
       ],
       "tr_moves": [],
+      "evolution_moves": [],
       "egg_moves": [],
       "tutor_moves": [
         "Block",
