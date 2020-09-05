@@ -119,7 +119,8 @@ def create_graph_from_chain(chain: EvoChainToken) -> nx.MultiDiGraph:
 
 
 def scrape_connections(
-    variants_list: List[PokeId], with_missing_variants: bool = False,
+    variants_list: List[PokeId],
+    with_missing_variants: bool = False,
 ) -> List[nx.MultiDiGraph]:
     """Scrapes connections from pokemondb's evolution webpage and
     converts them into graphs to be used by networkx. To support
@@ -127,7 +128,7 @@ def scrape_connections(
     'evolution chain' can be cyclic (no evolution has this structure
     as of SwSh). However each chain has an exit point (last pokemon in
     the chain) that can be used to connect further chains.
-    
+
     ## Params
 
     - variants_list: A list of (species, variant) pairs used to uniquely identify pokemon

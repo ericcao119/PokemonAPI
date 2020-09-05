@@ -34,7 +34,7 @@ def rate_limited(maxPerSecond):
 
 def create_multimap(keys: Iterable, values: Iterable) -> DefaultDict[Any, List[Any]]:
     """Creates a multimap from the keys and values. This preserves Key order.
-    
+
     >>> create_multimap("AAABBC", "123111")
     defaultdict(<class 'list'>, {'A': ['1', '2', '3'], 'B': ['1', '1'], 'C': ['1']})
     """
